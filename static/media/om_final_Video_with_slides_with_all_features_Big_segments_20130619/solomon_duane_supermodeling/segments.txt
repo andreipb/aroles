@@ -1,0 +1,2574 @@
+as an approach show that a computational model in generally that 
+
+oh 
+
+no i think yeah can be 
+
+or to artificial consciousness 
+
+and also tell you in a few minutes 
+
+why i think that's the case 
+
+um 
+
+i 
+
+i tried to list all we contributors phone call to somebody else 
+
+i 
+
+um 
+
+so to start 
+
+this 
+
+so the new approach to data assimilation 
+
+data assimilation news ah 
+
+ah 
+
+a test that that should happen all over the place but really happens or in meteorology 
+
+ah 
+
+then another places 
+
+sick 
+
+so 
+
+situation where we have a computational model 
+
+i 
+
+um 
+
+that to a process of that creates new information as a model 
+
+was running 
+
+of so 
+
+even instant of time 
+
+ah 
+
+the 
+
+of the weather prediction model 
+
+of has its idea of what's going on objective way goes to saying current forecast 
+
+we have new observation 
+
+scenes from the instruments 
+
+on the test is 
+
+to model 
+
+although i mean to marry 
+
+re 
+
+ah via the observations 
+
+and the curve 
+
+state of the model because my there is typically completely rage
+
+ 
+
+oh 
+
+and the main point is that the 
+
+the model he's not a slave to observations of the models 
+
+as a semi autonomous system 
+
+sort of nudged 
+
+but the observations 
+
+therefore you 
+
+oh 
+
+um 
+
+a new 
+
+the apparent 
+
+i moved of synchronization of chaotic systems 
+
+a chaotic system being 
+
+oh 
+
+general 
+
+financial system of you 
+
+which represent 
+
+as 
+
+or is both reality 
+
+and model 
+
+oh 
+
+a currency position 
+
+to such things 
+
+his role of and so on 
+
+so her arm 
+
+wilson have a pointer 
+
+you have some physical orders 
+
+or 
+
+their substitutes 
+
+all 
+
+cancels trouble these things 
+
+so 
+
+armed 
+
+hmmm okay so say 
+
+this is you 
+
+a real world 
+
+of which is chaotic so we represent that 
+
+those are three very boring system
+
+ 
+
+on this is your model 
+
+ah 
+
+it's been known since nineteen ninety that's a 
+
+if we couple to such things loosely that is truly one of many variables 
+
+despite sensitive dependence on initial conditions we can get them to synchronize 
+
+um 
+
+this works of a so this one i'm showing you years actually if i variable system 
+
+this a slave to that 
+
+um 
+
+if a we simply substitute the x. variable one for the x. verbal the other 
+
+on and as i said despite sensitive initial can essential conditions 
+
+the difference goes to zero 
+
+of sending works a couple white doesn't always work does work a couple z. 
+
+so on 
+
+if you're simply observing x.
+
+ 
+
+uh than simply observing x. is enough 
+
+to slave 
+
+the whole model around system 
+
+to reality 
+
+to predict whether 
+
+yes 
+
+and so 
+
+about become a simulation so this means 
+
+as you observe the makeup 
+
+you are you substitute you know the state 
+
+part of the state variables 
+
+in your already model 
+
+we the actual observed value 
+
+but other than that the simulation 
+
+it's 
+
+um yeah and uh you just reminded me that this also works if we don't do complete replacement
+
+ 
+
+if we simply have a nudging term or relaxation term over here 
+
+that's the point that i want to make it 
+
+it 
+
+with only a low you have to actually 
+
+a mate of features like four 
+
+once one step ahead all we've been horizon 
+
+a because 
+
+you can't make about trance independently 
+
+unless you observe 
+
+the real world as you go 
+
+did the the nudging aren't 
+
+um somebody 
+
+observations 
+
+okay but you can think of this 
+
+does a continuous model 
+
+discrete system 
+
+so that you have to do this every so often every six hours 
+
+and approximately every six hours a continuous process 
+
+this takes a bit of work 
+
+but 
+
+okay so the six hours and 
+
+you make two pictures developed inferring 
+
+observations and i'm 
+
+after six hours and then 
+
+well the more than the predictions for the next six 
+
+yeah 
+
+or 
+
+okay so on 
+
+we stood back 
+
+okay so are my point is that a 
+
+what this as as as perception of this as
+
+ 
+
+um 
+
+model 
+
+of perceiving 
+
+but not be enslaved 
+
+to reality 
+
+the idea of super modelling 
+
+is to work 
+
+a bunch of models of perceive each other 
+
+as well as reality 
+
+so here we have a 
+
+i know 
+
+three models 
+
+couple to each other 
+
+of the different arrows between any given pair of models correspond to 
+
+a different variables 
+
+a x. y. and z. 
+
+a node which we use to nudge each other with different coefficients 
+
+represented here 
+
+um 
+
+and um 
+
+then we are um 
+
+that's a and 
+
+yeah of the coefficient and since on training regimen 
+
+so that 
+
+this combination of models 
+
+synchronised with each other as well as with reality 
+
+um 
+
+ah
+
+ 
+
+is a better model 
+
+and the not anyone considered individually or better than than simply the average of the models which is what 
+
+is typically gun and a 
+
+a state of the art in climate 
+
+on projection hell you run different climate models 
+
+and ah if you want to combine them and you text 
+
+parma 
+
+of weighted average after the fact 
+
+his name is late 
+
+each of them although some bonds how his position 
+
+and his position using your i don't know 
+
+ten years 
+
+you get because anymore 
+
+the major your 
+
+and then you average 
+
+evictions 
+
+yeah i i was 
+
+blurring the difference between weather prediction and climate 
+
+election will obviously climate prediction 
+
+you turn the connections reality off 
+
+and when you're on the models for ten years 
+
+when something is about to say in that case and the case you're only interested 
+
+in the overall shape of a tractor 
+
+of either the individual model or the supermodel are not interested 
+
+and of the instantaneous state as your 
+
+weather prediction you don't care 
+
+what's going to be happening on january first in twenty fifty
+
+ 
+
+wanna know 
+
+ah 
+
+the overall shape of the tractor 
+
+the 
+
+and the point 
+
+you average them out of the transport spark off with a prediction some eight 
+
+you don't make a new prediction 
+
+by funding during the three models in combination 
+
+that's the current state of the art yes 
+
+ah okay 
+
+and ah 
+
+what's wrong with that current state of the art is that's a 
+
+um 
+
+these models 
+
+a differ why 
+
+a layer of enough of them 
+
+magnitude of a look 
+
+climate change 
+
+oh 
+
+oh but to affected by about a factor too
+
+ 
+
+among them 
+
+oh 
+
+a in the projected 
+
+a temperature increase globally 
+
+averaged over the next hundred years 
+
+um 
+
+oh 
+
+i 
+
+they're pretty much useless for of them for regional want term original projections 
+
+though because of the differences between them 
+
+and likewise for short term predictions 
+
+um 
+
+so the question is can we do better 
+
+and averaging 
+
+on 
+
+and so super modelling idea 
+
+it is 
+
+ah 
+
+take the synchronization view of data similar 
+
+mission 
+
+and what the models synchronize with each other 
+
+as well as a 
+
+as reality 
+
+um 
+
+and ah 
+
+f. 
+
+all the question is how do we do we connect them 
+
+models 
+
+all turns out 
+
+that's the oven 
+
+a room in tears synchronization and it's easy 
+
+it's of systems can be synchronised 
+
+it's 
+
+ecosystems can be synchronised of 
+
+then if you very of a few parameters and one of its generally easy to extend the dynamical equations 
+
+a to synchronize parameters as low states 
+
+and so the learning isn't hard 
+
+and 
+
+no aging 
+
+nudging means 
+
+but see we 
+
+the worst case we have cohen right 
+
+and 
+
+so 
+
+directional or 
+
+articles as you can 
+
+um 
+
+i merging would mean 
+
+so um 
+
+oh 
+
+these small portions 
+
+action 
+
+oh 
+
+i mean 
+
+he 
+
+a year 
+
+yeah 
+
+thanks 
+
+plus um 
+
+so we put back next one equation but then we just add 
+
+some constant 
+
+time and so 
+
+so nudge 
+
+x. one to x. 
+
+it's 
+
+yeah mixing x. k. out of all of you 
+
+you just a small room 
+
+correct
+
+ 
+
+okay 
+
+are don't worry about the details of the slide 
+
+the horizontal axis is error on a logical logarithmic scale 
+
+other p. stands for projects 
+
+ah 
+
+climate models comparison project these are three different 
+
+a projects over the course of time 
+
+a to compare 
+
+ah 
+
+uh 
+
+different climate models 
+
+ah 
+
+and ah we see that the klan models are getting better 
+
+ah 
+
+the point is the on the black circles 
+
+are just averages 
+
+we always do better 
+
+by averaging climate models 
+
+r. e. a. is re analysis of 
+
+it's a best estimate of truth 
+
+and this is 
+
+pre industrial controller on 
+
+ah but with the same climate models but with different so 
+
+levels of forcing 
+
+oh 
+
+so what movies excuse me 
+
+oh 
+
+we oh 
+
+yeah 
+
+far far right now 
+
+the left is better right 
+
+this is error 
+
+so there 
+
+yeah so they're getting better over time we still 
+
+widespread 
+
+oh 
+
+any breach of it 
+
+the thoughts 
+
+by 
+
+great 
+
+yeah a 
+
+okay 
+
+and the arm 
+
+okay 
+
+um 
+
+so on 
+
+this is a little less to mark on mount comparison project in the point here 
+
+is the magnitude of of the numbers that you see
+-----
+ 
+
+ah 
+
+this is the year an annual 
+
+mean surface air temperatures 
+
+and see numbers like twenty four 
+
+um 
+
+so 
+
+armed 
+
+this is the immune state um 
+
+i mean the mean model 
+
+um 
+
+and the ah 
+
+point is these numbers are pretty big 
+
+and this is for precipitation 
+
+um 
+
+the white areas are are where less than two thirds of the models even agree on the sign 
+
+or precipitation change 
+
+um 
+
+so again 
+
+big divergence among models 
+
+cork and again all of this is not just requirement modelling it's for any situation where we have 
+
+a computational model of an objective process 
+
+where the objective process continues to provide a dozen models running 
+
+r. i. 
+
+so to test the overall idea 
+
+um 
+
+first it with a 
+
+ah just with simple around systems 
+
+again this is your answer your system which are calling truth
+
+ 
+
+um 
+
+and then you have three models of truth and x. by i 
+
+each of which has three variables x. y. and z. 
+
+ah 
+
+and on 
+
+so um 
+
+and each of these three models you have the same dynamics that you have in truth 
+
+but with different parameters that's what's different 
+
+i actually threw an an extra parameter to represent 
+
+the fact that 
+
+a in some models may have 
+
+actually different equations 
+
+so i just have this constant term see we deal with that 
+
+arm 
+
+and then we have 
+
+all of these big k.'s nudge the models to truth 
+
+cesar the connections 
+
+nudging the models to each other 
+
+um 
+
+the more general form which will not use and connects the models 
+
+so but for us both 
+
+they got us nation and model synchronization 
+
+great 
+
+o. k. so first we go through a training phase 
+
+we're on 
+
+as i said on 
+
+you can general when you have synchronization
+
+ 
+
+all you can generally at the dynamical law 
+
+to um 
+
+that the parameters synchronize parameters low states in this a search 
+
+and added equation 
+
+for the parameters except the parameters in this case there these connection coefficients 
+
+not the internal parameters of the system 
+
+ah so this may not be the best way to do learning but strictly simple way 
+
+i um 
+
+and um 
+
+what um 
+
+okay what this says 
+
+is that imagine integrating this of this equation over time
+
+ 
+
+and what you're doing 
+
+is taking a correlation 
+
+between now on the of the difference the synchronization error between any two models 
+
+and ah 
+
+via of the overall supermodel error weren't taking the supermodel output to be the ah 
+
+simply the average 
+
+of the few of corresponding variables in the three models 
+
+carl ocean 
+
+between that error and the difference between the two models 
+
+you want to increase or to decrease the coefficients 
+
+a depending on the magnitude and sign of the coalition's 
+
+sense 
+
+two pieces 
+
+this time very 
+
+it's 
+
+oh 
+
+in the training case uefa coefficients be time varying on you freeze them 
+
+humphries on here 
+
+i 
+
+so um 
+
+okay on 
+
+and i are in so the area 
+
+rapidly goes to a small value not zero turns out so you know at first i thought this was some sort of local optimum 
+
+ah but the reason that doesn't go all the way to zero is simply that we're not 
+
+ah 
+
+ah 
+
+we're not doing complete replacement 
+
+so um 
+
+anyway um 
+
+now compare that system to the every air that we get from simply averaging 
+
+the models 
+
+get a lot lesser from supermodel 
+
+from the average 
+
+what if we did some kind of a weighted average instead 
+
+well to a i set this up 
+
+i suspect the parameters up so that each of the three models 
+
+uh oh there was exactly one equation one of the three equations
+
+ 
+
+that was completely right role of parameters right 
+
+ah okay so um 
+
+you 
+
+ah 
+
+so a few years so 
+
+whatever models has actually of not only this equation but are perfectly equation 
+
+ah 
+
+but that doesn't help you at all 
+
+census suggests that even a weighted average 
+
+is much worse than the supermodel 
+
+supermodel results 
+
+um 
+
+so i 
+
+what we have is a three way synchronization of 
+
+well if we had two models 
+
+it would be three way if it's more models it's more ways 
+
+um 
+
+of truth and alternative models are using some of the collective synchronization affect 
+
+ah 
+
+and a 
+
+the learning law 
+
+can be so we see mister generalization of had had been wearing and have been wearing
+
+ 
+
+ah 
+
+if you rely and i think that if you have synchronization 
+
+between 
+
+iran's another side of the science 
+
+of science gets 
+
+but in the connection become stronger 
+
+ah 
+
+here a 
+
+service supervise version of the same thing 
+
+where 
+
+a synapse become stronger a 
+
+if as a result of 
+
+two neurons collectively 
+
+do their thing 
+
+in concert with reality 
+
+um 
+
+as i said we're really interested in the overall tractor is not an 
+
+the um 
+
+on 
+
+but 
+
+and 
+
+since any estates 
+
+so without telling you how we change the learning all this is going from my simple wearing want to a more standard approach to to machine learning 
+
+although the tractors that we get with the simple learning law 
+
+ah don't look bad either 
+
+ah i 
+
+have you the result this is just 
+
+the tractor for one of the individual models 
+
+tractor for another of the individual models 
+
+degree in the background as truth 
+
+third model 
+
+on 
+
+despite all that i need is that despite the big differences a and from reality the supermodel actually help seal 
+
+on 
+
+the point that's that's worth making is that 
+
+um 
+
+suppose we're a um 
+
+we're just interested in the statistical properties the a tractor
+
+ 
+
+something like globally averaged temperature 
+
+um 
+
+well suppose to 
+
+uh suppose this is x. 
+
+of the global average temperature in the individual models 
+
+still way off 
+
+ah 
+
+but we get 
+
+and tractor 
+
+with the corrects globally averaged 
+
+temperature a log x. 
+
+forces that kirk we 
+
+ah 
+
+okay and just to show you what the learning algorithm those 
+
+other produce those results of
+
+ 
+
+ah this was due to work by a 
+
+i 
+
+when event and bridge and frank sultan invigorate myself 
+
+ah 
+
+here we introduce 
+
+a cost function and for the supermodel offices supermodel 
+
+armed 
+
+just a function of the connection coefficients over time 
+
+um i 
+
+and ah 
+
+we introduced kind of of 
+
+a damping factor 
+
+in of this cost function 
+
+so that we're continuously re initial izing 
+
+on 
+
+but as time goes on we count pierre a less and less 
+
+the cost function as a scam 
+
+over two term 
+
+drug entity character and draw 
+
+shops 
+
+ah 
+
+and minimising that's true 
+
+essentially gradient descent approach 
+
+knoxville describe was talk 
+
+um 
+
+we got detractors of egyptian you 
+
+okay so 
+
+oh 
+
+the rest of what i'm going to say corresponds to a whole bunch of questions that you might 
+
+s. about this approach 
+
+of the first one is a 
+
+what if we go from mama from simple things like iran system
+
+ 
+
+two of models where there's a wide range of time scales 
+
+are all this is such a model 
+
+ah 
+
+x. y. and z. 
+
+ah 
+
+it's actually another model 
+
+jeweller ends 
+
+ah 
+
+standard lawrence model of the comes from a 
+
+taking equations for convection 
+
+ah and of just taking a few fourier components 
+
+of of 
+
+the special fields 
+
+of the sky response doing the same thing out with convection 
+
+but with another model for for atmospheric circulation 
+
+on 
+
+then we coupled was to this other two variable model which is a very simple model of a 
+
+well the box model of the ocean 
+
+on 
+
+and where on 
+
+t. n. s. actually i read temperature gradients from equator quite a polio one boxer present equator another box representing paul 
+
+i am the polar regions 
+
+on and these constants that appear in these two equations 
+
+a are very small 
+
+so overall of 
+
+the ocean evolves on a much slower timescale 
+
+and the atmosphere 
+
+i r. i. 
+
+so but what i did 
+
+so it took three of a is a 
+
+but er parameters in both the atmospheric in the oceanic components 
+
+ah
+
+ 
+
+and i got the same phenomenon that's a 
+
+the ah 
+
+a supermodel 
+
+goes to truth 
+
+of over 
+
+not too long period of time 
+
+via a 
+
+the ocean part of a supermodel goes to ocean truth this is 
+
+temperature gradient in the ocean 
+
+r. i. 
+
+turns out that what's really happening here 
+
+is that a 
+
+you from a supermodel you're adding nudging terms to these equations 
+
+so that 
+
+ah 
+
+and then the nudging terms because these coefficients are smaller much bigger 
+
+then the ah 
+
+the dynamical terms 
+
+are you basically forcing 
+
+on your ocean model to truth very quickly 
+
+and then using 
+
+ocean observations 
+
+ah 
+
+to train the atmosphere mall 
+
+that's not a bad strategy 
+
+ah 
+
+first rain grief s. timescales
+-----
+ 
+
+using some sort of 
+
+the climatological average for the slow timescales 
+
+then worry about training the ocean 
+
+more fundamental question 
+
+is 
+
+on new what happens 
+
+is a 
+
+if wall models on air in the same direction 
+
+ah 
+
+is for a we have a bunch of experts 
+
+a old home 
+
+a predicts a temperature that is too high 
+
+of 
+
+well um 
+
+i um 
+
+you one thing you can do is a 
+
+is use the ah 
+
+use the prediction that's consistent legally strong 
+
+the training phase 
+
+and extrapolate outside of the range 
+
+ah 
+
+that's 
+
+obviously a highly risky an unstable procedure but you can try it 
+
+with lawrence models 
+
+a what happens if you take a parameter a signal was a grammar nor insisted 
+
+and what happens if you take a all the uh the signal is 
+
+in the 
+
+individual models that comprise the supermodel to be greater 
+
+then a 
+
+a true sigma 
+
+well if you allow the corona connections to become negative 
+
+ah 
+
+you still get a workable supermodel 
+
+ah 
+
+if you remember the palazzo showed you before 
+
+a doses roughly the same scale 
+
+of 
+
+blown up a 
+
+it's better than other nothing 
+
+and better than averaging 
+
+um 
+
+but not as good 
+
+as an ordinary supermodel with a
+
+ 
+
+with positive connections 
+
+ah 
+
+this is still in weather prediction mode where the where you're cut a couple gets reality okay so you're using your supermodel to predict whether again a motor you constantly have input every six hours 
+
+analogous lee 
+
+ah but ah 
+
+it turns out that a 
+
+i 
+
+do we think we can do 
+
+this to work under some connections and 
+
+under some conditions and climate prediction node 
+
+we just disconnect reality what it run freely
+
+ 
+
+uh oh but so far only seen a blow up 
+
+ah 
+
+hmmm 
+
+a little girl 
+
+thirdly chance of a in the direction they you ever 
+
+the 
+
+yeah teaching section 
+
+i 
+
+not if you are negative coefficients is the weights 
+
+okay 
+
+but this means that 
+
+you don't just have 
+
+burying button that foxo so 
+
+it 
+
+three 
+
+so i mean 
+
+there's a whole area of learning ensemble sweeping the machine learning com
+
+ 
+
+and there 
+
+so 
+
+outgrowth of his most often taken to average all what are people or 
+
+something along these lines 
+
+it's all because of the cost of parts 
+
+the 
+
+think is through 
+
+i'm not a broad goal setting 
+
+where you actually loan 
+
+wrong but because of the basic models anybody a knee 
+
+you you have an extra learning layer very avant just 
+
+a puppet shows but you really allow me to leave 
+
+of 
+
+artistically done for example who political 
+
+we give you a bonus 
+
+the predictions of one of the models 
+
+if one of them almost isn't because the opposite of that 
+
+you say of this is that you use your just 
+
+okay 
+
+that's exactly six everything i was looking for 
+
+okay 
+
+i wanna see how it's done that went 
+
+talk about a 
+
+sweater 
+
+and 
+
+in your interview some of the learning problem
+
+ 
+
+where are you prediction for the mortals 
+
+every year you'd be 
+
+and 
+
+you were and but 
+
+connections 
+
+in these that workers 
+
+from there 
+
+separate learning problem 
+
+oh 
+
+oh how to combine the provisions 
+
+okay it's not just the averaging but it's 
+
+you 
+
+you do learn of 
+
+the general function approximation 
+
+four 
+
+you 
+
+okay 
+
+on 
+
+and the other big question is a 
+
+what are we doing here on 
+
+we're we're running a bunch of climate models were training room non present a data so over the phone should be able to use this and weather prediction mode
+
+ 
+
+but then what we're doing is we're we're asking what happens if we change the amount of carbon dioxide in the atmosphere 
+
+or other greenhouse gases 
+
+first ones to changing one parameter 
+
+so i on your training with a bunch of of models 
+
+and ah then your oven 
+
+you somehow shifting them a 
+
+idols 
+
+ah ah oh some 
+
+parameter in the models that you think represents a real parameter 
+
+ah 
+
+a picture road because if you go back to 
+
+supermodels a 
+
+yeah row was the same another to grow wasn't one of those parameters that varies among different models rose was 
+
+which grammar zeros 
+
+c. o. two level 
+
+or some function thereof 
+
+um 
+
+so on 
+
+okay so what happens if you train with the with royals twenty eight which is a standard value fuller and system
+
+ 
+
+but then you shift 
+
+growing both reality in models lawyer goes up a little 
+
+shift a lot 
+
+on 
+
+it's a goes up 
+
+one more 
+
+turns out the sky response that you can you can study bifurcation somewhere in systems has been done 
+
+uh oh this is a large number from from here to here is a large number of bifurcation is 
+
+i think it's on the order of maybe a hundred something like that but 
+
+um 
+
+so if i look at the tractors this almost looks like a quasi periodic thing it's not like 
+
+stranger tractor anymore this is the zero equals a hundred 
+
+yet the earth still 
+
+pretty small 
+
+um 
+
+and ah and certainly better than an averaging 
+
+um 
+
+okay um 
+
+both a simple learning more that i showed you and beyond 
+
+of the work 
+
+the one based on the more complicated cost function 
+
+a separate from 
+
+possible problem of 
+
+non global non global local optimum 
+
+on 
+
+so far the only thing we've done with to get out of to to deal with this as um 
+
+that noise 
+
+in one form or another 
+
+on 
+
+this is a fairly complicated to of 
+
+learning method of 
+
+but i'm not going to describe but the point is that 
+
+one measure 
+
+ah of bomb 
+
+a of the models difference between auto correlation functions 
+
+of of the truth and supermodel 
+
+and they are 
+
+ah this is for the three variables 
+
+are the dotted line 
+
+is for of a deterministic learning schemes solid line 
+
+is for a stochastic learning scheme 
+
+um 
+
+in all cases 
+
+andreas truth in all cases took us to city helps 
+
+not surprisingly 
+
+this this is the year is in the middle of love with the provisions yeah
+
+ 
+
+people for example 
+
+so costly purchases 
+
+it's 
+
+no 
+
+ah 
+
+okay so far distant talk me bowler and systems 
+
+of 
+
+i need you to extend this to p. d.'s have a 
+
+you used before we go to anything as complicated as a climate model 
+
+i 
+
+this is just tremendous efficiency 
+
+um 
+
+simple one time one space dimensional p. it's been used to
+
+ 
+
+i represent propagation 
+
+and that way propagation in um 
+
+a dissipated media 
+
+and ah 
+
+so on 
+
+and if we couple these models not only discreetly in time but ah 
+
+actually i guess for not doing discreetly in time but it's clearly in space 
+
+armed 
+
+it's only a fixed set of points on which is what we want to do i mean i do it with weather prediction no also again 
+
+we don't just make 
+
+ah 
+
+observations about 
+
+for some time every six hours but they're sparse and space 
+
+on one question for p. t. is then 
+
+is a 
+
+can we say anything about so on 
+
+that have close the observations need to be in order to get synchronization 
+
+ah 
+
+well 
+
+ah 
+
+i this is a two axes are space and time 
+
+and you see 
+
+propagating coherent structures 
+
+ah 
+
+so actually this is not an ordinary k. s. s. k. s. with this extra third derivative added which gives you wave propagation
+
+ 
+
+ah 
+
+and um 
+
+so what do we do if we are 
+
+oh why use terraces log of error 
+
+versus of nudging coefficient 
+
+on 
+
+models are on kabul the air of slowly goes down 
+
+armed 
+
+if we a fixed the connections 
+
+between the models so this is an annual reset supermodel not a train supermodel 
+
+ah 
+
+we do somewhat better 
+
+but if we adapt the connections 
+
+according to the simple learning what we do better yet 
+
+hmmm 
+
+where where these confusions 
+
+visions of his life 
+
+i 
+
+they're not there because this is just one model offices
+-----
+
+ 
+
+and this is just one 
+
+so long you ever wondered many more coefficients for the feeds 
+
+i 
+
+well that's one question 
+
+how many independent is symmetry of this thing is simple 
+
+so we keep the connections and had just translation symmetry is no reason to think the connections 
+
+should be different different points 
+
+so we 
+
+have like of now 
+
+three or six independent connections 
+
+it 
+
+so for them 
+
+actually it's the new learning the good which is 
+
+yeah in one of those 
+
+seems to have visions of old over time 
+
+in india and you fills them 
+
+here in principle that officials were neatly evil all the time 
+
+and in space 
+
+and then have 
+
+on 
+
+i know 
+
+he wouldn't 
+
+coefficients are just functions of time have functions of space 
+
+similar the same 
+
+you'll points in space 
+
+they stay that way 
+
+what 
+
+very 
+
+okay 
+
+okay 
+
+and um 
+
+so what variables 
+
+so another question is what variable should we couple of performing a climate predictions supermodel 
+
+of everyone a couple everything 
+
+um 
+
+even independently of 
+
+um 
+
+if we assume we're working in space and we have translation symmetry
+
+ 
+
+which we don't 
+
+because topography changes 
+
+but ah 
+
+ah we still have lots of variables at each point 
+
+and we don't need to work 
+
+in physical space 
+
+um 
+
+so on 
+
+here what we did was to a 
+
+ah 
+
+okay first of onset of working in physical space you can work in fourier space or 
+
+on a sphere which is models and modelling sphere 
+
+of spherical harmonic sir are the basis functions 
+
+and you can compare coupling between the basis of spherical harmonic stood basis of 
+
+perk orthogonal functions otherwise known as principal components 
+
+um the nudging timescale 
+
+is that basically one over the sea or if it was called k. before 
+
+so as you go this way a timescale was increasing which means the nudging 
+
+it strengthens decreasing which means the earth is going up 
+
+ah 
+
+the gray his first record harmonic so the white grey 
+
+actually it's white here 
+
+is for using principal components and not surprisingly we do somewhat better
+
+ 
+
+this trouble components 
+
+uh in each of these panels here 
+
+the horizontal axis represents a number of components that are coupled 
+
+and we need your once you get the area down to effectively zero 
+
+if we are 
+
+intelligence of choosing um 
+
+a basis 
+
+um okay 
+
+i put these in here wasn't sure those in the meantime or introduce a 
+
+this isn't more comp 
+
+okay to pete 
+
+so the classic history 
+
+shall model used to represent weather 
+
+a lonely just tell you quickly what this as a
+
+ 
+
+this is a a two layer model these are not two layers these are two models 
+
+of 
+
+at each model 
+
+satisfies this equation 
+
+which says that potential works a city realty with a dozen at this quantity q. is 
+
+is almost and serves as an objective derivative 
+
+concert except for forcing anticipation 
+
+ah 
+
+this is a this is an approximation that gets this piano her stokes 
+
+ah but 
+
+it gives us some are pretty real was 
+
+sick representation 
+
+of of some weather phenomena
+
+ 
+
+a potential works a city he's a 
+
+to the curl border city would be like to curl a velocity 
+
+potential work to city 
+
+is a 
+
+a modification of that to include effects from the earth's rotation 
+
+and from affected forest ease of 
+
+a stretcher compressed in each of the two layers and we still want conservation of angular momentum overall 
+
+that allows us to find a quantity 
+
+q. which i'm not going to find here 
+
+but ah 
+
+but which 
+
+those out of this is a different kind of coupling 
+
+ah 
+
+and 
+
+j. is a chico b. n. d. x. the first term 
+
+a minus d. x. the first turn to do i have a second term minus ty the first term d. t. x. of the first term of that 
+
+second term 
+
+the derivatives of the stream function sign a give us velocities so maybe can take my word for it that this j. normally gives you the affective component
+
+ 
+
+we put the coupling into the affective component 
+
+oh 
+
+and ah what i describe this later if anybody really wants to know but the point is that even with this more complicated form of coupling we can derive 
+
+learning offer this of 
+
+these simple models 
+
+and ah 
+
+here's truth this is a model with a jet stream over the atlantic still model jet stream or the pacific 
+
+um 
+
+it's a little different at the beginning as time goes on this synchronized 
+
+both of which other country 
+
+and 
+
+back to the previous night 
+
+you don't couple here over da 
+
+system variables 
+
+looking out over these 
+
+effective terms 
+
+the 
+
+on that 
+
+you don't a 
+
+instead you have something 
+
+more complicated than the thirteen year
+
+ 
+
+as the difference yeah the system that yeah there is something more complicated yet yeah 
+
+but you can still do it and the reason you do that 
+
+is because if you do it this way 
+
+then it turns out that so on 
+
+the ah 
+
+the average of the solutions to the to to model equation separately 
+
+is exactly 
+
+of the solution to the model with the average for saying in other words for the jet stream over both 
+
+atlantic and pacific which is what you really want 
+
+oh 
+
+this was extra knowledge of what you do 
+
+third yeah 
+
+yeah it's not 
+
+there is in the first invention 
+
+somebody did a likely it loses thirty per person 
+
+doesn't know much about one thing 
+
+st. leading to understand that the people in these variables 
+
+he's a reasonable time 
+
+firstly they get to use 
+
+i have no knowledge of the climate modelling 
+
+so these flamini is beyond 
+
+but ah 
+
+young my age 
+
+okay 
+
+well 
+
+pardon 
+
+and i think that's an over statement 
+
+the under each 
+
+but i don't think they explain mix 
+
+oh 
+
+okay 
+
+yes 
+
+um 
+
+you one c. to be a half 
+
+and the simple case because 
+
+you want equal contributions from two models 
+
+and what the simple warning law 
+
+c. does it have 
+
+okay um 
+
+i just stuck those few slides in because those most complicated case that would do with so for 
+
+and supermodel
+
+ 
+
+um 
+
+but um 
+
+okay so where are we were going 
+
+ah 
+
+so on 
+
+so for if we have local up to know rely just on circus to see 
+
+uh and 
+
+but that what we'd like to do is a as defined triggers of based on state 
+
+of of 
+
+the world 
+
+who's 
+
+and 
+
+your models 
+
+armed 
+
+that would tell us when we might need 
+
+effectively muted mutation 
+
+um 
+
+these negative coefficients a 
+
+we need to do 
+
+just as you said 
+
+ah some super learning approach 
+
+ah 
+
+that's a 
+
+ah 
+
+i'm sorry not negative coefficients 
+
+but to tell us 
+
+when we need to extrapolate away 
+
+from the individual models 
+
+of 
+
+in um 
+
+ah 
+
+and serve a metal 
+
+and another points is a 
+
+that was raised in this 
+
+on how do we use their knowledge of the system 
+
+to restrict the number of of the connections that we trained separately 
+
+uh we have translation of symmetry it's simple 
+
+um 
+
+but um 
+
+how do we use 
+
+other kinds of symmetry 
+
+ah 
+
+or some sort of personal knowledge or guesses 
+
+of 
+
+so that we don't 
+
+need to risk over training 
+
+lou limited data 
+
+ah 
+
+with all of this what we're doing with a situation where a 
+
+the amount of data is limited we only for climate protection we only have the data for the last fifty or sixty 
+
+years of 
+
+but we have 
+
+oh 
+
+as much computer times we want to do boring 
+
+ah i 
+
+so we need some more domain specificity
+
+ 
+
+he um 
+
+ah 
+
+in the way that we do 
+
+the super modelling overall nuts that's kind of what i'd like to 
+
+and with i 
+
+um 
+
+and uh 
+
+on 
+
+what i forget a 
+
+yeah 
+
+i said i was going to tell you was artificial consciousness that's a 
+
+of data assimilation killed we can provide comparative perception and i 
+
+we have a bunch of alternative representations of the same model doing data some ocean from each other than we have self perception
+
+ 
+
+could be called consciousness 
+
+and of synchronization at a much lower level of figures and 
+
+most theories of of conscious neural processing of second spike trains sentences to a higher level 
+
+it's a connection but let's make 
+
+i so on 
+
+anyway i on 
+
+questions 
+
+hmmm 
+
+thank you very much 
+
+and the only 
+
+so 
+
+but 
+
+us 
+
+oh 
+
+oh 
+
+oh yes 
+
+oh 
+
+oh 
+
+on 
+
+well if we in what in what i'm calling weather prediction mode where we're nudged reality we don't have to worry about it
+-----
+ 
+
+armed 
+
+if we disconnect from reality 
+
+i on 
+
+it doesn't run away 
+
+ah 
+
+and perfectly i can say this 
+
+ah and 
+
+why is theoretically 
+
+um 
+
+in 
+
+paul care case critic 
+
+case for the coefficients are positive 
+
+um 
+
+it doesn't get outside of of of 
+
+a domain in which each model normally works 
+
+ah i'm not trick can cover more intuition for memory now 
+
+there's a 
+
+yeah 
+
+thank you 
+
+i 
+
+well no um 
+
+just a little or insists on this 
+
+just to move 
+
+most efficiency
+
+ 
+
+very limited ways so far 
+
+oh 
+
+with these weather prediction with his work 
+
+whether p. d. models 
+
+armed 
+
+and on 
+
+but on 
+
+he's so far we've just use the simple boring log in 
+
+more complicated machine 
+
+the news to computational expensive 
+
+okay as anything else 
+
+the question was very technical sense 
+
+do you use smart not worthy was my them a pickup 
+
+all 
+
+i am a 
+
+i use a 
+
+from all those and then also a supercomputer somewhere in germany i i 
+
+they still actually table data from the climate mornings 
+
+thanks 
+
+okay thriller end systems and t. v.'s the simple piece everything's on the same computer 
+
+the climate models that um 
+
+we're still struggling with a question on 
+
+there's a there's a climate model a couple were called oasis in europe
+
+ 
+
+um 
+
+and then kerr in the u. s. has a a a snake all data assimilation research to spread 
+
+that's a it takes one copy of a model 
+
+home 
+
+cool own you can cause a truth another copy of the model calls and model 
+
+because what's his identical twin experiments 
+
+actually runs an ensemble of models for different purposes us so runs ensemble of models for the purpose of determining spread or background there 
+
+which you need and common filtering she's waited of solutions for more done 
+
+so we're trying to generalize all of us 
+
+um 
+
+and ah 
+
+the o. e. z. a 
+
+um 
+
+i use no piece of software called es tool 
+
+of my colleagues and holland's own use my lab 
+
+um 
+
+and the stochastic stuff i'm planning to use mathematica haven't gotten to have 
+
+other stuff as import ran its every all over the place
+
+ 
+
+it says as to 
+
+do we 
+
+r. s. 
+
+those people but he's 
+
+the d. s. tool 
+
+yes this is the u. s. to or be a so it's d. s. toll systems yeah it's a i think it was popular in the nineties it's not even supported anymore and i have a number 
+
+our topic show you 
+
+but ill as you just arrest 
+
+he's way would normally right 
+
+simulate the media 
+
+i 
+
+or 
+
+it's 
+
+oh 
+
+general questions 
+
+so 
+
+hmmm 
+
+are there any 
+
+conditions on the 
+
+system so 
+
+he is 
+
+models that continues 
+
+here 
+
+in order to look like synchronization of 
+
+all of us um 
+
+so the patients more groom its others
+
+ 
+
+ah 
+
+hmmm 
+
+okay i think it's about synchronization inside of oaxaca marwan per se 
+
+on 
+
+what's really what variables you couple 
+
+it's usually 
+
+oh 
+
+i have overlooked the balloon bottle this 
+
+i use or be that connections 
+
+i worry about this 
+
+businessman 
+
+lucian 
+
+the 
+
+so 
+
+so 
+
+from backs of mortals 
+
+you can look at your be used 
+
+it's 
+
+oh that's a highly non we 
+
+structures versus 
+
+simple researchers there must be some 
+
+oh easy these secrets
+
+ 
+
+um 
+
+well i mean they're harder it has to do with 
+
+oh 
+
+my thesis is that synchronize ability has to do with internal 
+
+synchronization when a system 
+
+more internally synchronize something is easier is to synchronize with something else 
+
+also if you have a high degree of coherence of what's terms 
+
+ruptures 
+
+of that tells you both something about the use of signals you something else 
+
+and about what you need to observe 
+
+which makes sense i mean 
+
+whether you need to observe a store 
+
+arms track 
+
+high pressure centres something corner 
+
+oh 
+
+um 
+
+so um 
+
+ah 
+
+the hardest systems to synchronize typically are hamilton in systems 
+
+but you can get synchronization 
+
+with hamilton system 
+
+it's 
+
+a different forms of synchronization 
+
+ah 
+
+but i'm not sure you to them 
+
+i want to tell you about this different forms right now 
+
+on 
+
+ah 
+
+well the one i found was where the current structures tend to occur in the same place 
+
+but uh but everything else gets more spread out

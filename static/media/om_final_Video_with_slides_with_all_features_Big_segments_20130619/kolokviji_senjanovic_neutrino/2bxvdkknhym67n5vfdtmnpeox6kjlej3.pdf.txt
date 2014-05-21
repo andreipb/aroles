@@ -1,0 +1,252 @@
+Slide 0
+JSI lecture, April 4, 2012Wednesday 4 April 12
+---------
+Slide 1
+Wednesday 4 April 12
+---------
+Slide 2
+Symmetries and  Particles Standard Model of all interactions (but gravity*)  based on symmetries:  local gauge * gravity negligible:38 orders of magnitude weaker than emWednesday 4 April 12
+---------
+Slide 3
+Why does gravity matter?Why does matter gravitate?!sun - 1050zero chargeparticlesWednesday 4 April 12
+---------
+Slide 4
+ Parity:    images in the mirror Theme 1  left - right symmetry  Wednesday 4 April 12
+---------
+Slide 5
+ Parity:    images in the mirror Theme 1  left - right symmetry  Large Hadron ColliderWednesday 4 April 12
+---------
+Slide 6
+elementary particles - mass, charge,  spin  angular momentum at restQuantum Mechanics:                             s=n/2particles keep spinningWednesday 4 April 12
+---------
+Slide 7
+ Matter = atomselectronsnucleusWednesday 4 April 12
+---------
+Slide 8
+ Matter = atomselectronsnucleusWednesday 4 April 12
+---------
+Slide 9
+electron (e), proton (p), neutron (n) Nucleus = protons and neutrons(fermions)s = 1/2mp!mn!1GeV!10!24grme!10!3mp relativistic equation: s=1/2Dirac 28Wednesday 4 April 12
+---------
+Slide 10
+protonneutron s=1/2Zweig 64acesProtons and neutronsWednesday 4 April 12
+---------
+Slide 11
+protonneutron s=1/2Zweig 64acesProtons and neutronsWednesday 4 April 12
+---------
+Slide 12
+protonneutron s=1/2Gell-Mann 64quarksProtons and neutronsWednesday 4 April 12
+---------
+Slide 13
+protonneutron s=1/2Gell-Mann 64quarksProtons and neutrons  neutrino          our hero:Wednesday 4 April 12
+---------
+Slide 14
+Forces: messengersphoton =messanger of emWednesday 4 April 12
+---------
+Slide 15
+Forces: messengersFeynman 48Wednesday 4 April 12
+---------
+Slide 16
+Forces: messengersFeynman 48Wednesday 4 April 12
+---------
+Slide 17
+messengers of forces:  s=1feeblecentralmp!GeVWednesday 4 April 12
+---------
+Slide 18
+bombshell:  anti-particles     positron = anti electron Anderson  32 different anti-particle for every fermion anti protonSegre, Chamberlain  55Dirac 31 epChao 29Wednesday 4 April 12
+---------
+Slide 19
+bombshell:  anti-particles     positron = anti electron Anderson  32 different anti-particle for every fermion anti protonSegre, Chamberlain  55Dirac 31 epChao 29not necessarily, Wednesday 4 April 12
+---------
+Slide 20
+bombshell:  anti-particles     positron = anti electron Anderson  32 different anti-particle for every fermion anti protonSegre, Chamberlain  55Dirac 31 epChao 29not necessarily, says MajoranaWednesday 4 April 12
+---------
+Slide 21
+Ettore Majorananot neutrino ?its own antiparticleWednesday 4 April 12
+---------
+Slide 22
+last paper before his disappearanceEttore Majorananot neutrino ?its own antiparticleWednesday 4 April 12
+---------
+Slide 23
+last paper before his disappearanceEttore Majorananot neutrino ?its own antiparticleWednesday 4 April 12
+---------
+Slide 24
+1938took a boat from Palermo to Napoli - never seen afterwardsonly 32A slightly uncertain  destinationbeautiful novel, physics remarkably  correct March 26Ettore MajoranaWednesday 4 April 12
+---------
+Slide 25
+Who saw him?Wednesday 4 April 12
+---------
+Slide 26
+    . Second, third rank - do their best, but do not go far. First rank, make great discoveries, fundamental for the development of science. And then, there are geniuses, like Galileo and Newton. Ettore Majorana was one of them; unfortunately he  lacked common sense.Fermi:there are various types of scientistsWednesday 4 April 12
+---------
+Slide 27
+Theme 2 The creation of electrons out of nothingNeutrino-less double beta decay                                              Racah 37LHC -        collisions can create electrons ppKeung, GS  83                                              Furry 38Wednesday 4 April 12
+---------
+Slide 28
+neutrinos: why so special? The most aloof particlesA probe of new physics Wednesday 4 April 12
+---------
+Slide 29
+ conservation of energy  Pauli 30   neutrino (small neutron)a new neutral particle:   `brother of electron        (light)leptonsDiscovering neutrinos beta decay     n!p+e+!Fermi 32Wednesday 4 April 12
+---------
+Slide 30
+2/16/11 9:45 AMNuclear and High Energy Physics Laboratory - Univ. ZaragozaPage 1 of 3http://www.unizar.es/lfnae/ipaginas/ip0300.htmlResearch activitiesMain research linesNeutrino properties: double beta decayDirect nonbaryonic dark matter searchComplementary research linesEU Network on cryogenic detectorsCanfranc underground laboratoryNeutrino properties: double beta decayOne of our main activities is the research of the neutinoproperties through the nuclear double beta decay. The aimof these experiments is the detection of the neutrinolessdouble beta decay or, in its absence, to get a bound on theeffective neutrino mass. Its observation would be anevidence of physics beyond the Standard Model.The two-neutrino decay mode is a conventional, althoughrare, second order weak process allowed within theStandard Model that has been experimentally observed in several isotopes (48Ca, 76Ge, 82Se,96Zr, 100Mo, 116Cd, 150Nd...); it offers information about nuclear matrix elements involvedin the process. Our experiments concentrate on the unobserved neutrinoless decay mode; it isa non-standard process, which observation would imply that neutrinos are massive Majoranaparticles and would even imply the existence of a right-handed weak coupling.Our group is and has been involved in experiments searching for the neutrinoless double betadecay of several isotopes: 76Ge, with natural (Coinc bb/g) and enriched Ge (IGEX)semiconductors and 78Kr with a kripton enriched ionization chamber (Kripton).Direct nonbaryonic dark matter searchtextThe other fundamental research line of our group is then!p+eE=QexpectedWednesday 4 April 12
+---------
+Slide 31
+2/16/11 9:45 AMNuclear and High Energy Physics Laboratory - Univ. ZaragozaPage 1 of 3http://www.unizar.es/lfnae/ipaginas/ip0300.htmlResearch activitiesMain research linesNeutrino properties: double beta decayDirect nonbaryonic dark matter searchComplementary research linesEU Network on cryogenic detectorsCanfranc underground laboratoryNeutrino properties: double beta decayOne of our main activities is the research of the neutinoproperties through the nuclear double beta decay. The aimof these experiments is the detection of the neutrinolessdouble beta decay or, in its absence, to get a bound on theeffective neutrino mass. Its observation would be anevidence of physics beyond the Standard Model.The two-neutrino decay mode is a conventional, althoughrare, second order weak process allowed within theStandard Model that has been experimentally observed in several isotopes (48Ca, 76Ge, 82Se,96Zr, 100Mo, 116Cd, 150Nd...); it offers information about nuclear matrix elements involvedin the process. Our experiments concentrate on the unobserved neutrinoless decay mode; it isa non-standard process, which observation would imply that neutrinos are massive Majoranaparticles and would even imply the existence of a right-handed weak coupling.Our group is and has been involved in experiments searching for the neutrinoless double betadecay of several isotopes: 76Ge, with natural (Coinc bb/g) and enriched Ge (IGEX)semiconductors and 78Kr with a kripton enriched ionization chamber (Kripton).Direct nonbaryonic dark matter searchtextThe other fundamental research line of our group is then!p+eE=QexpectedWednesday 4 April 12
+---------
+Slide 32
+2/16/11 9:45 AMNuclear and High Energy Physics Laboratory - Univ. ZaragozaPage 1 of 3http://www.unizar.es/lfnae/ipaginas/ip0300.htmlResearch activitiesMain research linesNeutrino properties: double beta decayDirect nonbaryonic dark matter searchComplementary research linesEU Network on cryogenic detectorsCanfranc underground laboratoryNeutrino properties: double beta decayOne of our main activities is the research of the neutinoproperties through the nuclear double beta decay. The aimof these experiments is the detection of the neutrinolessdouble beta decay or, in its absence, to get a bound on theeffective neutrino mass. Its observation would be anevidence of physics beyond the Standard Model.The two-neutrino decay mode is a conventional, althoughrare, second order weak process allowed within theStandard Model that has been experimentally observed in several isotopes (48Ca, 76Ge, 82Se,96Zr, 100Mo, 116Cd, 150Nd...); it offers information about nuclear matrix elements involvedin the process. Our experiments concentrate on the unobserved neutrinoless decay mode; it isa non-standard process, which observation would imply that neutrinos are massive Majoranaparticles and would even imply the existence of a right-handed weak coupling.Our group is and has been involved in experiments searching for the neutrinoless double betadecay of several isotopes: 76Ge, with natural (Coinc bb/g) and enriched Ge (IGEX)semiconductors and 78Kr with a kripton enriched ionization chamber (Kripton).Direct nonbaryonic dark matter searchtextThe other fundamental research line of our group is theContinous spectrumn!p+eE=QexpectedWednesday 4 April 12
+---------
+Slide 33
+Dear Radioactive Ladies and Gentlemen,As the bearer of these lines, to whom I graciously ask you to listen, will explain to you in more detail, how because of the "wrong" statistics of the N and Li6!nuclei and the continuous beta spectrum, I have hit upon a desperate remedy to save the "exchange theorem" of statistics and the law of conservation of energy. Namely, the possibility that there could exist in the nuclei electrically neutral particles, that I wish to call neutrons, which have spin 1/2 and obey the exclusion principle and which further differ from light quanta in that they do not travel with the velocity of light. The mass of the neutrons should be of the same order of magnitude as the electron mass and in any event not larger than 0.01 proton masses. The continuous beta spectrum would then become understandable by the assumption that in beta decay a neutron is emitted in addition to the electron such that the sum of the energies of the neutron and the electron is constant...I agree that my remedy could seem incredible because one should have seen those neutrons very earlier if they really exist. But only the one who dare can win and the difcult situation, due to the continuous structure of the beta spectrum, is lighted by a remark of my honoured predecessor, Mr Debye, who told me recently in Bruxelles: "Oh, It's well better not to think to this at all, like new taxes". From now on, every solution to the issue must be discussed. Thus, dear radioactive people, look and judge. Unfortunately, I cannot appear in Tubingen personally since I am indispensable here in Zurich because of a ball on the night of 6/7 December. With my best regards to you, and also to Mr Back.Your humble servant. W. Pauli!Wednesday 4 April 12
+---------
+Slide 34
+ how to see it?helps understand John Updike  mean free path 70 million times distance earth-sun!1020cmp+!!n+eFermi 34Wednesday 4 April 12
+---------
+Slide 35
+Cosmic Gallby John UpdikeNEUTRINOS, they are very small.They have no charge and have no massAnd do not interact at all.The earth is just a silly ballTo them, through which they simply pass,Like dustmaids down a drafty hallOr photons through a sheet of glass.They snub the most exquisite gas,Ignore the most substantial wall,Cold shoulder steel and sounding brass,Insult the stallion in his stall,And scorning barriers of class,Infiltrate you and me! Like talland painless guillotines, they fallDown through our heads into the grass.At night, they enter at Nepaland pierce the lover and his lassFrom underneath the bed-you callIt wonderful; I call it crass.Wednesday 4 April 12
+---------
+Slide 36
+Cosmic Gallby John UpdikeNEUTRINOS, they are very small.They have no charge and have no massAnd do not interact at all.The earth is just a silly ballTo them, through which they simply pass,Like dustmaids down a drafty hallOr photons through a sheet of glass.They snub the most exquisite gas,Ignore the most substantial wall,Cold shoulder steel and sounding brass,Insult the stallion in his stall,And scorning barriers of class,Infiltrate you and me! Like talland painless guillotines, they fallDown through our heads into the grass.At night, they enter at Nepaland pierce the lover and his lassFrom underneath the bed-you callIt wonderful; I call it crass.wrongWednesday 4 April 12
+---------
+Slide 37
+ Savannah River reactor large ux of neutrinos !=1013cm!2s!14lectron, namely, 0.51 million electronolt (MeV). The two gamma rayswould accelerate electrons throughCompton scattering and initiate a cas-ade of electrons that would eventuallyause the liquid to scintillate. The tinyash of visible light, efciently onverted into an electronic pulse,would be the signal of the positron.The new idea was to detect not onlyhe positron but also the neutron (seeFigure 3). Once produced, the neutronounces around and slows down as itollides with protons. It can be capturedy a proton to produce deuterium, oreavy hydrogen. But if a nucleus suchs cadmium is present, the neutron has amuch greater chance of being captured.Adding a cadmium salt to the organiccintillator dramatically increases theross section for absorbing (low-energy)eutrons. The capture process releasesbout 9 MeV of energy in gamma rays. The average time between the ash f light from the positron-electron nnihilation and that from the neutron apture is a few microseconds. Electronic circuits could be designed toetect this delayed-coincidence signa-ure, two ashes of light (each within awell-dened energy range) separated by microseconds, and provide a powerfulmeans to discriminate the signature of nverse beta decay from backgroundoise. Thus, using the much smaller uxf reactor neutrinos became feasible. As Cowan (1964) remembers,Instead of detecting a burst of eutrinos in a second or two comingrom the fury of a nuclear explosion, we would now be able to watch atiently near a reactor and catch onevery few hours or so. And there aremany hours available for watching in  monthor a year. The First Large DetectorThe group spent that winter uilding the detectors, developing arious liquid-scintillator compositions,nd testing the response of the etectors to gamma rays. Each detector was about 28 inches in diameter and30 inches high (see photo on thispage), and 90 photomultiplier tubespenetrated its curved walls. The phototubes were connected intwo interleaved arrays, each of whichwould produce an electrical pulse in response to a light signal in the detector.The two pulses would then be sent to aprompt-coincidence circuit, whichwould accept them as a bona de signalonly if they arrived simultaneously.That prompt-coincidence requirementhelped eliminate counting the spurious dark current that arose spontaneously and at random in the phototubes themselves. The team worked in an isolated, unheated building. Cowan (1964) reports how some of our group sweptthe snow away from outside the build-ing and set about casting many largeblocks of parafn wax and borax foruse as neutron shielding when wewould go to a reactor. Others beganmixing gallons of liquid scintillator inbatches with varying composition.They had to use electrical heaters tokeep the toluene scintillator warm; otherwise, it would turn from transpar-ent to cloudy. Soon, they discoveredthat one of the brands of mineral oilcarried by a local druggist, whenmixed with suitable chemicals, couldserve as another liquid scintillator.Having a hydrogen density differentfrom that of toluene, the mineral oilwould yield a different measured ratefor inverse beta decay and thus providea consistency check on the experi-mentof course, if the experimentalerror could be made small enough tomake the difference visible.The threesome who carried the primary responsibility for developingand testing the detector were F. NewtonHayes, Robert Schuch, and Ernest C.Anderson from Wright Langhams biomedical/health physics researchgroup. Using various radioactivegamma-ray sources, they discovered thattheir large-volume liquid scintillation detectors were extremely efcient at detecting gamma rays, enough to revolutionize the counting of smallamounts of radioactivity in bulk samples. The group realized they couldtest the radioactive content of the materials used to construct the detectorand eliminate those that would add unduly to the background.As Cowan (1964) reports, We builta cylindrical well into one of the detectors and proceeded to put quantitiesof steel, liquids, wax, and other materialsinto it for testing. We found that brassand aluminum were quite radioactivecompared to iron and steel, and that thepotassium in the glass envelopes of ourphotomultiplier tubes would contribute tothe detector backgrounds.During this time, one of our group,Robert Schuch, proposed making the wellin the detector a bit larger so that wemight be able to put a human being intothe detector. This was done, and a number of people, including our secretary, were trussed up and loweredinto the 18-inch hole. We found quite a detectable counting rate from everyone.It was due to the radioactive potassium-40naturally present in the body.The Hanford Neutrino DetectorThe background photo is a top view ofthe neutrino detector used in the Hanfordexperiments. It shows the interior of the10-cubic-foot vat for the liquid scintillatorand the 90 photomultiplier tubes, eachwith a 2-inch-diameter face that had athin, photosensitive surface. The inset is a side view of the detector. Having a 300-liter capacity, Herr Auge (Germanfor Mr. Eye, as this detector was named)was the largest detector at the time.In 1956, Ernest C. Anderson, Robert Schuch, James Perrings, and WrightLangham developed the whole-body counter known as HUMCO I. Its design was a direct spinoff from the development of the rst large liquid-scintillation detector used in Reines and Cowans neutrino experiments atHanford. HUMCO I measured low levels of naturally occurring radioactivity in humans. Later, it was used in a worldwide effort to determine the degreeto which radioactive fallout from nuclear tests and other nuclear and natural sources was absorbed by the human body. The detector consisted of a cylindrical container lled with 140 gallons of liquid scintillator and surrounded by 108 photomultiplier tubes. The person being measured wasplaced in a slide and drawn into the detector. Gamma rays emitted by the naturally occurring radioisotope potassium-40 or the fallout isotope cesium-137, for example, would largely penetrate the detectors inner wall,excite the scintillator, and be detected. HUMCO II, which supersededHUMCO I in 1962, was nearly 10 times more sensitive, and its measure-ments were that much safer and quicker. The top photo shows Anderson sitting at the controls of HUMCO II. To his right is the slide that would carry Schuch inside the detector for radioactive measurement. In 1958, the human counter was demonstrated at the Atoms for Peace Conference held in Geneva. Built especially for this conference, the verticalcounter was open on one side to allow a person to step in for measurementof internal radioactivity. The middle picture shows a conference participantgetting ready to enter the detector under Newton Hayes supervision. The lower picture and diagram show the rst human-radioactivity measure-ments carried out in the detector that served as the basis for HUMCO. The original purpose of that detector had been different: to determine thedegree to which the natural gamma-ray activity of the materials used toshield the Hanford neutrino detector would add noise to the experiments.Schuch suggested that a larger insert into the detector would allow a smallperson to be placed inside and then be measured for gamma-ray activity.Langham, shown crouched inside the detector, was the only member of the team slim enough to t in the narrow space.The Whole-Body CounterThe Reines-Cowan ExperimentsThe Reines-Cowan ExperimentsLos Alamos Science Number 25  1997Number 25  1997  Los Alamos Science  good old days8 peopledetector : water (protons)Cowan and Reines 56  p+!!n+e(ten thousand billions)Wednesday 4 April 12
+---------
+Slide 38
+Beta decay : messenger  W bosonWednesday 4 April 12
+---------
+Slide 39
+n!p+e+!W boson: the shiny (hairy) guyd!u+e+!p = u u dn = u d dWednesday 4 April 12
+---------
+Slide 40
+n!p+e+!W boson: the shiny (hairy) guyd!u+e+!p = u u dn = u d dWednesday 4 April 12
+---------
+Slide 41
+1956: bombshell of Lee and Yangparity violation in weak interactiononly left particles in beta decayL-R symmetry  brokenWednesday 4 April 12
+---------
+Slide 42
+Discovery of P violation C.S. Wu56good old days5 peopleWednesday 4 April 12
+---------
+Slide 43
+beta decay : messenger  W bosonParity violation only left particles interact with Wconrmed  when discoveredWednesday 4 April 12
+---------
+Slide 44
+SPS: Super Proton Synchrotron81-847 km circumferencemodern times137 peopleDiscovering W bosonsmp!GeVC. RubbiaMW!80GeVWednesday 4 April 12
+---------
+Slide 45
+LEP experimentmodern times 1500 people 4 detectors: ALEPH, LEP 3, OPAL, DELPHI89 - 00 27 km circumference109W  bosonsStandard  Model!Wednesday 4 April 12
+---------
+Slide 46
+LEP experimentmodern times 1500 people 4 detectors: ALEPH, LEP 3, OPAL, DELPHI89 - 00 27 km circumference109W  bosonsStandard  Model!Wednesday 4 April 12
+---------
+Slide 47
+LEP experimentmodern times 1500 people 4 detectors: ALEPH, LEP 3, OPAL, DELPHI89 - 00 27 km circumference109W  bosonsStandard  Model!Wednesday 4 April 12
+---------
+Slide 48
+modern times 27 kmWednesday 4 April 12
+---------
+Slide 49
+create electrons out of nothing Majorana Program:!neutrino = anti neutrino= mass!L!LWednesday 4 April 12
+---------
+Slide 50
+Double-beta decay76Ge!"76As+e+!e76Ge!76Se+e+e+!e+!epWn!e!eWpneeWednesday 4 April 12
+---------
+Slide 51
+Double-beta decay76Ge!"76As+e+!e76Ge!76Se+e+e+!e+!epWn!e!eWpn!mM!ee76Ge!76Se+e+eonly if neutrino massiveWednesday 4 April 12
+---------
+Slide 52
+Neutrino-less double beta decayWednesday 4 April 12
+---------
+Slide 53
+Neutrino-less double beta decayWednesday 4 April 12
+---------
+Slide 54
+GERDA experimentGran Sasso Laboratoryexpect:a few yearsGERmanium Detector Arraymodern timesabout 100 peopleWednesday 4 April 12
+---------
+Slide 55
+future is hereWednesday 4 April 12
+---------
+Slide 56
+ Standard Model eR  L-R  asymmetryGlashow Weinberg Salam 61-67 !Rno!!LeL"!L!Lforbidden  by symmetry SU(2)L!U(1)Wednesday 4 April 12
+---------
+Slide 57
+ Standard Model eR  L-R  asymmetryGlashow Weinberg Salam 61-67 !Rno!!LeL"no neutrino mass!L!Lforbidden  by symmetry SU(2)L!U(1)Wednesday 4 April 12
+---------
+Slide 58
+  Why parity :L!Rbroken ?Wednesday 4 April 12
+---------
+Slide 59
+ God may be left-handed, but not an invalid  Why parity :L!Rbroken ?Wednesday 4 April 12
+---------
+Slide 60
+L-R symmetry!!LeL"Pati Salam 74 Mohapatra GS 75WL!!ReR"WRmWR!mWLparity restored?E!mWRWednesday 4 April 12
+---------
+Slide 61
+L-R symmetry breakingSpontaneousGS 75Wednesday 4 April 12
+---------
+Slide 62
+L-R symmetry breakingSpontaneousGS 75Wednesday 4 April 12
+---------
+Slide 63
+L-R symmetry breakingSpontaneousGS 75Wednesday 4 April 12
+---------
+Slide 64
+seesawMinkowski 77Mohapatra, GS 79 massNeutrino: MajoranaMWR!3000"5000GeVMaiezza, Nemevsek,  Nesti, GS 2010mp!GeVWednesday 4 April 12
+---------
+Slide 65
+ = big dogWRWednesday 4 April 12
+---------
+Slide 66
+ux !=0.1cm!2s!1neutrino massmodern timesmp!109eV(                         )m!!10!1eVSuper Kamiokande98Wednesday 4 April 12
+---------
+Slide 67
+New source for                  0!2"pWnWpn!eeLL!e!eLLm!pWnWpn!eeNeNemNRRRRMohapatra, GS 81N= RH neutrinoWednesday 4 April 12
+---------
+Slide 68
+WW!eeNeNemNRRduudTello, Nemevsek, Nesti, GS, Vissani 11@ TeV  = 1000 GeVWRmp!GeVNemevsek, Nesti, GS, Tello 11Wednesday 4 April 12
+---------
+Slide 69
+WW!eeNeNemNRRduudTello, Nemevsek, Nesti, GS, Vissani 11@ TeV  = 1000 GeVWRmp!GeVconnection with LHC?Nemevsek, Nesti, GS, Tello 11Wednesday 4 April 12
+---------
+Slide 70
+WW!eeNeNemNRRduudrotation in a planeKeung, G.S. 83Wednesday 4 April 12
+---------
+Slide 71
+WW!eeNeNemNRRduudWednesday 4 April 12
+---------
+Slide 72
+WW!eeNeNemNRRduudWednesday 4 April 12
+---------
+Slide 73
+!eeNeNemNduduWRWRProduction @ collidersKeung, G.S. 83Wednesday 4 April 12
+---------
+Slide 74
+ Parity restoration  Lepton Number Violation:  same sign leptons WRWRRllu!djjNFigure5:Productionofleptonnumberviolatingsamesigndileptonsatcol-lidersthroughWRandNheavyparticlesneededtocompletetheSMinordertohavem!!=0(suchasNR).ItisthuscrucialtohaveadirectmeasureofleptonnumberviolationwhichcanprobethesourceofneutrinoMajoranamass.Thisisprovidedbythesamesigndileptonproductionatcollidersaswediscussbelow.7.2LeptonnumberviolationatcollidersWehavejustseenthat!!0isobscuredbyvariouscontributionswhicharenoteasytodisentangle.Weneedsomedirecttestsoftheoriginof!L=2,i.e.these-sawmechanism.Thiscomesaboutfrompossibledirectproductionoftheright-handedneutrinosthroughaWRproduction.ThecrucialpointhereistheMajorananatureofN:onceproducedatdecaysequallyoftenintoleptonsandantileptons.Thisledus[27]tosuggestadirectproductionofthesamesigndileptonsatcollidersasamanifestationof!L=2.Themostpromisingchannelis""+2jetsasseenformFig.5.OnecanalsoimagineaproductionofNthroughitscouplingstoWL(proportionaltoyD),butthisisalongshot.ItwouldrequirelargeyDandlargecancellationsamongtheinordertohavesmallm!.Thiscouldbeachievedinprinciplebyne-tuning,butisnotthesee-sawmechanism.Thecrucialcharacteristics1.nomissingenergywhichhelpstoghtthebackground48protonproton(anti)Production @ collidersWednesday 4 April 12
+---------
+Slide 75
+ Parity restoration  Lepton Number Violation:  same sign leptons direct probe of Majorana nature:WRWRRllu!djjNFigure5:Productionofleptonnumberviolatingsamesigndileptonsatcol-lidersthroughWRandNheavyparticlesneededtocompletetheSMinordertohavem!!=0(suchasNR).ItisthuscrucialtohaveadirectmeasureofleptonnumberviolationwhichcanprobethesourceofneutrinoMajoranamass.Thisisprovidedbythesamesigndileptonproductionatcollidersaswediscussbelow.7.2LeptonnumberviolationatcollidersWehavejustseenthat!!0isobscuredbyvariouscontributionswhicharenoteasytodisentangle.Weneedsomedirecttestsoftheoriginof!L=2,i.e.these-sawmechanism.Thiscomesaboutfrompossibledirectproductionoftheright-handedneutrinosthroughaWRproduction.ThecrucialpointhereistheMajorananatureofN:onceproducedatdecaysequallyoftenintoleptonsandantileptons.Thisledus[27]tosuggestadirectproductionofthesamesigndileptonsatcollidersasamanifestationof!L=2.Themostpromisingchannelis""+2jetsasseenformFig.5.OnecanalsoimagineaproductionofNthroughitscouplingstoWL(proportionaltoyD),butthisisalongshot.ItwouldrequirelargeyDandlargecancellationsamongtheinordertohavesmallm!.Thiscouldbeachievedinprinciplebyne-tuning,butisnotthesee-sawmechanism.Thecrucialcharacteristics1.nomissingenergywhichhelpstoghtthebackground48protonproton(anti)Production @ collidersWednesday 4 April 12
+---------
+Slide 76
+ Parity restoration  Lepton Number Violation:  same sign leptons direct probe of Majorana nature:WRWRRllu!djjNFigure5:Productionofleptonnumberviolatingsamesigndileptonsatcol-lidersthroughWRandNheavyparticlesneededtocompletetheSMinordertohavem!!=0(suchasNR).ItisthuscrucialtohaveadirectmeasureofleptonnumberviolationwhichcanprobethesourceofneutrinoMajoranamass.Thisisprovidedbythesamesigndileptonproductionatcollidersaswediscussbelow.7.2LeptonnumberviolationatcollidersWehavejustseenthat!!0isobscuredbyvariouscontributionswhicharenoteasytodisentangle.Weneedsomedirecttestsoftheoriginof!L=2,i.e.these-sawmechanism.Thiscomesaboutfrompossibledirectproductionoftheright-handedneutrinosthroughaWRproduction.ThecrucialpointhereistheMajorananatureofN:onceproducedatdecaysequallyoftenintoleptonsandantileptons.Thisledus[27]tosuggestadirectproductionofthesamesigndileptonsatcollidersasamanifestationof!L=2.Themostpromisingchannelis""+2jetsasseenformFig.5.OnecanalsoimagineaproductionofNthroughitscouplingstoWL(proportionaltoyD),butthisisalongshot.ItwouldrequirelargeyDandlargecancellationsamongtheinordertohavesmallm!.Thiscouldbeachievedinprinciplebyne-tuning,butisnotthesee-sawmechanism.Thecrucialcharacteristics1.nomissingenergywhichhelpstoghtthebackground48protonproton(anti)50% electrons - 50 % positronsProduction @ collidersWednesday 4 April 12
+---------
+Slide 77
+Large Hadron Collider modern times27 kmup to 175 m deepCERNWednesday 4 April 12
+---------
+Slide 78
+proton -  proton scattering E=7000  GeVwill doublein 2014Split, Zagreb...LjubljanaWednesday 4 April 12
+---------
+Slide 79
+CMS detector modern times:3600 peopleCompact Muon SolenoidWednesday 4 April 12
+---------
+Slide 80
+becoming reality as we speak, after three decades of waitingrst data already here and more  to come this yearboth CMS and ATLAS:WRdedicated search forstay tuneda number of papers, limit ~ 2500 GeV: closing up on theoryWednesday 4 April 12
+---------
+Slide 81
+Large Hadron ColliderWednesday 4 April 12
+---------
+Slide 82
+HvalaWednesday 4 April 12
+---------
+Slide 83
+  anti-particles  not around us :particle + anti-particle annihilateWednesday 4 April 12
+---------

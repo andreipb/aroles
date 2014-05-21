@@ -1,0 +1,396 @@
+
+
+what im going to do 
+
+i now want to run a loop where i need to collect 
+
+things together 
+
+im going to give a name to that 
+
+and what you see there is im going to call divisors 
+
+initially an empty tuple something has nothing in it 
+
+right here 
+
+and then im going to run through the same loop as 
+
+before going through this set of things doing the check 
+
+now what id like to do every time i find a divisor id 
+
+like to gather it together 
+
+so im going to create a tuple of one element the value of i 
+
+
+and then ah cool 
+
+heres that addition operation thats badly overloaded 
+
+this is why professor guttag likes and i dont 
+
+because given that this is a tuple and thats a tuple i 
+
+can just add them together 
+
+that is concatenate them if you like one on the end of it 
+
+and if i keep doing that when im done divisor will be 
+
+a collection of things 
+
+so let me just run it 
+
+all right 
+
+this is what i get for trying to  
+
+student there should be a comment after the 
+
+i in parentheses 
+
+professor eric thank you 
+
+right there 
+
+all right well try this again 
+
+ok 
+
+and there are the set of devices 
+
+thank you 
+
+who did that 
+
+somebody gets no 
+
+yours 
+
+thank you 
+
+nice catch too by the way 
+
+all right so now that you can see that i can screw up 
+
+programming which i just did 
+
+but we fixed it on the fly 
+
+thank you 
+
+what have we done 
+
+weve now got a way of collecting things 
+
+together right 
+
+and this is the first version of something wed like to use 
+
+now that ive gotten that bound as a name i could go in 
+
+and do things with that 
+
+i could go in and say give me the fourth divisor give me the 
+
+second through fifth divisor 
+
+again as i suggested if ive got two integers and i want 
+
+to find common divisors i could take those two lists 
+
+and walk through them 
+
+i shouldnt say list those two tuples and walk through them 
+
+to find the pieces that match up 
+
+
+so ive got a way now of gathering data together 
+
+the last thing i want to do is to say all right now that 
+
+weve got this idea of being able to collect things into 
+
+collections weve got the ability now to use looping 
+
+structures as we did before but we can walk down then doing 
+
+things to them where else might we have this need to do 
+
+things with looping structures 
+
+and im going to suggest youve already seen it 
+
+whats a string 
+
+well at some level it is an ordered sequence of characters 
+
+right 
+
+now it is not represented this same way 
+
+you dont see strings inside these open parens 
+
+and closed parens 
+
+you dont see strings with commas between them but it has 
+
+
+the same kind of property 
+
+it is in ordered sequence of characters 
+
+wed like to do the same thing with strings 
+
+that is wed like to be able to get pieces of them out 
+
+wed like to be able add them together or concatenate 
+
+them together 
+
+wed like to be able to slice them 
+
+and in fact we can 
+
+so strings also support things like selection slicing and a 
+
+set of other parameters other properties 
+
+and lets just look at that 
+
+again if i go back here let me comment this out 
+
+right here are a pair of strings that ive 
+
+set up s  and s  
+
+let me just run these 
+
+we can go back over here 
+
+so i can see the value of s  its a string 
+
+i can do things like s  and s  
+
+as we saw before it simply concatenates them together and 
+
+gives me back a longer string 
+
+but i can also ask for parts of this 
+
+so i can for example say give me the first element 
+
+
+of string  s  
+
+ah thats exactly what we would have thought if this was 
+
+represented as an ordered sequence of things 
+
+again i should have said first index  the first one 
+
+i can similarly go in and say id like all the things 
+
+between index  and index  
+
+and again remember what that does 
+
+index  says start a  
+
+  
+
+so a b c 
+
+and then it goes up to but not including index  so it gets 
+
+c and d and then it stops 
+
+
+i can similarly just as i did with the tuples i can ask for 
+
+everything up to some point or i can ask for everything 
+
+starting at some point and carrying on 
+
+now what youre seeing here then is the beginning of 
+
+complex data structures 
+
+and the nice thing is that theres a shared 
+
+behavior there 
+
+just as i can have tuples as an ordered collection of things 
+
+strings behave as an ordered collection of things 
+
+so i can start thinking about doing manipulation on strings 
+
+i can concatenate them together i can find pieces 
+
+inside of them i could actually do things with them 
+
+and let me show you just a simple little example of 
+
+something i might want to do 
+
+suppose i take i better comment this one out or 
+
+its going to spit it out 
+
+let me comment that out 
+
+suppose i take a number 
+
+id like to add up all the digits inside of the number 
+
+
+i can use the tools ive just described in 
+
+order to capture that 
+
+so what would i want to do 
+
+id like to somehow walk down each of the digits one at 
+
+a time and add them up 
+
+ah thats a looping mechanism right 
+
+i need to have some way of walking through them 
+
+an easy way to do it would be inside of a for 
+
+and what would i like to do 
+
+well i need to take that number and im going to 
+
+turn it into a string 
+
+so notice what im going to do right here 
+
+i take that number and convert it into a string 
+
+thats an example of that type conversion we did earlier on 
+
+by doing that it makes it possible for me to 
+
+treat it as an ordered sequence of characters 
+
+and so whats the loop going to do 
+
+
+its going to say for c which was my name for the 
+
+character in that string 
+
+that means starting at the first one im going 
+
+to do something to it 
+
+and what am im going to do 
+
+im going to take that character convert it back 
+
+into an integer and add it into some digits 
+
+and ive done a little short hand here which is i should 
+
+have said some digits is equal to some digits plus this 
+
+but that little short hand there is doing exactly 
+
+
+the same thing 
+
+it is adding that value into some digits and putting 
+
+it back or signing it back into some digits 
+
+and ill walk through that loop and when im done i can print 
+
+out the total thing does 
+
+and if i do that i get out what i would expect 
+
+so what have i done 
+
+weve now generalized the idea of iteration into 
+
+this little pattern 
+
+again as i said this is my version of it but you can see 
+
+every one of the examples weve used so far has that 
+
+pattern to it 
+
+figure out what im trying to walk through 
+
+whats the collection of things im trying to walk through 
+
+figure out what i want to do at each stage 
+
+figure out what the end test is 
+
+figure out what im going to do at the end of it 
+
+i can write it explicitly 
+
+i can write it inside of a for loop 
+
+and weve started to add and well see a lot more of this 
+
+examples of collections of structures so that we dont 
+
+just have to do something that can be easily described as 
+
+walking through a set of things but can actually be 
+
+a collection that you walk through 
+
+the last thing i want to point out to you is i started 
+
+out with this list 
+
+i havent added anything to the list right 
+
+i mean ive got a different kind of looping mechanism 
+
+i guess i should say thats not quite true 
+
+ive added the ability to have more complex 
+
+data structures here 
+
+
+but i dropped a hint in the first lecture about what you 
+
+could computer with things 
+
+in fact if you think for a second about that list you 
+
+could ask what can i compute with just that set 
+
+of constructs 
+
+and the answer is basically anything 
+
+this is an example of what is referred to frequently as being 
+
+a turing complete language 
+
+that is to say with just those set of constructs anything you 
+
+can describe algorithmically you can compute with 
+
+that set of constructs 
+
+so theres good news and bad news 
+
+the good news is it sounds like were done 
+
+class is cancelled until final exam because this is all 

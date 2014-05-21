@@ -1,0 +1,60 @@
+MIT 8.01 Physics I: Classical Mechanics - Fall 1999
+
+Lecture 23: Doppler Effect - Binary Stars - Neutron Stars and Black Holes
+
+This lecture was recorded by Massachusetts Institute of Technology, MIT
+
+author: Walter H. G. Lewin, Center for Future Civic Media
+
+published: Oct. 10, 2008,   recorded: November 1999,   views: 2946
+
+released under terms of: CC BY-NC-SA 
+
+Description
+1. Doppler Shift with Sound Waves - Circular Orbits:
+
+The received frequency changes if the source of sound moves towards or 
+away from an observer. This is the Doppler Effect, demonstrated by Professor 
+Lewin with a tuning fork. The fractional change in frequency reveals the 
+velocity component along your line of sight to the moving sound source. If the 
+source of sound is in circular motion, and if the observer is somewhere in the 
+orbital plane, you can determine the orbital radius and the speed of the source 
+in its orbit. This is demonstrated with a rotating wind organ.
+
+2. Doppler Shift of Electromagnetic Radiation:
+
+Electromagnetic radiation travels at the speed of light, c, in vacuum. If a source 
+of light has a velocity component towards you, the frequencies that you will observe 
+will be higher than those of the emitted radiation, and the received wavelengths will 
+be shorter (blue-shift) than the emitted wavelengths. If the source is receding from you 
+the received wavelength is longer (red-shift). The spectroscopic Doppler shift is used by 
+astronomers to measure the radial velocity of emitters and absorbers of light.
+
+3. Star Mass Determinations from Doppler Shift:
+
+A binary star system consists of a pair of stars orbiting about their center of mass. 
+By measuring the Doppler shifts of both stars as a function of time, you can determine 
+the orbital period, the radial velocity of each star and, if the observer is located in 
+the orbital plane, the orbital radii can be found for both stars. The orbital radii and 
+Kepler's third Law determine the total mass of the system, enabling the determination of 
+each star's mass separately.
+
+4. X-ray Binary Systems:
+
+In an X-ray binary system, there is a neutron star (or black hole) pulling matter off its 
+donor companion. Matter spirals toward the neutron star, and potential energy is converted 
+to kinetic energy. This, coupled with the high mass transfer rate between the pair, generates 
+tremendous power and astronomical temperatures (it radiates mainly X-rays). The accreting 
+ionized matter gets funnelled onto hot spots by the neutron star's magnetic field, which spins 
+with the neutron star (making it an X-ray pulsar). Doppler shifts in the pulsar period and 
+X-ray eclipses can provide orbital parameters (and masses) for the stellar system.
+
+5. Black Holes:
+
+A black hole is a massive object with no size, but with a characteristic surface called the event 
+horizon from within which nothing can escape the black hole. In black-hole binary systems the 
+accreting matter radiates X-rays as it approaches the event horizon of the black hole, but the black 
+hole has no surface, therefore does not exhibit a pulsar-like behavior. You can measure the optical 
+Doppler shift of the donor star, and from its spectrum estimate the donor's mass. This then leads to 
+the mass of the accretor. If this mass is in excess of about 3 solar masses, it is believed to be a 
+black hole. Cygnus X-1 was the first such discovery (in 1972). Its black hole is about 10 solar masses.

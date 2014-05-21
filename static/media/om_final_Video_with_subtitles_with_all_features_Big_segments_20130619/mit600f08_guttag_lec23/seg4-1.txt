@@ -1,0 +1,352 @@
+
+
+
+
+the following content is provided under a 
+
+creative commons license 
+
+your support will help mit opencourseware continue to 
+
+offer high quality educational resources for free 
+
+to make a donation or view additional materials from 
+
+hundreds of mit courses visit mit opencourseware 
+
+at ocwmitedu 
+
+i want to pick up exactly where 
+
+i left off last time 
+
+when i was talking about various sins one can 
+
+commit with statistics 
+
+and i had been talking about the sin of data enhancement 
+
+where the basic idea there is you take a piece of data and 
+
+
+you read much more into it than it implies 
+
+in particular a very common thing people do with data 
+
+is they extrapolate 
+
+id given you a couple of examples 
+
+in the real world its often not desirable to say that i 
+
+have a point here and a point here therefore the next 
+
+point will surely be here 
+
+and we can just extrapolate in a straight line 
+
+we before saw some examples where i had an algorithm to 
+
+generate points and we fit a curve to it used the curve to 
+
+predict future points and discovered it was 
+
+nowhere close 
+
+unfortunately we often see people do this sort of thing 
+
+
+one of my favorite stories is william ruckelshaus who was 
+
+head of the environmental protection agency in 
+
+the early s 
+
+and he had a press conference spoke about the increased use 
+
+of cars and the decreased amount of carpooling 
+
+he was trying to get people to carpool since at the time 
+
+carpooling was on the way down and i now quote each car 
+
+entering the central city sorry in  he said each 
+
+car entering the central city had  people in it 
+
+by  this had dropped to less than  
+
+if present trends continue by  more than  out of every 
+
+ cars entering the city will have no driver amazingly 
+
+enough the press reported this as a straight story and talked 
+
+
+about how we would be dramatically dropping 
+
+of course as it happened it didnt occur 
+
+but its just an example of how much trouble you can 
+
+get into by extrapolating 
+
+the final sin i want to talk about is probably the most 
+
+common and its called the texas sharpshooter fallacy 
+
+now before i get into that are any of you here from texas 
+
+all right youre going to be offended 
+
+let me think ok anybody here from oklahoma 
+
+youll like it 
+
+ill dump on oklahoma it will be much better then 
+
+well talk about the oklahoma sharpshooter fallacy 
+
+we wont talk about the bcs rankings though 
+
+
+so the idea here is a pretty simple one 
+
+this is a famous marksman who fires his gun randomly at the 
+
+side of a barn has a bunch of holes in it then goes and 
+
+takes a can of paint and draws bullseyes around all the places 
+
+his bullets happened to hit 
+
+and people walk by the barn and say god he is good 
+
+so obviously not a good thing but amazingly easy 
+
+to fall into this trap 
+
+so heres another example 
+
+in august of  a paper which people took seriously 
+
+appeared in a moderately serious journal called 
+
+the new scientist 
+
+and it announced that researchers in scotland had 
+
+proven that anorexics are likely to have been 
+
+born in june 
+
+im sure you all knew that 
+
+how did how did they prove this 
+
+or demonstrate this 
+
+they studied  women 
+
+each of whom had been diagnosed anorexic 
+
+and they observed that about  percent more than 
+
+average were born in june 
+
+now since the monthly average of births if you divide this 
+
+by  its about  that tells us that  
+
+were born in june 
+
+so at first sight this seems significant and in fact if you 
+
+run tests and ask whats the likelihood of that many more 
+
+being born in  month youll find that its quite unlikely 
+
+in fact youll find the probability of this happening 
+
+is only about  percent of it happening just by accident 
+
+whats wrong with the logic here 
+
+yes 
+
+they only studied diagnosed anorexics 
+
+no because they were only interested in the 
+
+question of when are anorexics born so it made sense 
+
+to only study those 
+
+now maybe youre right that we could study that in fact more 
+
+people are born in june period 
+
+that could be true 
+
+this would be one of the fallacies we looked 
+
+at before right 
+
+that theres a lurking variable which is just that people are 
+
+more likely to be born in june 
+
+so thats certainly a possibility 
+
+what else 
+
+what else is the flaw 
+
+wheres the flaw in this logic 
+
+
+well what did they do 
+
+they participated in the oklahoma sharpshooter fallacy 
+
+what they did is they looked at  months they took the 
+
+months with the most births in it which happened to be 
+
+june and calculated the probability of  percent 
+
+they didnt start with the hypothesis that it was june 
+
+they started with  months and then they drew a 
+
+bullseye around june 
+
+so the right question to ask is whats the probability not 
+
+that june had  babies but that at least one of the 
+
+ months had  babies 
+
+that probability is a lot to higher than  percent right 
+
+in fact its about  percent 
+
+so what we see is again perfectly reasonable 
+
+statistical techniques but not looking at 
+
+things in the right way 
+
+
+and answering the wrong question 
+
+that make sense to everybody 
+
+and you can see why people can fall into this trap right 
+
+it was a perfectly sensible seemingly sensible argument 
+
+so the moral of this particular thing is be very careful about 
+
+looking at your data drawing a conclusion and then saying how 
+
+probable was that to have occurred 
+
+because again youre probably or maybe drawing the 
+
+bullseye around something thats already there 
+
+
+now if they had taken another set of  anorexics and again 
+
+june was the month then there would be some 
+
+credibility in it 
+
+because they would have started with the hypothesis not that 
+
+there existed a month but that june was particularly likely 
+
+but then they would have to also check and make sure that 
+
+june isnt just a popular month to be born as 
+
+was suggested earlier 
+
+all right i could go on and on with this sort of 
+
+thing its kind of fun 
+
+
+but i wont 
+
+instead im going to torture you with yet 
+
+one more simulation 
+
+you may be tempted at this point to just zone out 
+
+try not to 
+
+and as an added incentive for you to pay attention im 
+
+going to warn you that this particular simulation will 
+
+appear in the final or a variant of it 
+
+and what well be doing is early next week well be 
+
+distributing code which well ask you to study about two or 
+
+three pages of code and then on the final well be asking 
+
+you questions about the code 
+
+not that you have to memorize it well 
+
+give you a copy of it 
+
+but you should understand it before you walk in 
+
+to take the final 
+
+because there will not be time to look at that code for the 
+
+first time during the quiz and figure out what its doing 
+
+ok so lets look at it 
+
+i should also warn you that this code includes some python 
+
+concepts at least one that you have not yet seen 
+
+well see it briefly today 
+
+this is on purpose because one of the things i hope you have 
+
+learned to do this semester is look up things you dont know 
+
+and figure out what they do 
+
+what they mean 
+
+
+because we obviously cant in any course or even any set of 
+
+courses tell you everything youll ever want 
+
+to know in life 
+
+so intentionally weve seeded some things in this program 
+
+that will be unfamiliar so during the time youre studying 
+
+the program get online look it up figure out what they do 
+
+if you have trouble we will be having office hours where 
+
+you can go and get some help 
+
+but the tas will expect you to have at least tried to 
+
+figure it out yourself 

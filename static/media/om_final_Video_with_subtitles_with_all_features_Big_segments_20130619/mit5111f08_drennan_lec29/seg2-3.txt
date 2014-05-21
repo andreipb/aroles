@@ -1,0 +1,322 @@
+
+
+how much they go up and down in energy the overall 
+
+energy is maintained 
+
+so here we had two orbitals going up by  three 
+
+orbitals going down by  
+
+so here we have three orbitals going up so theyll go up in 
+
+energy by  two orbitals go down so theyll be going 
+
+down in energy by  
+
+so again its the opposite of the octahedral system 
+
+its opposite pretty much in every way except that the 
+
+splitting energy is much smaller its not as large 
+
+for the tetrahedral complex 
+
+all right so lets look at an example and were going to 
+
+consider a chromium and like we did before we have to first 
+
+figure out the d count so we have chromium plus  
+
+so what is our d count here 
+
+you know where chromium is what its group number  
+
+here is a periodic table 
+
+
+so what is the d count 
+
+ 
+
+so we have  minus    a d  system 
+
+and now why dont you tell me how you would fill in those 
+
+three electrons in a tetrahedral case 
+
+have a clicker question there 
+
+so notice that in addition to having electron configurations 
+
+that are different the d orbitals are labelled 
+
+differently 
+
+ok  more seconds 
+
+ok very good  
+
+so lets take a look at that 
+
+so down here were going to have then our d x squared minus 
+
+y squared d z squared orbitals up in the top we have 
+
+x y and x z and y z 
+
+again the orbitals that are onaxis are repelled a little 
+
+
+less than the orbitals that are offaxis in a tetrahedral case 
+
+and then we put in our electrons we start down here 
+
+and then one of the questions is do we keep down here and 
+
+pair up or go up here and the answer is that you 
+
+would go up here 
+
+does someone want to tell me why they think thats true 
+
+yeah 
+
+inaudible 
+
+right because it has a smaller splitting energy 
+
+so the way that we were deciding before with the weak 
+
+
+field and the strong field if its a weak field it doesnt 
+
+take much energy to put it up there 
+
+so you go they dont want to be paired theres energy 
+
+associated with pairing 
+
+but if theres a really huge splitting energy then it takes 
+
+less energy to pair them up before you go that big 
+
+distance up there 
+
+but in tetrahedral cases the splitting energys always 
+
+small so youre just going to always fill them up singly 
+
+to the fullest extent possible before you pair 
+
+so this is like a weak field case for the octahedral system 
+
+and all tetrahedral complexes are sort of the equivalent of 
+
+the weak field because the splitting energy is always 
+
+small in an octahedral case because none of the ligands 
+
+
+negative point charges are really pointing toward any of 
+
+those orbitals that much so its not that big a difference 
+
+so here we have this and now we can practice writing our d 
+
+to the n electron configuration 
+
+so what do i put here 
+
+what do i put first 
+
+so we put the e and then what 
+
+yup 
+
+there are two electrons in the e set of orbitals and in the 
+
+
+t  orbitals theres one 
+
+so that is our d n electron configuration 
+
+and then were also asked how many unpaired electrons 
+
+unpaired electrons and that is three 
+
+all right 
+
+so thats not too bad thats the tetrahedral case 
+
+the hardest part is probably making your 
+
+tetrahedral complex 
+
+now square planar 
+
+so again with the square planar set you have your square 
+
+planar model  we have a bigger one down here 
+
+and the axes is defined such that we have ligands right 
+
+along x  one coming out at you and one going back and 
+
+also ligands right along the yaxis 
+
+
+so as defined then weve gotten rid of our ligands 
+
+along the zaxis 
+
+so what do you predict 
+
+which two of these will be the most destabilized now 
+
+what would be the most destabilized what 
+
+do you guess 
+
+you can hold up your little sets here 
+
+whats the most destabilized whats going to go up 
+
+the most in energy here 
+
+yeah d z squared minus y squared 
+
+what do you predict might be next in terms of 
+
+most unfavorable 
+
+yeah the x y one 
+
+so these two now are going to be the most destabilized with 
+
+d x squared minus y squared being a lot more destabilized 
+
+than just the x y because again those d orbitals 
+
+are onaxis and these ligands are onaxis 
+
+so lets take a look at all of these again 
+
+so in the octahedral case these were degenerate 
+
+thats no longer true because there are no ligands 
+
+along the zaxis anymore 
+
+so we took those off in going from the octahedral to the 
+
+square planar so you have much less repulsion but with the d 
+
+x squared minus y squared you still have a lot repulsion 
+
+so then if we start building up our case and this diagram is 
+
+i think on the next page of your handout but im going to 
+
+start building it all up together 
+
+so now d x squared y squared is really high up its very 
+
+much more destabilized than anybody else 
+
+d z squared on the other hand is down 
+
+its not  it would be stabilized compared  its 
+
+not nearly as destabilized as the other system 
+
+so then we go back and look at these 
+
+you told me that d x y would probably be next and 
+
+thats a very good guess 
+
+you see you have more repulsion than in the other two because 
+
+the other orbitals have some z component in them 
+
+so you have less repulsion than d x squared minus y squared 
+
+because its  degrees off but still that one is probably 
+
+
+going to be up a little bit more in energy than 
+
+the other set 
+
+these two here are stabilized compared to the others so 
+
+theyre somewhere down here 
+
+now the exact sort of arrangement can vary a little 
+
+bit but the important points are that the d x squared minus 
+
+y squared is the most destabilized d x y would be 
+
+next and the other are much lower in energy 
+
+and were not going to do this how much up and down thing 
+
+like the  and the  because its more 
+
+
+complicated in this case 
+
+so just the basic rationale you need to know here not the 
+
+exact energy differences in this particular case 
+
+ok so now weve thought about three different kinds of 
+
+geometries  octahedral tetrahedral and 
+
+the square planar 
+
+you should be able to rationalize for any 
+
+geometry that i give you what would be true 
+
+
+if i tell you the geometry and how it compares with our frame 
+
+with our axis frame of where the zaxis is you should be 
+
+able to tell me which orbital sets would be 
+
+the most destabilized 
+
+and to give you practice why dont you try 
+
+this one right here 
+
+so we have a square pyramidal case as drawn here with the 
+
+axes labeled z y and x coming in and coming out 
+
+tell me which of the following statements are true 
+
+and if you want you can take your square planar and turn it 
+
+into the geometry to help you out 
+
+lets just take  more seconds 
+
+all right 
+
+that was good 
+
+people did well on that question 
+
+so if we consider that we had the top two are correct 
+
+so if we consider the d z squared now weve put a ligand 
+
+along z so that is going to cause that to be more 
+
+destabilized for this geometry rather than square planar 

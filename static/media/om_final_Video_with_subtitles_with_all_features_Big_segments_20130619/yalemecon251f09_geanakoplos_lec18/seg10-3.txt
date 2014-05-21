@@ -1,0 +1,322 @@
+
+
+in the entire year right they have  chances 
+
+during the year 
+
+it takes them an entire year and only  percent of them have 
+
+figured out that they should prepay 
+
+so you know theyre not acting optimally 
+
+so just from that graph that would tell you 
+
+and you have further evidence of that 
+
+thats evidence that they arent acting optimally 
+
+furthermore you have evidence that the banks dont expect them 
+
+to be acting optimally because the banks arent charging them  
+
+or  percent interest which is what they would need 
+
+to pay to get the thing worth  
+
+theyre charging them  and  half percent interest which for 
+
+the optimal prepayer is worth much less than  to the bank 
+
+so the banks wouldnt do that 
+
+they would just go out of business if they did something 
+
+stupid like that 
+
+they wouldnt do that unless they thought that the homeowners 
+
+werent acting at least not all of them 
+
+acting optimally 
+
+so suppose you had to predict how people are going to act in 
+
+the future and you wanted to trade on that 
+
+what would you do 
+
+how would you think about predicting it 
+
+so this is the data that you have 
+
+what would you do 
+
+you have this data 
+
+these are  percent things 
+
+you also have  percent mortgages issued the year 
+
+before and then maybe a year before 
+
+that there were  and  half percent interest and you have 
+
+that history and youve got all these 
+
+different pools and all these different histories 
+
+how would you think about figuring out a prepaymenthow 
+
+
+would you predict prepayments 
+
+well the way economists macro economists at least in 
+
+the old days used to make predictions 
+
+they would say hum the first quarter 
+
+looks pretty good 
+
+what are they predicting now 
+
+now theyre saying unemployment is probably going 
+
+to keep rising for the next quarter or two well until the 
+
+next year but at that point things are 
+
+going to turn around and we expect the economy to get 
+
+stronger come out of its recession and 
+
+unemployment should gradually improve from its high which we 
+
+
+expect will be  and  half percent to something back down 
+
+to  percent by the end of  
+
+thats more or less the economists prediction 
+
+now can you make a prediction like that about prepayments 
+
+would it make sense to make a prediction about that 
+
+why is that an utterly stupid kind of prediction 
+
+what is the essence of good prediction 
+
+if you wanted to predict something and you were going to 
+
+lose a lot of money if your prediction was wrong how would 
+
+you refine your prediction compared to what i just gave as 
+
+a sample prediction 
+
+yep 
+
+you have to have a number of scenarios  
+
+ 
+
+to each one 
+
+exactly  
+
+so what he said is if youre even the slightest bit 
+
+sophisticated youre not going to make a bald noncontingent 
+
+prediction 
+
+things are going to get worse the next two quarters 
+
+then theyre going to start getting better 
+
+then things are going to get as well as theyre going to get 
+
+after two years 
+
+youll solve the problem after two years 
+
+what happens if another war breaks out in iraq 
+
+
+what if iran bombs israel 
+
+what if theres another crash in commercial real estate 
+
+how could that prediction possibly turn out to be true 
+
+its a sure thing its going to be wrong 
+
+its just impossible thats going to be right because the 
+
+guy making the prediction has made no contingencies built in 
+
+his prediction 
+
+you know that guys making a prediction for free 
+
+someone may be paying him to hear him but hes not going to 
+
+be penalized if his prediction is wrong 
+
+no one in their right mind would make such a prediction 
+
+so the first thing you should do in predicting prepayments is 
+
+
+to realize that youve got a tree of possible futures 
+
+and given this tree of possible futures youre going to predict 
+
+different prepayments depending on where you go on the tree 
+
+so you see prediction is not a simple one eventits not a one 
+
+shot thing 
+
+just as he so aptly put it its a many scenario thing 
+
+you have to predict on many many scenarios what you think 
+
+will happen and that makes your prediction much better because 
+
+of course if there is a war in iraq 
+
+
+and if there is a catastrophe in afghanistan 
+
+and if iran does bomb israel and if the commercial real 
+
+estate market collapses things are going to be a lot worse than 
+
+this original guys prediction 
+
+so everybody knows that so why not make the prediction 
+
+more sensible 
+
+so on wall street thats what everybodys done for  years 
+
+now they havent done it for  years 
+
+its just  years that theyve been doing that 
+
+so when i got to kidder peabody in  they were making these 
+
+
+one scenario predictions 
+
+its a long story which ill tell maybe sunday night 
+
+i ended up in charge of the research department and so we 
+
+made you know other firms were doing this 
+
+already we made scenario predictions okay 
+
+so now what kind of scenario predictions are you going to 
+
+make 
+
+when you make contingent predictions there are an awful 
+
+lot of them 
+
+you cant even write them all down so what you have to do is 
+
+you have to have a model 
+
+so what kind of model should you have 
+
+ill tell you now what the standard guys were doing on wall 
+
+
+street at the time 
+
+they were sayingheres interest rate 
+
+sorry 
+
+heres the present value of a mortgage 
+
+heres the present value of a callable mortgage 
+
+present value of  dollar of principal so realistic 
+
+prepayments 
+
+so if we go over here well see that people said 
+
+look from this graph its clear 
+
+they would say that when interest rates 
+
+went down people prepay more so why dont we have a function 
+
+
+that looks like this 
+
+so prepay thats the percentage of remaining balance 
+
+that is paid off 
+
+so what does that mean 
+
+remember after youve made your coupon payment you have a 
+
+remaining balance b 
+
+you could pay all of it or none of it 
+
+or half of it 
+
+so the prepay is what percentage of the 
+
+bthats just after youve paid right 
+
+so b lets do that one 
+
+b just after youve paid  the 
+
+remaining balance has now been reduced to b 
+
+you could in addition to the  pay off all of that 
+
+b 
+
+typically some people who are alert and think its a good time 
+
+to prepay will pay all of b 
+
+
+others will pay none of b 
+
+so if you aggregate over the whole collection of people the 
+
+prepay percentages out of the sums of all their 
+
+bs what percentage of them are going to pay off 
+
+so we look at the aggregate prepayment 
+
+thats the old fashioned way 
+
+and we say what percentage of the remaining 
+
+balance is paid off 
+
+so youd make a function like this 
+
+youd say well prepaid might equal  
+
+percent 
+
+why am i picking  percent 
+
+so if you go back to this picture you see that prepayments 

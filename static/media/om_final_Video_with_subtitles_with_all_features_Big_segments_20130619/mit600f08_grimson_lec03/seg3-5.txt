@@ -1,0 +1,350 @@
+
+
+as you program 
+
+ok 
+
+the other thing i want to say here is that this style of 
+
+program we just wrote is actually a very common one 
+
+and were going to give it a nice little name 
+
+often referred to as exhaustive enumeration 
+
+what does that mean 
+
+it says im literally walking through all possible values of 
+
+some parameter some element of the computation testing 
+
+everything until i find the right answer 
+
+all right so its you know again i can even write that 
+
+down essentially saying try all reasonable values until 
+
+you find the solution 
+
+and you might say well wait a minute isnt that going 
+
+to be really expensive 
+
+and the answer is yeah i guess if you want to search 
+
+you know all the pages on google one by one yes 
+
+probably its going to take a while 
+
+but there are an awful lot of computations for which this 
+
+is the right way to do it 
+
+you just want to exhaustively go through things 
+
+and just to give you a sense of that let me 
+
+show you an example 
+
+im going to change this all right 
+
+nice big number 
+
+you know computers are fast these days 
+
+
+i can make this even bigger its going to do it fairly 
+
+quickly so it really is quick to do this 
+
+it doesnt mean that exhaustive enumeration is a bad idea it 
+
+is often the right idea to use 
+
+so weve seen one example of this this idea of walking 
+
+through all the integers looking for the square root 
+
+lets look at some other examples in order to try 
+
+and see other ways in which we could do it 
+
+ok 
+
+in particular lets go over to here and let me show 
+
+you a second example 
+
+and let me comment that out 
+
+heres another problem that id like to solve 
+
+suppose i want to find all the divisors of some integer i 
+
+
+want to figure out what all the divisors are that 
+
+go evenly into it 
+
+again same kind of reasoning says given some value x i 
+
+happened to pick a small one here whats an easy 
+
+way to do this 
+
+well lets just start at one 
+
+thats my variable im going to change and check 
+
+does it divide evenly into x 
+
+if it does print it out 
+
+move on to the next one print it out 
+
+so again i can do the same kind of thing here you can see 
+
+that in fact lets just run it to make sure it does 
+
+the right thing ok 
+
+in fact if i go back to the code what did i 
+
+
+decide to do here 
+
+i say starting with an initialization of i theres my 
+
+first step as equal to  im going to walk through a little 
+
+loop where i check as long first of all as long as i is 
+
+less than x so theres my end test im going 
+
+to do something 
+
+and in this case the something is im going to look to 
+
+see if i divides x evenly 
+
+so ill remind you of that amp sorry that percent sign 
+
+there that says if x divided by i has a  remainder because 
+
+this gives me back the remainder if thats equal to 
+
+ print something out 
+
+and theres my nice increment 
+
+simple little piece of code 
+
+notice again exactly the same i picked the thing i 
+
+wanted to vary i initialized it outside the loop i have a 
+
+
+test to see when im done and then ive got a set of 
+
+instructions im doing every time inside the loop 
+
+in this case its doing the check on the remainder 
+
+and printing them out 
+
+and when im done with the whole thing before i end the 
+
+increment of the variable you know when im done im just 
+
+not returning anything out 
+
+ok 
+
+
+so now youve seen two simple examples 
+
+let me generalize this 
+
+in this case my incrementer was just adding  to an 
+
+integer its a pretty straightforward thing to do 
+
+but you can imagine thinking about this a little 
+
+differently 
+
+if i somehow had a collection an ordered collection of all 
+
+the integers from  to  i could imagine doing the same 
+
+thing where now what im doing is im starting with the first 
+
+element of that collection doing something going to the 
+
+next element doing something going to the next element 
+
+doing something im just walking through the 
+
+sequence of elements 
+
+right 
+
+and i havent said yet how do i get that collection but you 
+
+could certainly conceptualize that if i had that collection 
+
+that would be nice thing to do 
+
+that is a more common pattern 
+
+that is basically saying given some collection of data i want 
+
+to have again a looping mechanism where now my process 
+
+is walk through this the collection one 
+
+element at a time 
+
+and for that we have a particular construct 
+
+called a for loop 
+
+its going to do exactly that for us 
+
+its going to be more general than this and were going to 
+
+come back to that in fact professor guttags going to 
+
+
+pick this up in a couple of lectures but we can talk right 
+
+now about the basic form 
+
+the form of a for loop says for and im going to put 
+
+little angle braces in here again to say for some 
+
+variable like a name i want to get to it in some collection 
+
+and then i have a block of code 
+
+and what its saying semantically is using that 
+
+variable as my placeholder have it walk through this 
+
+
+collection starting at the first thing execute that code 
+
+then the next thing execute that code and so on 
+
+one of the advantages of this is that i dont have to 
+
+worry about explicitly updating my variable 
+
+that happens for me automatically 
+
+and thats very nice because this allows me to be sure 
+
+that my for loop is going to terminate 
+
+and because as long as this collection is finite this 
+
+thing is just going to walk through 
+
+all right 
+
+so if i show you for example im going to comment this one 
+
+out in the usual manner and lets look at uncommenting 
+
+that there is the same piece of code 
+
+now i slung something by you or snuck something by you 
+
+which is i hadnt said how to generate the set of 
+
+integers from  to  
+
+so range is a builtin python function 
+
+im going to come back to it in a second 
+
+for now just think of it as saying it gives you all the 
+
+integers from  up to but not including x 
+
+ok 
+
+but now you can see the form 
+
+this now says ok let i start as the first thing in there 
+
+which is  and then do exactly as i did before the same 
+
+thing but notice i dont need to say how to increment it 
+
+its happening automatically for me 
+
+ok 
+
+in fact if i run it it does the same thing which 
+
+is what i would expect 
+
+ok 
+
+now the advantage of the for as i said is that it 
+
+has then if you like a cleaner way of reading it 
+
+
+i dont have to worry about do i initialize it did i forget 
+
+to initialize it outside the loop it happens automatically 
+
+just by the syntax of it right there thats going to start 
+
+with the first element 
+
+i dont have to worry about did i remember to put the 
+
+incrementer in its going to automatically walk its 
+
+way through there 
+
+second advantage of the for is that right now were 
+
+thinking about it just as a sequence of integers 
+
+we could imagine its just counting its way through 
+
+
+but were going to see very shortly that in fact those 
+
+collections could be arbitrary 
+
+were going to have other ways of building them but it could 
+
+be a collection of all the primes 
+
+hm 
+
+theres an interesting thing to do 
+
+it could be a collection of ah you know i dont know 
+
+batting averages of somebody or other 
+
+it could be arbitrary collections that youve come 
+
+up with in other ways 
+
+the for is again going to let you walk through that thing 
+
+so it does not have to be something that could be 
+
+described procedurally such as add  just to 
+
+the previous element 
+
+it could be any arbitrary collection 

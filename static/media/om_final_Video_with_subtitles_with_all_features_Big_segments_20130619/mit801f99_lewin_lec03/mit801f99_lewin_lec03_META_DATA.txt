@@ -1,0 +1,47 @@
+MIT 8.01 Physics I: Classical Mechanics - Fall 1999
+
+Lecture 3: Vectors - Dot Products - Cross Products - 3D Kinematics
+
+This lecture was recorded by Massachusetts Institute of Technology, MIT
+
+author: Walter H. G. Lewin, Center for Future Civic Media
+
+published: Oct. 10, 2008,   recorded: September 1999,   views: 10907
+
+released under terms of: CC BY-NC-SA 
+
+Description
+1. Vectors - Direction Distinguishes Vectors from Scalars
+
+2. Decomposition of a Vector:
+A vector can be projected onto three coordinate axes x,y,z, along which 
+lie unit vectors (denoted with roofs). Professor Lewin works an example.
+
+3. Scalar Product:
+The "dot" product of two vectors is a scalar. A scalar can be positive, 
+negative or zero and we'll use it later in the course to calculate work 
+and energy. Professor Lewin calculates "A dot B" in a couple of examples.
+
+4. Vector Product:
+The cross product (also called vector product) of two vectors results 
+in a vector. Professor Lewin presents two methods for calculating it. 
+A cross product of the vectors A and B is always perpendicular to both 
+A and B. The direction is easily found using the right-hand corkscrew 
+rule. We'll use cross products to calculate torques and angular momentum 
+later in the course. Always use Right Handed coordinate systems, x-hat 
+cross y-hat gives z-hat. If you don't, you'll get into trouble for which 
+you will have to pay dearly.
+
+5. Decomposition of 3D Vectors r, v and a:
+Professor Lewin writes the equations for position (r), velocity (v) and 
+acceleration (a) showing their projection onto the x,y,z axes, and he 
+introduces a shorthand notation for time derivatives. 3D motion can be 
+reduced to three 1D motions which can greatly simplify matters.
+
+6. Projectile Motion in the Vertical Plane:
+Professor Lewin throws an object up, and decomposes its initial velocity 
+into a horizontal and a vertical direction. If air drag can be ignored, 
+the horizontal velocity remains constant. Gravitational acceleration is 
+only in the vertical direction and is not affected by the horizontal motion. 
+This acceleration is constant in the lecture hall if air drag can be ignored 
+(see Lecture 12).

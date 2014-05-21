@@ -1,0 +1,272 @@
+
+
+pointing directly toward those d orbitals 
+
+the orbitals are offaxis ligands are onaxis 
+
+so there will be much smaller repulsions there 
+
+and that we talked about the fact that for d x squared minus 
+
+y squared and d z squared theyre both have experienced 
+
+large repulsions theyre both degenerate in energy they go 
+
+up in energy whereas these three d orbitals smaller 
+
+repulsion and theyre also degenerate with respect to each 
+
+other and theyre stabilized compared to these guys up here 
+
+
+so you can try to hold those up and convince yourself that 
+
+thats true for the octahedral case 
+
+so thats what we talked about last time and now we want to 
+
+ oh and ill just remind you we looked at these splitting 
+
+diagrams as well 
+
+we looked at the average energy of the d orbitals  d z 
+
+squared and d x squared minus y squared go up in energy 
+
+and then the other three d orbitals go down in energy 
+
+so now we want to consider what happens with 
+
+different geometries 
+
+so now you can turn your octahedral case into a 
+
+square planar case and how am i going to do that 
+
+
+yeah so we can just take off the top and the bottom and we 
+
+have our nice square planar case and try to make a 
+
+tetrahedral complex as well 
+
+and heres an example of a tetrahedral one 
+
+again you can take a jelly bean in the middle and big 
+
+jelly bean and then the smaller ones on the outside 
+
+so what angles am i going for here in the tetrahedral case 
+
+  
+
+ 
+
+so you can go ahead and make your tetrahedral complex 
+
+and dont worry so much about the   
+
+ but well see if people can do a good job with the  
+
+ok how are your tetrahedral complexes coming 
+
+do they look like this sort of 
+
+so let me define for you how were going to consider 
+
+the tetrahedral case 
+
+so in the tetrahedral case were going to have the xaxis 
+
+comes out of the plane the yaxis is this way zaxis 
+
+
+again up and down 
+
+were going to have one ligand coming out here another going 
+
+back and then these two are pretty much in the 
+
+plane of the screen 
+
+so this is sort of how im holding the tetrahedral complex 
+
+with respect to the x z and y coordinate system 
+
+so there is a splitting energy splitting associated 
+
+with tetrahedral and its going to be smaller than 
+
+
+octahedral because none of these ligands will be pointing 
+
+directly toward the orbitals 
+
+but lets consider which orbitals are going to be most 
+
+affected by a tetrahedral case 
+
+so lets consider d z squared 
+
+what do you think 
+
+is that going to be particularly  are the ligands 
+
+pointing toward d z squared 
+
+no 
+
+and d x squared minus y squared we can think of 
+
+what about that one 
+
+no not really 
+
+what about d x y d y z and d x y 
+
+moreso 
+
+so if you try holding up your tetrahedral in our coordinate 
+
+system and then hold your d orbitals  degrees offaxis 
+
+its not perfect theyre not pointing directly toward them 
+
+but its a little closer than for the d orbitals that 
+
+are directly onaxis 
+
+so if we look at this we see that the orbitals are going to 
+
+be split in the exact opposite way of the octahedral system 
+
+in the octahedral system the ligands are onaxis so the 
+
+orbitals that are onaxis d x squared minus y squared and d 
+
+z squared are going to be the most affected 
+
+but with tetrahedral the ligands are offaxis so the 
+
+d orbitals that are also offaxis are going to 
+
+be the most affected 
+
+but theyre not going to be as dramatically affected so the 
+
+splitting is actually smaller in this case 
+
+so here with tetrahedral you have the opposite of 
+
+the octahedral system 
+
+and you can keep these and try to convince yourself 
+
+of that later if you have trouble visualizing it 
+
+so youll have more repulsion between the ligands as negative 
+
+
+point charges and the d orbitals that are  degrees 
+
+offaxis than you do with the two d orbitals 
+
+that are onaxis 
+
+so here d x squared minus y squared and d z squared have 
+
+the same energy with respect to each other theyre degenerate 
+
+and we have our d y z x z and x y have the same energy 
+
+with respect to each other they are also degenerate 
+
+so its the same sets that are degenerate as with 
+
+octahedral but theyre all affected differently 
+
+
+so now lets look at the energy diagrams and compare the 
+
+octahedral system with the tetrahedral system 
+
+remember an octahedral we had the two orbitals going 
+
+up and three going down 
+
+the splitting the energy difference between 
+
+them was abbreviated 
+
+the octahedral crystal field splitting energy with a 
+
+little o for octahedral 
+
+we now have a t for tetrahedral so we have 
+
+a different name 
+
+and so here is now our tetrahedral set 
+
+
+you notice its the opposite of octahedral so the orbitals 
+
+that were most destabilized in the octahedral case are now 
+
+more stabilized down here so weve moved down in energy 
+
+and the orbitals that are offaxis  degrees offaxis 
+
+which were stabilized in the octahedral system because none 
+
+of ligands were pointing right toward them now those ligands 
+
+are a bit closer so they jump up in energy and so we have 
+
+this swap between the two 
+
+so we have some new labels as well 
+
+so we had e g up here as an abbreviation for these sets 
+
+of orbitals and now thats just referred to as e 
+
+
+notice the book in one place has an e  but uses e in all 
+
+the other places so just use e the e  was a 
+
+mistake in the book 
+
+and then we have t  g becomes t  up here 
+
+so we have this slightly different nomenclature and we 
+
+have this flip in direction 
+
+so the other thing that is important to emphasize is that 
+
+the tetrahedral splitting energy is smaller because none 
+
+
+of those ligands are pointing directly toward any 
+
+of the d orbitals 
+
+so here there is a much larger difference here there is a 
+
+smaller difference so thats why its written much closer 
+
+together so thats smaller 
+
+and because of that many tetrahedral complexes are high 
+
+spin and in this course you can assume that theyre 
+
+all high spin 
+
+so that means theres a weak field theres not a big 
+
+energy difference between those orbital sets 
+
+and again were going to  since were going to consider 

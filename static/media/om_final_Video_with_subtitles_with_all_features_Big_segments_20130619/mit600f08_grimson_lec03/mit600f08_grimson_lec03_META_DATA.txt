@@ -1,0 +1,21 @@
+MIT 6.00 Introduction to Computer Science and Programming - Fall 2008
+
+Lecture 3: Common code patterns: iterative programs
+
+This lecture was recorded by Massachusetts Institute of Technology, MIT
+
+author: Eric Grimson, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, MIT
+
+published: April 17, 2010,   recorded: September 2008,   views: 1077
+
+released under terms of: CC BY-NC-SA 
+
+Categories
+Top » Computers » Programming
+
+Description
+This subject is aimed at students with little or no programming experience. 
+It aims to provide students with an understanding of the role computation can 
+play in solving problems. It also aims to help students, regardless of their 
+major, to feel justifiably confident of their ability to write small programs 
+that allow them to accomplish useful goals. The class will use the Python™ programming language.

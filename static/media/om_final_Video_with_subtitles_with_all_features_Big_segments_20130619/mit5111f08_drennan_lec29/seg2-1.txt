@@ -1,0 +1,392 @@
+
+
+
+
+the following content is provided under a creative 
+
+commons license 
+
+your support will help mit opencourseware continue to 
+
+offer high quality educational resources for free 
+
+to make a donation or view additional materials from 
+
+hundreds of mit courses visit mit opencourseware 
+
+at ocwmitedu 
+
+ok lets just 
+
+  the clicker question 
+
+ok  i think that says  which is not bad but 
+
+we should be at  
+
+so when youre past the equivalence point so youve 
+
+converted all of your weak in this case acid to its 
+
+conjugate base and because it was a weak acid the conjugate 
+
+base is going to be a weak based and so its not 
+
+contributing a whole lot itll make the solution basic but 
+
+its nothing compared to adding strong base in there 
+
+so even though you have the weak base around at 
+
+this point its really a strong base problem 
+
+
+so you would calculate this by looking at how many mils of the 
+
+strong base youve added past and figure out the number of 
+
+moles that there are and divide by the total volume 
+
+so this was like one of the problems on the exam and one 
+
+thing that i thought was interesting on the exam is that 
+
+more people seemed to get the hard problem right than this 
+
+which was the easy problem 
+
+so well see on the final there will be an acid based 
+
+titration problem on the final at least one 
+
+so lets see if we can get then the easy and 
+
+the hard ones right 
+
+so youve mastered the hard ones and lets see if you can 
+
+
+learn how to do the easy ones as well for the final exam 
+
+ok so were going to continue with transition metals 
+
+we were talking about crystal field theory and magnetism and 
+
+you should have a handout for today and you should also have 
+
+some equipment to make models of orbitals and coordination 
+
+complexes  these are not snacks 
+
+they can be snacks later right now theyre a model kit 
+
+all right so im going to introduce you to some terms 
+
+that were going to come back you at the end of todays 
+
+lecture and then were going to talk about the shapes of 
+
+coordination complexes 
+
+so magnetism 
+
+so we talked last time before the exam if you remember 
+
+about high spin and low spin unpaired electrons and 
+
+paired electrons 
+
+well compounds that have unpaired electrons are 
+
+paramagnetic theyre attracted by a magnetic field and those 
+
+where the electrons are paired are diamagnetic are repelled 
+
+by a magnetic field 
+
+so you can tell whether a coordination complex is 
+
+paramagnetic or diamagnetic you can test the magnetism 
+
+and thatll give you some information about the electron 
+
+configuration of the d orbitals in that coordination complex 
+
+and that can tell you about the geometry 
+
+and so youll see that by the end were going to talk about 
+
+
+different types of energy orbitals when you have 
+
+different geometries 
+
+so why might you care about the geometry of a metal center 
+
+well people who study proteins that have metal centers care a 
+
+lot about the geometry of them 
+
+so let me just give you one example 
+
+we talked a lot about energy in the course this semester so we 
+
+need catalysts for removing carbon monoxide and carbon 
+
+dioxide from the environment 
+
+and nature has some of these  they have metal cofactors and 
+
+proteins that can do this and people have been interested in 
+
+mimicking that chemistry to remove these gases 
+
+from the environment 
+
+so let me tell you these enzymes are organisms 
+
+and this is pretty amazing some of these microorganisms 
+
+so over here theres one  it basically lives 
+
+on carbon monoxide 
+
+i mean thats  you know alternative sources of energy 
+
+are one thing but thats really quite a crazy thing 
+
+that this guy does 
+
+so you can grow it up in these big vats and pump in carbon 
+
+monoxide and its like oh food and they grow and 
+
+multiply and theyre very very happy in this carbon 
+
+monoxide environment 
+
+there are also microorganisms that live on carbon dioxide as 
+
+their energy and a carbon source 
+
+
+and so these organisms have enzymes in them that have metal 
+
+centers and those metal centers are responsible for the 
+
+ability of these organisms to live on these kind of bizarre 
+
+greenhouse gases and pollutants 
+
+so people would like to understand how this works 
+
+so microbes have been estimated to remove hundred a million 
+
+tons of carbon monoxide from the environment every year 
+
+producing about one trillion kilograms of acetate from 
+
+these greenhouse gases 
+
+and so what do these catalysts look like and these enzymes 
+
+
+what do these metal clusters look like that do 
+
+this chemistry 
+
+and this was sort of a rough model of what they look like 
+
+and they thought it had iron and sulfur and then a nickel in 
+
+some geometry but they had no idea sort of where the nickel 
+
+was and how it was coordinated 
+
+and so before there was any kind of three dimensional 
+
+information they used spectroscopy and they 
+
+considered whether it was paramagnetic or diamagnetic to 
+
+get a sense of what the geometry around the metal was 
+
+
+so were going to talk about different coordination 
+
+geometries and how many unpaired or paired electrons 
+
+you would expect depending on those geometries today 
+
+and so crystal field theory again can help you help 
+
+explainrationalize the properties of these transition 
+
+metal complexes or coordination complexes 
+
+so to help us think about geometry i always find 
+
+for myself that its helpful to have models 
+
+
+so not everyone can have such large models as these but you 
+
+can all have your own little models of these geometries 
+
+so what we have available to you are some mini marshmallows 
+
+which of course as we all know are representative of d 
+
+orbitals and jelly beans which we all know are useful 
+
+for making coordination complexes 
+
+so what you can do with your mini marshmallows is you can 
+
+put together to make your different sets 
+
+and so over here we have  oh actually it says gum drops 
+
+ you dont have gum drops this year i changed up here i 
+
+forgot to change it down here 
+
+we have mini marshmallows 
+
+dr taylor went out and tried to purchase enough gum drops to 
+
+do this experiment and discovered that cambridge only 
+
+had  gum drops so we have mini marshmallows 
+
+instead today 
+
+but this gives you the idea 
+
+you can take one toothpick and you can make d z squared 
+
+putting on your orbitals you have your donut in the middle 
+
+and then your two lobes which run along the zaxis 
+
+and then for your other sets of orbitals you can take these 
+
+two toothpicks and put on these sets of mini marshmallows and 
+
+handily you can just have one for all of the other d 
+
+orbitals because depending on how you hold it it can 
+
+represent all of the other d orbitals just very well 
+
+so you can just have one of these for all the others 
+
+and then your d z squared 
+
+so what were going to do when we have our orbitals set up 
+
+
+then we can think about how ligands in particular 
+
+positions in particular geometries would clash with our 
+
+orbitals  where thered be big repulsions or 
+
+small repulsions 
+
+so any other people missing their jelly beans or 
+
+their marshmallows 
+
+please raise your hand we have extras 
+
+so those of you who have them go ahead and start 
+
+making your d orbitals 
+
+all right so if youre finished with your two d 
+
+orbitals you can start making an octahedral complex 
+
+so in your geometries set youll have a big gum which can 
+
+be your center metal  youll have a big jelly bean  sorry 
+
+big jelly beans and small jelly beans are our ligands or our 
+
+negative point charges and you can set up and make an 
+
+octahedral geometry here 
+
+ok so as youre finishing this up im going to review what we 
+
+talked about before the exam  so this isnt in todays 
+
+lecture handouts it was in last time which we 
+
+already went over 
+
+but sometimes ive discovered that when theres an exam in 
+
+the middle there needs to be a bit of a refresher its hard 
+
+to remember what happened before the exam and you 
+
+have your models to think about this 
+
+so before the exam we had talked about the octahedral 
+
+case and how compared to a spherical situation where the 
+
+ligands are everywhere distributed around the metals 
+
+
+where all d orbitals would be affectedrepulsed by the 
+
+ligands in a symmetric fashion equally when you have them put 
+
+as particular positions in geometry then theyre going to 
+
+affect the different d orbitals differently 
+
+and so if you have your d z squared made and you have your 
+
+octahedral made you can sort of hold these up and realize 
+
+that you would have repulsion from your ligands along the 
+
+zaxis directly toward your orbitals from d z squared 
+
+so that would be highly repulsive 
+
+the ligands are along the zaxis the d orbitals are 
+
+along the zaxis so the ligands the negative point 
+
+charge ligands are going to be pointing right 
+
+toward your orbitals 
+
+and if you hold up this as a d x squared y squared orbital 
+
+where the orbitals are right along the xaxis and right 
+
+along the yaxis and you hold that up remember your ligands 
+
+are right along the xaxis and right along the yaxis 
+
+so you should also have significant repulsion for d x 
+
+squared minus y squared and octahedrally oriented ligands 
+
+in contrast the ligands set that are  degrees offaxis 
+
+so d y z d x z and d x y theyre all  degrees off 
+
+your ligands are along the axis but your orbitals 
+
+are  degrees offaxis 
+
+so if you look at that together youll see that 
+
+whichever one you look at the ligands are not going to be 

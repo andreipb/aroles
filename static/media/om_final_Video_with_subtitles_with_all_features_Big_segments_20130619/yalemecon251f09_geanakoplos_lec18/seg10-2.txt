@@ -1,0 +1,382 @@
+
+
+so ws is going to be what 
+
+its going to be the minimum of  you could just pay it if you 
+
+wanted to or you could wait 
+
+ over  rs and then what would you have to 
+
+do you would have to make your payment 
+
+well whats your payment 
+
+the payment is this  but divided by b plus 
+
+the remaining balance of  dollar 
+
+so b over b times the 
+
+remainder times wsup 
+
+now why is this right 
+
+i hope it is right by the way 
+
+i should have thought of this a little before 
+
+so this is the remainder of  dollar left 
+
+so if i divide by b here im not going to have a 
+
+remaining balance of b 
+
+im going to have a remaining balance of b over 
+
+b 
+
+so if i started with  dollar of remaining balance then i know 
+
+
+that in the next period im going to have b over 
+
+b dollars of remaining balance left 
+
+it doesnt sound too convincing by the way 
+
+well its right and that happens with 
+
+probability  half 
+
+and then with the other probability  half 
+
+plus i make the payment but i go down instead of up and 
+
+so i have b over b but i have 
+
+wsdown and thats also times  half 
+
+so either i pay off my remaining dollar or i end up 
+
+with this many dollars 
+
+assuming i had a  dollar of remaining balance im either 
+
+
+going to pay it off the remaining balance 
+
+or im going to have this much left next period and  dollar of 
+
+remaining balance is going to be that 
+
+so thats it 
+
+so i know now by working this backwards i can tell what  
+
+dollar at the beginning is worth 
+
+and so its exactly the same calculation i did before except 
+
+im talking about  dollar 
+
+im always figuring out  dollar of remaining balance 
+
+instead of the whole thing 
+
+
+present value of callable so heres present value of  
+
+dollar of principal 
+
+and so remember the present value of a callable mortgage was 
+
+ 
+
+here the present value of  dollar 
+
+figuring it out that way is  obviously its divided 
+
+by  but the key is that now you can 
+
+see just by looking at it where the s are is where the guy 
+
+decided to prepay 
+
+so its the same thing as before but you see before you 
+
+couldnt tell very easily from the numbers when i did the  
+
+sorry that didnt quite make it 
+
+before when i did the present value with the  all these 
+
+numbers were s and s 
+
+
+i mean where has he prepaid 
+
+its hard to tell where the prepayment is 
+
+if i do it all in terms of  dollar of remaining balance then 
+
+just by looking at the screen i can tell where the guy prepaid 
+
+because there are s there 
+
+so i know where hes prepaid 
+
+wherever the s are that means hes prepaid 
+
+so i can tell very easily what he did 
+
+all right thats the only purpose of doing the same 
+
+
+calculation in a somewhat trickier way 
+
+so if you think about it a second you see ive just divided 
+
+byive always reduced things to if you had  dollar left 
+
+all right so this tells us what to do when the guy should 
+
+prepay and when he shouldnt prepay 
+
+so if youre now in the world looking at whats happening you 
+
+can find the historical record of how people have prepaid 
+
+so lets just look at the historical record 
+
+
+for example 
+
+here if you can see this this is blown up as big as it 
+
+goes 
+
+so this is what you might see as the historical record of 
+
+percentage prepayments annualized from  to  
+
+say 
+
+so you notice that theyre very low here and then they get to 
+
+be very high and then they get low again 
+
+and then they get high again 
+
+so why do you think that happened 
+
+so what is this 
+
+this is prepayments for a particular mortgage 
+
+ percent 
+
+you take all the people in the country who started in  with 
+
+ percent mortgages 
+
+theres a huge crowd of those because that was about what the 
+
+mortgage rate was that year 
+
+
+so a huge collection of people got these mortgages in  and 
+
+you keep track of what percentage of them prepaid 
+
+really every month but you write the annualized 
+
+rate and then this is the record 
+
+so why do you think it changed so dramatically like that 
+
+whats the explanation 
+
+stock market  
+
+what  
+
+stock market  
+
+it looks like the stock  
+
+but i assure you the stock market had almost nothing to do 
+
+with it 
+
+why would prepayments be so low and then be so high 
+
+then be low then be high 
+
+what do you think was happening 
+
+interest rate  
+
+interest rate  
+
+we just did that 
+
+we just solved that 
+
+that was the whole point of what we were doing 
+
+so you tell me what do you think happened in 
+
+ 
+
+this is september  
+
+i dont know if you can read that 
+
+what do you think was going on then 
+
+interest rates got  
+
+interest rates got low  
+
+so you may not remember this because you were barely born 
+
+in the early s there was a recession and then the 
+
+government cut the interest rates 
+
+in the s the early s there was a 
+
+recession and the government kept cutting interest rates 
+
+further and further and further 
+
+there was this huge decline in interest rates through the early 
+
+s and so what happened 
+
+all these people who in  who had these  percent 
+
+mortgagesthe new interest rates were lower and so they all 
+
+prepaid 
+
+you got this shocking amount of prepayment 
+
+so this graph which seems sort of surprising 
+
+and looks like the stock market turns out to have nothing to do 
+
+with the stock market 
+
+it has to do with where the interest rates are 
+
+well do you think interest rates explain everything 
+
+no 
+
+what else could you notice about theescape 
+
+
+what else have we learned here by doing these calculations 
+
+well what weve learned so far is that if the interest rates in 
+
+the economy are at  percent thats where they started 
+
+remember we said they started at  percent and there was  
+
+percent volatility 
+
+here i had  percent volatility 
+
+it doesnt matter 
+
+i mean thats a plausible amount of volatility 
+
+a little high but that volatility 
+
+the mortgage rate of  percent is not going to give a value of 
+
+ 
+
+its going to cheat the bank if the homeowners are acting 
+
+rationally 
+
+the bank could get  if the people werent acting 
+
+rationally 
+
+they were just never exercising their option 
+
+it theyre exercising their option optimally the thing was 
+
+only worth  
+
+now i told you at that time the interest rates should have 
+
+been around  and  half percent 
+
+not  percent given this  percent interest rate in the 
+
+economy 
+
+the mortgage rate should be  and  half percent 
+
+so we deduced last time that obviously not everybodys acting 
+
+optimally 
+
+well you can tell that looking at this diagram 
+
+how do you know that not everybodys acting optimally 
+
+remember these are  mortgages so everybodys taking 
+
+them out at the same time within a few months of each other 
+
+the same  percent mortgage 
+
+how can you tell from this graph that theyre not 
+
+exercising their option optimally 
+
+its completely obvious 
+
+just looking at it for one second you can say 
+
+oh these people cant be exercising their option 
+
+optimally why is that 
+
+yes 
+
+they should be exercising all at the same  
+
+if they were acting rationally 
+
+so as he says weve just done the  
+
+with those s and s 
+
+
+i told you when the right time to exercise the option is 
+
+so everybodys got the same circumstance 
+
+every single person if all theyre trying to do is minimize 
+
+the present value of their payments they should all be 
+
+prepaying at the same time 
+
+here you see that very few people are prepaying 
+
+but its getting up to almost  percent so probably this is a 
+
+stupid time to prepay but the point is still  
+
+percent of them are prepaying 
+
+and over here when presumably you ought to prepay 

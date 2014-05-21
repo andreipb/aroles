@@ -1,0 +1,332 @@
+
+
+yeah 
+
+will the final be open note 
+
+final will be open book open notes 
+
+just like the quizzes 
+
+it will be the first two hours of the allotted time we wont 
+
+go the whole  hours ok 
+
+so it wont be hugely longer than the quizzes 
+
+it would be a little bit longer 
+
+and again very much in the same style of the quizzes 
+
+
+all right lets look at this 
+
+lets assume that youve won the lottery and have serious 
+
+money that you foolishly wish to invest in the stock market 
+
+there are two basic strategies to choose from in investing 
+
+you can either have whats called an indexed portfolio 
+
+or a managed portfolio 
+
+indexed portfolios you basically say i want to own 
+
+all of the stocks that there are and if the stock market 
+
+goes up i make money if the stock market goes 
+
+down i lose money 
+
+im not going to be thinking im clever and can pick 
+
+winners and losers im just betting on the 
+
+market as a whole 
+
+theyre attractive in that a they dont require 
+
+a lot of thought 
+
+and b they have whats called a low expense ratio since 
+
+theyre easy to implement you dont pay anyone to be 
+
+brilliant to implement if for you 
+
+so theyre very low fees 
+
+a managed portfolio you find somebody you think is really 
+
+smart and you pay them a fair amount of money and in return 
+
+they assert that they will pick winners for you and in fact 
+
+
+you will outperform the stock market 
+
+and if it goes up  percent well youll go up  percent 
+
+or more and if it goes down dont worry im so smart 
+
+your stocks wont go down 
+
+theres a lot of debate about which is the 
+
+better of these two 
+
+and so now were going to try and see if we can write a 
+
+simulation that will give us some insight as to which of 
+
+
+these might be better or worse 
+
+all right so thats the basic problem 
+
+now as we know and by the way were not going to write a 
+
+perfect simulation here because were going to try and 
+
+do it in  minutes or  minutes 
+
+and it would take at least an hour do a perfect simulation 
+
+of the stock market 
+
+all right 
+
+first thing we need to do is have some sort of a theory 
+
+when we did the spring we had this theory of hookes law that 
+
+told us something and we built a simulation or built some 
+
+tools around that theory 
+
+now we need to think about a model of the stock market 
+
+and the model were going to use is based on whats 
+
+called the efficient market hypothesis 
+
+so the moral here again is whenever youre doing an 
+
+implementation of a simulation you do need to have some 
+
+underlying theory about the model 
+
+what this model asserts is that markets are 
+
+informationally efficient 
+
+that is to say current prices reflect all publicly known 
+
+information about each stock and therefore are unbiased 
+
+
+that if people thought that the stock was underpriced well 
+
+people would buy more of it in the price would have 
+
+risen already 
+
+if people thought the stock was overpriced well people would 
+
+have tried to sell it and it would have come down 
+
+so this is a very popular theory believed by 
+
+many famous economists today and in the past 
+
+and says ok that effectively means that the market 
+
+is memoryless 
+
+ok that it doesnt matter what the price of the 
+
+stock was yesterday 
+
+today its priced given the bestknown information and 
+
+
+so tomorrow its equally likely to go up or down 
+
+relative to the whole market right 
+
+its well known that over periods of multiple 
+
+decades the market has a tendency to go up 
+
+and so theres an upward bias to the stock market contrary 
+
+to what you may have seen recently 
+
+but that no particular stock is more or less likely to 
+
+outperform the market because all the information is 
+
+incorporated in the price 
+
+and that leads to a notion of being able to model 
+
+the market how 
+
+how would you model individual stocks if you believe 
+
+this hypothesis 
+
+somebody 
+
+whats going to happen 
+
+
+random walk 
+
+yes exactly right 
+
+so we would model it as a random walk 
+
+in fact theres a very famous book called a random walk down 
+
+wall street that was one of the first to make 
+
+this hypothesis 
+
+now later we may decide to abandon this model but for 
+
+the moment lets accept that 
+
+and lets think about how were going to build the simulation 
+
+whenever i think about how to build an interesting program 
+
+and i hope whenever you think about it the first thing i 
+
+think about is what are the classes i might want to 
+
+have what are the types 
+
+and it seems pretty obvious that at least two of the 
+
+things im going to want are stock and market 
+
+after all im going to try and build a simulation of the stock 
+
+market so i might as well have the notion of a market and 
+
+probably the notion of a stock 
+
+which should i implement first 
+
+well my usual style of programming would be to 
+
+implement the one thats lowest down in the 
+
+hierarchy near the bottom 
+
+i wont be able to show you what a market does unless i 
+
+
+have stocks but i can look at what an individual stock does 
+
+without having a market 
+
+so why do i implement this first 
+
+because it will be easier to unit test 
+
+i can build class stock and i can test class stock before 
+
+i have a class market 
+
+so now lets look at it 
+
+clean up the desktop a little bit 
+
+this is similar to but not identical to what you 
+
+have in your handout 
+
+all right so theres class stock 
+
+and im going to initialize it create them with 
+
+an opening price 
+
+when a stock is first listed in the market it 
+
+comes with some price 
+
+im gonna keep as part of each stock its history of prices 
+
+which we can initialize well ive initialized it as empty 
+
+but thats probably the wrong thing right 
+
+i probably should have had it being the starting here 
+
+right the opening price 
+
+now comes an interesting part 
+
+
+self dot distribution 
+
+well i lied to you a little bit in my description of 
+
+what it meant to have the efficient market hypothesis 
+
+i said that no stock is likely to outperform the market or 
+
+underperform the market 
+
+but its not quite true because typically what they 
+
+actually do that is they say its adjusted for risk 
+
+its clear that some stocks are more volatile than others 
+
+if you will buy stock in an electrical utility which has a 
+
+guaranteed revenue stream because no matter how bad the 
+
+
+economy gets a lot of people still use electricity you 
+
+dont expect it to fluctuate a lot 
+
+if you buy stock in a high tech company that sells things on 
+
+the internet you might expect it to fluctuate enormously 
+
+or if you buy stock in a retailer you might expect 
+
+it to go up or down more dramatically with the economy 
+
+and so in fact there is a notion of risk and im not 
+
+going to do this in this simulation but usually people 
+
+have to be paid to take risk 
+
+and so its usually the case that you can get a higher 
+
+return if youre willing to take more risk 
+
+we might or might not have time to come back to that 
+
+but more generally the point is that each stock actually 
+
+behaves a little bit differently 
+
+theres a distribution of how it would move 
+
+so even if on average the stock is expected to not move 
+
+at all from where it starts some stocks will be expected to 
+
+just trundle along without much change not very volatile 
+
+and other stocks might jump up and down a lot because 

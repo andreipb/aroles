@@ -1,0 +1,292 @@
+
+
+and if i were to use that again id just put it on your 
+
+handout i could go back and rewrite that thing that i had 
+
+previously for finding the square roots of the perfect 
+
+squares just using the for loop 
+
+ok 
+
+what i want to do though is go on to or sorry go back 
+
+to my divisor example 
+
+unintelligible phrase 
+
+ok 
+
+try again 
+
+ive got a number i want to find the divisors 
+
+right now what my code is doing is its printing them 
+
+
+up for me which is useful 
+
+but imagine i actually wanted to gather them together 
+
+i wanted to collect them so i could do something with them 
+
+i might want to add them up 
+
+might want to multiply them together 
+
+might want to do i dont know something else with them find 
+
+common divisors of things by looking at them 
+
+i need in fact a way to make explicit what i cant do that 
+
+with range is i need a way to collect things together 
+
+and thats going to be the first of our more compound data 
+
+structures and we have exactly such a structure and 
+
+its called a tuple 
+
+this is an ordered sequence of elements 
+
+now im going to actually add something to it thats going to 
+
+make sense in a little while or in a couple of lectures 
+
+which is it is immutable 
+
+meaning i cannot change it and well see why thats 
+
+important later on 
+
+but for now tuple is this ordered sequence of structures 
+
+ok 
+
+and how do i create them 
+
+
+well the representation is following a square bracket 
+
+followed by a sequence of elements separated by 
+
+commas followed by a closed square bracket 
+
+and that is literally what i said it is an ordered 
+
+sequence of elements you can see where they are 
+
+ok 
+
+so let me do a little example of this 
+
+if i go back over here lets define er cant type i can 
+
+look at the value of test its an ordered sequence 
+
+
+i need to get elements out of it 
+
+so again i have a way of doing that 
+
+in particular i can ask for the zeroth element of test 
+
+ok notice im putting a square bracket around it and 
+
+it gives me i know this sounds confusing but this is 
+
+a long tradition it gives me ah yes 
+
+unintelligible 
+
+professor eric sorry 
+
+unintelligible 
+
+professor eric i created a list here 
+
+ah thank you 
+
+im glad you guys are on top of it 
+
+
+youre saying i want that 
+
+is that right john 
+
+yes 
+
+ok 
+
+sorry 
+
+youre going to see why this was a mistake 
+
+in a little while 
+
+i did not want to make a list i wanted to create a tuple 
+
+thank you for catching it 
+
+i want parens not square brackets there 
+
+youll also see in a little while why both of these things 
+
+would work this way but its not what i wanted 
+
+ok 
+
+so i guess i should go back and let me do this 
+
+correctly this way 
+
+again i can look at test and i guess test now if i want to 
+
+get the element out angle bracket or square bracket 
+
+i still want square bracket thats what i thought ok 
+
+now i can go back to where i was which is a strange 
+
+piece of history which is we start counting at  
+
+so the i hate to say it this way the first element of this 
+
+tuple is at position  or index  ok so i can get the 
+
+zeroth one out i can get if i do  i get the third thing 
+
+out because it goes    notice however if i do 
+
+something that tries to go outside the length of the tuple 
+
+
+it complains which is right 
+
+tuples also have another nice structure which is i can go 
+
+the other direction which is if i want to get the last 
+
+element of that tuple i give it a negative index 
+
+so imagine you think of it as is it starting right just 
+
+before the beginning of the thing if i give it a  its 
+
+going to take the first one if i give it a  its going to 
+
+take the next one but i can go the other direction if i give 
+
+it a  it picks up the last element of the tuple 
+
+and again i can go  go back 
+
+so this is what we would call selection 
+
+we can do things like foo of  to get out the 
+
+
+particular element 
+
+i can also pick up pieces of that tuple 
+
+again i want to show you the format here 
+
+if i give it this strange expression this is saying i 
+
+want to get the piece of the tuple starting at index  its 
+
+going to be the second element and going up to but not 
+
+including index  
+
+and it gives me back that piece 
+
+
+actually a copy of that piece of the tuple 
+
+this is called slicing 
+
+and then just to complete this 
+
+two other nice things you can do with slices are you can 
+
+get the beginning or the end of tuple 
+
+so for example if i say test and i dont give it a start but 
+
+i give it an end then it gives me all the elements 
+
+up to that point 
+
+and i can obviously do the other direction which is i 
+
+can say skip to index  and all the remaining pieces 
+
+this lets me slice out if you like the front part or back 
+
+part or a middle part of the tuple as i go along 
+
+what in the world does that have to do with 
+
+my divisor example 
+
+well actually before i do that let me in fact 
+
+fill in a piece here 
+
+which is remember i said range we could think of conceptually 
+
+as a tuple  or sorry as a sequence of these things 
+
+in fact it gives me back now i hate this its actually 
+
+a list its not a tuple 
+
+but for now think of it as giving you back an explicit 
+
+
+version of that representation of all those elements 
+
+youll see why im going to make that distinction in 
+
+a couple of lectures 
+
+all right 
+
+what does this have to do with my divisor example 
+
+this says i can make tuples but imagine now going back 
+
+to my divisor example and i want to gather up the 
+
+elements as i go along 
+
+i ought to be able to do that by in fact just 
+
+
+adding the pieces in 
+
+and thats what im going to do over here 
+
+which is let me comment that out let me uncomment that 
+
+and i guess i need the same thing here right 
+
+i need parens not thank you 
+
+you can tell im an old time list packer 
+
+i really do love these things 
+
+and is that right john 
+
+ok so my apologies that your handout is wrong 
+
+i did not think to check about the difference 
+
+between these things 
+
+nonetheless having done that lets look at 

@@ -1,0 +1,332 @@
+
+
+have gotten prepayments at  percent up there and at  all 
+
+the way over here and so it wouldnt have fit that curve 
+
+so thats how i knew that there couldnt be that many perfectly 
+
+rational people 
+
+yes 
+
+how can you know for sure that there  
+
+only two patterns 
+
+you mean how do i know cost and  
+
+maybe theres some other factors 
+
+yes well there probably are other factors 
+
+so what would you commonsensically think are the 
+
+factors 
+
+what keeps people from prepaying 
+
+i think the most obvious one is its a huge hassle and theyre 
+
+not paying attention 
+
+so those are the first two that i thought of 
+
+could you think of another one 
+
+
+maybe their age  
+
+their age exactly  
+
+so maybe demography has an effect on it 
+
+so maybe for example you get more sophisticated the 
+
+older you get 
+
+so that was another factor we put in 
+
+so im not telling you all the factors but these were the two 
+
+main factors 
+
+another factor was growing sophistication 
+
+we called it the smart factor 
+
+thats another factor 
+
+so over time you get more sophisticated 
+
+
+so anyway the point is with a few of these factors you got a 
+
+pretty good fit and it was pretty reliable 
+
+and you could predict what was going to happen contingently 
+
+so now if you want to trade mortgages what are some of the 
+
+interesting things that happen 
+
+the first interesting thing to notice is that what do you think 
+
+happens as the interest rate goes down 
+
+so the first thing to notice isso ill just ask you two 
+
+questions 
+
+lets go on the other side 
+
+im running out of room 
+
+suppose that you have the mortgage value 
+
+what you get in the tree 
+
+so in this tree that weve built heres the tree 
+
+its going like that and at every node were 
+
+predicting for each class of people were 
+
+predicting where his s are 
+
+so that class is prepaying 
+
+the other class is not as smart so theyre not prepaying here 
+
+but maybe when things get really low theyll start 
+
+prepaying here 
+
+so each class of people each cost alertness type has 
+
+its own tree 
+
+theyre the same tree but its own behavior on the 
+
+
+tree and then i add them all together 
+
+so what happens with the starting interest rate 
+
+so here we had  and this value was  or something 
+
+right 
+
+now suppose the interest rate went down to  
+
+i drew this picture of interest and mortgage value 
+
+what do you think happens 
+
+so the interest startsthis is  percent is there 
+
+as the interest rate goes down what do you think happens to the 
+
+value of the mortgage 
+
+if youre a bank and youve fixedthe mortgage rate is  
+
+percent 
+
+thats a fixed mortgage rate but now youve moved in the 
+
+tree from here to here 
+
+do you think your mortgage is going to go up in value or down 
+
+in value 
+
+its going up  
+
+its going to go up because the interest  
+
+are lower and the present value of the payments is getting 
+
+higher 
+
+so if the interest rate goes down the mortgage is going to go 
+
+
+up like that typically 
+
+but will it keep going up like this and this 
+
+if it were a bond it would go up like that 
+
+right 
+
+a bond a  year bond which owed  over  r would keep going 
+
+up and up the value before it got negative 
+
+say 
+
+it would go up 
+
+as r got negative it would go way up like that 
+
+so does the mortgage keep going up like that 
+
+as the interest rate goes down is the value of the mortgage 
+
+going to get higher and higher and higher 
+
+suppose the guys optimal whats going to happen 
+
+this is  here 
+
+whatll happen 
+
+yep 
+
+
+hes going to  
+
+hes going to eventually figure out that  
+
+should prepay so itll go like this 
+
+if hes perfectly optimal hell never let it go above  
+
+so its going to go something like this 
+
+as the interest rate gets higher you get crushed 
+
+and as the interest rate gets lower you dont get the full 
+
+upside because hes prepaying at  
+
+hes never letting it go above  right 
+
+so if hes not so optimal maybe your value will go up 
+
+but not so astronomically high 
+
+so this idea that the mortgage curve instead of being like 
+
+this goes like that this is what was called 
+
+negative convexity 
+
+now the next thing to know is suppose that the guys are partly 
+
+irrational so its going above  
+
+so its starting to go like this 
+
+then what do you think 
+
+as the interest gets really low whats going to happen 
+
+all right you just said it so 
+
+if the guy was rational perfectly rational it would go 
+
+like that 
+
+hed never let it go above  but now suppose guys are not 
+
+totally rational 
+
+whats going to happen is theyre going to 
+
+sort ofas rates get a little bit low theyre going to 
+
+overlook the fact that they should prepay 
+
+so now its advantageous to you 
+
+things are worth more than  but if rates get incredibly low 
+
+even the dumbest guy the highest cost guy is going 
+
+to realize he has an advantage to prepay and so things are 
+
+
+going to go back down like that 
+
+so the values going to be quite complicated 
+
+so this is the mortgage value as a function of interest rates 
+
+just common sense will tell you this 
+
+in a typical bond as the interest rate gets lower the 
+
+present value gets higher 
+
+you should expect a curve like that but because of the option 
+
+if it were rationally exercised the curve would never get above 
+
+
+ 
+
+it would have to go like that 
+
+but now if people are irrational you can take 
+
+advantage of them and get more than  out of them 
+
+but if the situation gets so favorable to you it becomes 
+
+blindingly obvious eventually to them 
+
+that theyre getting screwed and eventually they act and 
+
+bring it all the way back to  again 
+
+so this value of the mortgage looks like that 
+
+so thats a very tricky thing 
+
+ill even write very tricky 
+
+
+so if you dont know what youre doing you could easily 
+
+get yourself hurt holding mortgages 
+
+you could suddenly find yourself losing money holding 
+
+mortgages 
+
+so thats my next subject here 
+
+i want to talk about hedging 
+
+so we know something now about valuing mortgages 
+
+now i want to talk about hedging and what hedge funds 
+
+do and what everyone on wall street should be doing which is 
+
+hedging 
+
+so if you hold a mortgage youre going to hold it because 
+
+
+maybe you can lend  to a bunch of people but actually get 
+
+a value thats more than  
+
+so it looks like youre here but if interest rates change a 
+
+little bit suddenly this huge value you thought you had might 
+
+collapse back down to  or the interest rates might go 
+
+up and it might collapse to way below  
+
+so you look like youre well off but there are scenarios 
+
+where you could lose money and you want to protect yourself 
+
+against that 
+
+so how do you go about doing it 

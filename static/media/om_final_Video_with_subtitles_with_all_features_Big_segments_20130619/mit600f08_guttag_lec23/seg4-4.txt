@@ -1,0 +1,344 @@
+
+
+way thats the way i ended up setting a lot of these 
+
+parameters and playing with it was comparing what my 
+
+simulation said to historical stock data 
+
+and indeed it is the case that the price of the stock the 
+
+move the amount of move tends to be proportional 
+
+to the price of the stock 
+
+expensive stocks move more 
+
+interestingly enough the percentage moves are not much 
+
+different between cheap stocks and expensive stocks 
+
+and thats why i ended up using a multiplicative factor 
+
+rather than an additive factor 
+
+this is again a general lesson 
+
+as you build these kinds of simulations or anything like 
+
+this you need to think through whether things should be 
+
+multiplicative or additive 
+
+because you get very different results typically 
+
+multiplicative is what you want to do if the amount of change 
+
+is proportional to the current size whether its price or 
+
+anything else and additive if the change is independent of 
+
+
+the current value typically is i think the general 
+
+way to think about it 
+
+now youll see this other kind of peculiar thing 
+
+so ive now set the price and then ive got this test here 
+
+if mo mo stands for momentum 
+
+im now exploring the question of whether or not stock prices 
+
+are indeed memoryless or the stock changes 
+
+and the fancy word for that is poisson 
+
+people often model things as poisson processes which is to 
+
+say processes in which past behavior has no impact on 
+
+future behavior its memoryless 
+
+and in fact thats what the efficient market hypothesis 
+
+purports to say 
+
+it says that since all the information is in the current 
+
+price you dont have to worry about whether it went up or 
+
+
+down yesterday to decide what its going to do today 
+
+there are people who dont believe that and instead 
+
+argue that there is this notion called momentum 
+
+these are called momentum investors 
+
+and they say whats most likely to happen today is 
+
+what happened yesterday 
+
+or more likely 
+
+if the stock went up yesterday its more likely to go up 
+
+today than if it didnt go up yesterday 
+
+so i wasnt sure which religion i was willing to believe in if 
+
+either so i added a parameter called if you believe in 
+
+momentum then you should change the price by  and here 
+
+i just did something taking a gaussian times the last change 
+
+and in fact added it in 
+
+so if it went up yesterday it will more likely go up today 
+
+because im throwing in a positive number otherwise 
+
+a negative number 
+
+notice that this is additive 
+
+because its dealing with yesterdays price 
+
+change with the change 
+
+ok so thats why were dealing with that 
+
+now heres where i shouldve put in this 
+
+test that i had up here 
+
+get it out from there 
+
+because what i want to do is say if self dot price is less 
+
+than  im going to set it to  just keep it there 
+
+
+that doesnt solve the problem we had before though right 
+
+then im going to append it and keep the last 
+
+change for future use 
+
+ok people understand whats going on here 
+
+and then show history is just going to produce a plot 
+
+weve seen that a million times before 
+
+any questions about this 
+
+well i have a question 
+
+
+does it make any sense 
+
+is it going to work at all 
+
+so now lets test it 
+
+so i now have this unit test program called unit test stock 
+
+i originally did not make it a function i had it inline and 
+
+i realized that was really stupid because i wanted 
+
+to do it a lot of times 
+
+so its got an internal procedure internal function 
+
+local to the unit test that runs the simulation 
+
+and it takes the set of stocks to simulate a fig figure 
+
+number this is going to print a bunch of graphs and i want 
+
+to say what graph it is and whether or not i 
+
+believe in big mo 
+
+it sets the mean to  and then for s in the stocks it moves 
+
+it giving it the bias and the momentum then it 
+
+shows the history 
+
+and then computes the mean of getting me the mean 
+
+of all the stocks in it 
+
+weve seen this sort of thing many times before 
+
+ive then got some constants 
+
+by the way i want to emphasize that ive named these constants 
+
+to make it easier to change 
+
+starting with  stocks  days 
+
+and then what i do is i stock sub  stocks  will be the 
+
+empty list stocks  is the empty list 
+
+why do you think im starting with bias of  
+
+because what do you think the mean should be if i simulate 
+
+
+various things that the bias of  
+
+i start  as the average price of the stock 
+
+what should the average price of the stock be 
+
+if my code is correct what should the average price be 
+
+after say  days if theres no bias 
+
+pardon 
+
+ exactly 
+
+since theres no upward or downward bias 
+
+they may fluctuate wildly but if i look at enough stocks the 
+
+
+average should be right around  
+
+i dont know what the average would be if i 
+
+chose a different bias 
+
+its a little bit complicated so i chose the simplest bias 
+
+important lesson so that there would be some predictability in 
+
+the results and i would have some if you will smoke test 
+
+for knowing whether or not i was getting my code 
+
+seemed to be working 
+
+all right and initially well maybe initially just to be 
+
+simple im going to start momentum equal to false 
+
+
+because again it seems simpler have a model where 
+
+theres no momentum 
+
+im looking for the simplest model possible for the 
+
+first time i run it 
+
+and then we looked at this little loop before for i in 
+
+range number of stocks im going to create two different 
+
+lists of stocks one where the moves or distributions are 
+
+chosen from a uniform and the other where theyre gaussian 
+
+because im sort of curious as to again which is the right 
+
+way to think about this all right 
+
+
+and then im going to just call it 
+
+well see what we get 
+
+so lets do it 
+
+lets hope that all the changes i mad have not introduced 
+
+a syntax error 
+
+all right well at least it did something 
+
+lets see what it did 
+
+so the test on the left youll remember was the one with test 
+
+one i believe was the uniform distribution and test 
+
+two is the gaussian 
+
+so but lets what should we do first 
+
+well lets do the smoke test number is the mean more 
+
+or less what we expected 
+
+well it looks like its dead on  which was our 
+
+initial price in test two 
+
+and in test one its a little bit above  
+
+but we didnt do that many stocks or that many days 
+
+so its quite plausible that its correct 
+
+but just to be sure not to be sure but just to increase my 
+
+confidence im going to just run it again 
+
+well here im a little bit below  and in two and 
+
+test one a little bit below  as well 
+
+you remember last time was a little bit above  
+
+i feel pretty good about this and in fact i ran it a lot 
+
+of times in my office 
+
+and it just bounces around hovering around  
+
+course this is the wrong way to do it 
+
+i should really just put it in a nice test harness where i 
+
+run    trials but i didnt want to bore 
+
+you with that here 
+
+so well see that ok we passed the first smoke test 
+
+we seem to be where we expect to be 
+
+well lets try smoke test two 
+
+what else might we want to see to see if we got 
+
+things working properly 
+
+
+well i kind of ignored the notion of bias by making it 
+
+ so lets give it a big bias here 
+
+assuming it will let me edit it 
+
+we just gotta start it up again its the 
+
+safest thing to do 
+
+you wouldnt think i would have i dont have  all 
+
+right be that way about it 
+
+fortunately weve been through this before 

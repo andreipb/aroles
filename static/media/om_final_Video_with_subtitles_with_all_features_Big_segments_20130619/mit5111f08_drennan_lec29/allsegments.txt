@@ -1,0 +1,1171 @@
+
+
+
+
+the following content is provided under a creative 
+
+commons license 
+
+your support will help mit opencourseware continue to 
+
+offer high quality educational resources for free 
+
+to make a donation or view additional materials from 
+
+hundreds of mit courses visit mit opencourseware 
+
+at ocwmitedu 
+
+ok lets just 
+
+  the clicker question 
+
+ok  i think that says  which is not bad but 
+
+we should be at  
+
+so when youre past the equivalence point so youve 
+
+converted all of your weak in this case acid to its 
+
+conjugate base and because it was a weak acid the conjugate 
+
+base is going to be a weak based and so its not 
+
+contributing a whole lot itll make the solution basic but 
+
+its nothing compared to adding strong base in there 
+
+so even though you have the weak base around at 
+
+this point its really a strong base problem 
+
+
+so you would calculate this by looking at how many mils of the 
+
+strong base youve added past and figure out the number of 
+
+moles that there are and divide by the total volume 
+
+so this was like one of the problems on the exam and one 
+
+thing that i thought was interesting on the exam is that 
+
+more people seemed to get the hard problem right than this 
+
+which was the easy problem 
+
+so well see on the final there will be an acid based 
+
+titration problem on the final at least one 
+
+so lets see if we can get then the easy and 
+
+the hard ones right 
+
+so youve mastered the hard ones and lets see if you can 
+
+
+learn how to do the easy ones as well for the final exam 
+
+ok so were going to continue with transition metals 
+
+we were talking about crystal field theory and magnetism and 
+
+you should have a handout for today and you should also have 
+
+some equipment to make models of orbitals and coordination 
+
+complexes  these are not snacks 
+
+they can be snacks later right now theyre a model kit 
+
+all right so im going to introduce you to some terms 
+
+that were going to come back you at the end of todays 
+
+lecture and then were going to talk about the shapes of 
+
+coordination complexes 
+
+so magnetism 
+
+so we talked last time before the exam if you remember 
+
+about high spin and low spin unpaired electrons and 
+
+paired electrons 
+
+well compounds that have unpaired electrons are 
+
+paramagnetic theyre attracted by a magnetic field and those 
+
+where the electrons are paired are diamagnetic are repelled 
+
+by a magnetic field 
+
+so you can tell whether a coordination complex is 
+
+paramagnetic or diamagnetic you can test the magnetism 
+
+and thatll give you some information about the electron 
+
+configuration of the d orbitals in that coordination complex 
+
+and that can tell you about the geometry 
+
+and so youll see that by the end were going to talk about 
+
+
+different types of energy orbitals when you have 
+
+different geometries 
+
+so why might you care about the geometry of a metal center 
+
+well people who study proteins that have metal centers care a 
+
+lot about the geometry of them 
+
+so let me just give you one example 
+
+we talked a lot about energy in the course this semester so we 
+
+need catalysts for removing carbon monoxide and carbon 
+
+dioxide from the environment 
+
+and nature has some of these  they have metal cofactors and 
+
+proteins that can do this and people have been interested in 
+
+mimicking that chemistry to remove these gases 
+
+from the environment 
+
+so let me tell you these enzymes are organisms 
+
+and this is pretty amazing some of these microorganisms 
+
+so over here theres one  it basically lives 
+
+on carbon monoxide 
+
+i mean thats  you know alternative sources of energy 
+
+are one thing but thats really quite a crazy thing 
+
+that this guy does 
+
+so you can grow it up in these big vats and pump in carbon 
+
+monoxide and its like oh food and they grow and 
+
+multiply and theyre very very happy in this carbon 
+
+monoxide environment 
+
+there are also microorganisms that live on carbon dioxide as 
+
+their energy and a carbon source 
+
+
+and so these organisms have enzymes in them that have metal 
+
+centers and those metal centers are responsible for the 
+
+ability of these organisms to live on these kind of bizarre 
+
+greenhouse gases and pollutants 
+
+so people would like to understand how this works 
+
+so microbes have been estimated to remove hundred a million 
+
+tons of carbon monoxide from the environment every year 
+
+producing about one trillion kilograms of acetate from 
+
+these greenhouse gases 
+
+and so what do these catalysts look like and these enzymes 
+
+
+what do these metal clusters look like that do 
+
+this chemistry 
+
+and this was sort of a rough model of what they look like 
+
+and they thought it had iron and sulfur and then a nickel in 
+
+some geometry but they had no idea sort of where the nickel 
+
+was and how it was coordinated 
+
+and so before there was any kind of three dimensional 
+
+information they used spectroscopy and they 
+
+considered whether it was paramagnetic or diamagnetic to 
+
+get a sense of what the geometry around the metal was 
+
+
+so were going to talk about different coordination 
+
+geometries and how many unpaired or paired electrons 
+
+you would expect depending on those geometries today 
+
+and so crystal field theory again can help you help 
+
+explainrationalize the properties of these transition 
+
+metal complexes or coordination complexes 
+
+so to help us think about geometry i always find 
+
+for myself that its helpful to have models 
+
+
+so not everyone can have such large models as these but you 
+
+can all have your own little models of these geometries 
+
+so what we have available to you are some mini marshmallows 
+
+which of course as we all know are representative of d 
+
+orbitals and jelly beans which we all know are useful 
+
+for making coordination complexes 
+
+so what you can do with your mini marshmallows is you can 
+
+put together to make your different sets 
+
+and so over here we have  oh actually it says gum drops 
+
+ you dont have gum drops this year i changed up here i 
+
+forgot to change it down here 
+
+we have mini marshmallows 
+
+dr taylor went out and tried to purchase enough gum drops to 
+
+do this experiment and discovered that cambridge only 
+
+had  gum drops so we have mini marshmallows 
+
+instead today 
+
+but this gives you the idea 
+
+you can take one toothpick and you can make d z squared 
+
+putting on your orbitals you have your donut in the middle 
+
+and then your two lobes which run along the zaxis 
+
+and then for your other sets of orbitals you can take these 
+
+two toothpicks and put on these sets of mini marshmallows and 
+
+handily you can just have one for all of the other d 
+
+orbitals because depending on how you hold it it can 
+
+represent all of the other d orbitals just very well 
+
+so you can just have one of these for all the others 
+
+and then your d z squared 
+
+so what were going to do when we have our orbitals set up 
+
+
+then we can think about how ligands in particular 
+
+positions in particular geometries would clash with our 
+
+orbitals  where thered be big repulsions or 
+
+small repulsions 
+
+so any other people missing their jelly beans or 
+
+their marshmallows 
+
+please raise your hand we have extras 
+
+so those of you who have them go ahead and start 
+
+making your d orbitals 
+
+all right so if youre finished with your two d 
+
+orbitals you can start making an octahedral complex 
+
+so in your geometries set youll have a big gum which can 
+
+be your center metal  youll have a big jelly bean  sorry 
+
+big jelly beans and small jelly beans are our ligands or our 
+
+negative point charges and you can set up and make an 
+
+octahedral geometry here 
+
+ok so as youre finishing this up im going to review what we 
+
+talked about before the exam  so this isnt in todays 
+
+lecture handouts it was in last time which we 
+
+already went over 
+
+but sometimes ive discovered that when theres an exam in 
+
+the middle there needs to be a bit of a refresher its hard 
+
+to remember what happened before the exam and you 
+
+have your models to think about this 
+
+so before the exam we had talked about the octahedral 
+
+case and how compared to a spherical situation where the 
+
+ligands are everywhere distributed around the metals 
+
+
+where all d orbitals would be affectedrepulsed by the 
+
+ligands in a symmetric fashion equally when you have them put 
+
+as particular positions in geometry then theyre going to 
+
+affect the different d orbitals differently 
+
+and so if you have your d z squared made and you have your 
+
+octahedral made you can sort of hold these up and realize 
+
+that you would have repulsion from your ligands along the 
+
+zaxis directly toward your orbitals from d z squared 
+
+so that would be highly repulsive 
+
+the ligands are along the zaxis the d orbitals are 
+
+along the zaxis so the ligands the negative point 
+
+charge ligands are going to be pointing right 
+
+toward your orbitals 
+
+and if you hold up this as a d x squared y squared orbital 
+
+where the orbitals are right along the xaxis and right 
+
+along the yaxis and you hold that up remember your ligands 
+
+are right along the xaxis and right along the yaxis 
+
+so you should also have significant repulsion for d x 
+
+squared minus y squared and octahedrally oriented ligands 
+
+in contrast the ligands set that are  degrees offaxis 
+
+so d y z d x z and d x y theyre all  degrees off 
+
+your ligands are along the axis but your orbitals 
+
+are  degrees offaxis 
+
+so if you look at that together youll see that 
+
+whichever one you look at the ligands are not going to be 
+
+
+pointing directly toward those d orbitals 
+
+the orbitals are offaxis ligands are onaxis 
+
+so there will be much smaller repulsions there 
+
+and that we talked about the fact that for d x squared minus 
+
+y squared and d z squared theyre both have experienced 
+
+large repulsions theyre both degenerate in energy they go 
+
+up in energy whereas these three d orbitals smaller 
+
+repulsion and theyre also degenerate with respect to each 
+
+other and theyre stabilized compared to these guys up here 
+
+
+so you can try to hold those up and convince yourself that 
+
+thats true for the octahedral case 
+
+so thats what we talked about last time and now we want to 
+
+ oh and ill just remind you we looked at these splitting 
+
+diagrams as well 
+
+we looked at the average energy of the d orbitals  d z 
+
+squared and d x squared minus y squared go up in energy 
+
+and then the other three d orbitals go down in energy 
+
+so now we want to consider what happens with 
+
+different geometries 
+
+so now you can turn your octahedral case into a 
+
+square planar case and how am i going to do that 
+
+
+yeah so we can just take off the top and the bottom and we 
+
+have our nice square planar case and try to make a 
+
+tetrahedral complex as well 
+
+and heres an example of a tetrahedral one 
+
+again you can take a jelly bean in the middle and big 
+
+jelly bean and then the smaller ones on the outside 
+
+so what angles am i going for here in the tetrahedral case 
+
+  
+
+ 
+
+so you can go ahead and make your tetrahedral complex 
+
+and dont worry so much about the   
+
+ but well see if people can do a good job with the  
+
+ok how are your tetrahedral complexes coming 
+
+do they look like this sort of 
+
+so let me define for you how were going to consider 
+
+the tetrahedral case 
+
+so in the tetrahedral case were going to have the xaxis 
+
+comes out of the plane the yaxis is this way zaxis 
+
+
+again up and down 
+
+were going to have one ligand coming out here another going 
+
+back and then these two are pretty much in the 
+
+plane of the screen 
+
+so this is sort of how im holding the tetrahedral complex 
+
+with respect to the x z and y coordinate system 
+
+so there is a splitting energy splitting associated 
+
+with tetrahedral and its going to be smaller than 
+
+
+octahedral because none of these ligands will be pointing 
+
+directly toward the orbitals 
+
+but lets consider which orbitals are going to be most 
+
+affected by a tetrahedral case 
+
+so lets consider d z squared 
+
+what do you think 
+
+is that going to be particularly  are the ligands 
+
+pointing toward d z squared 
+
+no 
+
+and d x squared minus y squared we can think of 
+
+what about that one 
+
+no not really 
+
+what about d x y d y z and d x y 
+
+moreso 
+
+so if you try holding up your tetrahedral in our coordinate 
+
+system and then hold your d orbitals  degrees offaxis 
+
+its not perfect theyre not pointing directly toward them 
+
+but its a little closer than for the d orbitals that 
+
+are directly onaxis 
+
+so if we look at this we see that the orbitals are going to 
+
+be split in the exact opposite way of the octahedral system 
+
+in the octahedral system the ligands are onaxis so the 
+
+orbitals that are onaxis d x squared minus y squared and d 
+
+z squared are going to be the most affected 
+
+but with tetrahedral the ligands are offaxis so the 
+
+d orbitals that are also offaxis are going to 
+
+be the most affected 
+
+but theyre not going to be as dramatically affected so the 
+
+splitting is actually smaller in this case 
+
+so here with tetrahedral you have the opposite of 
+
+the octahedral system 
+
+and you can keep these and try to convince yourself 
+
+of that later if you have trouble visualizing it 
+
+so youll have more repulsion between the ligands as negative 
+
+
+point charges and the d orbitals that are  degrees 
+
+offaxis than you do with the two d orbitals 
+
+that are onaxis 
+
+so here d x squared minus y squared and d z squared have 
+
+the same energy with respect to each other theyre degenerate 
+
+and we have our d y z x z and x y have the same energy 
+
+with respect to each other they are also degenerate 
+
+so its the same sets that are degenerate as with 
+
+octahedral but theyre all affected differently 
+
+
+so now lets look at the energy diagrams and compare the 
+
+octahedral system with the tetrahedral system 
+
+remember an octahedral we had the two orbitals going 
+
+up and three going down 
+
+the splitting the energy difference between 
+
+them was abbreviated 
+
+the octahedral crystal field splitting energy with a 
+
+little o for octahedral 
+
+we now have a t for tetrahedral so we have 
+
+a different name 
+
+and so here is now our tetrahedral set 
+
+
+you notice its the opposite of octahedral so the orbitals 
+
+that were most destabilized in the octahedral case are now 
+
+more stabilized down here so weve moved down in energy 
+
+and the orbitals that are offaxis  degrees offaxis 
+
+which were stabilized in the octahedral system because none 
+
+of ligands were pointing right toward them now those ligands 
+
+are a bit closer so they jump up in energy and so we have 
+
+this swap between the two 
+
+so we have some new labels as well 
+
+so we had e g up here as an abbreviation for these sets 
+
+of orbitals and now thats just referred to as e 
+
+
+notice the book in one place has an e  but uses e in all 
+
+the other places so just use e the e  was a 
+
+mistake in the book 
+
+and then we have t  g becomes t  up here 
+
+so we have this slightly different nomenclature and we 
+
+have this flip in direction 
+
+so the other thing that is important to emphasize is that 
+
+the tetrahedral splitting energy is smaller because none 
+
+
+of those ligands are pointing directly toward any 
+
+of the d orbitals 
+
+so here there is a much larger difference here there is a 
+
+smaller difference so thats why its written much closer 
+
+together so thats smaller 
+
+and because of that many tetrahedral complexes are high 
+
+spin and in this course you can assume that theyre 
+
+all high spin 
+
+so that means theres a weak field theres not a big 
+
+energy difference between those orbital sets 
+
+and again were going to  since were going to consider 
+
+
+how much they go up and down in energy the overall 
+
+energy is maintained 
+
+so here we had two orbitals going up by  three 
+
+orbitals going down by  
+
+so here we have three orbitals going up so theyll go up in 
+
+energy by  two orbitals go down so theyll be going 
+
+down in energy by  
+
+so again its the opposite of the octahedral system 
+
+its opposite pretty much in every way except that the 
+
+splitting energy is much smaller its not as large 
+
+for the tetrahedral complex 
+
+all right so lets look at an example and were going to 
+
+consider a chromium and like we did before we have to first 
+
+figure out the d count so we have chromium plus  
+
+so what is our d count here 
+
+you know where chromium is what its group number  
+
+here is a periodic table 
+
+
+so what is the d count 
+
+ 
+
+so we have  minus    a d  system 
+
+and now why dont you tell me how you would fill in those 
+
+three electrons in a tetrahedral case 
+
+have a clicker question there 
+
+so notice that in addition to having electron configurations 
+
+that are different the d orbitals are labelled 
+
+differently 
+
+ok  more seconds 
+
+ok very good  
+
+so lets take a look at that 
+
+so down here were going to have then our d x squared minus 
+
+y squared d z squared orbitals up in the top we have 
+
+x y and x z and y z 
+
+again the orbitals that are onaxis are repelled a little 
+
+
+less than the orbitals that are offaxis in a tetrahedral case 
+
+and then we put in our electrons we start down here 
+
+and then one of the questions is do we keep down here and 
+
+pair up or go up here and the answer is that you 
+
+would go up here 
+
+does someone want to tell me why they think thats true 
+
+yeah 
+
+inaudible 
+
+right because it has a smaller splitting energy 
+
+so the way that we were deciding before with the weak 
+
+
+field and the strong field if its a weak field it doesnt 
+
+take much energy to put it up there 
+
+so you go they dont want to be paired theres energy 
+
+associated with pairing 
+
+but if theres a really huge splitting energy then it takes 
+
+less energy to pair them up before you go that big 
+
+distance up there 
+
+but in tetrahedral cases the splitting energys always 
+
+small so youre just going to always fill them up singly 
+
+to the fullest extent possible before you pair 
+
+so this is like a weak field case for the octahedral system 
+
+and all tetrahedral complexes are sort of the equivalent of 
+
+the weak field because the splitting energy is always 
+
+small in an octahedral case because none of the ligands 
+
+
+negative point charges are really pointing toward any of 
+
+those orbitals that much so its not that big a difference 
+
+so here we have this and now we can practice writing our d 
+
+to the n electron configuration 
+
+so what do i put here 
+
+what do i put first 
+
+so we put the e and then what 
+
+yup 
+
+there are two electrons in the e set of orbitals and in the 
+
+
+t  orbitals theres one 
+
+so that is our d n electron configuration 
+
+and then were also asked how many unpaired electrons 
+
+unpaired electrons and that is three 
+
+all right 
+
+so thats not too bad thats the tetrahedral case 
+
+the hardest part is probably making your 
+
+tetrahedral complex 
+
+now square planar 
+
+so again with the square planar set you have your square 
+
+planar model  we have a bigger one down here 
+
+and the axes is defined such that we have ligands right 
+
+along x  one coming out at you and one going back and 
+
+also ligands right along the yaxis 
+
+
+so as defined then weve gotten rid of our ligands 
+
+along the zaxis 
+
+so what do you predict 
+
+which two of these will be the most destabilized now 
+
+what would be the most destabilized what 
+
+do you guess 
+
+you can hold up your little sets here 
+
+whats the most destabilized whats going to go up 
+
+the most in energy here 
+
+yeah d z squared minus y squared 
+
+what do you predict might be next in terms of 
+
+most unfavorable 
+
+yeah the x y one 
+
+so these two now are going to be the most destabilized with 
+
+d x squared minus y squared being a lot more destabilized 
+
+than just the x y because again those d orbitals 
+
+are onaxis and these ligands are onaxis 
+
+so lets take a look at all of these again 
+
+so in the octahedral case these were degenerate 
+
+thats no longer true because there are no ligands 
+
+along the zaxis anymore 
+
+so we took those off in going from the octahedral to the 
+
+square planar so you have much less repulsion but with the d 
+
+x squared minus y squared you still have a lot repulsion 
+
+so then if we start building up our case and this diagram is 
+
+i think on the next page of your handout but im going to 
+
+start building it all up together 
+
+so now d x squared y squared is really high up its very 
+
+much more destabilized than anybody else 
+
+d z squared on the other hand is down 
+
+its not  it would be stabilized compared  its 
+
+not nearly as destabilized as the other system 
+
+so then we go back and look at these 
+
+you told me that d x y would probably be next and 
+
+thats a very good guess 
+
+you see you have more repulsion than in the other two because 
+
+the other orbitals have some z component in them 
+
+so you have less repulsion than d x squared minus y squared 
+
+because its  degrees off but still that one is probably 
+
+
+going to be up a little bit more in energy than 
+
+the other set 
+
+these two here are stabilized compared to the others so 
+
+theyre somewhere down here 
+
+now the exact sort of arrangement can vary a little 
+
+bit but the important points are that the d x squared minus 
+
+y squared is the most destabilized d x y would be 
+
+next and the other are much lower in energy 
+
+and were not going to do this how much up and down thing 
+
+like the  and the  because its more 
+
+
+complicated in this case 
+
+so just the basic rationale you need to know here not the 
+
+exact energy differences in this particular case 
+
+ok so now weve thought about three different kinds of 
+
+geometries  octahedral tetrahedral and 
+
+the square planar 
+
+you should be able to rationalize for any 
+
+geometry that i give you what would be true 
+
+
+if i tell you the geometry and how it compares with our frame 
+
+with our axis frame of where the zaxis is you should be 
+
+able to tell me which orbital sets would be 
+
+the most destabilized 
+
+and to give you practice why dont you try 
+
+this one right here 
+
+so we have a square pyramidal case as drawn here with the 
+
+axes labeled z y and x coming in and coming out 
+
+tell me which of the following statements are true 
+
+and if you want you can take your square planar and turn it 
+
+into the geometry to help you out 
+
+lets just take  more seconds 
+
+all right 
+
+that was good 
+
+people did well on that question 
+
+so if we consider that we had the top two are correct 
+
+so if we consider the d z squared now weve put a ligand 
+
+along z so that is going to cause that to be more 
+
+destabilized for this geometry rather than square planar 
+
+
+which doesnt have anything in the z direction ah and then in 
+
+terms also other orbitals that have a component along z 
+
+are going to be affected a little bit by that but our 
+
+other one here is not going to be true so we just have all of 
+
+the above is not correct so we have this one 
+
+so if we had up those thats actually a pretty good score 
+
+and so you could think about say what would be true of a 
+
+complex that was linear along z what would be the most 
+
+stabilized for example 
+
+so these are the kinds of questions you can get and 
+
+i think there are a few on the problemset 
+
+all right so lets come back together now and talk 
+
+about magnetism again 
+
+so we said in the beginning that magnetism can be used to 
+
+
+figure out geometry in say a metal cluster in an enzyme and 
+
+lets give an example of how that could be true 
+
+so suppose you have a nickel plus  system so that would be 
+
+a d  system so we have group  minus  or d  and it was 
+
+found to be diamagnetic 
+
+and from that we may be able to guess using these kinds of 
+
+diagrams whether it has square planar geometry 
+
+tetrahedral geometry or octahedral geometry 
+
+we can predict the geometry based on that information 
+
+lets think about how thats true 
+
+we have a d  system 
+
+think about octahedral for a minute 
+
+are there two options for how this might look in this case 
+
+is there going to be a difference in electron 
+
+configurations if its a weak field or a strong field 
+
+so write it out on your handout and tell me whether 
+
+
+it would be true think about it both ways 
+
+is there a difference 
+
+so you would end up getting the same thing 
+
+in this particular case 
+
+so if its a weak field and you put in    then jump 
+
+up here   and then you have to come back    
+
+or you could pair up all the ones on the bottom first and 
+
+then go up there but you actually get the same result no 
+
+
+matter which way you put them in the diagram looks the same 
+
+so it doesnt matter in this case if it is a weak or strong 
+
+field you end up with those number of electrons with the 
+
+exact same configuration 
+
+so we know what that looks like 
+
+well what about square planar 
+
+so lets put our electrons in there 
+
+well start at the bottom well just put them in 
+
+im not going to worry too much about whether we can jump up or 
+
+not well just go and pair them up as we go down here and 
+
+then go up here and now weve put in our eight electrons 
+
+so how close these are were just going to put them all in 
+
+were just going to be very careful not to bump up any 
+
+electrons there unless we absolutely have to because d x 
+
+squared minus y squared is very much more destabilized in the 
+
+square planar system so were going to want to pair all 
+
+our electrons up in those lower energy orbitals 
+
+so even if we sort of did it a different way 
+
+thats what we would get 
+
+so were going to want to pair everything up before we go 
+
+up to that top one there 
+
+so theres our square planar 
+
+well what about tetrahedral 
+
+how are we going to fill these up 
+
+do we want to pair first or we do want to put them to the 
+
+full extent possible singly 
+
+single right its going to be a weak field theres not a big 
+
+splitting here between these so well put them in theres 
+
+        
+
+all right so now we can consider which of these will 
+
+be paramagnetic and which will be diamagnetic 
+
+whats octahedral 
+
+its paramagnetic we have unpaired electrons 
+
+what about square planar 
+
+square planars diamagnetic 
+
+and what about tetrahedral 
+
+paramagnetic 
+
+so if the experimental data told us that a nickel center in 
+
+an enzyme was diamagnetic and we were trying to decide 
+
+between those three geometries it really seems like square 
+
+planar is going to be our best guess 
+
+
+and so let me show you an example of a 
+
+square planar system 
+
+and so this particular nickel is in a square planar system 
+
+it has four ligands that are all in the same plane and it 
+
+is a square planar center for a nickel so thats one example 
+
+and this is a cluster thats involved in life 
+
+on carbon dioxide 
+
+all right so thats different geometries 
+
+youre set with that 
+
+monday were going to talk about colors of coordination 
+
+complexes which all have to do with the different geometries 

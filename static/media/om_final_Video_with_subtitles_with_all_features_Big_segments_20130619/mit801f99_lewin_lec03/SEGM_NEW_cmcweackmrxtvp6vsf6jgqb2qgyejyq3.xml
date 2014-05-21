@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TIER columns="Segmentation">
+    <span start="0.0" end="10.0">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="10.0" end="13.3333">
+        <v>TALK</v>
+    </span>
+    <span start="13.3333" end="76.6667">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="76.6667" end="80.0">
+        <v>TALK</v>
+    </span>
+    <span start="80.0" end="416.667">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="416.667" end="436.667">
+        <v>TALK</v>
+    </span>
+    <span start="436.667" end="440.0">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="440.0" end="446.667">
+        <v>TALK</v>
+    </span>
+    <span start="446.667" end="463.333">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="463.333" end="470.0">
+        <v>TALK</v>
+    </span>
+    <span start="470.0" end="476.667">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="476.667" end="480.0">
+        <v>TALK</v>
+    </span>
+    <span start="480.0" end="503.333">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="503.333" end="506.667">
+        <v>TALK</v>
+    </span>
+    <span start="506.667" end="683.333">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="683.333" end="686.667">
+        <v>TALK</v>
+    </span>
+    <span start="686.667" end="846.667">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="846.667" end="860.0">
+        <v>TALK</v>
+    </span>
+    <span start="860.0" end="976.667">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="976.667" end="1006.67">
+        <v>TALK</v>
+    </span>
+    <span start="1006.67" end="1036.67">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1036.67" end="1043.33">
+        <v>TALK</v>
+    </span>
+    <span start="1043.33" end="1046.67">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1046.67" end="1050.0">
+        <v>TALK</v>
+    </span>
+    <span start="1050.0" end="1060.0">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1060.0" end="1070.0">
+        <v>TALK</v>
+    </span>
+    <span start="1070.0" end="1386.67">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1386.67" end="1390.0">
+        <v>TALK</v>
+    </span>
+    <span start="1390.0" end="1410.0">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1410.0" end="1426.67">
+        <v>TALK</v>
+    </span>
+    <span start="1426.67" end="1456.67">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1456.67" end="1463.33">
+        <v>TALK</v>
+    </span>
+    <span start="1463.33" end="1626.67">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1626.67" end="1630.0">
+        <v>TALK</v>
+    </span>
+    <span start="1630.0" end="1633.33">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1633.33" end="1636.67">
+        <v>TALK</v>
+    </span>
+    <span start="1636.67" end="1940.0">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1940.0" end="1950.0">
+        <v>TALK</v>
+    </span>
+    <span start="1950.0" end="1956.67">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1956.67" end="1963.33">
+        <v>TALK</v>
+    </span>
+    <span start="1963.33" end="1973.33">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1973.33" end="1976.67">
+        <v>TALK</v>
+    </span>
+    <span start="1976.67" end="2573.33">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2573.33" end="2576.67">
+        <v>TALK</v>
+    </span>
+    <span start="2576.67" end="2980.0">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2980.0" end="2983.33">
+        <v>TALK</v>
+    </span>
+</TIER>

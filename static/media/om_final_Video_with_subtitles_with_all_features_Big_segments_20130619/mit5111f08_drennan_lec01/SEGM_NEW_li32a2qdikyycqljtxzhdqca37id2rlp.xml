@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TIER columns="Segmentation">
+    <span start="0.0" end="21.6884">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="21.6884" end="33.3667">
+        <v>TALK</v>
+    </span>
+    <span start="33.3667" end="43.3767">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="43.3767" end="50.0501">
+        <v>TALK</v>
+    </span>
+    <span start="50.0501" end="61.7284">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="61.7284" end="68.4017">
+        <v>TALK</v>
+    </span>
+    <span start="68.4017" end="78.4117">
+        <v>BOTH</v>
+    </span>
+    <span start="78.4117" end="91.7584">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="91.7584" end="101.768">
+        <v>TALK</v>
+    </span>
+    <span start="101.768" end="111.778">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="111.778" end="116.783">
+        <v>TALK</v>
+    </span>
+    <span start="116.783" end="128.462">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="128.462" end="141.808">
+        <v>TALK</v>
+    </span>
+    <span start="141.808" end="150.15">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="150.15" end="173.507">
+        <v>TALK</v>
+    </span>
+    <span start="173.507" end="178.512">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="178.512" end="195.195">
+        <v>TALK</v>
+    </span>
+    <span start="195.195" end="201.869">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="201.869" end="211.879">
+        <v>TALK</v>
+    </span>
+    <span start="211.879" end="218.552">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="218.552" end="238.572">
+        <v>TALK</v>
+    </span>
+    <span start="238.572" end="250.25">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="250.25" end="288.622">
+        <v>TALK</v>
+    </span>
+    <span start="288.622" end="301.969">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="301.969" end="318.652">
+        <v>BOTH</v>
+    </span>
+    <span start="318.652" end="380.38">
+        <v>TALK</v>
+    </span>
+    <span start="380.38" end="400.4">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="400.4" end="403.737">
+        <v>BOTH</v>
+    </span>
+    <span start="403.737" end="417.084">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="417.084" end="422.089">
+        <v>TALK</v>
+    </span>
+    <span start="422.089" end="430.43">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="430.43" end="437.104">
+        <v>TALK</v>
+    </span>
+    <span start="437.104" end="450.45">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="450.45" end="457.124">
+        <v>TALK</v>
+    </span>
+    <span start="457.124" end="488.822">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="488.822" end="500.501">
+        <v>TALK</v>
+    </span>
+    <span start="500.501" end="513.847">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="513.847" end="570.571">
+        <v>TALK</v>
+    </span>
+    <span start="570.571" end="588.922">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="588.922" end="600.601">
+        <v>TALK</v>
+    </span>
+    <span start="600.601" end="610.611">
+        <v>BOTH</v>
+    </span>
+    <span start="610.611" end="627.294">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="627.294" end="633.967">
+        <v>BOTH</v>
+    </span>
+    <span start="633.967" end="665.666">
+        <v>TALK</v>
+    </span>
+    <span start="665.666" end="680.681">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="680.681" end="692.359">
+        <v>BOTH</v>
+    </span>
+    <span start="692.359" end="707.374">
+        <v>TALK</v>
+    </span>
+    <span start="707.374" end="710.711">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="710.711" end="719.052">
+        <v>BOTH</v>
+    </span>
+    <span start="719.052" end="732.399">
+        <v>TALK</v>
+    </span>
+    <span start="732.399" end="757.424">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="757.424" end="760.761">
+        <v>BOTH</v>
+    </span>
+    <span start="760.761" end="780.781">
+        <v>TALK</v>
+    </span>
+    <span start="780.781" end="795.796">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="795.796" end="805.806">
+        <v>BOTH</v>
+    </span>
+    <span start="805.806" end="814.147">
+        <v>TALK</v>
+    </span>
+    <span start="814.147" end="824.157">
+        <v>BOTH</v>
+    </span>
+    <span start="824.157" end="830.831">
+        <v>TALK</v>
+    </span>
+    <span start="830.831" end="845.846">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="845.846" end="852.519">
+        <v>BOTH</v>
+    </span>
+    <span start="852.519" end="869.203">
+        <v>TALK</v>
+    </span>
+    <span start="869.203" end="877.544">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="877.544" end="897.564">
+        <v>TALK</v>
+    </span>
+    <span start="897.564" end="902.569">
+        <v>BOTH</v>
+    </span>
+    <span start="902.569" end="914.248">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="914.248" end="955.956">
+        <v>TALK</v>
+    </span>
+    <span start="955.956" end="960.961">
+        <v>BOTH</v>
+    </span>
+    <span start="960.961" end="990.991">
+        <v>TALK</v>
+    </span>
+    <span start="990.991" end="1002.67">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1002.67" end="1007.67">
+        <v>BOTH</v>
+    </span>
+    <span start="1007.67" end="1021.02">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1021.02" end="1056.06">
+        <v>TALK</v>
+    </span>
+    <span start="1056.06" end="1064.4">
+        <v>BOTH</v>
+    </span>
+    <span start="1064.4" end="1112.78">
+        <v>TALK</v>
+    </span>
+    <span start="1112.78" end="1131.13">
+        <v>BOTH</v>
+    </span>
+    <span start="1131.13" end="1172.84">
+        <v>TALK</v>
+    </span>
+    <span start="1172.84" end="1189.52">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1189.52" end="1197.86">
+        <v>BOTH</v>
+    </span>
+    <span start="1197.86" end="1211.21">
+        <v>TALK</v>
+    </span>
+    <span start="1211.21" end="1222.89">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1222.89" end="1234.57">
+        <v>BOTH</v>
+    </span>
+    <span start="1234.57" end="1242.91">
+        <v>TALK</v>
+    </span>
+    <span start="1242.91" end="1252.92">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1252.92" end="1302.97">
+        <v>TALK</v>
+    </span>
+    <span start="1302.97" end="1306.31">
+        <v>BOTH</v>
+    </span>
+    <span start="1306.31" end="1338.0">
+        <v>TALK</v>
+    </span>
+    <span start="1338.0" end="1351.35">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1351.35" end="1374.71">
+        <v>TALK</v>
+    </span>
+    <span start="1374.71" end="1386.39">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1386.39" end="1396.4">
+        <v>BOTH</v>
+    </span>
+    <span start="1396.4" end="1403.07">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1403.07" end="1416.42">
+        <v>TALK</v>
+    </span>
+    <span start="1416.42" end="1426.43">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1426.43" end="1456.46">
+        <v>TALK</v>
+    </span>
+    <span start="1456.46" end="1471.47">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1471.47" end="1501.5">
+        <v>TALK</v>
+    </span>
+    <span start="1501.5" end="1528.19">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1528.19" end="1548.21">
+        <v>TALK</v>
+    </span>
+    <span start="1548.21" end="1551.55">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1551.55" end="1563.23">
+        <v>TALK</v>
+    </span>
+    <span start="1563.23" end="1573.24">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1573.24" end="1631.63">
+        <v>TALK</v>
+    </span>
+    <span start="1631.63" end="1639.97">
+        <v>BOTH</v>
+    </span>
+    <span start="1639.97" end="1649.98">
+        <v>TALK</v>
+    </span>
+</TIER>

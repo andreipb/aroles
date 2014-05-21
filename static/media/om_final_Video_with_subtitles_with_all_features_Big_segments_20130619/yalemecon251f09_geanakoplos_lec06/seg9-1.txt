@@ -1,0 +1,348 @@
+
+
+all right so we spent a long  
+
+reviewing general equilibrium and weve now switched to 
+
+finance and youre hopefully going to 
+
+see that the principles of finance emerge very quickly from 
+
+the principles of general equilibrium 
+
+so that although it seems it was a long interlude weve 
+
+actually learned a lot about the financial economy 
+
+so im going to continue with the example that we started with 
+
+the last time 
+
+so we have a financial economy 
+
+so in a financial economywhat is a financial economy 
+
+on this top board the financial economy is defined by lots of 
+
+people in the economy and their utilities 
+
+so here we have for simplicity two kinds of people a and b with 
+
+utilities given by the log x  half log 
+
+x etcetera 
+
+its also people know today what their endowments are and 
+
+they have some idea of what theyre going to be tomorrow 
+
+theyre labor powered today and theyre going to be able to work 
+
+again next year 
+
+so the labor endowments are given by  for a 
+
+and  for b 
+
+and then they also know that there are two stocks in the 
+
+economy and they have to anticipate what the dividends 
+
+are going to be 
+
+and as fisher said the main value of assets is 
+
+that they give you something they produce something 
+
+in this case theyre going to be dividends and betas 
+
+producing dividends of  and alpha is producing a 
+
+
+dividend of  next period and then the ownership of 
+
+shares 
+
+so thats the beginning of the economy and we want to define 
+
+from that equilibrium which what are the 
+
+contemporaneous prices going to be 
+
+thats q for contemporaneous what are the prices of the 
+
+stocks going to be and whos going to hold which 
+
+portfolio of assets of stocks and whos going to consume what 
+
+and so fisher said thats a very complicated problem 
+
+you can simplify it by looking at a general equilibrium problem 
+
+which is much shorter to describe 
+
+and so the general equilibrium economy is going to be a much 
+
+simpler one 
+
+its going to consist of ua and ub the same as before 
+
+and ehata the endowments 
+
+ehata and ehatb 
+
+ehatb 
+
+so weve left out half the variables up there and we define 
+
+ehata  ea   and 
+
+ehatb  eb   
+
+but ehata this is the fisher insight  
+
+ea what a owns of the payoffs of the future 
+
+dividends thetabaraalpha 
+
+times dalpha plus thetabarabeta 
+
+times dbeta 
+
+since a owns half of the alpha stock 
+
+sorry all of the alpha stock and half of the beta stock 
+
+his endowment is  his original thing 
+
+plus what the stock is going to produce 
+
+and after all hes the owner 
+
+
+so hes going to get all of  a half of  which is   
+
+i took more space than i thought 
+
+and so similarly ehatb is going 
+
+to be  a half of  which   
+
+so here endowments are this and also lets just write it here 
+
+ehata   so this 
+
+so fisher said we start with a financial equilibrium 
+
+we can switch to the economic equilibrium and solve this 
+
+
+problem and having solved that one go 
+
+back and figure out how to solve this one 
+
+and you remember what the prices were 
+
+they turned out to be qi might as well 
+
+write it up there what the prices we had 
+
+we solved 
+
+we said first of all fisher has no theory for the 
+
+contemporaneous prices 
+
+its all relative prices 
+
+im going to write that 
+
+relative prices is all we can ever figure out 
+
+someone might always come along and change dollars to cents 
+
+when i was a little boy in france 
+
+on vacation they suddenly announced that 
+
+the franc was going to be divided 
+
+everything that was a hundred francs would now be one franc 
+
+they just redefined the currency so that might always 
+
+happen 
+
+so you have to have some theory of money and whether the 
+
+governments going to do that to figure out the nominal prices 
+
+so contemporaneous prices he says are  
+
+all right but having realized that if there are many goods at 
+
+
+time  he could figure out the relative prices 
+
+but with only  good at time one whos to say whether were 
+
+measuring dollars or francs or cents 
+
+well just call it  and the same things going to 
+
+happen next year 
+
+who knows whether its dollars or cents or francs so were 
+
+going to call it  again 
+
+but after that he figured everything out 
+
+this turned out to be a price of a third 
+
+this turned out to be a price of  thirds and we figured out 
+
+
+all the consumptions which ive forgotten of course 
+
+but anyway they werewho knows what they were 
+
+not that its too important 
+
+all right well i forgot what they were 
+
+anyway he figured out all the consumptions 
+
+i think they wereactually i sort of remember them 
+
+well lets say i dont 
+
+anyway he figured out all the consumptions 
+
+
+does anyone remember what they were 
+
+all right i will look them up  thirds  thirds  
+
+so they were  thirds and  and  thirds and  
+
+he figured out in equilibrium and how did he do itbecause 
+
+he solved over here first 
+
+we would have solvedhe didnt do this exact problem 
+
+but he would have solved over here and we would have found 
+
+with p   p  a third 
+
+and sure enough xa   thirds 
+
+xa   and xb   
+
+thirds and xb   
+
+so fisher said start with the financial economy 
+
+figure out what the reduced general equilibrium is 
+
+solve for this equilibrium and go back and figure out what 
+
+
+the financial equilibrium should be 
+
+all right so i want to now examine what weve done 
+
+and we did that the end of last class 
+
+you had to do it in a problem set 
+
+and you notice that the only difference between this and that 
+
+is the general equilibrium throws 
+
+away a lot of irrelevant information because fisher said 
+
+people are rational 
+
+they look through the veil of all the gibberish of who owns 
+
+the company and stuff like that and theyre just anticipating 
+
+what the company is going to produce 
+
+they dont really care about whether theres a man running 
+
+the company or a woman running the company 
+
+or whether shes got an mba from harvard or from yale 
+
+
+none of this is relevant what the business plan is 
+
+all they care about is whats going to actually happen in the 
+
+end 
+
+so if you think theyre going to anticipate that correctly you 
+
+dont need to worry about all the other stuff 
+
+so looking through the veil you can always reduce the financial 
+
+equilibrium to a general equilibrium 
+
+now i want to go back and reexamine all that logic 
+
+so whats the first step in what fisher did 
+
+
+and this is the idea of no arbitrage 
+
+so fisher said people look through the veil of things 
+
+they understand stuff and you can count on their understanding 
+
+to guide your understanding of the economy 
+
+so if you know that pialpha 
+
+this is a big pipialpha  a 
+
+third so fisher says well 
+
+you dont have to solve for the whole equilibrium to figure out 
+
+what pibeta is 
+
+what would pibeta be 
+
+well fisher would have said stock beta always pays off 
+
+exactly what stock alpha pays off 
+
+so if these people are rational theyre not going to allow for 
+
+an arbitrage 
+
+so arbitrage means if there are two assets or two things that 
+
+are identical they have to sell for the same 
+
+pricethats no arbitrage 
+
+if they sold for a different price thered be an arbitrage 
+
+youd sell the more expensive one and buy the cheaper one 
+
+and so youd have accomplished a perfect tradeoff 
+
+but youd have gotten the difference of money 
+
+so since pialpha is  third pibeta has 
+
+to equal  thirds 
+
+thats the first most important principle of 
+
+finance that fisher introduced the idea of no arbitrage and 

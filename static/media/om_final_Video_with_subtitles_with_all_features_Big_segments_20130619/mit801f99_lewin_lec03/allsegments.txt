@@ -1,0 +1,1661 @@
+
+
+the bad news today is that there will be quite a bit of math 
+
+but the good news is that we will only do it once 
+
+and it will only take something like halfhour 
+
+there are quantities in physics 
+
+which are determined uniquely by one number 
+
+mass is one of them 
+
+temperature is one of them 
+
+speed is one of them 
+
+we call those scalars 
+
+there are others where you need more than one number 
+
+for instance on a one dimensional motion velocity 
+
+it has a certain magnitude thats the speed 
+
+but you also have to know 
+
+whether it goes this way or that way 
+
+so there has to be a direction 
+
+velocity is a vector and acceleration is a vector 
+
+and today were going to learn how to work with these vectors 
+
+a vector has a length and a vector has a direction 
+
+and thats why we actually represent it by an arrow 
+
+
+we all have seen this is a vector 
+
+remember this this is a vector 
+
+if you look at the vector headon you see a dot 
+
+if you look at the vector from behind you see a cross 
+
+this is a vector 
+
+and that will be our representation of vectors 
+
+imagine that i am standing on the table in  
+
+this is the table and i am standing say at point o 
+
+and i move along a straight line from o to point p 
+
+so i move like so 
+
+thats why i am on the table 
+
+and thats where you will see me when you look from  
+
+it just so happens 
+
+that someone is also going to move the table 
+
+in that same amount of time from here to there 
+
+so that means that the table will have moved down 
+
+and so my point p will have moved down exactly the same way 
+
+and so you will see me now at point s 
+
+
+you will see me at point s in  
+
+although i am still standing 
+
+at the same location on the table 
+
+the table has moved 
+
+this is now the position of the table 
+
+see the whole table has shifted 
+
+now if these two motions take place simultaneously 
+
+then what you will see from where you are sitting 
+
+you will see me move in  from o straight line to s 
+
+and this holds the secret behind the adding of vectors 
+
+
+we say here that the vector os well put an arrow over it 
+
+is the vector op with an arrow over it plus ps 
+
+this defines how we add vectors 
+
+there are various ways that you can add vectors 
+
+suppose i have here vector a and i have here vector b 
+
+then you can do it this way 
+
+which i call the headtail technique 
+
+i take b and i bring it to the head of a 
+
+so this is b this is a vector 
+
+and then the net result is a plus b 
+
+this vector c equals a plus b 
+
+thats one way of doing it 
+
+it doesnt matter whether you take b 
+
+the tail of b to the head of a 
+
+or whether you take the tail of a and bring it to the head of b 
+
+you will get the same result 
+
+theres another way you can do it 
+
+and i call that the parallelogram method 
+
+here you have a 
+
+you bring the two tails together so here is b now 
+
+so the tails are touching 
+
+and now you complete this parallelogram 
+
+
+and now this vector c is the same sum vector 
+
+that you have here whichever way you prefer 
+
+you see immediately 
+
+that a plus b is the same as b plus a 
+
+there is no difference 
+
+what is the meaning of a negative vector 
+
+well a minus a equals zero 
+
+vector a subtract from vector a equals zero 
+
+so here is vector a 
+
+so which vector do i have to add to get zero 
+
+i have to add minus a 
+
+well if you use the headtail technique 
+
+this is a 
+
+you have to add this vector to have zero 
+
+so this is minus a 
+
+and so minus a is nothing but the same as a 
+
+but flipped over  degrees 
+
+well use that very often 
+
+and that brings us to the point of subtraction of vectors 
+
+
+how do we subtract vectors 
+
+so a minus b equals c 
+
+here we have vector a and here we have 
+
+let me write this down here and here we have vector b 
+
+one way to look at this is the following 
+
+you can say a minus b is a plus minus b 
+
+and we know how to add vectors and we know what minus b is 
+
+minus b is the same vector but flipped over 
+
+so we put here minus b 
+
+and so this vector now here equals a minus b 
+
+
+heres vector c heres a minus b 
+
+and of course you can do it in different ways 
+
+you can also think of it as a plus as c plus b is a 
+
+right you can say you can bring this to the other side 
+
+you can say c plus b is a c plus b is a 
+
+in other words which vector do i have to add to b to get a 
+
+and then you have the parallelogram technique again 
+
+
+there are many ways you can do it 
+
+the headtail technique 
+
+is perhaps the easiest and the safest 
+
+so you can add a countless number of vectors 
+
+one plus the other and the next one 
+
+and you finally have the sum of five or six or seven vectors 
+
+which then can be represented by only one 
+
+when you add scalars for instance five and four 
+
+then there is only one answer that is nine 
+
+five plus four is nine 
+
+suppose you have two vectors 
+
+you have no information on their direction 
+
+but you do know that the magnitude of one is four 
+
+and the magnitude of the other is five 
+
+thats all you know 
+
+then the magnitude of the sum vector could be nine 
+
+
+if they are both in the same direction thats the maximum 
+
+or it could be one if they are in opposite directions 
+
+so then you have a whole range of possibilities 
+
+because you do not know the direction 
+
+so the adding and the subtraction of vectors 
+
+is way more complicated than just scalars 
+
+as we have seen that the sum of vectors 
+
+can be represented by one vector 
+
+equally can we take one vector 
+
+and we can replace it by the sum of others 
+
+and we call that decomposition of a vector 
+
+and thats going to be very important in  
+
+and i want you to follow this therefore quite closely 
+
+i have a vector which is in threedimensional space 
+
+this is my z axis 
+
+this is my x axis y axis and z axis 
+
+this is the origin o and here is a point p 
+
+and i have a vector op thats the vector 
+
+and what i do now i project this vector 
+
+onto the three axes x y and z 
+
+so there we go 
+
+
+
+each one has her or his own method of doing this 
+
+
+
+there we are 
+
+i call this vector vector a 
+
+
+
+now this angle will be theta and this angle will be phi 
+
+
+
+notice that the projection of a on the y axis has here 
+
+a number which i call a of y 
+
+this number is a of x and this number here is a of z 
+
+
+simply a projection of that vector onto the three axes 
+
+we now introduce what we call unit vectors 
+
+unit vectors are always pointing in the direction 
+
+of the positive axis 
+
+and the unit vector in the x direction is this one 
+
+it has a length one and we write for it x roof 
+
+roof always means unit vector 
+
+and this is the unit vector in the y direction 
+
+and this is the unit vector in the z direction 
+
+and now im going to rewrite vector a 
+
+in terms of the three components that we have here 
+
+
+so the vector a im going to write 
+
+as a of x times x roof plus a of y times y roof 
+
+plus a of z times z roof 
+
+and this a of x times x is really a vector 
+
+that runs from the origin to this point 
+
+so we could put in that as a vector if you want to 
+
+this makes it a vector 
+
+this is that vector 
+
+a of y times oh sorry it is a of x this one 
+
+a of y times y roof is this one 
+
+and a of z times z roof is this one 
+
+and so these three green vectors added together 
+
+
+are exactly identical to the vector op 
+
+so we have decomposed one vector into three directions 
+
+and we will see that very often this is of great use in  
+
+the magnitude of the vector is 
+
+the square root of ax squared plus ay squared plus az squared 
+
+and so we can take a simple example 
+
+for instance i take a vector a 
+
+this is just an example to see this in action 
+
+and we call a three x roof 
+
+
+so a of axis is three minus five y roof plus  z roof 
+
+so that means that its three units in this direction 
+
+it is five units in this direction 
+
+in the minus y direction 
+
+and six in the plus z direction 
+
+that makes up a vector and i call that vector a 
+
+what is the magnitude of that vector 
+
+which i always write down with vertical bars 
+
+if i put two bars on one side thats always the magnitude 
+
+or sometimes i simply leave the arrow off 
+
+
+but to be always on the safe side i like this idea 
+
+that you know its really the magnitude 
+
+becomes the scalar when you do that 
+
+so that would be the square root of three squared is nine 
+
+five squared is  six squared is  
+
+so thats the square root of  
+
+and suppose i asked you what is theta 
+
+its uniquely determined of course 
+
+this vector is uniquely determined 
+
+in threedimensional space 
+
+
+so you should be able to find phi and theta 
+
+well the cosine of theta 
+
+see this angle here  degrees projection 
+
+so the cosine of theta is a of z divided by a itself 
+
+so the cosine of theta equals a of z divided by a itself 
+
+which in our case 
+
+would be six divided by the square root of  
+
+and you can do fine 
+
+its just simply a matter of manipulating some numbers 
+
+
+we now come to a much more difficult part of vectors 
+
+and that is multiplication of vectors 
+
+
+
+were not going to need this until october but i decided 
+
+we might as well get it over with now 
+
+now that we introduced vectors you can add and subtract 
+
+you might as well learn about multiplication 
+
+its sort of the job is done its like going to the dentist 
+
+its a little painful but its good for you 
+
+and when its behind you the pain disappears 
+
+so were going to talk about multiplication of vectors 
+
+
+something that will not come back until october 
+
+and later in the course 
+
+there are two ways that we multiply vectors 
+
+and one is called the dot product 
+
+often also called the scalar product 
+
+a dot b a fat dot and that is defined as it is a scalar 
+
+a of x times b of x just a number 
+
+plus a of y times b of y thats another number 
+
+plus a of z times b of z thats another number 
+
+it is a scalar 
+
+it has no longer a direction 
+
+that is the dot product 
+
+so thats method number one 
+
+thats completely legitimate and you can always use that 
+
+there is another way to find the dot product 
+
+
+depending upon what youre being given 
+
+how the problem is presented to you 
+
+if someone gives you the vector a and you have the vector b 
+
+and you happen to know this angle between them 
+
+this angle theta 
+
+which has nothing to do with that angle theta 
+
+its the angle between the two 
+
+then the dot product is also the following 
+
+and you may make an attempt to prove that 
+
+you project the vector b on a 
+
+this is that projection 
+
+the length of this vector is b cosine theta 
+
+and then the dot product 
+
+is the magnitude of a times the magnitude of b 
+
+times the cosine of the angle theta 
+
+
+the two are completely identical 
+
+now you may ask me you may say 
+
+gee how do i know what theta is 
+
+how do i know i should take theta this angle 
+
+or maybe i should take theta this angle 
+
+i mean what angle is a making with b 
+
+it makes no difference 
+
+because the cosine of this angle here 
+
+is the same as the cosine of  degrees minus theta 
+
+so that makes no difference 
+
+sometimes this is faster 
+
+depending upon how the problem is presented to you 
+
+sometimes the other is faster 
+
+you can immediately see by looking at this 
+
+its easier to see than looking here 
+
+
+that the dot product can be larger than zero 
+
+it can be equal to zero and it can be smaller than zero 
+
+a and b are by definition always positive 
+
+they are a magnitude 
+
+thats always determined by the cosine of theta 
+
+if the cosine of theta is larger than zero 
+
+well then its larger than zero 
+
+the cosine of theta can be zero 
+
+if the angle for theta is pi over two 
+
+in other words if the two vectors 
+
+are perpendicular to each other 
+
+then the dot product is zero and if this angle theta 
+
+is between  degrees and  degrees 
+
+then the cosine is negative 
+
+we will see that at work no pun implied 
+
+when were going to deal with work in physics 
+
+
+you will see that we can do positive work 
+
+and we can do negative work 
+
+and that has to do with this dot product 
+
+work and energy are dot products 
+
+i could do an extremely simple example with you 
+
+the simplest that i can think of 
+
+perhaps its almost an insult its not meant that way 
+
+suppose we have a dot b 
+
+and a is the one that you really have on the blackboard there 
+
+right here thats a 
+
+but b is just two y roof 
+
+two y roof thats all it is 
+
+well what is a dot b 
+
+a dot b theres no x component of b 
+
+so that becomes zero this term becomes zero 
+
+there is only a y component of b 
+
+so it is minus five times plus two 
+
+so i get minus ten because there was no z component 
+
+simple as that so its minus ten 
+
+i can give you another example example two 
+
+suppose a itself is the unit vector in the y direction 
+
+
+and b is the unit vector in the z direction 
+
+then a dot b is what 
+
+i want to hear it loud and clear 
+
+zero 
+
+yeah zero 
+
+it is zero you dont even have to think about anything 
+
+you know that these two are at  degrees 
+
+if you want to waste your time 
+
+and want to substitute it in here 
+
+
+you will see that it comes out to be zero 
+
+it should work because clearly a of y means 
+
+that this this is one 
+
+thats what it means 
+
+and b is z that means that b of z this is one 
+
+and all the others do not exist 
+
+well i wish you luck with that and we now go 
+
+to a way more difficult part of multiplication 
+
+and that is vector multiplication 
+
+which is called the vector product 
+
+or also called most of the time 
+
+
+i refer to it as the cross product 
+
+the cross product is written like a cross b equals c 
+
+its a cross very clear cross 
+
+and i will tell you how i remember 
+
+that is method number one 
+
+im going to teach you just like with the dot product 
+
+two methods 
+
+i will tell you method number one 
+
+which is the one that always works 
+
+its timeconsuming but it always works 
+
+you write down here a matrix with three rows 
+
+
+the first row is x roof y roof z roof 
+
+the second one is a of x a of y a of z 
+
+its important if a is here first 
+
+that that second row must be a and the third row is then b 
+
+b of x b of y b of z 
+
+so these six are numbers and these are the unit vectors 
+
+i repeat this here verbatim 
+
+you will see in a minute why i need that 
+
+and i will do the same here 
+
+
+
+okay and now comes the recipe 
+
+you take you go from the upper lefthand corner 
+
+to the one in this direction 
+
+you multiply them all three and thats a plus sign 
+
+so you get ay so c 
+
+which is a cross b equals ay times bz times the x roof 
+
+but im not going to put the x roof in yet 
+
+because i have to subtract this one minus sign 
+
+which has az by 
+
+so it is minus az by and that is in the direction x 
+
+the next one is this one 
+
+az bx 
+
+minus this one 
+
+ax bz 
+
+in the direction y 
+
+and last but not least 
+
+ax by 
+
+minus ay bx 
+
+in the direction of the unit vector z 
+
+so this part here is what we call c of x 
+
+its the x component of this vector 
+
+and this we can call c of y and this we can call c of z 
+
+
+so we can also write that vector then 
+
+that c equals c of x x roof plus c of y y roof 
+
+plus c of z z roof 
+
+cross product of a and b 
+
+we will have lots of exercises 
+
+lots of chances you will have on assignment too 
+
+to play with this a little bit 
+
+now comes my method number two and method number two is again 
+
+as we had with the dot product is a geometrical method 
+
+let me try to work on this board in between 
+
+
+if you know vector a and you know vector b 
+
+and you know that the angle is theta 
+
+then the cross product c equals a cross b 
+
+is the magnitude of a times the magnitude of b 
+
+times the sine of theta 
+
+not the cosine of theta as we had before with the dot product 
+
+it is the sine of theta 
+
+so you can really immediately see that this will be zero 
+
+if theta is either zero degrees or  degrees 
+
+whereas the dot product was zero 
+
+when the angle between them was  degrees 
+
+this number can be larger than zero 
+
+if the sine theta is larger than zero 
+
+it can also be smaller than zero 
+
+now we only have the magnitude of the vector 
+
+and now comes the hardest part 
+
+what is the direction of the vector 
+
+and that is something 
+
+that you have to engrave in your mind and not forget 
+
+the direction is found as follows 
+
+you take a because its first mentioned 
+
+and you rotate a over the shortest possible angle to b 
+
+if you had in your hand a corkscrew 
+
+
+and i will show that in a minute 
+
+then you turn the corkscrew as seen from your seats clockwise 
+
+and the corkscrew would go into the blackboard 
+
+and if the corkscrew goes into the blackboard 
+
+you will see the tail of the vector 
+
+and you will see a cross little plus sign 
+
+and therefore we put that like so 
+
+a cross product is always perpendicular to both a and b 
+
+but it leaves you with two 
+
+it can either come out of the blackboard 
+
+or it can go in the blackboard 
+
+and i just told you which convention to use 
+
+and i want to show that to you 
+
+in a way that may appeal to you more 
+
+this is what i have used before 
+
+on my television help sessions 
+
+that i have given at mit 
+
+i have an apple not an apple 
+
+this is a tomato not a tomato 
+
+its a potato 
+
+ class   
+
+i have a potato here and here is a corkscrew 
+
+
+here is a corkscrew 
+
+im going to turn the corkscrew 
+
+as seen from your side clockwise 
+
+and youll see that the corkscrew goes into the potato 
+
+ini  thats the direction then of the vector 
+
+if we had b cross a then you take b in your hands 
+
+and you rotate it over the shortest angle to a 
+
+now you have to rotate counterclockwise 
+
+and when you rotate counterclockwise 
+
+the corkscrew comes to you there you go 
+
+
+and so the vector is now pointing in this direction 
+
+and if the vector is pointing towards you 
+
+then we would indicate that with a circle and a dot 
+
+in other words for this vector 
+
+b cross a would have exactly the same magnitude 
+
+no difference but it would be coming out of the blackboard 
+
+in other words a cross b equals minus b cross a 
+
+whereas a dot b is the same as b dot a 
+
+we will encounter cross products when we deal with torques 
+
+and when we deal with angular momentum 
+
+which is not the easiest part of  
+
+lets take an extremely simple example 
+
+again i dont mean to insult you with such a simple example 
+
+but you will get chances 
+
+more advanced chances on your assignment 
+
+suppose i gave to vector a this x roof 
+
+its a unit vector in the x direction 
+
+that means a of x is one 
+
+and a of y is zero and a of z is zero 
+
+and suppose b is y roof 
+
+that means b of y is one 
+
+and b of x is zero and b of z is zero 
+
+what now is the dot product the cross product a cross b 
+
+
+
+well you can apply that recipe 
+
+but its much easier to go 
+
+to the x y z axes that we have here 
+
+a was in the x direction the unit vector 
+
+and b in the y direction 
+
+i take a in my hand i rotate over the smallest angle 
+
+
+which is  degrees to y and my corkscrew will go up 
+
+so i know the whole thing already 
+
+i know that this cross product must be z roof 
+
+the magnitude must be one 
+
+thats immediately clear 
+
+but i immediately have the direction 
+
+by using the corkscrew rule 
+
+now if youre very smart 
+
+you may say aha you find plus z 
+
+only because you have used this coordinate system 
+
+if this axis had been x and this one had been y 
+
+then the cross product of x and y would be 
+
+in the minus z direction 
+
+yeah youre right 
+
+but if you ever do that i will killi you 
+
+ class   
+
+you will always always have to work 
+
+
+with what we call a right handed coordinate system 
+
+and a righthanded coordinate system by definition 
+
+is one whereby the cross product 
+
+of x with y is z and not y minus z 
+
+so whenever you get in the future involved 
+
+with cross products and torques and angular momentum 
+
+always make yourself an xyz diagram 
+
+for which x cross y is z 
+
+
+never ever make it such that x cross y is minus z 
+
+youre going to hang yourself 
+
+for one thing that wouldnt work anymore 
+
+so be very very careful 
+
+you must work if you use the righthand corkscrew rule 
+
+make sure you work with the righthanded coordinate system 
+
+all right now the worst part is over 
+
+and now i would like to write down for you 
+
+we pick up some of the fruits now 
+
+although it will penetrate slowly 
+
+i want to write down for you equations for a moving particle 
+
+
+a moving object in threedimensional space 
+
+very complicated motion 
+
+which i can hardly imagine what its like 
+
+it is a point that is going to move around in space 
+
+and it is this point p 
+
+this point p is going to move around in space 
+
+and i call this vector op i call that now vector r 
+
+and i give it a subindex t 
+
+which indicates its changing with time 
+
+i call this location a of y i am going to call that y of t 
+
+its changing with time 
+
+i call this x of t its going to change with time 
+
+and i call this point z of t 
+
+which is going to change with time 
+
+because point p is going to move 
+
+and so im going to write down the vector r 
+
+in its most general form that i can do that 
+
+r which changes with time 
+
+is now x of t which is the same as a over x there before 
+
+times x roof plus y of t 
+
+y roof plus z of t z roof 
+
+
+i have decomposed my vector r into three independent vectors 
+
+each one of those change with time 
+
+what is the velocity of this particle 
+
+well the velocity is the first derivative of the position 
+
+so that it is dr dt 
+
+so there we go first the derivative of this one 
+
+which is dx dt x roof 
+
+i am going to write for dx dt x dot because i am lazy 
+
+and i am going to write for dx dt squared x double dots 
+
+its often done but not in your book 
+
+but it is a notation that i will often use 
+
+because otherwise the equations look so clumsy 
+
+plus y dot times y roof plus z dot times z roof 
+
+so z dot is the dzdt 
+
+what is the acceleration as a function of time 
+
+well the acceleration as a function of time 
+
+equals dvdt 
+
+so thats the section derivative of x versus time 
+
+and so that becomes x double dot times x roof 
+
+plus y double dot times y roof plus z double dot times z roof 
+
+and look what we have now accomplished 
+
+it looks like minor but its going to be big later on 
+
+we have a point p going in threedimensional space 
+
+and here we have the entire behavior of the object 
+
+as it moves its projection along the x axis 
+
+this is the position this is its velocity 
+
+and this is its acceleration 
+
+and here you can see the entire behavior on the z axis 
+
+this is the position on the z axis 
+
+this is the velocity component in the z direction 
+
+
+and this is the acceleration on the z axis 
+
+and here you have the y 
+
+in other words we have now the threedimensional motion 
+
+we have cut into three onedimensional motions 
+
+this is a onedimensional motion 
+
+this is behavior only along the x axis 
+
+and this is a behavior only along the y axis 
+
+and this is a behavior only along the z axis 
+
+and the three together make up 
+
+the actual motion of that particle 
+
+what have we gained now 
+
+it looks like this looks like a mathematical zoo 
+
+you would say well if this is what it is going to be like 
+
+its going to be hell 
+
+well not quite 
+
+in fact its going to help you a great deal 
+
+first of all if i throw up a tennis ball in class 
+
+
+like this then the whole trajectory is 
+
+the whole trajectory is in one plane 
+
+in the vertical plane 
+
+so even though it is in three dimensions 
+
+we can always represent it by two axes by two dimensionally 
+
+a y axis and an x axis 
+
+so already the threedimensional problem 
+
+often becomes a twodimensional problem 
+
+we will with great success analyze these trajectories 
+
+by decomposing this very complicated motion 
+
+imagine what an incredibly complicated arc that is 
+
+and yet we are going to decompose it 
+
+into a motion in the x direction 
+
+which lives a life of its own 
+
+independent of the motion in the y direction 
+
+which lives a life of itsi own 
+
+
+and of course you always have to combine the two 
+
+to know what the particle is doing 
+
+we know the equations so well from our last lecture 
+
+from onedimensional motion with constant acceleration 
+
+the first line tells you 
+
+what the x position is as a function of time 
+
+the index t tells you that it is changing with time 
+
+it is the position at t equals zero 
+
+plus the velocity at t equals zero 
+
+times t plus onehalf ax t squared 
+
+if there is an acceleration in the x direction 
+
+the velocity immediately comes 
+
+from taking the derivative of this function 
+
+and the acceleration comes 
+
+from taking the derivative of this function 
+
+now if we have a motion which is more complicated 
+
+which reaches out to two or three dimensions 
+
+we can decompose the motion in three perpendicular axes 
+
+and you can replace every x here by a y 
+
+which gives you the entire behavior in the y direction 
+
+and if you want to know the behavior in the z direction 
+
+you replace every x here by z 
+
+and then you have decomposed the motion in three directions 
+
+each of them are linear 
+
+and thats what i want to do now 
+
+im going to throw up an object golf ball or an apple in  
+
+
+and we know that its in the vertical plane so we have 
+
+we only deal with a twodimensional problem 
+
+this being 
+
+i call this my x axis and im going to call this my y axis 
+
+i call this increasing value of x 
+
+and i call this increasing value of y 
+
+i could have called thisi increasing value of y 
+
+today i have decided to call thisi increasing value of y 
+
+i am free in that choice 
+
+i throw up an object at a certain angle 
+
+and i see a motion like this boing 
+
+and it comes back to the ground 
+
+my initial speed when i threw it was v zero 
+
+and the angle here is alpha 
+
+the x component of that initial velocity 
+
+is v zero cosine alpha 
+
+and the y component equals v zero sine alpha 
+
+so thats the begins velocity of the x direction 
+
+
+this is the begins velocity in the y direction 
+
+a little later in time that object is here at point p 
+
+and this is now the position vector 
+
+which we have called r of t its this vector 
+
+thats the vector that is moving through space 
+
+at this moment in time x of t is here 
+
+and at this moment in time y of t is here 
+
+and now youre going to see for the first time 
+
+the big gain by the way that we have divided the two axes 
+
+which live an independent life 
+
+first x 
+
+i want to know everything about x that there has to be known 
+
+i want to know where it is at any moment in time 
+
+velocity and the acceleration only in x 
+
+first i want to know that at t   
+
+well at t   i look there 
+
+x zero thats the i can choose that to be zero 
+
+so i can say x zero is zero thats my free choice 
+
+now i need v zero x what is the velocity 
+
+the velocity at t   which we have called v zero x 
+
+is this velocity v zero cosine alpha 
+
+and its not going to change 
+
+why is it not going to change 
+
+because there is no a of x so this term here is zero 
+
+we only have this one 
+
+so at all moments in time 
+
+the velocity in the x direction is v zero cosine alpha 
+
+and the a of x equals zero 
+
+
+
+now i want to do the same in the x direction for time t 
+
+well at time t i look there at the first equation 
+
+there it is x zero is zero 
+
+i know v zero x that is v zero cosine alpha 
+
+so x of t is v zero cosine alpha times t 
+
+but there is no acceleration so thats it 
+
+what is vx of t 
+
+the velocity in the x direction at any moment in time 
+
+that is that equation that is simply v zero x 
+
+it is not changing in time 
+
+because there is no acceleration 
+
+so the initial velocity at t zero is the same 
+
+
+as t seconds later and the acceleration is zero 
+
+now were going to do this for the y direction 
+
+and now you begin to see the gain for the decomposition 
+
+in the y direction we change the x by y 
+
+and so we do it first at t   
+
+so look there 
+
+this becomes y zero i call that zero 
+
+i can always call my origin zero 
+
+
+i get v zero y times t 
+
+well v zero y is this quantity 
+
+is v zero sine alpha v zero sine alpha 
+
+this is v zero sine alpha 
+
+that is the velocity at time zero and this is zero 
+
+at time zero this is zero at time zero 
+
+what is the acceleration in the y direction at time zero 
+
+what is the acceleration that has to do with gravity 
+
+there is no acceleration in the x direction 
+
+but you better believe that there is one in the y direction 
+
+so only when we deal with the y equations 
+
+does this acceleration come in 
+
+not at all when we deal with the x direction 
+
+
+well if we call the acceleration due to gravity 
+
+g equals plus  and i always call it g 
+
+what would be the acceleration in the y direction 
+
+given the fact that i call this increasing value of y 
+
+minus  
+
+minus  which i will also say 
+
+always call minus g because my g is always positive 
+
+so it is minus g 
+
+so that tells the story of t equals zero in the y direction 
+
+and now we have to complete it at time t equals t 
+
+at time t equals t we have the first line there 
+
+y zero is zero 
+
+so we have y as a function of time y zero is zero 
+
+
+so we dont have to work with that 
+
+where is my so this is zero so i get v zero y times t 
+
+so i get v zero sine alpha times t 
+
+plus onehalf but it is minus onehalf g t squared 
+
+and now i get the velocity in the y direction at time t 
+
+that is my second line 
+
+that is going to be v zero sine alpha minus g t 
+
+and the acceleration in the y direction at any moment in time 
+
+
+equals minus g 
+
+and now i have done all i can 
+
+to completely decompose this complicated motion 
+
+into two entirely independent onedimensional motions 
+
+and the next lecture 
+
+were going to use this again and again and again and again 
+
+this lecture is not over yet but i want you to know 
+
+that this is what were going to apply 
+
+for many lectures to come 
+
+the decomposition of a complicated trajectory 
+
+into two simple ones 
+
+now when you look at this 
+
+
+there is something quite remarkable 
+
+and the remarkable thing 
+
+is that the velocity in the x direction 
+
+throughout this whole trajectory 
+
+if there is no air draft if there is no friction 
+
+is not changing 
+
+its only the velocity in the y direction that is changing 
+
+it means if i throw up this golf ball 
+
+i throw it up like this 
+
+and it has a certain component in x direction 
+
+a certain velocity 
+
+if i move myself with exactly that same velocity 
+
+with exactly the same horizontal velocity 
+
+i could catch the ball here 
+
+it would have to come back exactly in my hands 
+
+that is because there is only an acceleration in the y direction 
+
+but the motion in the y direction 
+
+is completely independent of the x direction 
+
+the x direction doesnt even know 
+
+whats going on with the y direction 
+
+in the x direction if i throw an object like this 
+
+the x direction simply very boringly 
+
+moves with a constant velocity 
+
+there is no time dependence 
+
+and the y direction on its own does its own thing 
+
+it goes up comes to a halt and it stops 
+
+and of course the actual motion is the sum 
+
+the superposition of the two 
+
+we have tried to find a way 
+
+to demonstrate this quite bizarre behavior 
+
+which is not so intuitive 
+
+
+that the x direction really lives a life of its own 
+
+and the way we want to do that is as follows 
+
+we have here a golf ball 
+
+a gun we can shoot up the golf ball 
+
+and we do that in such a way 
+
+that the golf ball if we do it correctly 
+
+exactly comes back here 
+
+thats not easy that takes hours and hours of adjustments 
+
+
+the golf ball goes up and comes back here 
+
+not here not here not there thats easy 
+
+you can shoot it up a little at an angle 
+
+and the golf ball will come back here 
+
+once we have achieved that 
+
+that the golf ball will come back there 
+
+then im going to give this cart a push 
+
+and the moment that it passes through this switch 
+
+the golf ball will fire 
+
+so that the golf ball will go straight up 
+
+as seen from the cart 
+
+but it has a horizontal velocity 
+
+which is exactly the same horizontal velocity as the cart 
+
+so the cart are like my hands 
+
+as the golf ball goes like this 
+
+the cart stays always exactly under the golf ball 
+
+always exactly under the golf ball 
+
+and if all works well 
+
+the ball ends up exactly on the cart again 
+
+let me first show you 
+
+otherwise if that doesnt work of course its all over 
+
+that if we shoot the ball straight up 
+
+that it comes back here 
+
+if it doesnt do that 
+
+i dont even have to try this more complicated experiment 
+
+so heres the golf ball 
+
+im going to fire the gun now 
+
+
+
+close close 
+
+reasonably close 
+
+
+well since its only reasonably close perhaps 
+
+ class   
+
+perhaps it would help if we give it a little bit of leeway 
+
+there goes the gun 
+
+here comes the ball 
+
+and this is just in case 
+
+tape it down 
+
+so as im going to push this now give it a push 
+
+the gun will be triggered 
+
+when the middle of the car is here 
+
+youve seen how high that ball goes 
+
+so that ball will go  makes whooshing   
+
+and depending upon how hard i push it 

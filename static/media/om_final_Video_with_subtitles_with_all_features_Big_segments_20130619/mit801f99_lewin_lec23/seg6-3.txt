@@ -1,0 +1,478 @@
+
+
+if they go away from you you see red shift 
+
+so in principle 
+
+you can determine for each one of those stars 
+
+the velocity in orbit the radius of their orbit 
+
+and of course the period of the binary system 
+
+so its an extremely powerful tool in astronomy 
+
+if you have a binary system when the stars exactly do this 
+
+to determine 
+
+all these quantities that you would like to know 
+
+i first would like to show you now some slides 
+
+
+
+the first slide oh i have to lower the screen by the way 
+
+that would help wouldnt it 
+
+ chucklesi  
+
+the first slide is a spectrum made in the laboratory 
+
+of hydrogen helium and calcium and sodium 
+
+it shows you emission lines no absorption lines 
+
+these lines are produced by lamps 
+
+and the frequencies are very well known 
+
+here you see the famous sodium yellow lines 
+
+so here is the red part of the spectrum 
+
+and there is the blue part of the spectrum 
+
+
+
+so we know these frequencies 
+
+we know these wavelengths very well 
+
+and here you see the spectrum of the sun 
+
+with all these absorption lines that i mentioned to you 
+
+its plastered with absorption lines 
+
+and each of them can be identified 
+
+these are due to calcium iron hydrogen and so on 
+
+here is the blue part of the spectrum 
+
+
+here is the green part the green part 
+
+and here is the red part of the spectrum 
+
+
+
+and here you see the basic idea behind a binary system 
+
+suppose you have a binary system 
+
+that only one star is visible and the other one is invisible 
+
+and the one star shows you three clear absorption lines 
+
+then as the star moves around the center of mass 
+
+you see that all these lines drift in unison 
+
+and out of this information 
+
+you get the radius the velocity and the period 
+
+assuming that you are on earth 
+
+in the plane of the orbit of the stars 
+
+if you have a binary system whereby both stars are visible 
+
+so you get the spectrum of both stars 
+
+then you see the doppler shift of both stars in the spectrum 
+
+here we have a simple case 
+
+that we only have two absorption lines not to confuse the issue 
+
+and so in one in the case of one star 
+
+the shift will be towards the left of the two lines 
+
+but the other star the shift will be to the right 
+
+because if you have a binary system 
+
+when one star comes to you 
+
+the other star goes away from you and vice versa 
+
+so now you are very lucky now you have an ideal situation 
+
+
+that you can find for both stars the radius of the orbit 
+
+the velocity in orbit and the period for each star 
+
+which of course is the same for both 
+
+
+
+and here you see real data 
+
+you see here first of all 
+
+the emission lines which are measured in the laboratory 
+
+that i just showed you 
+
+they are always done simultaneously 
+
+with the measurements 
+
+you always must be sure 
+
+that you have a good calibration of your wavelength 
+
+
+and this spectrum a the top spectrum is of a star 
+
+a binary system that has a period of  days 
+
+and you see here single lines if you have good eyes 
+
+that means at this very moment 
+
+both stars move relative to you at angles of  degrees 
+
+so you dont see any doppler shift 
+
+but now look here 
+
+later in time you see that this line has split in two lines 
+
+
+and this one has also split in two lines 
+
+clearly one component is coming to you 
+
+and the other component is moving away from you 
+
+and so you get all this useful information in astronomy 
+
+by making the doppler shift measurements of binary systems 
+
+
+
+i want to pursue the idea of binary stars 
+
+they give us 
+
+not only the information that we want regarding the orbits 
+
+but there is even more that we can get out of it 
+
+which is even more exciting 
+
+so i will remind you what a binary system looks like 
+
+
+
+remember the second exam 
+
+im sure you will never forget that second exam 
+
+and maybe never forgive me for that 
+
+
+
+binary star one radius r mass m velocity v 
+
+and star two going about their common center of mass 
+
+mass m radius r and velocity v 
+
+m r equals m r 
+
+thats the way the center of mass is defined 
+
+imagine that you as an observer 
+
+are somewhere in the plane of this orbit and you are here 
+
+and you are observing the system going around 
+
+keplers third law which you derived on your exam 
+
+as well as on an the period squared equals 
+
+four pi squared times r plus r to the power three 
+
+divided by g times m plus m 
+
+let me check that to make sure i have that right 
+
+yes that is correct 
+
+imagine now you can make 
+
+the doppler shift measurements of both stars 
+
+you make the doppler shift measurement of star number one 
+
+so you measure lambda one prime as a function of time 
+
+out of that pops immediately the period of rotation 
+
+out of that pops the velocity as we discussed 
+
+out of that pops the radius r 
+
+and now you measure 
+
+the doppler shift of star two as a function of time 
+
+out of that pops the period 
+
+which of course better be the same 
+
+
+out of that pops its velocity in orbit 
+
+and out of it pops its radius 
+
+all these things come out of the doppler shift measurements 
+
+but if you know r and you know r 
+
+then you also know r plus r 
+
+so you know this part in keplers third law 
+
+since you also know the periods you can find what m plus m is 
+
+so now you get an extra bonus 
+
+you know now what the sum of the mass of the two stars is 
+
+in the binary system but you also know that m r is m r 
+
+so now you have two equations 
+
+you know what m plus m is 
+
+and you know this equation and you can solve for m and m 
+
+
+which is an amazing thing when you come to think of it 
+
+so we finally end up 
+
+with the mass of star one and the mass of star two 
+
+all this comes out of doppler shift 
+
+the velocities the radii the periods 
+
+and even the masses of these objects 
+
+now if you as an observer on earth 
+
+are not exactly in the plane of the orbit 
+
+then the situation is a little bit more complicated 
+
+and i will not discuss that here today 
+
+because in principle 
+
+it doesnt affect the idea behind doppler shift 
+
+but for astronomers it is very important 
+
+its really a nuisance 
+
+but i will not discuss that in any detail 
+
+i want to discuss a fascinating application 
+
+that we have in xray astronomy 
+
+namely we have xray binaries 
+
+
+
+what is an xray binary 
+
+well it is a binary system 
+
+this is a star not unlike our sun 
+
+it has as certain mass has a certain radius 
+
+and it is in orbit lets say with a neutron star 
+
+even though it could be a black hole 
+
+but for now lets just assume it is a neutron star 
+
+and if these two masses are the same 
+
+which i only use for the sake of simplicity 
+
+in practice they could be very different 
+
+then there is a point between these two right in the middle 
+
+whereby the gravitational pull in one direction is the same 
+
+as the gravitational pull in the other direction 
+
+and we call that the inner lagrangian point 
+
+in other words if you were there 
+
+the neutron star would pull at you 
+
+with exactly the same force as the other star 
+
+so you wouldnt know where to go 
+
+if this inner legrangian point lies 
+
+below the surface of this star that means 
+
+if the stars are a little closer than i have drawn them here 
+
+then the matter of this star will fall 
+
+towards the neutron star 
+
+because the pull in this direction is then larger 
+
+than the pull in this direction 
+
+now of course this system is a binary system 
+
+they go around in the plane of the blackboard say 
+
+
+and so this matter cannot fall radially in 
+
+but it will fall in and spiral in 
+
+and forms what we call an accretion disk 
+
+around the neutron star 
+
+this is called the accretor and this is called the donor 
+
+there is mass transfer from the donor to the neutron star 
+
+oops i just noticed i misspelled the word accretion 
+
+there is an r in accretion 
+
+and as that occurs 
+
+there is a tremendous amount of energy that is released 
+
+i want to blow up the neutron star 
+
+very simple  considerations now 
+
+what comes is extremely pedestrian 
+
+this is the mass of the neutron star 
+
+and this is the radius of the neutron star 
+
+and i take a little bit of matter m 
+
+and i drop it from a large distance onto the neutron star 
+
+at what speed 
+
+will that little piece of matter reach the neutron star 
+
+you should almost be able to close your eyes 
+
+and give me that answer right now 
+
+the kinetic energy when it reaches the neutron star 
+
+equals onehalf m v squared 
+
+that is the speed 
+
+at which it will crash onto the neutron star 
+
+and that must be 
+
+mm neutron star g divided by the radius of the neutron star 
+
+you always lose your m and so you find 
+
+that the speed at which it reaches the neutron star 
+
+is the square root of two m neutron star 
+
+times g divided by r neutron star 
+
+you should remember this equation 
+
+this was the equation that we had for escape velocity 
+
+if you were here and you go back to infinity 
+
+you reach exactly that speed so if you fall in from infinity 
+
+that is exactly the speed 
+
+at which you reach the neutron star 
+
+
+it should obviously be the same number 
+
+and you dont really have to be infinitely far away 
+
+you just have to be much further away 
+
+than the radius of the neutron star 
+
+when this matter crashes onto the neutron star 
+
+the kinetic energy that is released is onehalf mv squared 
+
+it is converted to heat and to give you some feeling 
+
+for the incredible power of a neutron star 
+
+if you make this little m as little as ten grams 
+
+
+think of it as a pretty fullsized marshmallow 
+
+and you throw a marshmallow 
+
+from a large distance onto a neutron star 
+
+the energy that is released is comparable 
+
+to the atomic bomb that was used on hiroshima 
+
+a tengram object thrown onto a neutron star 
+
+the reason being that this velocity 
+
+becomes enormously high 
+
+if you put in for the neutron star 
+
+a mass of about three times ten to the th kilograms 
+
+and you take for the radius of the neutron star 

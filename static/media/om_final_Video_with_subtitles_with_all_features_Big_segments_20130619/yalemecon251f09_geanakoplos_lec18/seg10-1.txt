@@ -1,0 +1,384 @@
+
+
+so were talking now about mortgages and how  
+
+value them and if you remember now a 
+
+mortgage so the first mortgages 
+
+by the way that we know of 
+
+come from babylonian times 
+
+its not like some american invented the mortgage or 
+
+something 
+
+this was  years old and we have on these cuneiform 
+
+tablets these mortgages 
+
+and so the idea of a mortgage is you make a promise 
+
+you back your promise with collateral 
+
+so if you dont keep the promise they can take your 
+
+house and theres some way of getting 
+
+out of the promise because everybody knows the collateral 
+
+you might want to leave the home and then you have to have 
+
+some way of dissolving the promise because the promise 
+
+involves many payments over time 
+
+so its making a promise backing it with collateral 
+
+and finding a way to dissolve the promise at prearranged terms 
+
+in case you want to end it by prepaying 
+
+and that prepaying is called the refinancing option 
+
+
+and because theres a refinancing option it makes the 
+
+mortgage a much more complicated thing 
+
+and a much more interesting thing and something that 
+
+for example a hedge fund could imagine that 
+
+it could make money trading 
+
+so i just want to give you a slight indication of how that 
+
+could happen 
+
+so as we said if you have a typical mortgage 
+
+say the mortgage rate is  percent 
+
+maybe this is a different answer than i did 
+
+so here we have an  percent mortgage with a  percent 
+
+interest rate to begin with 
+
+now if its an  percent mortgage the guys going to have 
+
+to pay much more than  percent a year because a mortgage 
+
+remember there are level payments 
+
+were talking about fixed rate mortgages 
+
+you pay the same amount every single year for  years 
+
+now youre really paying monthly and ive ignored the 
+
+monthly business because its just too many months and there 
+
+are  of them 
+
+so im thinking of it as an annual payment 
+
+you have to pay of course more than  dollars 
+
+a year because if the mortgage rate were  percent and you had 
+
+a balloon payment on the end youd pay   
+
+thats the way they used to work but they were changed 
+
+so you could imagine the old fashioned mortgage would pay 
+
+   if you didnt pay your  
+
+somewhere along the line theyd confiscate your whole house and 
+
+then take what was owed out of it and you could get out of it 
+
+by paying  
+
+the new mortgages instead of paying  every year for  years 
+
+
+you pay  every year for  years because if you discount 
+
+payments of  for  years at  percent you get  
+
+so the present value is  at the agreed upon discounting rate 
+
+or mortgage rate  percent 
+
+and so you see how important this discount rate is 
+
+and the remaining balance however goes down because 
+
+every time youre paying youre paying more than the  percent 
+
+
+interest 
+
+youre paying in the first year  instead of  and so that gap 
+
+of  is used to reduce the balance from  to  
+
+and so you see the balance is going down over time and making 
+
+the lender safer and safer because the same house is 
+
+backing it 
+
+so its called an amortizing mortgage 
+
+now why is it difficult to value 
+
+because you have the option any time you want 
+
+and theres a good reason for that option 
+
+any time you want you have the option of getting out of the 
+
+mortgage and just saying okay ive paid  
+
+payments of  i dont want to do it anymore 
+
+i want to pay off  and then lets call it quits 
+
+and they say okay 
+
+and theres nothing they can do about it 
+
+now when are you going to exercise that option 
+
+youre going to exercise that option either because you have 
+
+to move thats the intention of it 
+
+or youll exercise it when its most advantageous to you 
+
+now why could it become advantageous to exercise it 
+
+well you dont really want to exercise the option and this is 
+
+
+the way most people think of it backwards 
+
+they think oh the interest rates are going 
+
+down 
+
+that means ill get a new mortgage with a lower interest 
+
+rate 
+
+theyre hoping for exactly the wrong thing 
+
+if the interest rates go up what theyve got is a much 
+
+better mortgage because theyre continuing to buy at the same  
+
+percent interest and maybe interest rates in the economy 
+
+have become  percent and theyre actually making money 
+
+so people who borrow in times of high inflation do better 
+
+when there are times of deflation the borrowers get 
+
+crushed 
+
+irving fisher said one of the main reasons for the depression 
+
+being so bad is all the entrepreneurial people in the 
+
+country as usual were borrowing 
+
+and then there was a deflation and so they were getting 
+
+crushed 
+
+and the very people who drive the economy were being hurt the 
+
+most 
+
+and so that feedback he said was responsible for 
+
+part of the severity of the depression 
+
+so you see interest rates can go up or down and what happens 
+
+
+when they go up if they go up high enough to  
+
+percent you think my gosh 
+
+ive made a fortune holding this mortgage 
+
+im still borrowing at  percent and i can invest my 
+
+money at  percent 
+
+so youve made a fortune and the poor lenders gotten 
+
+crushed 
+
+on the other hand if the interest rates go way down here 
+
+so the present value of what you owe if you kept paying it 
+
+
+becomes huge you dont have to face that big 
+
+loss because you just prepay at whatever the remaining balance 
+
+is there and then youve protected your downside 
+
+so by paying attention and deciding when the optimal time 
+
+to prepay is you can save yourself a lot of 
+
+money and thereby cost the bank a lot of money 
+
+so when exactly should you prepay 
+
+when should you exercise your options 
+
+well in this example if you never exercised it youd be 
+
+
+handing the bank effectively 
+
+ dollars even though they lent you  
+
+lent you  
+
+so the bank would have made a  percent profit on you 
+
+but if you exercise your option optimally youre going to make 
+
+not  the bank is not going to get 
+
+ dollars out of you theyre going to even get less 
+
+than  dollars 
+
+theyre going to get  dollars out of you 
+
+so when exactly should you be exercising your option 
+
+
+well we went over this last time 
+
+ill do it once again 
+
+so remember the payment you owed was 
+
+ blah blah blah  
+
+the remaining balance started of course at  and then it 
+
+went down to  and then it kept going down from there 
+
+so since i cant remember the numbers lets just call this 
+
+b the remaining balance which 
+
+happened to be you know it was  the 
+
+first time 
+
+lets call this b then i went to b 
+
+b etcetera and then b is equal to  
+
+no remaining balance after that 
+
+so we said what should you doim going to do the 
+
+calculation now a little bit differently 
+
+i said after every payment of  you could always say to 
+
+yourself do i want to continue or 
+
+do i want to pay my option 
+
+now you notice that if i had divided this by b 
+
+say if you had a mortgage that was a little bit smaller 
+
+barely over a  dollar for example 
+
+that would divide everything by b 
+
+the payments would all be divided by b and the 
+
+remaining balances would all be divided by b 
+
+so i could always scale this thing up or down 
+
+theres nothing fancy about  nothing important about 
+
+ 
+
+if the original loan was for  you just double all your 
+
+payments and double all your remaining balances 
+
+
+what could be more obvious than that 
+
+so i want to think in those terms of a mortgage that always 
+
+has  dollar left 
+
+so suppose at any stage you had  dollar left in your mortgage 
+
+your remaining balance was  
+
+so lets say at any node lets ask the question 
+
+what is the value of  dollar of remaining balance 
+
+so if you start at  and you havent prepaid 
+
+here youve got b dollars 
+
+of course whatever the value of that is divided by 
+
+b thats the value of  dollar 
+
+so im just going to figure out the value of  dollar of 
+
+remaining balance and im going to call that w 
+
+lets say 
+
+ill call that w of some node s 
+
+so where am i 
+
+im in some node in this interest rate tree 
+
+right 
+
+heres our interest rate tree and im anywhere just here 
+
+and im doing backward induction so for all successor 
+
+nodes i figured out what  dollar of remaining balance is 
+
+and lets say its in period    so im in period  
+
+b 
+
+so what is the remaining balance at this node which i 
+
+call s 
+
+so its some node right there ofoh no ive lost it 

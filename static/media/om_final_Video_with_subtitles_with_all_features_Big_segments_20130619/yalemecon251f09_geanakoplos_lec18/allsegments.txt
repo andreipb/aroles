@@ -1,0 +1,3045 @@
+
+
+so were talking now about mortgages and how  
+
+value them and if you remember now a 
+
+mortgage so the first mortgages 
+
+by the way that we know of 
+
+come from babylonian times 
+
+its not like some american invented the mortgage or 
+
+something 
+
+this was  years old and we have on these cuneiform 
+
+tablets these mortgages 
+
+and so the idea of a mortgage is you make a promise 
+
+you back your promise with collateral 
+
+so if you dont keep the promise they can take your 
+
+house and theres some way of getting 
+
+out of the promise because everybody knows the collateral 
+
+you might want to leave the home and then you have to have 
+
+some way of dissolving the promise because the promise 
+
+involves many payments over time 
+
+so its making a promise backing it with collateral 
+
+and finding a way to dissolve the promise at prearranged terms 
+
+in case you want to end it by prepaying 
+
+and that prepaying is called the refinancing option 
+
+
+and because theres a refinancing option it makes the 
+
+mortgage a much more complicated thing 
+
+and a much more interesting thing and something that 
+
+for example a hedge fund could imagine that 
+
+it could make money trading 
+
+so i just want to give you a slight indication of how that 
+
+could happen 
+
+so as we said if you have a typical mortgage 
+
+say the mortgage rate is  percent 
+
+maybe this is a different answer than i did 
+
+so here we have an  percent mortgage with a  percent 
+
+interest rate to begin with 
+
+now if its an  percent mortgage the guys going to have 
+
+to pay much more than  percent a year because a mortgage 
+
+remember there are level payments 
+
+were talking about fixed rate mortgages 
+
+you pay the same amount every single year for  years 
+
+now youre really paying monthly and ive ignored the 
+
+monthly business because its just too many months and there 
+
+are  of them 
+
+so im thinking of it as an annual payment 
+
+you have to pay of course more than  dollars 
+
+a year because if the mortgage rate were  percent and you had 
+
+a balloon payment on the end youd pay   
+
+thats the way they used to work but they were changed 
+
+so you could imagine the old fashioned mortgage would pay 
+
+   if you didnt pay your  
+
+somewhere along the line theyd confiscate your whole house and 
+
+then take what was owed out of it and you could get out of it 
+
+by paying  
+
+the new mortgages instead of paying  every year for  years 
+
+
+you pay  every year for  years because if you discount 
+
+payments of  for  years at  percent you get  
+
+so the present value is  at the agreed upon discounting rate 
+
+or mortgage rate  percent 
+
+and so you see how important this discount rate is 
+
+and the remaining balance however goes down because 
+
+every time youre paying youre paying more than the  percent 
+
+
+interest 
+
+youre paying in the first year  instead of  and so that gap 
+
+of  is used to reduce the balance from  to  
+
+and so you see the balance is going down over time and making 
+
+the lender safer and safer because the same house is 
+
+backing it 
+
+so its called an amortizing mortgage 
+
+now why is it difficult to value 
+
+because you have the option any time you want 
+
+and theres a good reason for that option 
+
+any time you want you have the option of getting out of the 
+
+mortgage and just saying okay ive paid  
+
+payments of  i dont want to do it anymore 
+
+i want to pay off  and then lets call it quits 
+
+and they say okay 
+
+and theres nothing they can do about it 
+
+now when are you going to exercise that option 
+
+youre going to exercise that option either because you have 
+
+to move thats the intention of it 
+
+or youll exercise it when its most advantageous to you 
+
+now why could it become advantageous to exercise it 
+
+well you dont really want to exercise the option and this is 
+
+
+the way most people think of it backwards 
+
+they think oh the interest rates are going 
+
+down 
+
+that means ill get a new mortgage with a lower interest 
+
+rate 
+
+theyre hoping for exactly the wrong thing 
+
+if the interest rates go up what theyve got is a much 
+
+better mortgage because theyre continuing to buy at the same  
+
+percent interest and maybe interest rates in the economy 
+
+have become  percent and theyre actually making money 
+
+so people who borrow in times of high inflation do better 
+
+when there are times of deflation the borrowers get 
+
+crushed 
+
+irving fisher said one of the main reasons for the depression 
+
+being so bad is all the entrepreneurial people in the 
+
+country as usual were borrowing 
+
+and then there was a deflation and so they were getting 
+
+crushed 
+
+and the very people who drive the economy were being hurt the 
+
+most 
+
+and so that feedback he said was responsible for 
+
+part of the severity of the depression 
+
+so you see interest rates can go up or down and what happens 
+
+
+when they go up if they go up high enough to  
+
+percent you think my gosh 
+
+ive made a fortune holding this mortgage 
+
+im still borrowing at  percent and i can invest my 
+
+money at  percent 
+
+so youve made a fortune and the poor lenders gotten 
+
+crushed 
+
+on the other hand if the interest rates go way down here 
+
+so the present value of what you owe if you kept paying it 
+
+
+becomes huge you dont have to face that big 
+
+loss because you just prepay at whatever the remaining balance 
+
+is there and then youve protected your downside 
+
+so by paying attention and deciding when the optimal time 
+
+to prepay is you can save yourself a lot of 
+
+money and thereby cost the bank a lot of money 
+
+so when exactly should you prepay 
+
+when should you exercise your options 
+
+well in this example if you never exercised it youd be 
+
+
+handing the bank effectively 
+
+ dollars even though they lent you  
+
+lent you  
+
+so the bank would have made a  percent profit on you 
+
+but if you exercise your option optimally youre going to make 
+
+not  the bank is not going to get 
+
+ dollars out of you theyre going to even get less 
+
+than  dollars 
+
+theyre going to get  dollars out of you 
+
+so when exactly should you be exercising your option 
+
+
+well we went over this last time 
+
+ill do it once again 
+
+so remember the payment you owed was 
+
+ blah blah blah  
+
+the remaining balance started of course at  and then it 
+
+went down to  and then it kept going down from there 
+
+so since i cant remember the numbers lets just call this 
+
+b the remaining balance which 
+
+happened to be you know it was  the 
+
+first time 
+
+lets call this b then i went to b 
+
+b etcetera and then b is equal to  
+
+no remaining balance after that 
+
+so we said what should you doim going to do the 
+
+calculation now a little bit differently 
+
+i said after every payment of  you could always say to 
+
+yourself do i want to continue or 
+
+do i want to pay my option 
+
+now you notice that if i had divided this by b 
+
+say if you had a mortgage that was a little bit smaller 
+
+barely over a  dollar for example 
+
+that would divide everything by b 
+
+the payments would all be divided by b and the 
+
+remaining balances would all be divided by b 
+
+so i could always scale this thing up or down 
+
+theres nothing fancy about  nothing important about 
+
+ 
+
+if the original loan was for  you just double all your 
+
+payments and double all your remaining balances 
+
+
+what could be more obvious than that 
+
+so i want to think in those terms of a mortgage that always 
+
+has  dollar left 
+
+so suppose at any stage you had  dollar left in your mortgage 
+
+your remaining balance was  
+
+so lets say at any node lets ask the question 
+
+what is the value of  dollar of remaining balance 
+
+so if you start at  and you havent prepaid 
+
+here youve got b dollars 
+
+of course whatever the value of that is divided by 
+
+b thats the value of  dollar 
+
+so im just going to figure out the value of  dollar of 
+
+remaining balance and im going to call that w 
+
+lets say 
+
+ill call that w of some node s 
+
+so where am i 
+
+im in some node in this interest rate tree 
+
+right 
+
+heres our interest rate tree and im anywhere just here 
+
+and im doing backward induction so for all successor 
+
+nodes i figured out what  dollar of remaining balance is 
+
+and lets say its in period    so im in period  
+
+b 
+
+so what is the remaining balance at this node which i 
+
+call s 
+
+so its some node right there ofoh no ive lost it 
+
+
+so ws is going to be what 
+
+its going to be the minimum of  you could just pay it if you 
+
+wanted to or you could wait 
+
+ over  rs and then what would you have to 
+
+do you would have to make your payment 
+
+well whats your payment 
+
+the payment is this  but divided by b plus 
+
+the remaining balance of  dollar 
+
+so b over b times the 
+
+remainder times wsup 
+
+now why is this right 
+
+i hope it is right by the way 
+
+i should have thought of this a little before 
+
+so this is the remainder of  dollar left 
+
+so if i divide by b here im not going to have a 
+
+remaining balance of b 
+
+im going to have a remaining balance of b over 
+
+b 
+
+so if i started with  dollar of remaining balance then i know 
+
+
+that in the next period im going to have b over 
+
+b dollars of remaining balance left 
+
+it doesnt sound too convincing by the way 
+
+well its right and that happens with 
+
+probability  half 
+
+and then with the other probability  half 
+
+plus i make the payment but i go down instead of up and 
+
+so i have b over b but i have 
+
+wsdown and thats also times  half 
+
+so either i pay off my remaining dollar or i end up 
+
+with this many dollars 
+
+assuming i had a  dollar of remaining balance im either 
+
+
+going to pay it off the remaining balance 
+
+or im going to have this much left next period and  dollar of 
+
+remaining balance is going to be that 
+
+so thats it 
+
+so i know now by working this backwards i can tell what  
+
+dollar at the beginning is worth 
+
+and so its exactly the same calculation i did before except 
+
+im talking about  dollar 
+
+im always figuring out  dollar of remaining balance 
+
+instead of the whole thing 
+
+
+present value of callable so heres present value of  
+
+dollar of principal 
+
+and so remember the present value of a callable mortgage was 
+
+ 
+
+here the present value of  dollar 
+
+figuring it out that way is  obviously its divided 
+
+by  but the key is that now you can 
+
+see just by looking at it where the s are is where the guy 
+
+decided to prepay 
+
+so its the same thing as before but you see before you 
+
+couldnt tell very easily from the numbers when i did the  
+
+sorry that didnt quite make it 
+
+before when i did the present value with the  all these 
+
+numbers were s and s 
+
+
+i mean where has he prepaid 
+
+its hard to tell where the prepayment is 
+
+if i do it all in terms of  dollar of remaining balance then 
+
+just by looking at the screen i can tell where the guy prepaid 
+
+because there are s there 
+
+so i know where hes prepaid 
+
+wherever the s are that means hes prepaid 
+
+so i can tell very easily what he did 
+
+all right thats the only purpose of doing the same 
+
+
+calculation in a somewhat trickier way 
+
+so if you think about it a second you see ive just divided 
+
+byive always reduced things to if you had  dollar left 
+
+all right so this tells us what to do when the guy should 
+
+prepay and when he shouldnt prepay 
+
+so if youre now in the world looking at whats happening you 
+
+can find the historical record of how people have prepaid 
+
+so lets just look at the historical record 
+
+
+for example 
+
+here if you can see this this is blown up as big as it 
+
+goes 
+
+so this is what you might see as the historical record of 
+
+percentage prepayments annualized from  to  
+
+say 
+
+so you notice that theyre very low here and then they get to 
+
+be very high and then they get low again 
+
+and then they get high again 
+
+so why do you think that happened 
+
+so what is this 
+
+this is prepayments for a particular mortgage 
+
+ percent 
+
+you take all the people in the country who started in  with 
+
+ percent mortgages 
+
+theres a huge crowd of those because that was about what the 
+
+mortgage rate was that year 
+
+
+so a huge collection of people got these mortgages in  and 
+
+you keep track of what percentage of them prepaid 
+
+really every month but you write the annualized 
+
+rate and then this is the record 
+
+so why do you think it changed so dramatically like that 
+
+whats the explanation 
+
+stock market  
+
+what  
+
+stock market  
+
+it looks like the stock  
+
+but i assure you the stock market had almost nothing to do 
+
+with it 
+
+why would prepayments be so low and then be so high 
+
+then be low then be high 
+
+what do you think was happening 
+
+interest rate  
+
+interest rate  
+
+we just did that 
+
+we just solved that 
+
+that was the whole point of what we were doing 
+
+so you tell me what do you think happened in 
+
+ 
+
+this is september  
+
+i dont know if you can read that 
+
+what do you think was going on then 
+
+interest rates got  
+
+interest rates got low  
+
+so you may not remember this because you were barely born 
+
+in the early s there was a recession and then the 
+
+government cut the interest rates 
+
+in the s the early s there was a 
+
+recession and the government kept cutting interest rates 
+
+further and further and further 
+
+there was this huge decline in interest rates through the early 
+
+s and so what happened 
+
+all these people who in  who had these  percent 
+
+mortgagesthe new interest rates were lower and so they all 
+
+prepaid 
+
+you got this shocking amount of prepayment 
+
+so this graph which seems sort of surprising 
+
+and looks like the stock market turns out to have nothing to do 
+
+with the stock market 
+
+it has to do with where the interest rates are 
+
+well do you think interest rates explain everything 
+
+no 
+
+what else could you notice about theescape 
+
+
+what else have we learned here by doing these calculations 
+
+well what weve learned so far is that if the interest rates in 
+
+the economy are at  percent thats where they started 
+
+remember we said they started at  percent and there was  
+
+percent volatility 
+
+here i had  percent volatility 
+
+it doesnt matter 
+
+i mean thats a plausible amount of volatility 
+
+a little high but that volatility 
+
+the mortgage rate of  percent is not going to give a value of 
+
+ 
+
+its going to cheat the bank if the homeowners are acting 
+
+rationally 
+
+the bank could get  if the people werent acting 
+
+rationally 
+
+they were just never exercising their option 
+
+it theyre exercising their option optimally the thing was 
+
+only worth  
+
+now i told you at that time the interest rates should have 
+
+been around  and  half percent 
+
+not  percent given this  percent interest rate in the 
+
+economy 
+
+the mortgage rate should be  and  half percent 
+
+so we deduced last time that obviously not everybodys acting 
+
+optimally 
+
+well you can tell that looking at this diagram 
+
+how do you know that not everybodys acting optimally 
+
+remember these are  mortgages so everybodys taking 
+
+them out at the same time within a few months of each other 
+
+the same  percent mortgage 
+
+how can you tell from this graph that theyre not 
+
+exercising their option optimally 
+
+its completely obvious 
+
+just looking at it for one second you can say 
+
+oh these people cant be exercising their option 
+
+optimally why is that 
+
+yes 
+
+they should be exercising all at the same  
+
+if they were acting rationally 
+
+so as he says weve just done the  
+
+with those s and s 
+
+
+i told you when the right time to exercise the option is 
+
+so everybodys got the same circumstance 
+
+every single person if all theyre trying to do is minimize 
+
+the present value of their payments they should all be 
+
+prepaying at the same time 
+
+here you see that very few people are prepaying 
+
+but its getting up to almost  percent so probably this is a 
+
+stupid time to prepay but the point is still  
+
+percent of them are prepaying 
+
+and over here when presumably you ought to prepay 
+
+
+in the entire year right they have  chances 
+
+during the year 
+
+it takes them an entire year and only  percent of them have 
+
+figured out that they should prepay 
+
+so you know theyre not acting optimally 
+
+so just from that graph that would tell you 
+
+and you have further evidence of that 
+
+thats evidence that they arent acting optimally 
+
+furthermore you have evidence that the banks dont expect them 
+
+to be acting optimally because the banks arent charging them  
+
+or  percent interest which is what they would need 
+
+to pay to get the thing worth  
+
+theyre charging them  and  half percent interest which for 
+
+the optimal prepayer is worth much less than  to the bank 
+
+so the banks wouldnt do that 
+
+they would just go out of business if they did something 
+
+stupid like that 
+
+they wouldnt do that unless they thought that the homeowners 
+
+werent acting at least not all of them 
+
+acting optimally 
+
+so suppose you had to predict how people are going to act in 
+
+the future and you wanted to trade on that 
+
+what would you do 
+
+how would you think about predicting it 
+
+so this is the data that you have 
+
+what would you do 
+
+you have this data 
+
+these are  percent things 
+
+you also have  percent mortgages issued the year 
+
+before and then maybe a year before 
+
+that there were  and  half percent interest and you have 
+
+that history and youve got all these 
+
+different pools and all these different histories 
+
+how would you think about figuring out a prepaymenthow 
+
+
+would you predict prepayments 
+
+well the way economists macro economists at least in 
+
+the old days used to make predictions 
+
+they would say hum the first quarter 
+
+looks pretty good 
+
+what are they predicting now 
+
+now theyre saying unemployment is probably going 
+
+to keep rising for the next quarter or two well until the 
+
+next year but at that point things are 
+
+going to turn around and we expect the economy to get 
+
+stronger come out of its recession and 
+
+unemployment should gradually improve from its high which we 
+
+
+expect will be  and  half percent to something back down 
+
+to  percent by the end of  
+
+thats more or less the economists prediction 
+
+now can you make a prediction like that about prepayments 
+
+would it make sense to make a prediction about that 
+
+why is that an utterly stupid kind of prediction 
+
+what is the essence of good prediction 
+
+if you wanted to predict something and you were going to 
+
+lose a lot of money if your prediction was wrong how would 
+
+you refine your prediction compared to what i just gave as 
+
+a sample prediction 
+
+yep 
+
+you have to have a number of scenarios  
+
+ 
+
+to each one 
+
+exactly  
+
+so what he said is if youre even the slightest bit 
+
+sophisticated youre not going to make a bald noncontingent 
+
+prediction 
+
+things are going to get worse the next two quarters 
+
+then theyre going to start getting better 
+
+then things are going to get as well as theyre going to get 
+
+after two years 
+
+youll solve the problem after two years 
+
+what happens if another war breaks out in iraq 
+
+
+what if iran bombs israel 
+
+what if theres another crash in commercial real estate 
+
+how could that prediction possibly turn out to be true 
+
+its a sure thing its going to be wrong 
+
+its just impossible thats going to be right because the 
+
+guy making the prediction has made no contingencies built in 
+
+his prediction 
+
+you know that guys making a prediction for free 
+
+someone may be paying him to hear him but hes not going to 
+
+be penalized if his prediction is wrong 
+
+no one in their right mind would make such a prediction 
+
+so the first thing you should do in predicting prepayments is 
+
+
+to realize that youve got a tree of possible futures 
+
+and given this tree of possible futures youre going to predict 
+
+different prepayments depending on where you go on the tree 
+
+so you see prediction is not a simple one eventits not a one 
+
+shot thing 
+
+just as he so aptly put it its a many scenario thing 
+
+you have to predict on many many scenarios what you think 
+
+will happen and that makes your prediction much better because 
+
+of course if there is a war in iraq 
+
+
+and if there is a catastrophe in afghanistan 
+
+and if iran does bomb israel and if the commercial real 
+
+estate market collapses things are going to be a lot worse than 
+
+this original guys prediction 
+
+so everybody knows that so why not make the prediction 
+
+more sensible 
+
+so on wall street thats what everybodys done for  years 
+
+now they havent done it for  years 
+
+its just  years that theyve been doing that 
+
+so when i got to kidder peabody in  they were making these 
+
+
+one scenario predictions 
+
+its a long story which ill tell maybe sunday night 
+
+i ended up in charge of the research department and so we 
+
+made you know other firms were doing this 
+
+already we made scenario predictions okay 
+
+so now what kind of scenario predictions are you going to 
+
+make 
+
+when you make contingent predictions there are an awful 
+
+lot of them 
+
+you cant even write them all down so what you have to do is 
+
+you have to have a model 
+
+so what kind of model should you have 
+
+ill tell you now what the standard guys were doing on wall 
+
+
+street at the time 
+
+they were sayingheres interest rate 
+
+sorry 
+
+heres the present value of a mortgage 
+
+heres the present value of a callable mortgage 
+
+present value of  dollar of principal so realistic 
+
+prepayments 
+
+so if we go over here well see that people said 
+
+look from this graph its clear 
+
+they would say that when interest rates 
+
+went down people prepay more so why dont we have a function 
+
+
+that looks like this 
+
+so prepay thats the percentage of remaining balance 
+
+that is paid off 
+
+so what does that mean 
+
+remember after youve made your coupon payment you have a 
+
+remaining balance b 
+
+you could pay all of it or none of it 
+
+or half of it 
+
+so the prepay is what percentage of the 
+
+bthats just after youve paid right 
+
+so b lets do that one 
+
+b just after youve paid  the 
+
+remaining balance has now been reduced to b 
+
+you could in addition to the  pay off all of that 
+
+b 
+
+typically some people who are alert and think its a good time 
+
+to prepay will pay all of b 
+
+
+others will pay none of b 
+
+so if you aggregate over the whole collection of people the 
+
+prepay percentages out of the sums of all their 
+
+bs what percentage of them are going to pay off 
+
+so we look at the aggregate prepayment 
+
+thats the old fashioned way 
+
+and we say what percentage of the remaining 
+
+balance is paid off 
+
+so youd make a function like this 
+
+youd say well prepaid might equal  
+
+percent 
+
+why am i picking  percent 
+
+so if you go back to this picture you see that prepayments 
+
+
+seem to be around  percent when nothings happening 
+
+so you say  percent plus maybe youre going to get some 
+
+more prepayments so you might writewell i just wrote down a 
+
+function plus the min 
+
+the min say of  because it never seems 
+
+to get over  percent if you look at that you see it never 
+
+gets over  percent really 
+
+so the min of  and  times the max of  and m  
+
+rs  sigma over  
+
+that would be a kind of prepayment function 
+
+so what does this say 
+
+what happens 
+
+youre normally going to payso this is this whole 
+
+function here so i should write this as  
+
+plus can you see that over there 
+
+maybe not so this plus  
+
+so theres a baseline of  percent and if the interest rate 
+
+is high so the interest rate is above 
+
+the mortgage rate no one else is going to prepay because this is 
+
+going to be a negative number and this will be  
+
+so youre just going to do  percent 
+
+on the other hand as the interest rate gets low 
+
+and falls far enough below the mortgage rate people are going 
+
+to say to themselves ahha 
+
+i have a big incentive to prepay now 
+
+maybe interest rates have gone down so far i can no longer hope 
+
+theyre going to go back up above the mortgage rate 
+
+i should start prepaying more 
+
+so more people are going to prepay and this thing is going 
+
+to go up 
+
+
+i just multiply it by some constant but itll never go up 
+
+more than  percent 
+
+thats what this function says 
+
+and sigma this is the volatilityall right 
+
+so lets just leave that aside 
+
+so theres a prepayment function that seems to sort of 
+
+capture whats going on 
+
+its usually around  percent when theres no incentive 
+
+it never gets above  percent but as the incentive to prepay 
+
+
+as interest rates get lower and the incentive to prepay 
+
+increases more and more people prepay 
+
+thats kind of the idea 
+
+all right and then you would fit fancier curves than that 
+
+you would look at m  rt and you would fit 
+
+a curve that looks like this 
+
+so if theres just a little bit of incentive to prepay 
+
+the rates are a little bit lower than the mortgage rate 
+
+nobody does it 
+
+then quickly a lot of people do it and then they stop doing it 
+
+so this is like  percent and most of the time youre around 
+
+
+ percent and you try and fit this curve 
+
+youre going to have millions of parameters and since you have 
+
+so much data you could fit parameters 
+
+that was the old fashioned way and thats how people would 
+
+predict prepayments 
+
+now thats not going to turn out to be such a great way 
+
+but it certainly teaches you something 
+
+so lets look at what happens if you nowwith those realistic 
+
+prepayments you compute the value of a mortgage 
+
+so this is the prepayment that youd get for the different 
+
+rates and so you can see that as the rates go down the total 
+
+prepayment is going up 
+
+and by the way its more than  percent 
+
+because youve got this  percent added to the  percent 
+
+
+so the most it could be is  percent 
+
+which it hits over here 
+
+so you get  percent as the maximum prepayments 
+
+and as interest rates get higher no one prepays except the 
+
+ percent of guys 
+
+now by the way why are people prepaying over 
+
+here even when the rates are so high 
+
+its because some people are moving or theyre getting 
+
+divorced and they have to sell their house 
+
+so obviously youre going to get some prepayments no matter 
+
+what 
+
+people have to prepay and why is it that people never 
+
+prepay more than  percent historically or  percent 
+
+because not everybody pays attention 
+
+
+now i called them the dumb guys last time 
+
+but as i said i probably fit into that 
+
+category 
+
+its people who are distracted and doing other things 
+
+theyre just not paying attention and so they dont 
+
+realize 
+
+they dont know whats going on so they dont realize they 
+
+should be prepaying 
+
+so as interest rates go down more people prepay 
+
+as interest rates go up less people prepay 
+
+and if you did some historical thing and figured out the right 
+
+parameters youd get a prepayment function 
+
+
+so how did i figure out this was  
+
+how did i figure out this was  
+
+why should i divide this by  
+
+whats sigma 
+
+once you get those parameters historically you now have a 
+
+welldetermined behavior rule of what people are going to prepay 
+
+and from that you can figure out what the prices are of any 
+
+mortgage by backward induction 
+
+so how would you do it again by backward induction 
+
+the same we always did it 
+
+over here what would you do over here 
+
+how would you change this rule 
+
+well you would just be feeding in the prepayment function 
+
+so what would the prepayment function be 
+
+well people wouldnt be doing a minimum here 
+
+right 
+
+theyre not deciding whether or not to prepay 
+
+
+theyre just prepaying 
+
+so lets get rid of that 
+
+theyre prepaying 
+
+so this is the value of  dollars left of principal 
+
+so some of them are prepaying and thats the function 
+
+so prepay and that depends on what node youre at 
+
+and here it says what percentage of the remaining 
+
+balance is being prepaid 
+
+so that tells you that rule whos prepaying 
+
+
+and then with the rest of the money thats going on until next 
+
+time  minus that same thing  minus prepay times exactly 
+
+what we had before 
+
+so this part of  dollar got prepaid immediately so thats 
+
+the cash that went to the mortgage holder 
+
+the rest of the cash got saved until next time and heres what 
+
+happens to it 
+
+you have to make your coupon then you have a remaining 
+
+balance and then whatever is going to happen is going to 
+
+happen 
+
+so youll study this and youll figure out im sure 
+
+
+it takes a little bit of effort to see that through 
+
+but with half an hour staring at it youll understand how this 
+
+works and youll read it in a spreadsheet so you can figure 
+
+out the value of a mortgage 
+
+you get a value of a mortgage and now we can start doing 
+
+experiments by changing the parameters and see how the 
+
+mortgage works 
+
+now before i do that i want to say that theres a better way to 
+
+do this 
+
+i mean maybe these numbers are estimatedwhats a better way 
+
+of doing it 
+
+how did i do it at ellington how did wei mean at kidder 
+
+
+peabody 
+
+how did we predict prepayments 
+
+whats another way at looking at prepayments 
+
+let me tell you something thats missing 
+
+i used to ask people who wanted to work at kidder peabody or 
+
+ellington the following little simple puzzle 
+
+and most of the genius mathematicians always got this 
+
+answer wrong 
+
+of course we hired them anyway but theyd always get this 
+
+wrong 
+
+so the question is suppose youve got a group of 
+
+people like this and you figure out what the value of the 
+
+mortgage is and interest rates have been 
+
+constant all this time 
+
+lets suppose for one month interest rates shoot down 
+
+interest rates collapse and half the pool 
+
+
+ percent of the pool disappears 
+
+so now youve only got  percent of the people left you 
+
+had before and then interest rates return to exactly where 
+
+they were to begin with 
+
+should the pool thats left be worth  percent of the pool 
+
+that you had just here or more than  percent 
+
+or less than  percent 
+
+so remember you had  people here 
+
+youre the bank whos lent them the money 
+
+youre valuing the mortgage payments theyre going to make 
+
+to you youre getting a certain amount 
+
+of money from them  percent of them suddenly 
+
+disappeared in  month leaving  left 
+
+but now interest rates are back exactly where they were before 
+
+is the value of the mortgage starting here with the  
+
+percent pool worth  percent of what it was originally 
+
+more than  percent or less than  percent 
+
+what do you think 
+
+yes 
+
+is it worth more than  percent  
+
+
+those people dont understand interest rates and therefore 
+
+theyre not  
+
+option properly and  
+
+their mortgages 
+
+exactly  
+
+so thats an incredibly important point 
+
+its called the opposite of adverse selection 
+
+every one of these events is selecting the people left not 
+
+adversely not perversely 
+
+whats the opposite of adversely 
+
+favorably to you so the guys who are left are 
+
+all losers but thats who you want to deal 
+
+with 
+
+
+you dont want to trade with the geniuses 
+
+you want to trade with the guy whos not paying any attention 
+
+so the guys left are the people who are never going to prepay or 
+
+hardly ever going to prepay and so its much better 
+
+now this function doesnt capture that at all 
+
+right 
+
+it doesnt say anything 
+
+it just says your prepayments depending on where you are 
+
+so whether you were here or here youre going to get the 
+
+same prepayment but we know that thats not 
+
+
+going to be the case 
+
+in fact its clear that over here there must have been a much 
+
+bigger incentive than there was over there 
+
+so the prepayments are the same but actually interest 
+
+rates here were vastly lower than interest rates there 
+
+so this is not such a good function 
+
+so how would you improve 
+
+what would you do to take into account this adverse selection 
+
+
+or actually proverse selection 
+
+what is the opposite of adverse 
+
+well it doesnt matter 
+
+what would you think to do 
+
+your whole livelihood depends on it millions 
+
+trillions of dollars at stake here 
+
+youve got to model prepayments correctly so how would you 
+
+think of doing this 
+
+just give me some sense of what a hedge fund does or what anyone 
+
+in this market would have to do 
+
+well most of them did this 
+
+so what would you do 
+
+yeah 
+
+buy up old mortgages because the market  
+
+probably under estimating their value 
+
+well you would buy it up  
+
+right after  
+
+right here youd buy it up right  
+
+but what model would you use to predict prepayments 
+
+not this one so how would you imagine doing 
+
+it 
+
+you would imagine making a model just like your intuition 
+
+so what does that mean doing 
+
+someones asking you to run a research department 
+
+make a model of forecasting prepayments 
+
+all the data you have is aggregate data like that 
+
+you cant observe individual homeowners in those days 
+
+they wouldnt give you the information 
+
+ill explain all that sunday night 
+
+so this is the kind of data you have what the whole group of 
+
+
+people is doing every year but what would you do to build 
+
+the model 
+
+adverse selection is very important or proverse 
+
+selection 
+
+its embarrassing i dont remember the word 
+
+favorable selection a very important thing 
+
+so how would you capture that in your model 
+
+yep 
+
+would you split it into two groups and  
+
+model it separately 
+
+so maybe another thing you could  
+
+what if you instead of having this function that says what the 
+
+aggregates going to do all the datas aggregate 
+
+so all you can do is test against aggregate data 
+
+
+but suppose you said the world 
+
+all we can see is the aggregate but the people really 
+
+acting are individuals acting not the aggregate 
+
+its the sum of individual activities so what we should do 
+
+now is have different kinds of people 
+
+oh gosh sorry 
+
+it was there already 
+
+so lets go back to where we were before so realistic 
+
+what you ought to do is you ought to say 
+
+well  percentremember we had two kinds of people already 
+
+
+weve already got two kinds of people sorry 
+
+weve got these guys the guys who never call 
+
+so theyre people 
+
+thats a kind of person 
+
+and suppose you go down here and you have the people who are 
+
+optimally prepaying 
+
+suppose you imagine that half the people were optimally 
+
+prepaying and half the people never prepaid 
+
+well would that explain this favorable selection 
+
+absolutely it would explain it because when you went through 
+
+your little tree and you went here 
+
+and here and here and here by the time you got 
+
+down here all those people all the optimal prepayers 
+
+theyre all prepaying 
+
+so you start off with halfoptimal guys and 
+
+halfasleep guys 
+
+once you get down here all the optimal guys have disappeared 
+
+and the pool thats left is all asleep 
+
+so of course the pool is worth much more here given the 
+
+interest rate than it was over here 
+
+in fact if it goes back then again to here where it was 
+
+beforesorry thats same line 
+
+if it goes back to herehave i done this right 
+
+no ive got to go back twice here and then here 
+
+so once it goes back to here if it goes here 
+
+here here and here then the pool is going to be much more 
+
+valuable here than it started there 
+
+there are half as many people but its worth much more than 
+
+half of what it was there 
+
+so the way to do this is to breakso then youre looking at 
+
+the individuals 
+
+youre saying one class of people is very smart 
+
+or one class of people is very alert its a much better word 
+
+
+one class of people is very alert 
+
+one class of people is very unalert and as you go through 
+
+the tree the alert people are going to disappear faster than 
+
+the nonalert people and thats why youre going to have a 
+
+favorable selection of people whos left in the pool 
+
+well of course there are no extremes of 
+
+perfectly rational or perfectly asleep in the economy so what 
+
+you can do is you can make people in between 
+
+
+how do you make them in between 
+
+well suppose that for example 
+
+i only did one thing 
+
+suppose its costly to prepay 
+
+some people just say to themselves im going to 
+
+have to take a whole day off of work 
+
+im not going to write my paper 
+
+i might lose some business that i was going to do that day 
+
+a whole bunch of stuff im losing so im going to subtract 
+
+that 
+
+im not going to prepay 
+
+im not going to even think about doing it unless i can get 
+
+
+at least a certain benefit from having done it 
+
+so you can add a cost of prepaying and people arent 
+
+going to prepay unless the gain that they have by prepaying 
+
+exceeds the cost of doing the prepayments 
+
+so to take the simplest case lets suppose the very act of 
+
+never mind the thinking and all that 
+
+the very act of prepaying going to the bank literally 
+
+costs you money 
+
+so if you have a value if the thing is  and you can 
+
+prepay you know if you do your 
+
+calculations and dont prepay today its worth  and if you 
+
+prepay today the remaining balance is  youre saving  
+
+dollars but if the cost of prepayment 
+
+is  youre still not going to do it 
+
+so you get a guy with a high cost of prepaying 
+
+an infinite cost of prepaying hes going to look like hes 
+
+totally unalert 
+
+a guy with zero cost of paying is going to look like hes 
+
+totally alert 
+
+so you can have gradations of rationality and you can have 
+
+different dimensions 
+
+so you can have cost of prepaying and you can have 
+
+
+alertness 
+
+whats the percentage of time youre actually paying attention 
+
+that month 
+
+what fraction of the months do you actually pay attention 
+
+and you can have a distribution of people different costs and 
+
+different alertnesses 
+
+so thats the model that i built 
+
+its a simplified form of it 
+
+it gives you an idea 
+
+so heres this burnout effect that i showed that if you take 
+
+the same coupons but an older one rather than 
+
+aan older one thats burned out will always prepay slower 
+
+so the pink one is always less than the blue one because it 
+
+went through an opportunity to prepay 
+
+so here you start with a pool of guys on the right 
+
+and then after a while after time has gone down a lot 
+
+of them have prepaid 
+
+so heres alertness and cost 
+
+so you describe a person by what his cost of prepaying is 
+
+and how alert he is 
+
+the more alert he is and the lower the cost of prepaying the 
+
+closer to rational he is 
+
+the less alert he is the higher the cost of 
+
+prepaying the closer to the totally dumb guy he is 
+
+and so you could have a whole normally distributed 
+
+distribution of people and over time those groups are going to 
+
+be reduced because a lot of them are prepaying 
+
+but they wont be reduce symmetrically 
+
+the low cost high alertness guys are going to disappear much 
+
+faster and the pools going to get more and more favorable to 
+
+you 
+
+and so anyway all you have to do is 
+
+parameterize the cost what the distribution of people 
+
+in the population what the standard deviation and 
+
+expectation of cost is and of alertness is 
+
+and that tells you what this distribution looks like 
+
+
+so youre fitting four numbers and youve got thousands of 
+
+pools and hundreds and hundreds of months 
+
+and fitting four parameters you can end up fitting all the data 
+
+so look at what happens here 
+
+so heres the same data 
+
+so i just tell you i know that in a population 
+
+given what ive calculated in the s there 
+
+i know what fraction of the people have this cost and that 
+
+alertness what fraction of the people are 
+
+
+so close to dumb that their costs are astronomical and their 
+
+alertness is tiny what fraction of the people 
+
+have almost no cost and a very high alertness 
+
+so im only estimating four parameters because im assuming 
+
+its normally distributed 
+
+given that fixed pool of people i apply that to the beginning of 
+
+every single mortgage and i just crank out what would those guys 
+
+do 
+
+in the tree if they knew what the volatilities were when would 
+
+they decide to prepay and then i have to follow a 
+
+scenario out in the future and i say 
+
+well along this path which guy would prepay and which 
+
+guy wouldnt prepay and what would the total prepayments look 
+
+along that path 
+
+and so this has generated the pink line from the model with no 
+
+knowledge of the world except i fit those parameters and look 
+
+how close it is to what actually happened 
+
+so it turns out that it was incredibly easy to predict 
+
+contingently predict what prepayments were going to be and 
+
+
+therefore to be able to value mortgages 
+
+and this was a secret that not many people 
+
+you know a bunch of people understood 
+
+but not that many understood and so for years we were 
+
+trading at our hedge fund first at kidder and then at 
+
+ellington with this ability to contingently forecast 
+
+prepayments at a very high rate 
+
+and why was it so stable the prediction 
+
+and so reliable 
+
+its because the class of people stayed pretty much the 
+
+same and every year thered be the same kinds of people with 
+
+
+the same kinds of behavior 
+
+some were very alert 
+
+some were very not alert but the distribution of types 
+
+was more or less the same and you could predict with pretty 
+
+good accuracy what was going to happen from year to year 
+
+of course then after  or so the class of people started 
+
+to radically change and many more people who never got 
+
+mortgages before got them and it became much harder to predict 
+
+what they were going to do 
+
+but so in the old days it was pretty easy to predict 
+
+and why was it so easy to predict 
+
+because it was an agent based model agent based 
+
+so by the way i added this volatility here 
+
+so these guys who just ran regressions they had to have a 
+
+volatility or something parameter 
+
+so you see as volatility goes up the prepayments are slower 
+
+well they just had to notice that and build it right into 
+
+their function 
+
+i didnt even have to think of that or burnout 
+
+none of those things did i have to think about because if youre 
+
+a guy optimizing here and volatility goes up 
+
+so you reset the tree so that the interest rates can change 
+
+faster 
+
+the option is worth more so youre going to wait longer 
+
+
+youre not going to just exercise it right away because 
+
+youve got a chance that prices will really go up so you can 
+
+wait a little longer afford to wait longer 
+
+so prepayments will slow down 
+
+so all im saying all of this is just to say that 
+
+if you have the right so its agent based 
+
+its contingent predictions those two things together 
+
+enable you to make quite reliable predictions about the 
+
+future if youre in a stable environment 
+
+and so what seems like a bewildering amount of stuff 
+
+turns out to be pretty easy to explain 
+
+so now what happens 
+
+so do you have any questions here or should iyes 
+
+you said you assume that those two  
+
+
+are normally distributed 
+
+did you select among some sort of variance 
+
+some sort of what  
+
+variance  
+
+i had to figure out what the mean and  
+
+variance is 
+
+theres mean and variance of cost and mean and variance of 
+
+alertness to get that distribution 
+
+right 
+
+so how do i know what the populationso let me just put 
+
+the picture up again 
+
+so who are the hyper rational guys 
+
+
+they are the people with the really high alertness up there 
+
+and the really low cost so theyre the guys back there 
+
+theyre the hyperor maybe it was the guys 
+
+you know one of these corners with very high alertness and 
+
+very low cost 
+
+i forgot which way the scale works 
+
+it might be going down 
+
+so anyway the guys with very high alertness and very low 
+
+costs are the hyper rational people 
+
+at the other corner youve got the guys who have very low 
+
+alertness and very high costs 
+
+theyre the people who youre going to make a lot of money on 
+
+if youre the bank 
+
+so how do i know how many people are of each type 
+
+well i dont 
+
+i have to fit this distribution 
+
+but you see i have so much data 
+
+ive got this kind of curve 
+
+this kind of curve ive got for every starting year for the 
+
+whole history and theres so many different interest rates 
+
+and so many different so im applying that same 
+
+population at the beginning of every single curve and then 
+
+seeing what happens to my prediction versus what really 
+
+happened 
+
+so ive got thousands and thousands 
+
+and thousands of data points and only four parameters to fit 
+
+so i pick the four parameters to fit the data as much as 
+
+possible 
+
+if i assumed everybody was perfectly alert instead of that 
+
+curve that i showed you i put a huge crowd here of 
+
+perfectly rational people then i would have found that i would 
+
+
+have gotten prepayments at  percent up there and at  all 
+
+the way over here and so it wouldnt have fit that curve 
+
+so thats how i knew that there couldnt be that many perfectly 
+
+rational people 
+
+yes 
+
+how can you know for sure that there  
+
+only two patterns 
+
+you mean how do i know cost and  
+
+maybe theres some other factors 
+
+yes well there probably are other factors 
+
+so what would you commonsensically think are the 
+
+factors 
+
+what keeps people from prepaying 
+
+i think the most obvious one is its a huge hassle and theyre 
+
+not paying attention 
+
+so those are the first two that i thought of 
+
+could you think of another one 
+
+
+maybe their age  
+
+their age exactly  
+
+so maybe demography has an effect on it 
+
+so maybe for example you get more sophisticated the 
+
+older you get 
+
+so that was another factor we put in 
+
+so im not telling you all the factors but these were the two 
+
+main factors 
+
+another factor was growing sophistication 
+
+we called it the smart factor 
+
+thats another factor 
+
+so over time you get more sophisticated 
+
+
+so anyway the point is with a few of these factors you got a 
+
+pretty good fit and it was pretty reliable 
+
+and you could predict what was going to happen contingently 
+
+so now if you want to trade mortgages what are some of the 
+
+interesting things that happen 
+
+the first interesting thing to notice is that what do you think 
+
+happens as the interest rate goes down 
+
+so the first thing to notice isso ill just ask you two 
+
+questions 
+
+lets go on the other side 
+
+im running out of room 
+
+suppose that you have the mortgage value 
+
+what you get in the tree 
+
+so in this tree that weve built heres the tree 
+
+its going like that and at every node were 
+
+predicting for each class of people were 
+
+predicting where his s are 
+
+so that class is prepaying 
+
+the other class is not as smart so theyre not prepaying here 
+
+but maybe when things get really low theyll start 
+
+prepaying here 
+
+so each class of people each cost alertness type has 
+
+its own tree 
+
+theyre the same tree but its own behavior on the 
+
+
+tree and then i add them all together 
+
+so what happens with the starting interest rate 
+
+so here we had  and this value was  or something 
+
+right 
+
+now suppose the interest rate went down to  
+
+i drew this picture of interest and mortgage value 
+
+what do you think happens 
+
+so the interest startsthis is  percent is there 
+
+as the interest rate goes down what do you think happens to the 
+
+value of the mortgage 
+
+if youre a bank and youve fixedthe mortgage rate is  
+
+percent 
+
+thats a fixed mortgage rate but now youve moved in the 
+
+tree from here to here 
+
+do you think your mortgage is going to go up in value or down 
+
+in value 
+
+its going up  
+
+its going to go up because the interest  
+
+are lower and the present value of the payments is getting 
+
+higher 
+
+so if the interest rate goes down the mortgage is going to go 
+
+
+up like that typically 
+
+but will it keep going up like this and this 
+
+if it were a bond it would go up like that 
+
+right 
+
+a bond a  year bond which owed  over  r would keep going 
+
+up and up the value before it got negative 
+
+say 
+
+it would go up 
+
+as r got negative it would go way up like that 
+
+so does the mortgage keep going up like that 
+
+as the interest rate goes down is the value of the mortgage 
+
+going to get higher and higher and higher 
+
+suppose the guys optimal whats going to happen 
+
+this is  here 
+
+whatll happen 
+
+yep 
+
+
+hes going to  
+
+hes going to eventually figure out that  
+
+should prepay so itll go like this 
+
+if hes perfectly optimal hell never let it go above  
+
+so its going to go something like this 
+
+as the interest rate gets higher you get crushed 
+
+and as the interest rate gets lower you dont get the full 
+
+upside because hes prepaying at  
+
+hes never letting it go above  right 
+
+so if hes not so optimal maybe your value will go up 
+
+but not so astronomically high 
+
+so this idea that the mortgage curve instead of being like 
+
+this goes like that this is what was called 
+
+negative convexity 
+
+now the next thing to know is suppose that the guys are partly 
+
+irrational so its going above  
+
+so its starting to go like this 
+
+then what do you think 
+
+as the interest gets really low whats going to happen 
+
+all right you just said it so 
+
+if the guy was rational perfectly rational it would go 
+
+like that 
+
+hed never let it go above  but now suppose guys are not 
+
+totally rational 
+
+whats going to happen is theyre going to 
+
+sort ofas rates get a little bit low theyre going to 
+
+overlook the fact that they should prepay 
+
+so now its advantageous to you 
+
+things are worth more than  but if rates get incredibly low 
+
+even the dumbest guy the highest cost guy is going 
+
+to realize he has an advantage to prepay and so things are 
+
+
+going to go back down like that 
+
+so the values going to be quite complicated 
+
+so this is the mortgage value as a function of interest rates 
+
+just common sense will tell you this 
+
+in a typical bond as the interest rate gets lower the 
+
+present value gets higher 
+
+you should expect a curve like that but because of the option 
+
+if it were rationally exercised the curve would never get above 
+
+
+ 
+
+it would have to go like that 
+
+but now if people are irrational you can take 
+
+advantage of them and get more than  out of them 
+
+but if the situation gets so favorable to you it becomes 
+
+blindingly obvious eventually to them 
+
+that theyre getting screwed and eventually they act and 
+
+bring it all the way back to  again 
+
+so this value of the mortgage looks like that 
+
+so thats a very tricky thing 
+
+ill even write very tricky 
+
+
+so if you dont know what youre doing you could easily 
+
+get yourself hurt holding mortgages 
+
+you could suddenly find yourself losing money holding 
+
+mortgages 
+
+so thats my next subject here 
+
+i want to talk about hedging 
+
+so we know something now about valuing mortgages 
+
+now i want to talk about hedging and what hedge funds 
+
+do and what everyone on wall street should be doing which is 
+
+hedging 
+
+so if you hold a mortgage youre going to hold it because 
+
+
+maybe you can lend  to a bunch of people but actually get 
+
+a value thats more than  
+
+so it looks like youre here but if interest rates change a 
+
+little bit suddenly this huge value you thought you had might 
+
+collapse back down to  or the interest rates might go 
+
+up and it might collapse to way below  
+
+so you look like youre well off but there are scenarios 
+
+where you could lose money and you want to protect yourself 
+
+against that 
+
+so how do you go about doing it 
+
+
+what does hedging mean 
+
+and i want to put it in the context the old context of the 
+
+world series which we started with before 
+
+so its easier to understand there 
+
+and so many of you will have thought about this before so 
+
+youll be able to answer it but if i put it in the mortgage 
+
+context it would seem just too difficult 
+
+i dont know why i did that 
+
+so the world seriesim going to lower it in a second 
+
+so suppose that the yankees have a  percent chance 
+
+i said beating the dodgers i thought the dodgers would be 
+
+in the world series a  percent chance of winning 
+
+
+any game against the phillies in the world series 
+
+and you are a bookie and your fellow bookies all understand 
+
+that its  percent 
+
+so some naive philly fan comes to you and says i want to bet 
+
+ dollars that the phillies win the world series 
+
+should you take the bet or not 
+
+yes you should take the bet because  percent of the time 
+
+youre going to win  dollarsno 
+
+
+yes you should take the bet 
+
+if he bet on one game you would make with  percent 
+
+probability youd win  and with  percent probability 
+
+youd lose  
+
+so that means on average your expectation is equal to  
+
+so if hes willing to bet  dollars on the phillies winning 
+
+the first game of the series with you 
+
+you know that your expected chance of winning is  dollars 
+
+youre expecting to win  dollars from the guy 
+
+now suppose hes willing to make the same bet 
+
+ dollars for the entire series 
+
+whats your chance of winning and whats your expected profit 
+
+from him 
+
+is it less than  or more than  
+
+more than   
+
+more than   
+
+its going to turn out to be so a  game series 
+
+its going to turn out to be  which were going to figure out 
+
+in a second 
+
+but whats your risk 
+
+whats your risk 
+
+in either case you might lose  dollars 
+
+the phillies theyre probably going to lose 
+
+but theres a chance something goes crazy and some unknown guy 
+
+hits five home runs in the first four games or something 
+
+and some other unknown guy hits another four home runs and you 
+
+lose the world series 
+
+you could lose  dollars and maybe the guys not betting 
+
+ dollars but  thousand dollars or a hundred million 
+
+
+dollars 
+
+you know youve got a favorable bet but you dont want to run 
+
+the risk of losing even though theres not that high a chance 
+
+youre going to lose 
+
+what can you do about it 
+
+well you know that there are these other bookies out there 
+
+who every game are willing to bet at odds  either 
+
+direction on the phillies or the yankees because they just all 
+
+know theyre just like you 
+
+you all know that the odds are  percent for the yankees 
+
+winning every game 
+
+so suppose this naive guy the phillies fan 
+
+comes up to you and bets  dollars on the world series that 
+
+the phillies will win 
+
+you dont want to run the risk of losing  dollars 
+
+you know there are these other bookies who are willing to take 
+
+bets a game at a time  odds 
+
+what should you be doing 
+
+what would you do 
+
+yes 
+
+bet on the phillies winning because  
+
+give you better odds so youre guaranteed your profit 
+
+so what would you  
+
+so this guys come to you and youre not going to be able 
+
+to give the were going to find out exactly 
+
+what you should do in one second 
+
+but lets just see how far you can get by reason without 
+
+calculation 
+
+so this guys come to you and said im betting  
+
+dollars on the phillies winning the world series 
+
+
+this is the night before the first game 
+
+every bookie is standing by ready to take bets at  to  
+
+odds 
+
+what would you do 
+
+youd bet with the bookie that the  
+
+would win because 
+
+that what  
+
+that the phillies would  
+
+yeah how much  
+
+ dollars  
+
+youd bet the whole   
+
+well you get better  
+
+
+so 
+
+but would you bet the whole  dollars on  
+
+first game 
+
+the guys only bet  dollars on the whole series 
+
+youd bet  b 
+
+dollars 
+
+so its not so obvious what to  
+
+right but hes got exactly the right idea 
+
+you can hedge your bet 
+
+so here we are 
+
+i shouldnt have put that down 
+
+dont tell me i turned it off 
+
+that would just kill me 
+
+god i meant to hit mute 
+
+i think i hit off 
+
+oh how dumb 
+
+so you would bet on thewhile that warms up 
+
+i can see it 
+
+all right so what happens is youll have a tree which looks 
+
+
+like this and like this like this and like this 
+
+like this and like this and lets say we go out a few games 
+
+like this 
+
+now this is a   game series 
+
+all right so ive done it 
+
+heres the start of world series 
+
+this is the world series spreadsheet you had before 
+
+now heres the start 
+
+heres game     
+
+so if the yankees win the series they get  dollars 
+
+you get  dollars sorry 
+
+oh what an idiot 
+
+so every time you end up above the start win more than you 
+
+lose you get  dollars 
+
+on the other hand if you lose more than you win 
+
+you lose  dollars and so ctrl 
+
+copy 
+
+here is losing  dollars 
+
+so now this tree remember from doing it before 
+
+
+is just by backward induction 
+
+if you look at this thing up there it says you get 
+
+ percent i think was the number we figured out over here 
+
+so right 
+
+so  percent is the probability of the yankees 
+
+winning a game 
+
+so you take any node like this one youre always taking  
+
+percent of the value up here plus  percent of the value 
+
+here 
+
+so if you do that you find out that the value to you is  
+
+
+dollars just what we said 
+
+so lets put that in the middle of the screen 
+
+so the value is  dollars 
+
+now if the yankees win the first game youre in much better 
+
+shape 
+
+so winning the first game means you moved up to this node here 
+
+all of a sudden you went from  dollars to  dollars 
+
+and if the yankees lost the first game you would have gone 
+
+down to that value which is like  dollars 
+
+your expected winnings when the yankees are down a game 
+
+you know theyre still a better team so actually its 
+
+more likely even after losing the first game that the yankees 
+
+
+would still win the series 
+
+so you see the risk that youre running and you can calculate 
+
+this 
+
+so what should you do in the very first game 
+
+this tells you that your expected winnings is  
+
+of course  times  thats   times  is  
+
+that is  dollars 
+
+so thats  because its the average of this and this 
+
+and  is the average of  of this and  of that 
+
+so what should you do 
+
+well on average youre going to make  dollars 
+
+whats the essence of hedging 
+
+you want to guarantee that you make  dollars no matter what 
+
+happens 
+
+no matter who wins the series you want to end up with  extra 
+
+dollars assuming the interest rate is  from the beginning to 
+
+the end of the series 
+
+so how can you arrange that 
+
+what can you do 
+
+well so thats the mystery 
+
+ill give you one second to try and think it through 
+
+you should get this 
+
+what would you do here 
+
+are there no baseball bookies in theyep 
+
+didnt we just bring this up before like  
+
+
+our hedge funds 
+
+can we put something else aside that you view at a percentage 
+
+rate that you think you can trust and then you can trust the 
+
+rest of it to whatever the real probabilities are 
+
+well you can bet with another  
+
+at  to  odds 
+
+if the yankees win the first game youre just doing great 
+
+if the yankees lose the first game youre looking to be in a 
+
+little bit of trouble 
+
+so the point is youre not going to get the payoffs until 
+
+the very end either plus  or minus  
+
+but already by the first game youre either doing better than 
+
+you were before or worse than you were before 
+
+
+youre already in effect suffering some risk 
+
+at the very beginning 
+
+so this is one of the great ideas of finance 
+
+you shouldnt hedge the final outcome 
+
+you should hedge next days outcome 
+
+if youre marking to market thats what youd have to do 
+
+marking to market youd have to say my position nowmy bet is 
+
+worth  dollars 
+
+the yankees lost the first game the bet would be worth  
+
+dollars 
+
+so what does it mean to protect yourself 
+
+not just protect yourself against whats happening at the 
+
+
+end thats really what you want to 
+
+do but in order to do that you should protect yourself every 
+
+day against what could happen 
+
+so every day you should end up with  here and  there 
+
+because after all thats what youre trying to 
+
+lock in 
+
+no matter who wins the first game you should still say im  
+
+dollars ahead because i got myself in this position 
+
+so how could you do that 
+
+well lets bet at  to  odds right  is  to  odds 
+
+lets make a bet with another bookie at  and  here 
+
+so i put it in the wrong place 
+
+this is the  and this is  but plus  and minus  
+
+so what are you doing here 
+
+
+notice that this is  times  this is  times  
+
+this is  odds 
+
+im betting on the phillies 
+
+if the phillies win one game i collect  dollars 
+
+thats what i should do that he said 
+
+he said go to the bookie across the street and bet on one 
+
+game not the whole series 
+
+bet on one game with that bookie across the street 
+
+ dollars versus  dollars 
+
+lets say you can only bet  game at a time with the other 
+
+bookies actually maybe you were saying 
+
+all along bet on the whole series 
+
+but lets say you can only bet one game at a time with the 
+
+
+other bookies 
+
+youd bet  dollars on the phillies in the first game 
+
+that naive philly fan has put up  dollars on the series 
+
+youre in the first game going to put  dollars 
+
+youve taken his bet so youre hoping the yankees win 
+
+but thats bad to be in a position where you have to hope 
+
+you dont want to do that 
+
+so you take his bet on the phillies because hes given you 
+
+ to  odds 
+
+thats even odds even though you know the yankees have a  
+
+percent change of winning 
+
+you go to the bookie across the street and you bet at  odds 
+
+on the phillies but you dont bet the whole 
+
+ 
+
+you only bet  dollars of it 
+
+so if you win you get  dollars 
+
+if you lose you only have to pay the guy  
+
+so whats going to happen 
+
+after the first day this position is going to be worth  
+
+and this position is also going to be worth  
+
+exactly where you started 
+
+so because a win in the first game is going to put you so far 
+
+ahead in your bet with the first naive philly better 
+
+
+and a loss in the first game is going to put you so far behind 
+
+you hedge that possibility by going  in favor of the 
+
+phillies 
+
+you take a big bet on the yankees and then you make a 
+
+smaller bet on the phillies that cancels out part of the big bet 
+
+on the yankees but youve made the two at 
+
+different odds and so on net youre still going to be  
+
+dollars ahead 
+
+lets just pause for a second and see if you got that 
+
+so by doing this you cant possibly lose any money 
+
+
+and now youre going to repeat this bet down here and here 
+
+so in the nextyou see where do things go next 
+
+here youre down  dollars 
+
+if you lost again youd be down  dollars 
+
+now things would really be bad 
+
+after the yankees lost two games in a row your original bet 
+
+would look terrible but things arent so bad 
+
+because you bet on the phillies here 
+
+you already made  dollars 
+
+so how much money do you think you should be betting on the 
+
+phillies down here 
+
+well you want to lock in  dollars at every node no matter 
+
+what happens 
+
+this  dollars by making the right offsetting 
+
+bet you can keep  everywhere here until the very end 
+
+and so no matter what happened you can always end up with  
+
+dollars 
+
+thats the essence of hedging 
+
+
+so lets just say it again what the idea is 
+
+its a great idea and we dont have time to go through all the 
+
+details but the great idea is this 
+
+youve made some gigantic bet with somebody 
+
+why do you bet with anybody 
+
+because you think you know more than they do 
+
+the whole essence of trading and finance is you think you 
+
+understand the world better than somebody else 
+
+so understand it means you think somethings going to turn 
+
+
+out one way that the other guy doesnt really know is going to 
+
+happen 
+
+so youre making a bet on whether youre right or wrong 
+
+so when you say you know you dont know for sure 
+
+you just have a better idea than he does 
+
+so you want to use your idea without running the risk 
+
+so how can you do it 
+
+if your idea is really correct there may be a way so that you 
+
+can eliminate the luck 

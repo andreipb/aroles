@@ -1,0 +1,60 @@
+Slide 0
+Smooth Receiver Operating Characteristics Curves (smROC) William Klement1, Peter Flach2, Nathalie Japkowicz1, and Stan Matwin1,3  1 School of Electrical Engineering and Computer Science University of Ottawa, Canada 2 Dept. of Computer Science, Bristol University, UK 3 Institute of Computer Science, Polish Academy of Science, Poland.  Acknowledgement:  Natural Sciences and Engineering Research Council of Canada Ontario Centres of Excellence. 
+---------
+Slide 1
+Contribution We develop an evaluation method which: extends the ROC to include membership scores allows the visualization of individual scores depicts the combined performance of classification, ranking and scoring  Consider what information can be obtained from testing a given learning method.  
+---------
+Slide 2
+Low Information Content High Information Content Prediction Outcomes Learning Tasks 
+---------
+Slide 3
+Low Information Content High Information Content Prediction Outcomes Classification Labels Learning Tasks 
+---------
+Slide 4
+Low Information Content High Information Content Prediction Outcomes Classification Labels Ordinal Classification Labels Learning Tasks 
+---------
+Slide 5
+Low Information Content High Information Content Prediction Outcomes Classification Labels Ordinal Classification Labels An order  on instances Ranking Learning Tasks 
+---------
+Slide 6
+Low Information Content High Information Content Prediction Outcomes Classification Labels Probability Estimation Probabilities Ordinal Classification Labels An order  on instances Ranking Learning Tasks 
+---------
+Slide 7
+Low Information Content High Information Content Prediction Outcomes Classification Labels Probability Estimation Probabilities Scoring Scores Ordinal Classification Labels An order  on instances Ranking Imposing a threshold (on the scores then ignoring them) reduces the task into a classification. Sorting the data points (by scores then ignoring them) reduces the task into a ranking. Learning Tasks 
+---------
+Slide 8
+Motivation With scores, one can: compare classifications in terms of decisions, ranking, and scores (confidence) visualize the margins of scores find gaps in scores Of course, probabilities tell us all this plus more (theoretical), but not all scores are good estimates of probabilities! 
+---------
+Slide 9
+Applications Comparing user preferences Assessing relevance scores in search engines Magnitude-preserving ranking  Bayes)  Bioinformatics (gene expression) 
+---------
+Slide 10
+An Example: Movie Recommendation 1 1 Anna Jan 
+---------
+Slide 11
+Methodology H+ L- H- L+ 
+---------
+Slide 12
+Methodology: Score Appropriateness 
+---------
+Slide 13
+Constructing the smROC Curve smFPR =  smTPR =  
+---------
+Slide 14
+smAUC 
+---------
+Slide 15
+Experiment Use 26 UCI data sets of binary classification problems. Bayes. Test by 10-fold cross-validation repeated 10 times. Measure performance similarities among similar models (same learning method on various random splits of the same data). Verify well-documented performance differences of PET and NB (different methods on the same data). Record the average and standard deviation of smAUC and AUC. 
+---------
+Slide 16
+Similar PET Models Lower std. dev. for smAUC with increasing variations smAUC is lower than AUC 
+---------
+Slide 17
+Similar Naive Bayes Models Lower std. dev. for smAUC with increasing variations smAUC is not always lower than AUC 
+---------
+Slide 18
+PET & Naive Bayes Differences smAUC measures a higher difference in favour of Nave Bayes scores. AUC = smAUC in favour of PET. Lower std. dev. of smAUC difference. 
+---------
+Slide 19
+Conclusions & Future Plans smROC is sensitive to scores assigned to data points by the classifier but retains sensitivity to ranking performance. smROC is more sensitive to performance similarities and differences between scores. For similarities models, smAUC produces lower std. deviations, and for different ones, the difference in the smROC space is higher. smROC can be sensitive to changes in the underlying distribution of data and scores (sensitivity to the mid point?).  
+---------

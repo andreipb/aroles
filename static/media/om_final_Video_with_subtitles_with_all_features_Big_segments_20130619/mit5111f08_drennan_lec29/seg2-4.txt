@@ -1,0 +1,185 @@
+
+
+which doesnt have anything in the z direction ah and then in 
+
+terms also other orbitals that have a component along z 
+
+are going to be affected a little bit by that but our 
+
+other one here is not going to be true so we just have all of 
+
+the above is not correct so we have this one 
+
+so if we had up those thats actually a pretty good score 
+
+and so you could think about say what would be true of a 
+
+complex that was linear along z what would be the most 
+
+stabilized for example 
+
+so these are the kinds of questions you can get and 
+
+i think there are a few on the problemset 
+
+all right so lets come back together now and talk 
+
+about magnetism again 
+
+so we said in the beginning that magnetism can be used to 
+
+
+figure out geometry in say a metal cluster in an enzyme and 
+
+lets give an example of how that could be true 
+
+so suppose you have a nickel plus  system so that would be 
+
+a d  system so we have group  minus  or d  and it was 
+
+found to be diamagnetic 
+
+and from that we may be able to guess using these kinds of 
+
+diagrams whether it has square planar geometry 
+
+tetrahedral geometry or octahedral geometry 
+
+we can predict the geometry based on that information 
+
+lets think about how thats true 
+
+we have a d  system 
+
+think about octahedral for a minute 
+
+are there two options for how this might look in this case 
+
+is there going to be a difference in electron 
+
+configurations if its a weak field or a strong field 
+
+so write it out on your handout and tell me whether 
+
+
+it would be true think about it both ways 
+
+is there a difference 
+
+so you would end up getting the same thing 
+
+in this particular case 
+
+so if its a weak field and you put in    then jump 
+
+up here   and then you have to come back    
+
+or you could pair up all the ones on the bottom first and 
+
+then go up there but you actually get the same result no 
+
+
+matter which way you put them in the diagram looks the same 
+
+so it doesnt matter in this case if it is a weak or strong 
+
+field you end up with those number of electrons with the 
+
+exact same configuration 
+
+so we know what that looks like 
+
+well what about square planar 
+
+so lets put our electrons in there 
+
+well start at the bottom well just put them in 
+
+im not going to worry too much about whether we can jump up or 
+
+not well just go and pair them up as we go down here and 
+
+then go up here and now weve put in our eight electrons 
+
+so how close these are were just going to put them all in 
+
+were just going to be very careful not to bump up any 
+
+electrons there unless we absolutely have to because d x 
+
+squared minus y squared is very much more destabilized in the 
+
+square planar system so were going to want to pair all 
+
+our electrons up in those lower energy orbitals 
+
+so even if we sort of did it a different way 
+
+thats what we would get 
+
+so were going to want to pair everything up before we go 
+
+up to that top one there 
+
+so theres our square planar 
+
+well what about tetrahedral 
+
+how are we going to fill these up 
+
+do we want to pair first or we do want to put them to the 
+
+full extent possible singly 
+
+single right its going to be a weak field theres not a big 
+
+splitting here between these so well put them in theres 
+
+        
+
+all right so now we can consider which of these will 
+
+be paramagnetic and which will be diamagnetic 
+
+whats octahedral 
+
+its paramagnetic we have unpaired electrons 
+
+what about square planar 
+
+square planars diamagnetic 
+
+and what about tetrahedral 
+
+paramagnetic 
+
+so if the experimental data told us that a nickel center in 
+
+an enzyme was diamagnetic and we were trying to decide 
+
+between those three geometries it really seems like square 
+
+planar is going to be our best guess 
+
+
+and so let me show you an example of a 
+
+square planar system 
+
+and so this particular nickel is in a square planar system 
+
+it has four ligands that are all in the same plane and it 
+
+is a square planar center for a nickel so thats one example 
+
+and this is a cluster thats involved in life 
+
+on carbon dioxide 
+
+all right so thats different geometries 
+
+youre set with that 
+
+monday were going to talk about colors of coordination 
+
+complexes which all have to do with the different geometries 

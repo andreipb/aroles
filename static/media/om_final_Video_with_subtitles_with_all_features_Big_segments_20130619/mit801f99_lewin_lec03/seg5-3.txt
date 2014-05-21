@@ -1,0 +1,368 @@
+
+
+you will see that we can do positive work 
+
+and we can do negative work 
+
+and that has to do with this dot product 
+
+work and energy are dot products 
+
+i could do an extremely simple example with you 
+
+the simplest that i can think of 
+
+perhaps its almost an insult its not meant that way 
+
+suppose we have a dot b 
+
+and a is the one that you really have on the blackboard there 
+
+right here thats a 
+
+but b is just two y roof 
+
+two y roof thats all it is 
+
+well what is a dot b 
+
+a dot b theres no x component of b 
+
+so that becomes zero this term becomes zero 
+
+there is only a y component of b 
+
+so it is minus five times plus two 
+
+so i get minus ten because there was no z component 
+
+simple as that so its minus ten 
+
+i can give you another example example two 
+
+suppose a itself is the unit vector in the y direction 
+
+
+and b is the unit vector in the z direction 
+
+then a dot b is what 
+
+i want to hear it loud and clear 
+
+zero 
+
+yeah zero 
+
+it is zero you dont even have to think about anything 
+
+you know that these two are at  degrees 
+
+if you want to waste your time 
+
+and want to substitute it in here 
+
+
+you will see that it comes out to be zero 
+
+it should work because clearly a of y means 
+
+that this this is one 
+
+thats what it means 
+
+and b is z that means that b of z this is one 
+
+and all the others do not exist 
+
+well i wish you luck with that and we now go 
+
+to a way more difficult part of multiplication 
+
+and that is vector multiplication 
+
+which is called the vector product 
+
+or also called most of the time 
+
+
+i refer to it as the cross product 
+
+the cross product is written like a cross b equals c 
+
+its a cross very clear cross 
+
+and i will tell you how i remember 
+
+that is method number one 
+
+im going to teach you just like with the dot product 
+
+two methods 
+
+i will tell you method number one 
+
+which is the one that always works 
+
+its timeconsuming but it always works 
+
+you write down here a matrix with three rows 
+
+
+the first row is x roof y roof z roof 
+
+the second one is a of x a of y a of z 
+
+its important if a is here first 
+
+that that second row must be a and the third row is then b 
+
+b of x b of y b of z 
+
+so these six are numbers and these are the unit vectors 
+
+i repeat this here verbatim 
+
+you will see in a minute why i need that 
+
+and i will do the same here 
+
+
+
+okay and now comes the recipe 
+
+you take you go from the upper lefthand corner 
+
+to the one in this direction 
+
+you multiply them all three and thats a plus sign 
+
+so you get ay so c 
+
+which is a cross b equals ay times bz times the x roof 
+
+but im not going to put the x roof in yet 
+
+because i have to subtract this one minus sign 
+
+which has az by 
+
+so it is minus az by and that is in the direction x 
+
+the next one is this one 
+
+az bx 
+
+minus this one 
+
+ax bz 
+
+in the direction y 
+
+and last but not least 
+
+ax by 
+
+minus ay bx 
+
+in the direction of the unit vector z 
+
+so this part here is what we call c of x 
+
+its the x component of this vector 
+
+and this we can call c of y and this we can call c of z 
+
+
+so we can also write that vector then 
+
+that c equals c of x x roof plus c of y y roof 
+
+plus c of z z roof 
+
+cross product of a and b 
+
+we will have lots of exercises 
+
+lots of chances you will have on assignment too 
+
+to play with this a little bit 
+
+now comes my method number two and method number two is again 
+
+as we had with the dot product is a geometrical method 
+
+let me try to work on this board in between 
+
+
+if you know vector a and you know vector b 
+
+and you know that the angle is theta 
+
+then the cross product c equals a cross b 
+
+is the magnitude of a times the magnitude of b 
+
+times the sine of theta 
+
+not the cosine of theta as we had before with the dot product 
+
+it is the sine of theta 
+
+so you can really immediately see that this will be zero 
+
+if theta is either zero degrees or  degrees 
+
+whereas the dot product was zero 
+
+when the angle between them was  degrees 
+
+this number can be larger than zero 
+
+if the sine theta is larger than zero 
+
+it can also be smaller than zero 
+
+now we only have the magnitude of the vector 
+
+and now comes the hardest part 
+
+what is the direction of the vector 
+
+and that is something 
+
+that you have to engrave in your mind and not forget 
+
+the direction is found as follows 
+
+you take a because its first mentioned 
+
+and you rotate a over the shortest possible angle to b 
+
+if you had in your hand a corkscrew 
+
+
+and i will show that in a minute 
+
+then you turn the corkscrew as seen from your seats clockwise 
+
+and the corkscrew would go into the blackboard 
+
+and if the corkscrew goes into the blackboard 
+
+you will see the tail of the vector 
+
+and you will see a cross little plus sign 
+
+and therefore we put that like so 
+
+a cross product is always perpendicular to both a and b 
+
+but it leaves you with two 
+
+it can either come out of the blackboard 
+
+or it can go in the blackboard 
+
+and i just told you which convention to use 
+
+and i want to show that to you 
+
+in a way that may appeal to you more 
+
+this is what i have used before 
+
+on my television help sessions 
+
+that i have given at mit 
+
+i have an apple not an apple 
+
+this is a tomato not a tomato 
+
+its a potato 
+
+ class   
+
+i have a potato here and here is a corkscrew 
+
+
+here is a corkscrew 
+
+im going to turn the corkscrew 
+
+as seen from your side clockwise 
+
+and youll see that the corkscrew goes into the potato 
+
+ini  thats the direction then of the vector 
+
+if we had b cross a then you take b in your hands 
+
+and you rotate it over the shortest angle to a 
+
+now you have to rotate counterclockwise 
+
+and when you rotate counterclockwise 
+
+the corkscrew comes to you there you go 
+
+
+and so the vector is now pointing in this direction 
+
+and if the vector is pointing towards you 
+
+then we would indicate that with a circle and a dot 
+
+in other words for this vector 
+
+b cross a would have exactly the same magnitude 
+
+no difference but it would be coming out of the blackboard 
+
+in other words a cross b equals minus b cross a 
+
+whereas a dot b is the same as b dot a 
+
+we will encounter cross products when we deal with torques 
+
+and when we deal with angular momentum 
+
+which is not the easiest part of  
+
+lets take an extremely simple example 
+
+again i dont mean to insult you with such a simple example 
+
+but you will get chances 
+
+more advanced chances on your assignment 
+
+suppose i gave to vector a this x roof 
+
+its a unit vector in the x direction 
+
+that means a of x is one 
+
+and a of y is zero and a of z is zero 
+
+and suppose b is y roof 
+
+that means b of y is one 
+
+and b of x is zero and b of z is zero 
+
+what now is the dot product the cross product a cross b 
+
+
+
+well you can apply that recipe 
+
+but its much easier to go 
+
+to the x y z axes that we have here 
+
+a was in the x direction the unit vector 
+
+and b in the y direction 
+
+i take a in my hand i rotate over the smallest angle 

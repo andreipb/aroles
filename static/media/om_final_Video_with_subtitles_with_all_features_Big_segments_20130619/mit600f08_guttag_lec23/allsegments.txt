@@ -1,0 +1,1517 @@
+
+
+
+
+the following content is provided under a 
+
+creative commons license 
+
+your support will help mit opencourseware continue to 
+
+offer high quality educational resources for free 
+
+to make a donation or view additional materials from 
+
+hundreds of mit courses visit mit opencourseware 
+
+at ocwmitedu 
+
+i want to pick up exactly where 
+
+i left off last time 
+
+when i was talking about various sins one can 
+
+commit with statistics 
+
+and i had been talking about the sin of data enhancement 
+
+where the basic idea there is you take a piece of data and 
+
+
+you read much more into it than it implies 
+
+in particular a very common thing people do with data 
+
+is they extrapolate 
+
+id given you a couple of examples 
+
+in the real world its often not desirable to say that i 
+
+have a point here and a point here therefore the next 
+
+point will surely be here 
+
+and we can just extrapolate in a straight line 
+
+we before saw some examples where i had an algorithm to 
+
+generate points and we fit a curve to it used the curve to 
+
+predict future points and discovered it was 
+
+nowhere close 
+
+unfortunately we often see people do this sort of thing 
+
+
+one of my favorite stories is william ruckelshaus who was 
+
+head of the environmental protection agency in 
+
+the early s 
+
+and he had a press conference spoke about the increased use 
+
+of cars and the decreased amount of carpooling 
+
+he was trying to get people to carpool since at the time 
+
+carpooling was on the way down and i now quote each car 
+
+entering the central city sorry in  he said each 
+
+car entering the central city had  people in it 
+
+by  this had dropped to less than  
+
+if present trends continue by  more than  out of every 
+
+ cars entering the city will have no driver amazingly 
+
+enough the press reported this as a straight story and talked 
+
+
+about how we would be dramatically dropping 
+
+of course as it happened it didnt occur 
+
+but its just an example of how much trouble you can 
+
+get into by extrapolating 
+
+the final sin i want to talk about is probably the most 
+
+common and its called the texas sharpshooter fallacy 
+
+now before i get into that are any of you here from texas 
+
+all right youre going to be offended 
+
+let me think ok anybody here from oklahoma 
+
+youll like it 
+
+ill dump on oklahoma it will be much better then 
+
+well talk about the oklahoma sharpshooter fallacy 
+
+we wont talk about the bcs rankings though 
+
+
+so the idea here is a pretty simple one 
+
+this is a famous marksman who fires his gun randomly at the 
+
+side of a barn has a bunch of holes in it then goes and 
+
+takes a can of paint and draws bullseyes around all the places 
+
+his bullets happened to hit 
+
+and people walk by the barn and say god he is good 
+
+so obviously not a good thing but amazingly easy 
+
+to fall into this trap 
+
+so heres another example 
+
+in august of  a paper which people took seriously 
+
+appeared in a moderately serious journal called 
+
+the new scientist 
+
+and it announced that researchers in scotland had 
+
+proven that anorexics are likely to have been 
+
+born in june 
+
+im sure you all knew that 
+
+how did how did they prove this 
+
+or demonstrate this 
+
+they studied  women 
+
+each of whom had been diagnosed anorexic 
+
+and they observed that about  percent more than 
+
+average were born in june 
+
+now since the monthly average of births if you divide this 
+
+by  its about  that tells us that  
+
+were born in june 
+
+so at first sight this seems significant and in fact if you 
+
+run tests and ask whats the likelihood of that many more 
+
+being born in  month youll find that its quite unlikely 
+
+in fact youll find the probability of this happening 
+
+is only about  percent of it happening just by accident 
+
+whats wrong with the logic here 
+
+yes 
+
+they only studied diagnosed anorexics 
+
+no because they were only interested in the 
+
+question of when are anorexics born so it made sense 
+
+to only study those 
+
+now maybe youre right that we could study that in fact more 
+
+people are born in june period 
+
+that could be true 
+
+this would be one of the fallacies we looked 
+
+at before right 
+
+that theres a lurking variable which is just that people are 
+
+more likely to be born in june 
+
+so thats certainly a possibility 
+
+what else 
+
+what else is the flaw 
+
+wheres the flaw in this logic 
+
+
+well what did they do 
+
+they participated in the oklahoma sharpshooter fallacy 
+
+what they did is they looked at  months they took the 
+
+months with the most births in it which happened to be 
+
+june and calculated the probability of  percent 
+
+they didnt start with the hypothesis that it was june 
+
+they started with  months and then they drew a 
+
+bullseye around june 
+
+so the right question to ask is whats the probability not 
+
+that june had  babies but that at least one of the 
+
+ months had  babies 
+
+that probability is a lot to higher than  percent right 
+
+in fact its about  percent 
+
+so what we see is again perfectly reasonable 
+
+statistical techniques but not looking at 
+
+things in the right way 
+
+
+and answering the wrong question 
+
+that make sense to everybody 
+
+and you can see why people can fall into this trap right 
+
+it was a perfectly sensible seemingly sensible argument 
+
+so the moral of this particular thing is be very careful about 
+
+looking at your data drawing a conclusion and then saying how 
+
+probable was that to have occurred 
+
+because again youre probably or maybe drawing the 
+
+bullseye around something thats already there 
+
+
+now if they had taken another set of  anorexics and again 
+
+june was the month then there would be some 
+
+credibility in it 
+
+because they would have started with the hypothesis not that 
+
+there existed a month but that june was particularly likely 
+
+but then they would have to also check and make sure that 
+
+june isnt just a popular month to be born as 
+
+was suggested earlier 
+
+all right i could go on and on with this sort of 
+
+thing its kind of fun 
+
+
+but i wont 
+
+instead im going to torture you with yet 
+
+one more simulation 
+
+you may be tempted at this point to just zone out 
+
+try not to 
+
+and as an added incentive for you to pay attention im 
+
+going to warn you that this particular simulation will 
+
+appear in the final or a variant of it 
+
+and what well be doing is early next week well be 
+
+distributing code which well ask you to study about two or 
+
+three pages of code and then on the final well be asking 
+
+you questions about the code 
+
+not that you have to memorize it well 
+
+give you a copy of it 
+
+but you should understand it before you walk in 
+
+to take the final 
+
+because there will not be time to look at that code for the 
+
+first time during the quiz and figure out what its doing 
+
+ok so lets look at it 
+
+i should also warn you that this code includes some python 
+
+concepts at least one that you have not yet seen 
+
+well see it briefly today 
+
+this is on purpose because one of the things i hope you have 
+
+learned to do this semester is look up things you dont know 
+
+and figure out what they do 
+
+what they mean 
+
+
+because we obviously cant in any course or even any set of 
+
+courses tell you everything youll ever want 
+
+to know in life 
+
+so intentionally weve seeded some things in this program 
+
+that will be unfamiliar so during the time youre studying 
+
+the program get online look it up figure out what they do 
+
+if you have trouble we will be having office hours where 
+
+you can go and get some help 
+
+but the tas will expect you to have at least tried to 
+
+figure it out yourself 
+
+
+yeah 
+
+will the final be open note 
+
+final will be open book open notes 
+
+just like the quizzes 
+
+it will be the first two hours of the allotted time we wont 
+
+go the whole  hours ok 
+
+so it wont be hugely longer than the quizzes 
+
+it would be a little bit longer 
+
+and again very much in the same style of the quizzes 
+
+
+all right lets look at this 
+
+lets assume that youve won the lottery and have serious 
+
+money that you foolishly wish to invest in the stock market 
+
+there are two basic strategies to choose from in investing 
+
+you can either have whats called an indexed portfolio 
+
+or a managed portfolio 
+
+indexed portfolios you basically say i want to own 
+
+all of the stocks that there are and if the stock market 
+
+goes up i make money if the stock market goes 
+
+down i lose money 
+
+im not going to be thinking im clever and can pick 
+
+winners and losers im just betting on the 
+
+market as a whole 
+
+theyre attractive in that a they dont require 
+
+a lot of thought 
+
+and b they have whats called a low expense ratio since 
+
+theyre easy to implement you dont pay anyone to be 
+
+brilliant to implement if for you 
+
+so theyre very low fees 
+
+a managed portfolio you find somebody you think is really 
+
+smart and you pay them a fair amount of money and in return 
+
+they assert that they will pick winners for you and in fact 
+
+
+you will outperform the stock market 
+
+and if it goes up  percent well youll go up  percent 
+
+or more and if it goes down dont worry im so smart 
+
+your stocks wont go down 
+
+theres a lot of debate about which is the 
+
+better of these two 
+
+and so now were going to try and see if we can write a 
+
+simulation that will give us some insight as to which of 
+
+
+these might be better or worse 
+
+all right so thats the basic problem 
+
+now as we know and by the way were not going to write a 
+
+perfect simulation here because were going to try and 
+
+do it in  minutes or  minutes 
+
+and it would take at least an hour do a perfect simulation 
+
+of the stock market 
+
+all right 
+
+first thing we need to do is have some sort of a theory 
+
+when we did the spring we had this theory of hookes law that 
+
+told us something and we built a simulation or built some 
+
+tools around that theory 
+
+now we need to think about a model of the stock market 
+
+and the model were going to use is based on whats 
+
+called the efficient market hypothesis 
+
+so the moral here again is whenever youre doing an 
+
+implementation of a simulation you do need to have some 
+
+underlying theory about the model 
+
+what this model asserts is that markets are 
+
+informationally efficient 
+
+that is to say current prices reflect all publicly known 
+
+information about each stock and therefore are unbiased 
+
+
+that if people thought that the stock was underpriced well 
+
+people would buy more of it in the price would have 
+
+risen already 
+
+if people thought the stock was overpriced well people would 
+
+have tried to sell it and it would have come down 
+
+so this is a very popular theory believed by 
+
+many famous economists today and in the past 
+
+and says ok that effectively means that the market 
+
+is memoryless 
+
+ok that it doesnt matter what the price of the 
+
+stock was yesterday 
+
+today its priced given the bestknown information and 
+
+
+so tomorrow its equally likely to go up or down 
+
+relative to the whole market right 
+
+its well known that over periods of multiple 
+
+decades the market has a tendency to go up 
+
+and so theres an upward bias to the stock market contrary 
+
+to what you may have seen recently 
+
+but that no particular stock is more or less likely to 
+
+outperform the market because all the information is 
+
+incorporated in the price 
+
+and that leads to a notion of being able to model 
+
+the market how 
+
+how would you model individual stocks if you believe 
+
+this hypothesis 
+
+somebody 
+
+whats going to happen 
+
+
+random walk 
+
+yes exactly right 
+
+so we would model it as a random walk 
+
+in fact theres a very famous book called a random walk down 
+
+wall street that was one of the first to make 
+
+this hypothesis 
+
+now later we may decide to abandon this model but for 
+
+the moment lets accept that 
+
+and lets think about how were going to build the simulation 
+
+whenever i think about how to build an interesting program 
+
+and i hope whenever you think about it the first thing i 
+
+think about is what are the classes i might want to 
+
+have what are the types 
+
+and it seems pretty obvious that at least two of the 
+
+things im going to want are stock and market 
+
+after all im going to try and build a simulation of the stock 
+
+market so i might as well have the notion of a market and 
+
+probably the notion of a stock 
+
+which should i implement first 
+
+well my usual style of programming would be to 
+
+implement the one thats lowest down in the 
+
+hierarchy near the bottom 
+
+i wont be able to show you what a market does unless i 
+
+
+have stocks but i can look at what an individual stock does 
+
+without having a market 
+
+so why do i implement this first 
+
+because it will be easier to unit test 
+
+i can build class stock and i can test class stock before 
+
+i have a class market 
+
+so now lets look at it 
+
+clean up the desktop a little bit 
+
+this is similar to but not identical to what you 
+
+have in your handout 
+
+all right so theres class stock 
+
+and im going to initialize it create them with 
+
+an opening price 
+
+when a stock is first listed in the market it 
+
+comes with some price 
+
+im gonna keep as part of each stock its history of prices 
+
+which we can initialize well ive initialized it as empty 
+
+but thats probably the wrong thing right 
+
+i probably should have had it being the starting here 
+
+right the opening price 
+
+now comes an interesting part 
+
+
+self dot distribution 
+
+well i lied to you a little bit in my description of 
+
+what it meant to have the efficient market hypothesis 
+
+i said that no stock is likely to outperform the market or 
+
+underperform the market 
+
+but its not quite true because typically what they 
+
+actually do that is they say its adjusted for risk 
+
+its clear that some stocks are more volatile than others 
+
+if you will buy stock in an electrical utility which has a 
+
+guaranteed revenue stream because no matter how bad the 
+
+
+economy gets a lot of people still use electricity you 
+
+dont expect it to fluctuate a lot 
+
+if you buy stock in a high tech company that sells things on 
+
+the internet you might expect it to fluctuate enormously 
+
+or if you buy stock in a retailer you might expect 
+
+it to go up or down more dramatically with the economy 
+
+and so in fact there is a notion of risk and im not 
+
+going to do this in this simulation but usually people 
+
+have to be paid to take risk 
+
+and so its usually the case that you can get a higher 
+
+return if youre willing to take more risk 
+
+we might or might not have time to come back to that 
+
+but more generally the point is that each stock actually 
+
+behaves a little bit differently 
+
+theres a distribution of how it would move 
+
+so even if on average the stock is expected to not move 
+
+at all from where it starts some stocks will be expected to 
+
+just trundle along without much change not very volatile 
+
+and other stocks might jump up and down a lot because 
+
+
+theyre very volatile 
+
+even if the expected value is the same theyd 
+
+move around a lot 
+
+so how can we model this kind of thing 
+
+well weve already looked at the basic notion 
+
+last time we looked at the notion last lecture we looked 
+
+at the idea of a distribution 
+
+and when we do a simulation were pulling the samples 
+
+from some distribution 
+
+it could be normal everything that would be a gaussian where 
+
+if you recall there was a mean and a standard deviation and 
+
+
+most values were going to be close to the mean 
+
+especially if there is a small standard deviation 
+
+if theres a large standard deviation it would be spread 
+
+or it could be uniform where every value was 
+
+equally probable 
+
+we also looked at exponential 
+
+so were going to assign to each stock when we create 
+
+it a distribution 
+
+some way of visualizing or thinking about where we draw 
+
+the price changes from 
+
+this gets us into a new linguistic concept which 
+
+well see down here 
+
+you dont have this particular code on your handout you do 
+
+
+have a code that uses the same concept 
+
+so heres my unit test procedure 
+
+and heres where im going to create distributions 
+
+and im going to look at two 
+
+a random a uniform and a gaussian 
+
+what lambda that does it creates on the fly a function 
+
+as the program runs 
+
+that i can then pass around 
+
+so here im going to look at the thing random dot uniform 
+
+for example between minus volatility and plus volatility 
+
+so ignoring the lambda what do we expect random 
+
+dot uniform to do 
+
+it has equally likely in the range from minus volatility 
+
+to plus volatility it will return any value in here 
+
+but notice the previous line where i am 
+
+computing volatility 
+
+if i wanted every stock to have the same volatility i could 
+
+just do that if you will at the time i wrote my program 
+
+but here i want it to be determined chosen at run time 
+
+so first i choose a volatility randomly from some 
+
+distribution of possible volatilities from  to 
+
+in this case  
+
+think of this as the percentage move per day 
+
+so  of a percent would be the move here 
+
+and then ill create this function this distribution d 
+
+ which will whenever i call it give me a random a 
+
+uniformly selected value between minus and 
+
+plus volatility 
+
+then when i create the stock here i can pass 
+
+
+it in pass in d  
+
+ok its a new concept 
+
+i dont expect youll all immediately grab it but you 
+
+will need to understand it before the quiz comes along 
+
+and then i could also do a gaussian one here with the 
+
+mean of  and the standard deviation of volatility 
+
+divided by  
+
+where do these parameters come from 
+
+i made them up out of whole cloth 
+
+later well talk about how  could think about them 
+
+more intelligently 
+
+
+now what do i do with that 
+
+all right well see that in a minute 
+
+but people understand what the basic idea here is 
+
+now i can set the price of a stock 
+
+and when i do that ill append it to history 
+
+i can oh these have got some remnants which 
+
+we really dont need 
+
+ill get rid of this which is just an uninteresting thing 
+
+and lets look at make move 
+
+
+because this is the interesting thing 
+
+make move is what we call to change the price of a stock 
+
+at the beginning or end of a day if you will 
+
+so the first thing it does is it says if self dot price is 
+
+ im just going to return 
+
+this is not the right thing to do by the way 
+
+again there are some bugs in here 
+
+you wont find these bugs in your handout right 
+
+code is different in the handout 
+
+but i wanted to show these to you so we could think about 
+
+
+what im more interested in here than in the result 
+
+of the simulation is the process of creating it 
+
+so why did i put this here 
+
+why did i say if self dot price equals  return 
+
+because the first time i wrote the program i didnt have 
+
+anything like that here and a stock could go to  
+
+and then recover 
+
+or even go to negative values 
+
+well we know stock prices are never negative 
+
+and in fact we know if the price goes to  its 
+
+delisted from the exchange 
+
+so i said all right we better make a special case of that it 
+
+turns out that this will be a bug and i want you to think 
+
+about why its wrong for me to put this check here 
+
+the check needs to be somewhere in the program but this is 
+
+not the right place for it 
+
+so think about why i didnt leave it here 
+
+ok then well get the old price which were going to try 
+
+
+and remember and now comes the interesting part 
+
+were going to try and figure out how the 
+
+price should change 
+
+so im first going to compute something called the base move 
+
+think of this as kind of the basis from which well be 
+
+computing the actual move 
+
+ill draw something from the distribution so this is 
+
+interesting im now calling self dot distribution and 
+
+remember this will be different for each stock 
+
+it will return me some random value from either the gaussian 
+
+
+or the normal distribution 
+
+with a different volatility for the stocks because that was 
+
+also selected randomly plus some market bias 
+
+saying well the market on average will go up a little 
+
+bit or go down a little bit 
+
+and then ill set the new price if you will self dot 
+
+price to self dot price times  plus the base move 
+
+so notice what this says 
+
+if the base move is  then the price doesnt change 
+
+so that makes sense 
+
+interesting question 
+
+why do you think i said self dot price times  plus the base 
+
+move rather than just adding the base move to the stock 
+
+price of the stock 
+
+again the first time i coded this i had an addition there 
+
+
+instead of a multiplication 
+
+what would the ramifications of an addition there be 
+
+that would say how much the stock changed is independent 
+
+of its current price 
+
+and when i ran that it i got weird results because we know 
+
+that a google priced at say  is much more likely to 
+
+move by  points in a day than a stock thats priced at  
+
+so in fact it is the case if you look at data and by the 
+
+
+way thats the way i ended up setting a lot of these 
+
+parameters and playing with it was comparing what my 
+
+simulation said to historical stock data 
+
+and indeed it is the case that the price of the stock the 
+
+move the amount of move tends to be proportional 
+
+to the price of the stock 
+
+expensive stocks move more 
+
+interestingly enough the percentage moves are not much 
+
+different between cheap stocks and expensive stocks 
+
+and thats why i ended up using a multiplicative factor 
+
+rather than an additive factor 
+
+this is again a general lesson 
+
+as you build these kinds of simulations or anything like 
+
+this you need to think through whether things should be 
+
+multiplicative or additive 
+
+because you get very different results typically 
+
+multiplicative is what you want to do if the amount of change 
+
+is proportional to the current size whether its price or 
+
+anything else and additive if the change is independent of 
+
+
+the current value typically is i think the general 
+
+way to think about it 
+
+now youll see this other kind of peculiar thing 
+
+so ive now set the price and then ive got this test here 
+
+if mo mo stands for momentum 
+
+im now exploring the question of whether or not stock prices 
+
+are indeed memoryless or the stock changes 
+
+and the fancy word for that is poisson 
+
+people often model things as poisson processes which is to 
+
+say processes in which past behavior has no impact on 
+
+future behavior its memoryless 
+
+and in fact thats what the efficient market hypothesis 
+
+purports to say 
+
+it says that since all the information is in the current 
+
+price you dont have to worry about whether it went up or 
+
+
+down yesterday to decide what its going to do today 
+
+there are people who dont believe that and instead 
+
+argue that there is this notion called momentum 
+
+these are called momentum investors 
+
+and they say whats most likely to happen today is 
+
+what happened yesterday 
+
+or more likely 
+
+if the stock went up yesterday its more likely to go up 
+
+today than if it didnt go up yesterday 
+
+so i wasnt sure which religion i was willing to believe in if 
+
+either so i added a parameter called if you believe in 
+
+momentum then you should change the price by  and here 
+
+i just did something taking a gaussian times the last change 
+
+and in fact added it in 
+
+so if it went up yesterday it will more likely go up today 
+
+because im throwing in a positive number otherwise 
+
+a negative number 
+
+notice that this is additive 
+
+because its dealing with yesterdays price 
+
+change with the change 
+
+ok so thats why were dealing with that 
+
+now heres where i shouldve put in this 
+
+test that i had up here 
+
+get it out from there 
+
+because what i want to do is say if self dot price is less 
+
+than  im going to set it to  just keep it there 
+
+
+that doesnt solve the problem we had before though right 
+
+then im going to append it and keep the last 
+
+change for future use 
+
+ok people understand whats going on here 
+
+and then show history is just going to produce a plot 
+
+weve seen that a million times before 
+
+any questions about this 
+
+well i have a question 
+
+
+does it make any sense 
+
+is it going to work at all 
+
+so now lets test it 
+
+so i now have this unit test program called unit test stock 
+
+i originally did not make it a function i had it inline and 
+
+i realized that was really stupid because i wanted 
+
+to do it a lot of times 
+
+so its got an internal procedure internal function 
+
+local to the unit test that runs the simulation 
+
+and it takes the set of stocks to simulate a fig figure 
+
+number this is going to print a bunch of graphs and i want 
+
+to say what graph it is and whether or not i 
+
+believe in big mo 
+
+it sets the mean to  and then for s in the stocks it moves 
+
+it giving it the bias and the momentum then it 
+
+shows the history 
+
+and then computes the mean of getting me the mean 
+
+of all the stocks in it 
+
+weve seen this sort of thing many times before 
+
+ive then got some constants 
+
+by the way i want to emphasize that ive named these constants 
+
+to make it easier to change 
+
+starting with  stocks  days 
+
+and then what i do is i stock sub  stocks  will be the 
+
+empty list stocks  is the empty list 
+
+why do you think im starting with bias of  
+
+because what do you think the mean should be if i simulate 
+
+
+various things that the bias of  
+
+i start  as the average price of the stock 
+
+what should the average price of the stock be 
+
+if my code is correct what should the average price be 
+
+after say  days if theres no bias 
+
+pardon 
+
+ exactly 
+
+since theres no upward or downward bias 
+
+they may fluctuate wildly but if i look at enough stocks the 
+
+
+average should be right around  
+
+i dont know what the average would be if i 
+
+chose a different bias 
+
+its a little bit complicated so i chose the simplest bias 
+
+important lesson so that there would be some predictability in 
+
+the results and i would have some if you will smoke test 
+
+for knowing whether or not i was getting my code 
+
+seemed to be working 
+
+all right and initially well maybe initially just to be 
+
+simple im going to start momentum equal to false 
+
+
+because again it seems simpler have a model where 
+
+theres no momentum 
+
+im looking for the simplest model possible for the 
+
+first time i run it 
+
+and then we looked at this little loop before for i in 
+
+range number of stocks im going to create two different 
+
+lists of stocks one where the moves or distributions are 
+
+chosen from a uniform and the other where theyre gaussian 
+
+because im sort of curious as to again which is the right 
+
+way to think about this all right 
+
+
+and then im going to just call it 
+
+well see what we get 
+
+so lets do it 
+
+lets hope that all the changes i mad have not introduced 
+
+a syntax error 
+
+all right well at least it did something 
+
+lets see what it did 
+
+so the test on the left youll remember was the one with test 
+
+one i believe was the uniform distribution and test 
+
+two is the gaussian 
+
+so but lets what should we do first 
+
+well lets do the smoke test number is the mean more 
+
+or less what we expected 
+
+well it looks like its dead on  which was our 
+
+initial price in test two 
+
+and in test one its a little bit above  
+
+but we didnt do that many stocks or that many days 
+
+so its quite plausible that its correct 
+
+but just to be sure not to be sure but just to increase my 
+
+confidence im going to just run it again 
+
+well here im a little bit below  and in two and 
+
+test one a little bit below  as well 
+
+you remember last time was a little bit above  
+
+i feel pretty good about this and in fact i ran it a lot 
+
+of times in my office 
+
+and it just bounces around hovering around  
+
+course this is the wrong way to do it 
+
+i should really just put it in a nice test harness where i 
+
+run    trials but i didnt want to bore 
+
+you with that here 
+
+so well see that ok we passed the first smoke test 
+
+we seem to be where we expect to be 
+
+well lets try smoke test two 
+
+what else might we want to see to see if we got 
+
+things working properly 
+
+
+well i kind of ignored the notion of bias by making it 
+
+ so lets give it a big bias here 
+
+assuming it will let me edit it 
+
+we just gotta start it up again its the 
+
+safest thing to do 
+
+you wouldnt think i would have i dont have  all 
+
+right be that way about it 
+
+fortunately weve been through this before 
+
+
+we know if we relaunch the finder 
+
+who says mac os is flawless 
+
+all right we were down here and i was saying lets try 
+
+a larger introduce a bias 
+
+again were trying to see if it does what 
+
+we think it might do 
+
+so what do you think it should do with a bias 
+
+where should the mean be now 
+
+still around  
+
+or higher right 
+
+because weve now put in a bias suggesting 
+
+that it should go up 
+
+oops 
+
+it wouldnt have hurt it 
+
+all right 
+
+so lets run it 
+
+sure enough for one we see test two its a little bit 
+
+over  and for test one its way over  
+
+well lets make sure its not a fluke 
+
+try it again 
+
+so sure enough changing the bias changed the price 
+
+and even changed it in the right direction 
+
+so we can feel pretty comfortable that its doing 
+
+something good with that 
+
+we could also feel pretty comfortable that thats 
+
+probably way too high a bias right 
+
+we would not expect that the mean should be over  or 
+
+in one case  after only  days trading right 
+
+things dont typically go up  in  days 
+
+they go down  but  all right so thats good 
+
+oh lets look at something else now 
+
+lets go back to where a simpler bias here 
+
+well run it again 
+
+and think about whats the difference between the 
+
+gaussian and the normal 
+
+can we deduce anything about those 
+
+not well let me ask you 
+
+what do you think yes or no 
+
+anybody see anything interesting here 
+
+yeah 
+
+the variance of the gaussian seems to be less than 
+
+the variance of the uniform 
+
+the variance of the gaussian  
+
+ is less 
+
+
+so all right that appears to be the case here 
+
+but lets run it again as weve done with 
+
+all the other tests 
+
+so we have a hypothesis 
+
+lets not fall victim to the oklahoma sharpshooter 
+
+well test our hypothesis or at least examine it again 
+
+see if its in some sense repeatable 
+
+well now what do we see 
+
+doesnt seem to be true this time right 
+
+not obviously 
+
+so were not sure about this 
+
+
+so this is something that we would need to 
+
+investigate further 
+
+and we would need to have to look at it and its going to 
+
+be very tricky by the way as to what the right answer is 
+
+but if you think about it it would not be surprising if the 
+
+gaussians at least gave us some surprising more extreme 
+
+results than the uniform 
+
+because the uniform as weve set it up here is bounded 
+
+
+the minimum and the maximum is bounded 
+
+with the gaussian theres a tail 
+
+and you might every once in a while get this at least as 
+
+weve done it in this case this large move out at the end 
+
+you might not 
+
+theres nothing profound about this other than the 
+
+understanding that the details of how you set these things 
+
+up can matter a lot 
+
+well the final thing i want to look at is momentum 
+
+so lets go back and lets set mo to true here 
+
+well doesnt want us to set mo to true here 
+
+ah there it does 
+
+so and now lets run it and see what happens 
+
+what do you think should happen 
+
+anybody 
+
+inaudible 
+
+i think youre right 
+
+these ones should curl see if i can  oh not bad 
+
+lets run it 
+
+well its a little hard to see but things 
+
+tend to take off 
+
+because once things started moving it tends to 
+
+move in that direction 
+
+all right 
+
+how do we go about choosing these parameters 
+
+how do we go about deciding what to do 
+
+
+well we play with it the way ive been playing with it and 
+
+compare the results to some set of real data 
+
+and then we try and get our simulation to match the past 
+
+and hope that that will help it predict the future 
+
+were not enough time to go through all the 
+
+to do that a lot 
+
+i will be posting code that you can play with and i suggest 
+
+you go through exactly this kind of exercise 
+
+because this is really the way that people do 
+
+develop simulations 
+
+they dont out of whole cloth get it right the first time 
+
+they build them they do what if games they play with them 
+
+and then they try and adjust them to get them right 
+
+the nice thing here is you can decide whether you believe 

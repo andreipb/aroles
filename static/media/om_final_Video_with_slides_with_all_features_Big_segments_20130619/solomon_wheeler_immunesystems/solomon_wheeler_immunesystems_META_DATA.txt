@@ -1,0 +1,54 @@
+An overview of artificial immune systems
+
+author: Richard Wheeler, Edinburgh Scientific
+
+published: June 10, 2011,   recorded: June 2011,   views: 423
+
+Categories
+Top » Computer Science » Bioinformatics
+Top » Computer Science » Computational Biology
+
+Description
+Artificial immune systems are a newly emerging paradigm for distributed machine learning 
+that takes its organisational and representational cues from the human immune system and 
+applies it to difficult error and anomaly detection across a variety of problems. The talk 
+will be general in nature, and introduce basic concepts and applications including the use 
+of AIS in network and physical security.
+
+Slides
+0:00 	Artificial Immune Systems
+0:54 	This Presentation
+2:01 	Immunology - very simple
+3:22 	Immunology - more simple
+4:18 	A very young subfield in artificial intelligence
+6:11 	How Do You Build Them?
+7:29 	- Questions
+8:49 	- Questions
+10:03 	What Are the Basics? Representation
+10:45 	Basics: Database of Antibodies
+11:30 	Basics: Learning & Matching
+12:28 	Basics: Monitoring
+13:12 	- Questions
+16:41 	I know! What about ...
+17:43 	Some practical and applied examples ...
+17:49 	A More Practical Example
+19:53 	AIS Research: Physical Security
+20:23 	AIS For Advanced Video Motion Detection (1)
+21:17 	AIS For Advanced Video Motion Detection (2)
+21:31 	AIS For Advanced Video Motion Detection (3)
+22:14 	- Questions
+22:34 	AIS For Advanced Video Motion Detection (5)
+23:16 	AIS For Advanced Video Motion Detection (6)
+24:14 	AIS For Advanced Video Motion Detection (7)
+24:48 	AIS For Advanced Video Motion Detection (8)
+25:19 	AVMD: Some More Examples
+31:16 	Research: Building a Better Shell System
+31:33 	AIS Next Generation Shell (NG)
+32:50 	Next Generation Shell (1)
+33:06 	Next Generation Shell (2)
+33:12 	Next Generation Shell (3)
+33:26 	Next Generation Shell (4)
+33:48 	Next Generation Shell (5)
+34:23 	Conclusions and Open Questions
+35:30 	- Questions
+40:18 	- Questions

@@ -1,0 +1,281 @@
+
+
+as t seconds later and the acceleration is zero 
+
+now were going to do this for the y direction 
+
+and now you begin to see the gain for the decomposition 
+
+in the y direction we change the x by y 
+
+and so we do it first at t   
+
+so look there 
+
+this becomes y zero i call that zero 
+
+i can always call my origin zero 
+
+
+i get v zero y times t 
+
+well v zero y is this quantity 
+
+is v zero sine alpha v zero sine alpha 
+
+this is v zero sine alpha 
+
+that is the velocity at time zero and this is zero 
+
+at time zero this is zero at time zero 
+
+what is the acceleration in the y direction at time zero 
+
+what is the acceleration that has to do with gravity 
+
+there is no acceleration in the x direction 
+
+but you better believe that there is one in the y direction 
+
+so only when we deal with the y equations 
+
+does this acceleration come in 
+
+not at all when we deal with the x direction 
+
+
+well if we call the acceleration due to gravity 
+
+g equals plus  and i always call it g 
+
+what would be the acceleration in the y direction 
+
+given the fact that i call this increasing value of y 
+
+minus  
+
+minus  which i will also say 
+
+always call minus g because my g is always positive 
+
+so it is minus g 
+
+so that tells the story of t equals zero in the y direction 
+
+and now we have to complete it at time t equals t 
+
+at time t equals t we have the first line there 
+
+y zero is zero 
+
+so we have y as a function of time y zero is zero 
+
+
+so we dont have to work with that 
+
+where is my so this is zero so i get v zero y times t 
+
+so i get v zero sine alpha times t 
+
+plus onehalf but it is minus onehalf g t squared 
+
+and now i get the velocity in the y direction at time t 
+
+that is my second line 
+
+that is going to be v zero sine alpha minus g t 
+
+and the acceleration in the y direction at any moment in time 
+
+
+equals minus g 
+
+and now i have done all i can 
+
+to completely decompose this complicated motion 
+
+into two entirely independent onedimensional motions 
+
+and the next lecture 
+
+were going to use this again and again and again and again 
+
+this lecture is not over yet but i want you to know 
+
+that this is what were going to apply 
+
+for many lectures to come 
+
+the decomposition of a complicated trajectory 
+
+into two simple ones 
+
+now when you look at this 
+
+
+there is something quite remarkable 
+
+and the remarkable thing 
+
+is that the velocity in the x direction 
+
+throughout this whole trajectory 
+
+if there is no air draft if there is no friction 
+
+is not changing 
+
+its only the velocity in the y direction that is changing 
+
+it means if i throw up this golf ball 
+
+i throw it up like this 
+
+and it has a certain component in x direction 
+
+a certain velocity 
+
+if i move myself with exactly that same velocity 
+
+with exactly the same horizontal velocity 
+
+i could catch the ball here 
+
+it would have to come back exactly in my hands 
+
+that is because there is only an acceleration in the y direction 
+
+but the motion in the y direction 
+
+is completely independent of the x direction 
+
+the x direction doesnt even know 
+
+whats going on with the y direction 
+
+in the x direction if i throw an object like this 
+
+the x direction simply very boringly 
+
+moves with a constant velocity 
+
+there is no time dependence 
+
+and the y direction on its own does its own thing 
+
+it goes up comes to a halt and it stops 
+
+and of course the actual motion is the sum 
+
+the superposition of the two 
+
+we have tried to find a way 
+
+to demonstrate this quite bizarre behavior 
+
+which is not so intuitive 
+
+
+that the x direction really lives a life of its own 
+
+and the way we want to do that is as follows 
+
+we have here a golf ball 
+
+a gun we can shoot up the golf ball 
+
+and we do that in such a way 
+
+that the golf ball if we do it correctly 
+
+exactly comes back here 
+
+thats not easy that takes hours and hours of adjustments 
+
+
+the golf ball goes up and comes back here 
+
+not here not here not there thats easy 
+
+you can shoot it up a little at an angle 
+
+and the golf ball will come back here 
+
+once we have achieved that 
+
+that the golf ball will come back there 
+
+then im going to give this cart a push 
+
+and the moment that it passes through this switch 
+
+the golf ball will fire 
+
+so that the golf ball will go straight up 
+
+as seen from the cart 
+
+but it has a horizontal velocity 
+
+which is exactly the same horizontal velocity as the cart 
+
+so the cart are like my hands 
+
+as the golf ball goes like this 
+
+the cart stays always exactly under the golf ball 
+
+always exactly under the golf ball 
+
+and if all works well 
+
+the ball ends up exactly on the cart again 
+
+let me first show you 
+
+otherwise if that doesnt work of course its all over 
+
+that if we shoot the ball straight up 
+
+that it comes back here 
+
+if it doesnt do that 
+
+i dont even have to try this more complicated experiment 
+
+so heres the golf ball 
+
+im going to fire the gun now 
+
+
+
+close close 
+
+reasonably close 
+
+
+well since its only reasonably close perhaps 
+
+ class   
+
+perhaps it would help if we give it a little bit of leeway 
+
+there goes the gun 
+
+here comes the ball 
+
+and this is just in case 
+
+tape it down 
+
+so as im going to push this now give it a push 
+
+the gun will be triggered 
+
+when the middle of the car is here 
+
+youve seen how high that ball goes 
+
+so that ball will go  makes whooshing   
+
+and depending upon how hard i push it 

@@ -1,0 +1,352 @@
+
+
+allocation 
+
+similarly b at the old prices 
+
+couldnt afford this new regime allocation 
+
+so at the old prices everybody would have to be spending more 
+
+on the new regime allocation than the value of their 
+
+endowment 
+
+that means at the old prices the total in the whole 
+
+society by adding it upof the 
+
+expenditures on the new regime consumptions must be bigger than 
+
+the total value of the old endowments 
+
+now that was the contradiction why at the old endowments 
+
+without production you couldnt make everybody better off 
+
+wed already have a contradiction 
+
+now we add one more step 
+
+weve got this new technology that changed the old endowments 
+
+it changed the old endowments but however it changed it we 
+
+dont have to keep track of how it did it 
+
+it makes the value of the total endowments even less than it was 
+
+
+before so we actually get a worse contradiction than before 
+
+so it was a good question so i thank you for the 
+
+question 
+
+any other questions 
+
+yes 
+
+can you raise the board a little  
+
+yes i can raise which  
+
+not this one 
+
+yes that one  
+
+yeah  
+
+well sorry 
+
+oh  
+
+so the bottom line here is thatlet me  
+
+
+summarize 
+
+weve spent four classes on reviewing standard intermediate 
+
+micro and macro 
+
+people never talk about that stuff when they do 
+
+financialfinance courses in typical courses 
+
+however irving fisher the inventor of half of 
+
+finance thats how he began 
+
+and its going to turn out now especially in light of this 
+
+last crisis that the best way to understand 
+
+whats going on is to go back to the original underlying economy 
+
+so fisher said you can always takewe havent introduced 
+
+
+risk by the way 
+
+when that happens things are going to get more complicated 
+
+fisher couldnt deal with risk 
+
+so without risk where everybodys anticipating 
+
+the dividends in the future that means that you can always 
+
+reduce a financial economy up there to a general equilibrium 
+
+which youve been taught before you got to this course 
+
+most of you how to solve 
+
+and now that solution to that problem with marginal utility 
+
+and pareto efficiency that tells us an enormous amount about how 
+
+the stock market and everything works 
+
+it tells us that the value of every stock is just the 
+
+discounted real dividends discounted at the real rate of 
+
+interest or the discounted nominal 
+
+payoffs cash flows discounted at the nominal rate 
+
+of interest 
+
+and it tells us that the real rate of interest is the nominal 
+
+rate divided by the rate of inflation 
+
+
+and it tells us that its a good thing all these owners of 
+
+companies are maximizing profits or share value 
+
+which is the same thing and thats helping society 
+
+so thats the lesson 
+
+a lot of that stuff is going to change a little bit 
+
+but thats the basic idea 
+
+so finally lets get to the point 
+
+for  years the public was confused about interest 
+
+they saidaristotle one of the greatest geniuses of 
+
+all times he thought interest was an unnatural act 
+
+it was horrible even though of course lots of people in 
+
+greece were charging interest 
+
+delos the delphic oracle was charging interest 
+
+would lend money at interest and aristotle and everybody was 
+
+talking about the delphic oracle all the time 
+
+they werent even paying attention 
+
+the delphic oracle was charging interest and they were saying 
+
+its totally unnatural 
+
+so three religions all thought interest was a terrible thing 
+
+they all thought the just price wasthe nominal rate of 
+
+interest should be  but what fisher says is the 
+
+nominal rate of interest is irrelevant 
+
+nobody cares about the nominal rate of interest 
+
+they look at apples today and apples next year 
+
+the money and stuff just gets in the way 
+
+its the real rate of interest that you care about 
+
+and the real rate of interest doesnt have to be positive 
+
+it could be negative like it is today 
+
+the real rate of interest what are the determinants 
+
+usually of the real rate of interest if the federal reserve 
+
+
+isnt mucking around with things 
+
+the real rate of interest is obtained by solving for 
+
+p and p in this general equilibrium 
+
+model 
+
+so what would change the real rate of interest 
+
+all you have are the utilities and the endowments 
+
+so heres the economy 
+
+what would change the real rate of interest 
+
+so the first thing fisher says is impatience 
+
+so in fact one of his most famous articles is called an 
+
+impatience theory of interest so lets call it that 
+
+
+impatience theory of interest 
+
+so fisher said that in his view people are impatient 
+
+why 
+
+that means an apple today they thought was more valuable that 
+
+an apple next year 
+
+why 
+
+because of the poor imagination it was easy to 
+
+think about eating the apple today 
+
+you can just hold it in your hand and its so close 
+
+but to think about eating it in a year requires some 
+
+imagination 
+
+they had poor imagination and secondly 
+
+
+the second main reason is mortality 
+
+they might die between today and next year 
+
+so those are the two main reasons 
+
+he gives a bunch of others which im going to mention 
+
+shortly but these are the two most 
+
+interesting ones poverty of imagination and the 
+
+fact that you just might die in between 
+
+so what does it mean 
+
+an apple next year is not a sure thing 
+
+there is the impatience theory of interest 
+
+so he said thats why it makes sense to have this guy a as 
+
+impatient because he values the apple today more than a value 
+
+tomorrow 
+
+hes got this discount rate a half here 
+
+bs not impatient because the discount factor is one 
+
+so he put a discount factoractually fisher didnt 
+
+quite have a discount factor he had a more general thing 
+
+so samuelson was the one who introduced the discount factor 
+
+it doesnt matter but anyway so a discount factor 
+
+to capture fishers idea that the good next year 
+
+the same apple next year is not worth as much to a as an apple 
+
+this year 
+
+so suppose i change a half to a third 
+
+
+what will happen to the real rate of interest 
+
+so that makes people more impatient 
+
+why does it make them more impatient because now they care 
+
+even less about the good next year 
+
+so when did this happen 
+
+in the reagan years the now generation 
+
+everybody talked about the now generation 
+
+people are getting more impatient 
+
+so what happens to the real rate of interest when people get 
+
+more impatient 
+
+does it go up or down 
+
+it goes up  
+
+so why does it go  
+
+thats correct 
+
+because there needs to be more of an  
+
+to save 
+
+right but now fisher would say that  
+
+
+little bit more he would say it a little more 
+
+formally but thats exactly right 
+
+in order to get anybody to save because they want the 
+
+stuff now youre going to have to give them a higher real rate 
+
+of interest 
+
+thats exactly right 
+
+so how could you say it in this economy 
+
+next slower remember in this economy 
+
+this cobbdouglas economy you could prove it formally 
+
+you know that if p lets say   and were 
+
+solving for p and heres the supply 
+
+this is x and heres demand 
+
+so remember xa is going to be something like 
+
+p ea p ea 
+
+times  over  delta where delta 
+
+whats called delta the discount 
+
+lets call this delta so the discount 
+
+so to get these to add up to  i take  delta 

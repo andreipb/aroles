@@ -1,0 +1,48 @@
+Superconductivity: Electron-phonon Coupling and Unconventional Pairing with Repulsive Interaction
+
+author: Viktor Kabanov, Department for Complex Matter, Jožef Stefan Institute
+
+published: Feb. 3, 2012,   recorded: January 2012,   views: 238
+
+Categories
+Top » Technology » Materials » Superconductivity
+Top » Physics
+
+Description
+The quest for better superconductors, with higher transition temperatures that perform at higher magnetic fields 
+and lead to higher critical currents is one of the major challenges in condensed matter physics. In the Bardeen–Cooper–Schrieffer 
+theory of superconductivity, electrons form Cooper pairs as a result of an interaction mediated by vibrations in the underlying 
+crystal structure (phonons). In my talk I will review different experimental techniques which allow an evaluation of the strength
+of the interaction between electrons and phonons. The theoretical constraints for an unconventional superconductivity caused by 
+repulsive interaction will be also discussed.
+
+Slides
+0:00 	Superconductivity: Electron-phonon Coupling and Unconventional Pairing with Repulsive Interaction
+0:17 	National Research Nuclear University "MEPhI“
+1:46 	Heike Kamerlingh Onnes
+3:32 	Few historical facts - 1
+7:16 	Few historical facts - 2
+12:12 	London Equations
+14:37 	The Nobel Prize in Physics 2003
+17:04 	Ginzburg-Landau Theory - 1
+19:16 	Ginzburg-Landau Theory - 2
+21:50 	Microscopic theory of superconductivity (1956) - 1
+22:54 	Microscopic theory of superconductivity (1956) - 2
+24:38 	Discovery of high temperature superconductivity (1986) - 1
+26:38 	Discovery of high temperature superconductivity (1986) - 2
+28:00 	Eliashberg theory of superconductivity
+32:45 	Electron-phonon interaction in superconductors
+33:58 	Superconducting metals
+35:18 	Kinetics of hot electrons in the normal states.
+36:25 	Electron-Phonon coupling in High-Temperature Cuprate Superconductors
+37:40 	Background
+39:50 	Order parameter
+40:57 	More details - 1
+42:03 	More details - 2
+42:21 	More details - 3
+42:54 	More details - 4
+44:00 	Superconductivity in the Repulsive Hubbard model
+45:13 	Superconductivity from repulsive interactions in the two dimensional electron gas
+47:38 	Unconventional High-temperature Superconductivity from Repulsive Interactions
+49:58 	Self-consistent calculations
+51:49 	Conclusions

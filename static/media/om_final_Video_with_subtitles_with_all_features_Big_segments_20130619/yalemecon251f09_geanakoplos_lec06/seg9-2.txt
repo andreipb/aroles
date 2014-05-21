@@ -1,0 +1,394 @@
+
+
+making deductions for no arbitrage 
+
+so most of finance is actually being more and more clever about 
+
+how to do no arbitrage 
+
+over half of this course is going to be lets look at 
+
+situations where at first glance there doesnt seem to be any 
+
+arbitrage 
+
+then you realize if youre clever enough youll recognize 
+
+an arbitrage and be able to figure out all the prices 
+
+without having to know all the utilities and everything else 
+
+so one of the main goals of finance is to explain asset 
+
+
+prices 
+
+you can see how no arbitrage is going to help do that 
+
+because if you knew what some of the asset prices were you 
+
+could deduce what the rest might be 
+
+so thats the first thing fisher did and hes used this 
+
+fact in connecting these two economies 
+
+so thats the first thing 
+
+now that principle can be used over and over again 
+
+
+another application of it lets suppose that we 
+
+introduced a nominal bond with payoff  dollar in period  
+
+and suppose as before that q  
+
+q   as weve already supposed 
+
+so then by definition the price of this bond is equal to  over 
+
+ i where i is the nominal interest rate 
+
+why is that 
+
+because youre going to get a dollar next year 
+
+if the price is less than a dollar this year youre turning 
+
+something less than a dollar into something equal to a 
+
+dollar 
+
+youre multiplying todays price by  i to get tomorrows 
+
+price so the rate of return is  i 
+
+taking whatever you put in today and getting  i tomorrow 
+
+so what is  i 
+
+so by no arbitrage we can figure out what  i must be 
+
+so  dollar today can go into  units of stock alpha 
+
+which goes into  units of x as dividends 
+
+which equals  dollars 
+
+so you take  dollar today by buying stock alpha you can get  
+
+units of it since its price is a third 
+
+and since stock alpha pays one unit of output next period you 
+
+know that  dollar today gives you  units of stock alpha 
+
+which gives you  units of good  as the output and at price  
+
+dollar tomorrow youve anticipated thats  dollars 
+
+so by buying stock alpha you can put in a dollar and get out 
+
+ dollars 
+
+so it means that  i   which means the interest rate 
+
+
+is  percent 
+
+so thats a second thing you can deduce from that 
+
+so notice that by looking at part of the equilibrium here we 
+
+can figure out a lot of the rest of the equilibrium 
+
+so whats another application 
+
+well fisher said define the real interest rate as number of 
+
+goods today goes into number of good tomorrow 
+
+so this will be  r equals that 
+
+the number of goods today and how many good tomorrow do you 
+
+
+get 
+
+so how can you do that 
+
+well  good today  unit of x is  
+
+dollar today right 
+
+if you had one apple today you could sell it for q 
+
+times  apple which is q times  
+
+which is  times  which is  dollar today 
+
+which you can get  units  shares  units of stock 
+
+alpha which gives you  units of x 
+
+so  unit of x today turns into  units of 
+
+
+x so therefore  r   implies r 
+
+  percent 
+
+so thats the real rate of interest 
+
+so one of the tricks in going from here to here was to say 
+
+that fisher realized that people are going to look through all 
+
+the gibberish of money and theyre going to think about 
+
+what apples are they giving up today and what apples are they 
+
+getting tomorrow 
+
+theyre not going to be confused by all the holding of 
+
+assets in between 
+
+all right so lets just make it a little bit more 
+
+complicated 
+
+suppose we started with q   
+
+q   
+
+now i told you that equilibriumfisher says theres 
+
+always a normalization 
+
+walras originally had the normalization in one period 
+
+theres a one period model in general equilibrium 
+
+in multiperiod models theres a normalization every period 
+
+every period theres a choice of whether youre dealing with 
+
+dollars or francs or centimes 
+
+or how many and so theres a free 
+
+normalization 
+
+so lets take q   and q   
+
+well what does that mean 
+
+that means that inflation  lets call it growth of money 
+
+gi ive already used for the nominal interest rate 
+
+so  g is going to be  over  or just  
+
+so inflation   percent 
+
+so whats pialpha going to be 
+
+ive done my work 
+
+now the rest im going to just ask you for the rest of the 
+
+numbers 
+
+whats pialpha 
+
+so if i resolved equilibrium taking q   and 
+
+q   all thats kind of money stuff so its not 
+
+
+going to change what happens over there 
+
+youre going to get the same equilibrium over there and 
+
+youre going to go back to over here 
+
+so whats pialpha going to be 
+
+ahha 
+
+suppose we knew we were in the same real economy 
+
+theres nothing changed about utilities endowments of goods 
+
+productivity of the stocks 
+
+all we know is that inflations going to be higher now 
+
+so what do you think would happen in the new equilibrium 
+
+whats going to happen to the price of stocks today 
+
+yes 
+
+is it just   
+
+price of stock  
+
+what was it before 
+
+b 
+
+so what was it  
+
+ third  
+
+yeah  third so its still   
+
+this is a big mystery in finance a big question in 
+
+finance 
+
+so you see why its puzzling 
+
+you didnt get the answer right off although she did 
+
+so you just have to think about it a second 
+
+if you really thought that people when they were buying and 
+
+selling only bought a stock because they said to themselves 
+
+how many apples am i going to get out of this stock 
+
+i dont care about dollars and centimes and francs 
+
+im not going to eat that 
+
+im going to eat the apples and maybe i get the apples and 
+
+sell them and eat pears instead but i care about the goods im 
+
+going to get 
+
+so i looked through all the veil 
+
+i should recognize that the stock although its now going 
+
+to pay twice as many dollars as it did before 
+
+so its going to pay  dollars 
+
+thats how someone guessed  
+
+someone said  
+
+so how did he get  
+
+i didnt even realize how he came up with the number  
+
+he came up with the number  because he said 
+
+
+well the stock is paying  apple tomorrow 
+
+the price of apples is now  so its paying  dollars 
+
+tomorrow so maybe its price today should be  
+
+but no that isnt how much the stock is worth 
+
+the stock is worth solving for this general equilibrium supply 
+
+and demand 
+
+we already calculated before that the stock was a third 
+
+so the price of the stock is going to stay a third because 
+
+the apples it pays tomorrow hasnt changed 
+
+its still the same one apple 
+
+now how did we know the stock was priced at a third before 
+
+what was the stock in general 
+
+whats the price of the stock 
+
+the price of stock remember is how did we get it 
+
+
+by going from here to here 
+
+we said its going to equal the price of the stock divided by 
+
+p 
+
+now the stock is only paying a certain number of goods 
+
+the price of the stock today is going to equal the present value 
+
+ over  r times its dividend 
+
+ill write it this way 
+
+the price of the stock is p times this 
+
+lets just write this 
+
+what would fisher say 
+
+how did we get the price of the stock from going from here to 
+
+
+here 
+
+we got the price of the stock by saying the stock pays off one 
+
+good tomorrow but one good tomorrow is only 
+
+worth a third of one good today so therefore the value of the 
+
+stock is only equal to a third times    third 
+
+so assuming p   thats what fisher would say 
+
+assuming p is  you figure out how many units of 
+
+todays good is it worth 
+
+now if p isnt  then what do you do 
+
+suppose p were  and p wereor 
+
+p is  lets say and p is 
+
+ then what would you do 
+
+youd have to say p times pialpha  
+
+dalpha 
+
+so if you multiplied all the prices byam i putting the 
+
+p down at the bottom or the top 
+
+if you multiply out all the prices by  just leave it like 
+
+this 
+
+well say if pialpha  p times 
+
+dalpha 
+
+if you measure it in terms of goods thats how you do it 
+
+so if you take this this is also equal to  over 
+
+p divided by p if p 
+
+is  assuming p is  
+
+times dalpha which is  over  r times 

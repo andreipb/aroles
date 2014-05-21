@@ -1,0 +1,2773 @@
+
+
+all right so we spent a long  
+
+reviewing general equilibrium and weve now switched to 
+
+finance and youre hopefully going to 
+
+see that the principles of finance emerge very quickly from 
+
+the principles of general equilibrium 
+
+so that although it seems it was a long interlude weve 
+
+actually learned a lot about the financial economy 
+
+so im going to continue with the example that we started with 
+
+the last time 
+
+so we have a financial economy 
+
+so in a financial economywhat is a financial economy 
+
+on this top board the financial economy is defined by lots of 
+
+people in the economy and their utilities 
+
+so here we have for simplicity two kinds of people a and b with 
+
+utilities given by the log x  half log 
+
+x etcetera 
+
+its also people know today what their endowments are and 
+
+they have some idea of what theyre going to be tomorrow 
+
+theyre labor powered today and theyre going to be able to work 
+
+again next year 
+
+so the labor endowments are given by  for a 
+
+and  for b 
+
+and then they also know that there are two stocks in the 
+
+economy and they have to anticipate what the dividends 
+
+are going to be 
+
+and as fisher said the main value of assets is 
+
+that they give you something they produce something 
+
+in this case theyre going to be dividends and betas 
+
+producing dividends of  and alpha is producing a 
+
+
+dividend of  next period and then the ownership of 
+
+shares 
+
+so thats the beginning of the economy and we want to define 
+
+from that equilibrium which what are the 
+
+contemporaneous prices going to be 
+
+thats q for contemporaneous what are the prices of the 
+
+stocks going to be and whos going to hold which 
+
+portfolio of assets of stocks and whos going to consume what 
+
+and so fisher said thats a very complicated problem 
+
+you can simplify it by looking at a general equilibrium problem 
+
+which is much shorter to describe 
+
+and so the general equilibrium economy is going to be a much 
+
+simpler one 
+
+its going to consist of ua and ub the same as before 
+
+and ehata the endowments 
+
+ehata and ehatb 
+
+ehatb 
+
+so weve left out half the variables up there and we define 
+
+ehata  ea   and 
+
+ehatb  eb   
+
+but ehata this is the fisher insight  
+
+ea what a owns of the payoffs of the future 
+
+dividends thetabaraalpha 
+
+times dalpha plus thetabarabeta 
+
+times dbeta 
+
+since a owns half of the alpha stock 
+
+sorry all of the alpha stock and half of the beta stock 
+
+his endowment is  his original thing 
+
+plus what the stock is going to produce 
+
+and after all hes the owner 
+
+
+so hes going to get all of  a half of  which is   
+
+i took more space than i thought 
+
+and so similarly ehatb is going 
+
+to be  a half of  which   
+
+so here endowments are this and also lets just write it here 
+
+ehata   so this 
+
+so fisher said we start with a financial equilibrium 
+
+we can switch to the economic equilibrium and solve this 
+
+
+problem and having solved that one go 
+
+back and figure out how to solve this one 
+
+and you remember what the prices were 
+
+they turned out to be qi might as well 
+
+write it up there what the prices we had 
+
+we solved 
+
+we said first of all fisher has no theory for the 
+
+contemporaneous prices 
+
+its all relative prices 
+
+im going to write that 
+
+relative prices is all we can ever figure out 
+
+someone might always come along and change dollars to cents 
+
+when i was a little boy in france 
+
+on vacation they suddenly announced that 
+
+the franc was going to be divided 
+
+everything that was a hundred francs would now be one franc 
+
+they just redefined the currency so that might always 
+
+happen 
+
+so you have to have some theory of money and whether the 
+
+governments going to do that to figure out the nominal prices 
+
+so contemporaneous prices he says are  
+
+all right but having realized that if there are many goods at 
+
+
+time  he could figure out the relative prices 
+
+but with only  good at time one whos to say whether were 
+
+measuring dollars or francs or cents 
+
+well just call it  and the same things going to 
+
+happen next year 
+
+who knows whether its dollars or cents or francs so were 
+
+going to call it  again 
+
+but after that he figured everything out 
+
+this turned out to be a price of a third 
+
+this turned out to be a price of  thirds and we figured out 
+
+
+all the consumptions which ive forgotten of course 
+
+but anyway they werewho knows what they were 
+
+not that its too important 
+
+all right well i forgot what they were 
+
+anyway he figured out all the consumptions 
+
+i think they wereactually i sort of remember them 
+
+well lets say i dont 
+
+anyway he figured out all the consumptions 
+
+
+does anyone remember what they were 
+
+all right i will look them up  thirds  thirds  
+
+so they were  thirds and  and  thirds and  
+
+he figured out in equilibrium and how did he do itbecause 
+
+he solved over here first 
+
+we would have solvedhe didnt do this exact problem 
+
+but he would have solved over here and we would have found 
+
+with p   p  a third 
+
+and sure enough xa   thirds 
+
+xa   and xb   
+
+thirds and xb   
+
+so fisher said start with the financial economy 
+
+figure out what the reduced general equilibrium is 
+
+solve for this equilibrium and go back and figure out what 
+
+
+the financial equilibrium should be 
+
+all right so i want to now examine what weve done 
+
+and we did that the end of last class 
+
+you had to do it in a problem set 
+
+and you notice that the only difference between this and that 
+
+is the general equilibrium throws 
+
+away a lot of irrelevant information because fisher said 
+
+people are rational 
+
+they look through the veil of all the gibberish of who owns 
+
+the company and stuff like that and theyre just anticipating 
+
+what the company is going to produce 
+
+they dont really care about whether theres a man running 
+
+the company or a woman running the company 
+
+or whether shes got an mba from harvard or from yale 
+
+
+none of this is relevant what the business plan is 
+
+all they care about is whats going to actually happen in the 
+
+end 
+
+so if you think theyre going to anticipate that correctly you 
+
+dont need to worry about all the other stuff 
+
+so looking through the veil you can always reduce the financial 
+
+equilibrium to a general equilibrium 
+
+now i want to go back and reexamine all that logic 
+
+so whats the first step in what fisher did 
+
+
+and this is the idea of no arbitrage 
+
+so fisher said people look through the veil of things 
+
+they understand stuff and you can count on their understanding 
+
+to guide your understanding of the economy 
+
+so if you know that pialpha 
+
+this is a big pipialpha  a 
+
+third so fisher says well 
+
+you dont have to solve for the whole equilibrium to figure out 
+
+what pibeta is 
+
+what would pibeta be 
+
+well fisher would have said stock beta always pays off 
+
+exactly what stock alpha pays off 
+
+so if these people are rational theyre not going to allow for 
+
+an arbitrage 
+
+so arbitrage means if there are two assets or two things that 
+
+are identical they have to sell for the same 
+
+pricethats no arbitrage 
+
+if they sold for a different price thered be an arbitrage 
+
+youd sell the more expensive one and buy the cheaper one 
+
+and so youd have accomplished a perfect tradeoff 
+
+but youd have gotten the difference of money 
+
+so since pialpha is  third pibeta has 
+
+to equal  thirds 
+
+thats the first most important principle of 
+
+finance that fisher introduced the idea of no arbitrage and 
+
+
+making deductions for no arbitrage 
+
+so most of finance is actually being more and more clever about 
+
+how to do no arbitrage 
+
+over half of this course is going to be lets look at 
+
+situations where at first glance there doesnt seem to be any 
+
+arbitrage 
+
+then you realize if youre clever enough youll recognize 
+
+an arbitrage and be able to figure out all the prices 
+
+without having to know all the utilities and everything else 
+
+so one of the main goals of finance is to explain asset 
+
+
+prices 
+
+you can see how no arbitrage is going to help do that 
+
+because if you knew what some of the asset prices were you 
+
+could deduce what the rest might be 
+
+so thats the first thing fisher did and hes used this 
+
+fact in connecting these two economies 
+
+so thats the first thing 
+
+now that principle can be used over and over again 
+
+
+another application of it lets suppose that we 
+
+introduced a nominal bond with payoff  dollar in period  
+
+and suppose as before that q  
+
+q   as weve already supposed 
+
+so then by definition the price of this bond is equal to  over 
+
+ i where i is the nominal interest rate 
+
+why is that 
+
+because youre going to get a dollar next year 
+
+if the price is less than a dollar this year youre turning 
+
+something less than a dollar into something equal to a 
+
+dollar 
+
+youre multiplying todays price by  i to get tomorrows 
+
+price so the rate of return is  i 
+
+taking whatever you put in today and getting  i tomorrow 
+
+so what is  i 
+
+so by no arbitrage we can figure out what  i must be 
+
+so  dollar today can go into  units of stock alpha 
+
+which goes into  units of x as dividends 
+
+which equals  dollars 
+
+so you take  dollar today by buying stock alpha you can get  
+
+units of it since its price is a third 
+
+and since stock alpha pays one unit of output next period you 
+
+know that  dollar today gives you  units of stock alpha 
+
+which gives you  units of good  as the output and at price  
+
+dollar tomorrow youve anticipated thats  dollars 
+
+so by buying stock alpha you can put in a dollar and get out 
+
+ dollars 
+
+so it means that  i   which means the interest rate 
+
+
+is  percent 
+
+so thats a second thing you can deduce from that 
+
+so notice that by looking at part of the equilibrium here we 
+
+can figure out a lot of the rest of the equilibrium 
+
+so whats another application 
+
+well fisher said define the real interest rate as number of 
+
+goods today goes into number of good tomorrow 
+
+so this will be  r equals that 
+
+the number of goods today and how many good tomorrow do you 
+
+
+get 
+
+so how can you do that 
+
+well  good today  unit of x is  
+
+dollar today right 
+
+if you had one apple today you could sell it for q 
+
+times  apple which is q times  
+
+which is  times  which is  dollar today 
+
+which you can get  units  shares  units of stock 
+
+alpha which gives you  units of x 
+
+so  unit of x today turns into  units of 
+
+
+x so therefore  r   implies r 
+
+  percent 
+
+so thats the real rate of interest 
+
+so one of the tricks in going from here to here was to say 
+
+that fisher realized that people are going to look through all 
+
+the gibberish of money and theyre going to think about 
+
+what apples are they giving up today and what apples are they 
+
+getting tomorrow 
+
+theyre not going to be confused by all the holding of 
+
+assets in between 
+
+all right so lets just make it a little bit more 
+
+complicated 
+
+suppose we started with q   
+
+q   
+
+now i told you that equilibriumfisher says theres 
+
+always a normalization 
+
+walras originally had the normalization in one period 
+
+theres a one period model in general equilibrium 
+
+in multiperiod models theres a normalization every period 
+
+every period theres a choice of whether youre dealing with 
+
+dollars or francs or centimes 
+
+or how many and so theres a free 
+
+normalization 
+
+so lets take q   and q   
+
+well what does that mean 
+
+that means that inflation  lets call it growth of money 
+
+gi ive already used for the nominal interest rate 
+
+so  g is going to be  over  or just  
+
+so inflation   percent 
+
+so whats pialpha going to be 
+
+ive done my work 
+
+now the rest im going to just ask you for the rest of the 
+
+numbers 
+
+whats pialpha 
+
+so if i resolved equilibrium taking q   and 
+
+q   all thats kind of money stuff so its not 
+
+
+going to change what happens over there 
+
+youre going to get the same equilibrium over there and 
+
+youre going to go back to over here 
+
+so whats pialpha going to be 
+
+ahha 
+
+suppose we knew we were in the same real economy 
+
+theres nothing changed about utilities endowments of goods 
+
+productivity of the stocks 
+
+all we know is that inflations going to be higher now 
+
+so what do you think would happen in the new equilibrium 
+
+whats going to happen to the price of stocks today 
+
+yes 
+
+is it just   
+
+price of stock  
+
+what was it before 
+
+b 
+
+so what was it  
+
+ third  
+
+yeah  third so its still   
+
+this is a big mystery in finance a big question in 
+
+finance 
+
+so you see why its puzzling 
+
+you didnt get the answer right off although she did 
+
+so you just have to think about it a second 
+
+if you really thought that people when they were buying and 
+
+selling only bought a stock because they said to themselves 
+
+how many apples am i going to get out of this stock 
+
+i dont care about dollars and centimes and francs 
+
+im not going to eat that 
+
+im going to eat the apples and maybe i get the apples and 
+
+sell them and eat pears instead but i care about the goods im 
+
+going to get 
+
+so i looked through all the veil 
+
+i should recognize that the stock although its now going 
+
+to pay twice as many dollars as it did before 
+
+so its going to pay  dollars 
+
+thats how someone guessed  
+
+someone said  
+
+so how did he get  
+
+i didnt even realize how he came up with the number  
+
+he came up with the number  because he said 
+
+
+well the stock is paying  apple tomorrow 
+
+the price of apples is now  so its paying  dollars 
+
+tomorrow so maybe its price today should be  
+
+but no that isnt how much the stock is worth 
+
+the stock is worth solving for this general equilibrium supply 
+
+and demand 
+
+we already calculated before that the stock was a third 
+
+so the price of the stock is going to stay a third because 
+
+the apples it pays tomorrow hasnt changed 
+
+its still the same one apple 
+
+now how did we know the stock was priced at a third before 
+
+what was the stock in general 
+
+whats the price of the stock 
+
+the price of stock remember is how did we get it 
+
+
+by going from here to here 
+
+we said its going to equal the price of the stock divided by 
+
+p 
+
+now the stock is only paying a certain number of goods 
+
+the price of the stock today is going to equal the present value 
+
+ over  r times its dividend 
+
+ill write it this way 
+
+the price of the stock is p times this 
+
+lets just write this 
+
+what would fisher say 
+
+how did we get the price of the stock from going from here to 
+
+
+here 
+
+we got the price of the stock by saying the stock pays off one 
+
+good tomorrow but one good tomorrow is only 
+
+worth a third of one good today so therefore the value of the 
+
+stock is only equal to a third times    third 
+
+so assuming p   thats what fisher would say 
+
+assuming p is  you figure out how many units of 
+
+todays good is it worth 
+
+now if p isnt  then what do you do 
+
+suppose p were  and p wereor 
+
+p is  lets say and p is 
+
+ then what would you do 
+
+youd have to say p times pialpha  
+
+dalpha 
+
+so if you multiplied all the prices byam i putting the 
+
+p down at the bottom or the top 
+
+if you multiply out all the prices by  just leave it like 
+
+this 
+
+well say if pialpha  p times 
+
+dalpha 
+
+if you measure it in terms of goods thats how you do it 
+
+so if you take this this is also equal to  over 
+
+p divided by p if p 
+
+is  assuming p is  
+
+times dalpha which is  over  r times 
+
+
+dalpha 
+
+so fisher saidso heres his famous equation 
+
+fisher said the way to figure out the value of a stock 
+
+if you solve that problem over here 
+
+is to look at its dividends and discount them by the real rate 
+
+of interest  unit of output tomorrow 
+
+since the value of an apple tomorrow is only a third of the 
+
+value of an output today 
+
+remember the interest rate  r the real interest rate 
+
+is equal to the ratio of the two goods 
+
+so p over p is just  r 
+
+ r is p over p 
+
+im making some things simple seem more complicated 
+
+
+sorry 
+
+so lets just say it again 
+
+when we solved that equilibrium over there we figured out that 
+
+p is only a third of p 
+
+when people think today how much would i give up of apples 
+
+today to get an apple next year they dont think apples next 
+
+year are worth nearly as much as apples this year 
+
+so theyd only give up a third of an apple this year to get an 
+
+apple next year 
+
+p is the amount you give up today to get an apple 
+
+next year so its a third 
+
+another way of saying that if p is  
+
+is that the real interest rate the tradeoff between apples 
+
+tomorrow and apples today which is p over 
+
+p because  apple today can give 
+
+you three apples tomorrow so p over 
+
+p is  so  r is three 
+
+so the apple tomorrow is worth p times the 
+
+dividend 
+
+thats just  over  r times the dividend 
+
+
+so the value of a stock is the real dividends its paying in 
+
+the future discounted by the real rate of interest 
+
+youre turning tomorrows next years goods 
+
+finding the equivalent in terms of this years goods 
+
+and the ratio of those two prices is the real rate of 
+
+interest and so thats how you would get it 
+
+so another way of saying the same thing is you could turn 
+
+cash next year into cash this year 
+
+
+so assuming q is  another way of saying that is  
+
+over  i times dalpha times 
+
+q 
+
+so you take the nominal rate of interest times the money thats 
+
+being produced because the nominal rate of 
+
+interest says how do you trade off a dollar today for a dollar 
+
+in the future 
+
+so a dollar in the future isnt worth usually 
+
+as much as a dollar today so you have to discount it 
+
+so a certain number of dollars in the future are worth less 
+
+dollars today 
+
+so you take the payoff of dollars in the future discounted 
+
+by the nominal rate of interest and you get todays price 
+
+or you take the real dividends in the future discounted by the 
+
+real rate of interest and you get todays price 
+
+so both those things are an application of the principle of 
+
+no arbitrage looking through the veil 
+
+so what would the nominal interest rate be in this case 
+
+in this case you see how did i know that palpha 
+
+was still a third 
+
+because the real interest rate hasnt changed 
+
+its still  percent 
+
+so dalpha is  and im still multiplying by  
+
+third so im still getting a third for the price of alpha 
+
+so thats how she knew that the answer should stay a third 
+
+because she knew nothing real had changed in the economy 
+
+therefore the real interest rate couldnt have changed 
+
+therefore the price of the stock still had to be the same 
+
+so how could we have used this 
+
+another formula formula 
+
+we have to know what the nominal interest rate is 
+
+
+so what is the nominal interest rate 
+
+if you put in a dollar today how many dollars can you get out 
+
+in the future in this new economy where theres  
+
+percent inflation 
+
+yes 
+
+ percent  
+
+so thats right now how did he do  
+
+because lets just do it 
+
+you take  dollar today at price q   
+
+you can buy  units of alpha still because its price is 
+
+still a third and that tells you that you get 
+
+
+ units of x thats the dividend 
+
+of  units of alpha each share of alpha pays  
+
+right  apple so now you get  apples 
+
+but thats equal to  times  because the price is  
+
+  dollars tomorrow 
+
+so youve turned  dollar into  dollars 
+
+so  i   over  implies i   percent just exactly what 
+
+he said 
+
+so to say that just more simply the real rate of interest  r 
+
+this is the most famous equation fisher ever wrote 
+
+is  i divided by  g 
+
+so this is called the fisher equation 
+
+his two famous equations are this this is called the fisher 
+
+equation and this which is called 
+
+these two things which are the same are called the fundamental 
+
+theorem of asset pricing 
+
+so why is this theorem true 
+
+the real rate of interest trades off apples today for 
+
+apples tomorrow the real rate of interest 
+
+apples today for apples tomorrow 
+
+so we had  apple giving you  apples 
+
+thats why r was  percent 
+
+
+well if inflation is  percent so this is  
+
+ apple today gives you  apples in the future 
+
+but that means  apple today gives you  dollar 
+
+is one apple today gives you  apples or  dollars in the 
+
+future 
+
+so  times  so if this is equal to  and 
+
+inflations  percent so this is equal to  then whats the 
+
+fair rate of interest 
+
+what will the banks give you 
+
+well any banker can take a dollar buy a stock 
+
+
+turn it into  units of dividends and then sell it for  
+
+dollars apiece and get  dollars 
+
+and so a banker can take a dollar and turn it to  
+
+so competition will force the bankers to give you  dollars 
+
+for every  dollar you give it next period 
+
+so the interest rate has to be  i   times  
+
+or  
+
+so the real rate of interest is the nominal rate of interest 
+
+divided by inflation 
+
+so thats one subtle but once you realize it 
+
+obvious implication of thinking people are rational and make 
+
+sort of simple calculations looking at the future 
+
+and a consequence of that is the price of assets 
+
+or you look at the cash that comes out in the future 
+
+discounted by the nominal interest rate 
+
+
+or you look at the real goods that come out in the future and 
+
+discount it by the real interest rate 
+
+and its all the same thing 
+
+so does anybody know what the inflation is today 
+
+or what the nominal interest rates are today 
+
+so i is the nominal interest rate the amount of interest you 
+
+put in the bank and what theyll pay you at the end of a year 
+
+so were going tonext class were going to find out the 
+
+exact numbers but what do you think it is 
+
+about 
+
+does anyone have any idea 
+
+take a wild guess 
+
+is it  percent  percent 
+
+yep 
+
+i think the inflation is usually around  
+
+percent 
+
+usually and do you think its higher  
+
+lower than usual nowadays 
+
+its probably  
+
+thats good  
+
+so lets say its around  percent 
+
+so that means this is  and what do you think the nominal 
+
+
+interest rate is now 
+
+ percent  
+
+who said that  
+
+thats a good percent thats about right 
+
+so what is the real rate of interest now 
+
+b 
+
+what  
+
+b 
+
+well  r is less than  
+
+so  r is around  
+
+so the real rate of interest is actually like negative  
+
+percent 
+
+how did that happen 
+
+
+do you think its standard to have the real interest rate be 
+
+under  
+
+so why is it under  
+
+whats going on now that would make that happen 
+
+yep 
+
+the federal reserve wants to  
+
+investment 
+
+ah ha  
+
+the federal reserve has cut the interest rate 
+
+the nominal interest rate that it lends at to close to  
+
+lets say to  percent on the  year bond to  on the  month 
+
+thing 
+
+so the reason theyre saying theyre doing that is to 
+
+stimulate investment 
+
+thats what they teach you in macro keynesian 
+
+stimulate investment 
+
+were going to find out that thats not the reason theyre 
+
+doing it at all 
+
+the reason the federal reserve is cutting the interest rate to 
+
+almost zero is to just give money away to the banks 
+
+and why it that 
+
+well when you put your money and deposit it in the bank 
+
+
+youre getting almost no interest 
+
+so the banks the big banks have got all 
+
+these deposits and people dont change what they do 
+
+they just leave their money in the banks getting no interest 
+
+so the banks have the money for free and they can make money 
+
+with it 
+
+so normally theyd have to pay  percent interest or something 
+
+and that would be expensive for them 
+
+
+and that expense is a big part of their expenses 
+
+they dont have it anymore 
+
+so were going to come back to that whats really going on 
+
+today but thats whats going on 
+
+but anyway the point is the nominal interest rate is somehow 
+
+controlled by the fed 
+
+thats why we dont have a theory of it 
+
+were not going to do macro in this course 
+
+so fisher doesnt have a theory of the nominal interest rate 
+
+of inflation but he does tell you 
+
+given inflation and the nominal interest rate 
+
+thats determining a real interest rate 
+
+and people should look through that 
+
+so now they should say this is sort of the keynesian 
+
+part they should realize that 
+
+actually an apple today if you just sort of put it in the bank 
+
+you get less than an apple in the future so you should spend 
+
+it and do something with it 
+
+thats the keynesian idea so peoplewhy fritter away 
+
+
+part of your apple do something with it 
+
+thats why its supposed to stimulate demand and activity 
+
+today 
+
+so the point is thats how you calculate the 
+
+real rate of interest and shockingly its negative and 
+
+its hardly ever negative but it can be negative 
+
+are there any questions about this no arbitrage business 
+
+all right so lets do one more trick here a fisher thing 
+
+so lets go back to the equilibrium with q  
+
+ and q   
+
+suppose china offered to lend money lend us dollars at a  
+
+percent interest 
+
+would that be a great deal 
+
+would people rush to do that 
+
+this is the equilibrium we solved over here already 
+
+so is that a great deal 
+
+would that upset the equilibrium 
+
+would anyone bother to take the chinese deal if they lent at  
+
+percent interest they were offering to do that 
+
+
+
+what 
+
+no  
+
+professor john they wouldnt take it 
+
+were back here 
+
+whats the nominal interest rate in this economy 
+
+ percent  
+
+professor john  percent interest 
+
+so if you want to borrow in this economy from another 
+
+american you have to give the guy  percent interest 
+
+here the chinese are offering to lend you at  percent 
+
+
+interest 
+
+so yes everyone would rush to take the thing and that would 
+
+have a big effect on what the equilibrium was if the chinese 
+
+were willing to lend money at such a low rate of interest 
+
+lets try another question 
+
+suppose you invented a technology new technology 
+
+new technology turns  unit  apple today 
+
+into  apples tomorrow 
+
+is this something people would rush to do or not 
+
+suppose some inventor figured out how to do that 
+
+would he rush to do it 
+
+could it be used to help the economy 
+
+so lets put it this way 
+
+could this new technology be used to make a pareto 
+
+improvement everybody better off 
+
+yep 
+
+thats no because an apple tomorrow  
+
+worth less than half of an apple today 
+
+its worth a third of an apple today so no one would want to 
+
+do that 
+
+professor john so thats exactly the right 
+
+answer 
+
+actually youre answering two questions 
+
+i asked two questions 
+
+one is could it be used to help the economy make everybody 
+
+better off 
+
+if a social planner was in charge of things and the chinese 
+
+invented this new technology or some american in alaska 
+
+invented this new technology should the government use the 
+
+technology and could it use the technology to make everybody 
+
+better off and the answer to that is no 
+
+and then the answer to a second question issuppose the guy in 
+
+
+alaska discovered it himself 
+
+he couldnt care less about the pareto improvement and helping 
+
+other guys or the american planners or anything 
+
+he just wanted to make a profit for himself 
+
+would he make a profit 
+
+the answer is no because the real prices 
+
+fisher would say are  and a third and no matter 
+
+how you look at it the interest rate is  
+
+hes losing money because hes giving something 
+
+
+up thats worth  and hes getting something thats only 
+
+worth  thirds 
+
+so hed be losing money to do it 
+
+hed lose money 
+
+so we could prove that even 
+
+so the answer is no 
+
+thats the first question and nobody would do it anyway 
+
+and fortunately nobody would choose to do itchoose to use 
+
+itbecause it loses money 
+
+so those are two separate questions 
+
+could it be used and would any individual choose to do it 
+
+would it be good for the society and would any individual 
+
+
+choose to do it 
+
+the answers happen to agree here 
+
+so why cant it be used as a pareto improvement 
+
+whats the proof of this that it cant be 
+
+the answers no 
+
+whats the proof 
+
+well the proof is that if it did 
+
+if in the end it led to an allocation 
+
+xhata lets call it xtilde 
+
+a xtildea 
+
+and xtildeb xtildeb that 
+
+made everyone better off 
+
+then well we give their old proof 
+
+then what 
+
+it means that p xtildea 
+
+p xtildea is bigger 
+
+than what 
+
+p ehata 
+
+all right thats what you have in the fisher economy 
+
+p ehata and similarly p 
+
+xtildeb p 
+
+xtildeb is bigger than p 
+
+ehatb p 
+
+ehatb 
+
+so why is that 
+
+because in this fisher economy the general equilibrium 
+
+if this allocation really made a better off than what hes 
+
+gotten than  third and  
+
+he would have chosen it 
+
+
+and b she would have chosen her thing if it was better than 
+
+ thirds and  
+
+so clearly they must have been too expensive for those two to 
+
+choose because they were rationally choosing the right 
+
+thing given what they could afford 
+
+so then you just add the stuff up 
+
+you add and you find that total consumption value is bigger than 
+
+total endowment value 
+
+thats in the fisher economy but weve changed the fisher 
+
+economy because now weve added this technology which took away 
+
+some of the first good and made it into the second good 
+
+but that technology just lost money 
+
+which is bigger than total value in new technology economy 
+
+right 
+
+and so thats a contradiction because the consumption of this 
+
+however the new technology got used in the end the total 
+
+consumption of the people had to be the total of what there was 
+
+and what was produced in the economy 
+
+the value after the new technology is introduced in that 
+
+new economy has only gone down compared to the fisher economy 
+
+and the fisher economy value of endowments must have been less 
+
+than this brilliant new allocation 
+
+and thats a contradiction because this new allocation has 
+
+to add up to the stuff thats there in the new technology 
+
+economy 
+
+so thats how we know that no new technology could possibly 
+
+make everybody better off and we know trivially it makes 
+
+
+everyone better off if and only if it makes a profit 
+
+so if and only if it makes a profit can it be used to make 
+
+everybody better off and amazingly 
+
+in a free market economy people are going to use it if 
+
+and only if it makes a profit 
+
+so theyre going to use it if and only if its a good thing 
+
+for the economy 
+
+so thats the basic laissezfaire argumentthat 
+
+there are new discoveries all the time 
+
+every other day somebodys thinking of something new 
+
+are we going to use it 
+
+should we use it 
+
+is it something we need to read about in the papers and use 
+
+well there are a whole bunch of people 
+
+the discoverers themselves theyre going to talk to their 
+
+business friends and theyre going to say 
+
+do you want to lend me the money to get this thing 
+
+going and all of them are going to do this profit 
+
+calculation 
+
+if they decide it loses money theyre not going to do it 
+
+
+and thank god for that because it couldnt have helped 
+
+everybody if they did use it 
+
+so thats the main lesson of laissezfaire 
+
+so let me just put this in perspective a little bit 
+
+in the old russian economy of the s and s there was no 
+
+profit system so the central planner had to 
+
+figure out should a new invention be used 
+
+or not 
+
+so every time theres a new invention a committee had to get 
+
+together of central planners and decide whether to use it or 
+
+
+not 
+
+and theres a famous guy named kantorovich who was in charge of 
+
+a lot of that 
+
+he won the nobel prize in economics 
+
+he shared it with a yale economist named koopmans and so 
+
+kantorovich told this very amusing story 
+
+he said that there were two central planning bureaus 
+
+one was in charge of allocations and one was in 
+
+charge of prices 
+
+one had to set the prices 
+
+the other had to set the allocations 
+
+and of course the whole message here is that you have to combine 
+
+
+these 
+
+you dont know whether its worthwhile to change the 
+
+allocation until you know whether the new technologys 
+
+going to make a profit or not and here they had the two 
+
+things separated 
+
+they were telling people what to do before knowing whether 
+
+they made a profit or not because they didnt have prices 
+
+because there werent free markets 
+
+so the bottom line of the fisher story is that you take 
+
+this complicated financial economy 
+
+you reduce it to something very simple that you learned how to 
+
+
+do in your freshman year or your sophomore year 
+
+solve that and you go back to this and you can understand a 
+
+lot about this economy 
+
+thats something that most people didnt realize at the 
+
+time and still dont realize now 
+
+so you ask a typical person if theres inflation 
+
+that means the dividends next year is going to be higher 
+
+is that going to raise the value of the stock today 
+
+just like he said yes of course because it 
+
+
+makes the price of the dividends higher tomorrow 
+
+fisher would say no it doesnt change anything real 
+
+in the economy 
+
+if theres more inflation there will be a higher nominal 
+
+interest rate so discounted by the higher 
+
+interest rate payoffs of the stock will give you the same 
+
+stock price as before 
+
+so were going to do a thousand examples of this 
+
+but are there any questions about this 
+
+yes 
+
+can you just review your arguments at  
+
+
+end 
+
+im just having a very hard time reading 
+
+yeah sorry  
+
+i dont know if this is in the way by the way 
+
+so this is the argument we gave a few classes ago 
+
+i forgot when 
+
+we said how do you know that a final allocation that emerges as 
+
+a competitive equilibrium is pareto efficient 
+
+and the argument was if you can do better 
+
+that means make everybody better off 
+
+
+then each person if you look at the value of 
+
+what theyre getting under the new regime it must be more than 
+
+the value of their endowments otherwise they would have chosen 
+
+the new regime and nobody chose it 
+
+that means everybody would have had to pay more for this new 
+
+regime allocation than the value of their endowments 
+
+so this is more than that for person a 
+
+and person bs consumption is more than the value of this 
+
+endowments his extended endowments in the 
+
+fisher thing under this new regime 
+
+than the value of his endowments 
+
+youre following that 
+
+yeah  
+
+then the next step was to add all this  
+
+now notice however the new technology affects the world 
+
+obviously people can only eat whats being produced 
+
+everything thats being produced is part of somebodys 
+
+endowment 
+
+so if the new technology if mr a invents the new 
+
+technology he gives up some of his good at 
+
+time  to get more of the good at time  
+
+so his endowment has changedbut hes got a new 
+
+endowment but its still his endowment 
+
+so whatever the new allocation is it has to add up to the new 
+
+endowment 
+
+now i havent even bothered to write down the new endowment 
+
+but i know the value of that new endowment 
+
+whatever it is its going to be less than the 
+
+value of the old endowment because the new technology 
+
+loses money 
+
+so the contradiction is the value of the new endowment after 
+
+the technology is used at the old equilibrium prices 
+
+
+is lower than the value of the old endowment at the old 
+
+equilibrium prices 
+
+but that since its true for every person in the aggregate 
+
+thats less than the value of this new regime consumption 
+
+and thats a contradiction because the new regime 
+
+consumption thats all this stuff 
+
+has to equal exactly the total endowments in the economy to 
+
+begin with and thats the contradiction 
+
+so you cant make everybody better off 
+
+that simple argument which as i said 
+
+
+my advisor ken arrow another guy at yale named 
+
+gerard debreu both of them were working at 
+
+the cowles foundation which is part of yale 
+
+that proof that they gave is the simplest and most important 
+
+argument in all of economics 
+
+so we get as a conclusion that putting it another way 
+
+that owners of firms should maximize the value of their 
+
+firms the stock market value of their 
+
+firms and thank god they do because 
+
+if they find some new way of producing thats going to lose 
+
+money its going to make the stock market value go down 
+
+remember the stock market value is just the same calculation 
+
+the value of all the output theyre producing 
+
+if they find some way of losing money and they try to use it 
+
+itll make their stock market value go down 
+
+thats why theyre not going to do it and thank god for that 
+
+because itd be a bad thing for society if they did do it 
+
+yes 
+
+well it seems to me this proof  
+
+logically flawed because youre assuming that after the 
+
+inception of a technology the prices are left unchanged 
+
+but that might not be true 
+
+shouldnt you have some argument for the prices not 
+
+changing after the inception of the technology 
+
+
+this is a very bold  
+
+telling me that its a flawed proof 
+
+i want to commend you for your courage 
+
+as it happens however youve asked the same 
+
+question that somebody asked a class or twowhich is a very 
+
+good question 
+
+so the answer is no i shouldnt have changed the 
+
+prices and thats exactly the point of the proof 
+
+so yes its true that after the new technology is introduced 
+
+the prices changes everything changes 
+
+but we dont have to worry about all that complication 
+
+after all the changes theres going to be some final 
+
+allocation of goods that supposedly makes everybody 
+
+better off 
+
+so i can ask the hypothetical question 
+
+would this new allocation to a at the old prices be something 
+
+he could have afforded and the answer must be no 
+
+all right ive got  
+
+well let me just  
+
+you see the answer to your question but im going to say 
+
+it out because its a very important question 
+
+the proof is clever precisely because of what youre asking 
+
+you have to do something that you wouldnt have thought of 
+
+you have this new economy and new allocation 
+
+and new prices but the proof says lets do the 
+
+hypothetical thing of looking at the new allocation at the old 
+
+prices 
+
+at the old prices a couldnt have afforded this new 
+
+allocation because if he could have he would have bought it 
+
+because it makes him better off 
+
+so at the old prices a couldnt have afforded this new regime 
+
+
+allocation 
+
+similarly b at the old prices 
+
+couldnt afford this new regime allocation 
+
+so at the old prices everybody would have to be spending more 
+
+on the new regime allocation than the value of their 
+
+endowment 
+
+that means at the old prices the total in the whole 
+
+society by adding it upof the 
+
+expenditures on the new regime consumptions must be bigger than 
+
+the total value of the old endowments 
+
+now that was the contradiction why at the old endowments 
+
+without production you couldnt make everybody better off 
+
+wed already have a contradiction 
+
+now we add one more step 
+
+weve got this new technology that changed the old endowments 
+
+it changed the old endowments but however it changed it we 
+
+dont have to keep track of how it did it 
+
+it makes the value of the total endowments even less than it was 
+
+
+before so we actually get a worse contradiction than before 
+
+so it was a good question so i thank you for the 
+
+question 
+
+any other questions 
+
+yes 
+
+can you raise the board a little  
+
+yes i can raise which  
+
+not this one 
+
+yes that one  
+
+yeah  
+
+well sorry 
+
+oh  
+
+so the bottom line here is thatlet me  
+
+
+summarize 
+
+weve spent four classes on reviewing standard intermediate 
+
+micro and macro 
+
+people never talk about that stuff when they do 
+
+financialfinance courses in typical courses 
+
+however irving fisher the inventor of half of 
+
+finance thats how he began 
+
+and its going to turn out now especially in light of this 
+
+last crisis that the best way to understand 
+
+whats going on is to go back to the original underlying economy 
+
+so fisher said you can always takewe havent introduced 
+
+
+risk by the way 
+
+when that happens things are going to get more complicated 
+
+fisher couldnt deal with risk 
+
+so without risk where everybodys anticipating 
+
+the dividends in the future that means that you can always 
+
+reduce a financial economy up there to a general equilibrium 
+
+which youve been taught before you got to this course 
+
+most of you how to solve 
+
+and now that solution to that problem with marginal utility 
+
+and pareto efficiency that tells us an enormous amount about how 
+
+the stock market and everything works 
+
+it tells us that the value of every stock is just the 
+
+discounted real dividends discounted at the real rate of 
+
+interest or the discounted nominal 
+
+payoffs cash flows discounted at the nominal rate 
+
+of interest 
+
+and it tells us that the real rate of interest is the nominal 
+
+rate divided by the rate of inflation 
+
+
+and it tells us that its a good thing all these owners of 
+
+companies are maximizing profits or share value 
+
+which is the same thing and thats helping society 
+
+so thats the lesson 
+
+a lot of that stuff is going to change a little bit 
+
+but thats the basic idea 
+
+so finally lets get to the point 
+
+for  years the public was confused about interest 
+
+they saidaristotle one of the greatest geniuses of 
+
+all times he thought interest was an unnatural act 
+
+it was horrible even though of course lots of people in 
+
+greece were charging interest 
+
+delos the delphic oracle was charging interest 
+
+would lend money at interest and aristotle and everybody was 
+
+talking about the delphic oracle all the time 
+
+they werent even paying attention 
+
+the delphic oracle was charging interest and they were saying 
+
+its totally unnatural 
+
+so three religions all thought interest was a terrible thing 
+
+they all thought the just price wasthe nominal rate of 
+
+interest should be  but what fisher says is the 
+
+nominal rate of interest is irrelevant 
+
+nobody cares about the nominal rate of interest 
+
+they look at apples today and apples next year 
+
+the money and stuff just gets in the way 
+
+its the real rate of interest that you care about 
+
+and the real rate of interest doesnt have to be positive 
+
+it could be negative like it is today 
+
+the real rate of interest what are the determinants 
+
+usually of the real rate of interest if the federal reserve 
+
+
+isnt mucking around with things 
+
+the real rate of interest is obtained by solving for 
+
+p and p in this general equilibrium 
+
+model 
+
+so what would change the real rate of interest 
+
+all you have are the utilities and the endowments 
+
+so heres the economy 
+
+what would change the real rate of interest 
+
+so the first thing fisher says is impatience 
+
+so in fact one of his most famous articles is called an 
+
+impatience theory of interest so lets call it that 
+
+
+impatience theory of interest 
+
+so fisher said that in his view people are impatient 
+
+why 
+
+that means an apple today they thought was more valuable that 
+
+an apple next year 
+
+why 
+
+because of the poor imagination it was easy to 
+
+think about eating the apple today 
+
+you can just hold it in your hand and its so close 
+
+but to think about eating it in a year requires some 
+
+imagination 
+
+they had poor imagination and secondly 
+
+
+the second main reason is mortality 
+
+they might die between today and next year 
+
+so those are the two main reasons 
+
+he gives a bunch of others which im going to mention 
+
+shortly but these are the two most 
+
+interesting ones poverty of imagination and the 
+
+fact that you just might die in between 
+
+so what does it mean 
+
+an apple next year is not a sure thing 
+
+there is the impatience theory of interest 
+
+so he said thats why it makes sense to have this guy a as 
+
+impatient because he values the apple today more than a value 
+
+tomorrow 
+
+hes got this discount rate a half here 
+
+bs not impatient because the discount factor is one 
+
+so he put a discount factoractually fisher didnt 
+
+quite have a discount factor he had a more general thing 
+
+so samuelson was the one who introduced the discount factor 
+
+it doesnt matter but anyway so a discount factor 
+
+to capture fishers idea that the good next year 
+
+the same apple next year is not worth as much to a as an apple 
+
+this year 
+
+so suppose i change a half to a third 
+
+
+what will happen to the real rate of interest 
+
+so that makes people more impatient 
+
+why does it make them more impatient because now they care 
+
+even less about the good next year 
+
+so when did this happen 
+
+in the reagan years the now generation 
+
+everybody talked about the now generation 
+
+people are getting more impatient 
+
+so what happens to the real rate of interest when people get 
+
+more impatient 
+
+does it go up or down 
+
+it goes up  
+
+so why does it go  
+
+thats correct 
+
+because there needs to be more of an  
+
+to save 
+
+right but now fisher would say that  
+
+
+little bit more he would say it a little more 
+
+formally but thats exactly right 
+
+in order to get anybody to save because they want the 
+
+stuff now youre going to have to give them a higher real rate 
+
+of interest 
+
+thats exactly right 
+
+so how could you say it in this economy 
+
+next slower remember in this economy 
+
+this cobbdouglas economy you could prove it formally 
+
+you know that if p lets say   and were 
+
+solving for p and heres the supply 
+
+this is x and heres demand 
+
+so remember xa is going to be something like 
+
+p ea p ea 
+
+times  over  delta where delta 
+
+whats called delta the discount 
+
+lets call this delta so the discount 
+
+so to get these to add up to  i take  delta 
+
+
+so the weight on this thing is  over  delta times this 
+
+divided by p 
+
+so if p is  then this is just equal to  over  
+
+delta times ea  over p times 
+
+ea 
+
+so clearly the demand goes down as p goes 
+
+as pthis is p 
+
+so p   so if i divide by 
+
+p p over 
+
+p goes away 
+
+then i have p over p 
+
+and if p is  thats just  over 
+
+p 
+
+so obviously as p goes up your demand goes down 
+
+thats just what youd expect 
+
+so p goes down the demand goes up 
+
+or p goes up the demand goes down 
+
+so anyway if you add up cobbdouglas people it always is 
+
+like that 
+
+the demand for any good goes up as the price goes down 
+
+if its own price goes down 
+
+so if you change delta if you make delta smaller 
+
+thats going to raise demand for a at the old 
+
+prices 
+
+why 
+
+at old equilibrium prices the same trick as before 
+
+at old equilibrium prices whats going to happen 
+
+delta goes down like we just said implies xa 
+
+goes up 
+
+so the guys demanding more now but if hes demanding more 
+
+at the old equilibrium prices so at the old equilibrium 
+
+prices hes demanding more so the only way to clear the market 
+
+
+is to raise p 
+
+implies p must go up to clear the market 
+
+so this is a formal proof of what he just said 
+
+so the common sense maybe is enough for you 
+
+if you care less about the future to get anybody to save 
+
+youre going to have to raise the interest rate 
+
+to say it formally if we solve for equilibrium with a lower 
+
+delta at the old equilibrium prices 
+
+this guy at the old prices a would now shift and try to 
+
+demand more of good  
+
+but if he demanded more of good  that would mean too much 
+
+demand for good  and the only way to clear the 
+
+
+price of good  is to raise the price p 
+
+but if you raise p holding p fixed 
+
+thats just p over p 
+
+so the interest rate so the interest rate has to go 
+
+up 
+
+so thats your argument made formal 
+
+so thats his impatience theory 
+
+thats the main determinant of interest according to fisher 
+
+
+whats the second one 
+
+he says suppose people are more optimistic about 
+
+ei 
+
+everybody thinks the worlds going to be much better next 
+
+year 
+
+were going to have more endowments 
+
+what do you think is going to happen to the interest rate 
+
+the real interest rate somebody else 
+
+itll decrease  
+
+itll what  
+
+decrease  
+
+decrease why  
+
+because youre expecting things to be  
+
+ 
+
+signifies people will save less 
+
+to save less or to save  
+
+
+so lets think of good x 
+
+if people thought they were going to be richer at the old 
+
+prices what would they do today for x demand more or 
+
+less today 
+
+the rate would go up  
+
+yeah the right answer is  
+
+he said down but lets just figure out why 
+
+they demand more b 
+
+so the reason i gave the formal argument  
+
+because you can get confused here 
+
+so lets just do the intuitive one 
+
+so you had the idea back there of the intuitive one 
+
+you just got it backward but you were on the right 
+
+track 
+
+the point is theres going to be so much stuff around for 
+
+people to eat tomorrow youve got to get them to want 
+
+to eat all that extra stuff tomorrow 
+
+so you have to give them an incentive to want to eat all 
+
+that extra stuff tomorrow so you have to raise the 
+
+interest rate not lower it 
+
+so you had the right idea the wrong conclusion 
+
+now how can you actually give a formal proof of that so you 
+
+know youre not confused 
+
+again like his question at the old prices whats going 
+
+to happen to the demand for x 
+
+at the old prices since youre going to be so 
+
+rich in the future you think youre just 
+
+incredibly rich now so of course youre going to 
+
+consume more today 
+
+so theres going to be more demand today and the endowment 
+
+today hasnt changed 
+
+so theres going to be more demand today with the same 
+
+endowment today so therefore in order to clear 
+
+the market today youre going to have to raise p 
+
+relative to p so the interest rates got to go up 
+
+
+so is that clear 
+
+its a little surprising so let me say that again 
+
+if you increase the endowments tomorrow the supply today of 
+
+goods hasnt changed but people are richer tomorrow 
+
+so clearly theyre going to consume this fraction of their 
+
+wealth 
+
+their wealth is up 
+
+you tell anybody youre going to be rich 
+
+next year 
+
+youre going to be worth a fortune 
+
+the normal person cobbdouglas person 
+
+is going to consume more stuff today anticipating that hes 
+
+going to be so rich tomorrow 
+
+hes going to borrow against tomorrows wealth 
+
+and so therefore in order to clear todays 
+
+market where the supply hasnt changed 
+
+with all these people trying eat more today you have to raise 
+
+todays price relative to tomorrow 
+
+thats raise the real interest rate 
+
+so whats a third example 
+
+this is fishers most famous one 
+
+suppose you transfer money transfer wealth 
+
+from poor to rich 
+
+what would happen 
+
+we have to make an extra assumption here 
+
+fisher felt that the people who were rich were rich because they 
+
+were patient 
+
+they could charge interest and get lots of money 
+
+so if you change wealth you take away some money from the 
+
+
+poor 
+
+thats whats happened in the american economy over the last 
+
+ or  years 
+
+the rich have gotten richer and the poor are pretty much back 
+
+where they were before 
+
+so suppose the rich get rich at the expense of the poor 
+
+whats that going to do to the real rate of interest 
+
+illhang on a second 
+
+yep 
+
+that would make it  
+
+thats going to lower  
+
+why is that 
+
+b 
+
+so theres an intuitive way of saying it  
+
+
+is his which is that the rich because theyre patient 
+
+are probably the lenders 
+
+now theyre even more willing to lend and so the interest rate 
+
+has to go down to get these other people to borrow 
+
+a formal way of saying it is that if you transfer money from 
+
+the rich poor 
+
+to the poor rich 
+
+that means the poor guys the rich guys always consume a 
+
+higher proportion in the future because theyre more patient 
+
+so a more patient guy will consume more in the future 
+
+so if you take away wealth from an impatient guy and give it to 
+
+a patient guy youre going to increase the 
+
+the economys going to be more in the hands of the patient 
+
+people and so the patient peoplethe 
+
+
+mix is going to change 
+
+people on average are more patient than they were before so 
+
+on average in the economy theyre going to consume less 
+
+than they were of todays good and so the shift is going to be 
+
+in this direction right 
+
+because youve made people a lot of them impatient 
+
+a lot of patient youve increased the patient 
+
+ones and decreased the impatient ones 
+
+so in balance youre going to decrease demand today because it 
+
+
+was the impatient ones who wanted to eat today and the 
+
+other guys were willing to wait 
+
+now the guys who arent willing to wait these guys dont have 
+
+any money 
+
+theyre the ones doing all the consuming today and now they 
+
+cant afford to do much consuming so youre going to 
+
+reduce consumption today 
+
+so to get the market to clear again you have to lower the 
+
+interest rate this time 
+
+so those are three famous conclusions of fisher 
+
+more impatient people higher interest rate 
+
+more optimistic about the future higher interest rate 
+
+transfers from the poor to the rich lower interest rate 
+
+so what happens to the stock market in this case 
+
+suppose people are more impatient 
+
+does the stock market go up or down 
+
+
+down  
+
+down because the stock market  
+
+is just this the real interest rate times 
+
+the dividends 
+
+so i havent told you the dividends changed 
+
+so if the dividends are the same and the real interest rate 
+
+has gone up the stock market has gone down 
+
+suppose people are more optimistic about the future 
+
+so not about the stocks producing more 
+
+but about whether theres more stuff in the world 
+
+their own endowments will be bigger 
+
+
+the stock market is going to go down 
+
+that ones a little subtler because they could be optimistic 
+
+about the stocks producing more so thats ambiguous 
+
+so lets do the third 
+
+suppose you transfer wealth from the poor to the rich 
+
+whats going to happen to the stock market 
+
+its going to go up 
+
+so what happened in the last  years 
+
+the rich got richer the poor got poorer 
+
+the interest rates got lower and lower and the stock market 
+
+got higher and higher just as fisher would have said 
+
+so i want to now end with just fisher and shakespeare 
+
+so im going to go over just a couple minutes 
+
+maybe ill have to start with shakespeare 
+
+so fishers theory of interest as i said 
+
+was making sense of thousands of years of confusion 
+
+so the idea is that interest is nothing other 
+
+you shouldnt think of nominal interest 
+
+people look through all that 
+
+they look at the real rate of interest and the real rate of 
+
+interest is just the ratio of two prices just like everything 
+
+else in equilibrium so therefore there is no such 
+
+thing as its an important price like 
+
+anything else but maybe i forgot to say it 
+
+theres no such thing as a just price 
+
+
+the price in fact that equilibrium finds is the 
+
+best price because thats the price thats going to lead new 
+
+firms and inventors to use technologies that help the 
+
+economy as opposed to hurting the economy and wasting 
+
+resources 
+
+so the price that the market finds is the just price and the 
+
+real rate of interest is the right real rate of interest 
+
+provided that people are rational and see through this 
+
+veil 
+
+so why is it that the real rate of interest is typically 
+
+
+positive 
+
+well its because as i said people are impatient 
+
+and these different reasons 
+
+now fisher said one other reason that screws up the real 
+
+rate of interest is people sometimes get confused by 
+
+inflation 
+
+so this is an aside 
+
+he said that all contracts should be inflation indexed 
+
+and he forced his yale secretary and his secretaries at 
+
+his company to change their contracts 
+
+i guess his yale secretary is probably wrong 
+
+the secretaries at his business remington 
+
+he forced them to accept deals where their wage was indexed to 
+
+inflation 
+
+and of course the great depression happened and all of 
+
+the prices collapsed and so all his secretaries got 
+
+less money out of the deal so he wasnt too popular with them 
+
+either 
+
+he says impatience is a fundamental attribute of human 
+
+nature 
+
+as long as people like things today rather than tomorrow 
+
+theres going to be interest 
+
+so interest is as it were impatience 
+
+crystallized into a market rate and the reasons for impatience 
+
+are this foresight lack of foresight 
+
+possibility of dying and then he talks about self control and 
+
+stuff like that the greater the foresight 
+
+etcetera 
+
+now he has this racist view of the world which i think is 
+
+worth mentioning 
+
+so he compares the scotch and the irish so the scotch are 
+
+patient the irish are totally impatient no selfcontrol and 
+
+
+it gets worse and worse 
+
+i cant show you all of this 
+
+so holland scotland england france these are all 
+
+the places his family was probably from 
+
+theyre incredibly patient 
+
+theyre wonderful 
+
+theyve got low rates of interest incredibly thrifty 
+
+people 
+
+then you look at all these other dreadful people 
+
+chinese indians blacks java southerners 
+
+american indians and then greeks and italians he mentions 
+
+later hopeless high rates of 
+
+interest incredibly impatient 
+
+so anyway the patient accumulate wealth and by waiting 
+
+and lending they make production possible 
+
+because the people with all the good ideas where are they going 
+
+to get the money to produce 
+
+theyre going to get it out of the patient people who are 
+
+willing to wait 
+
+if you can wait should i talk for five more minutes or do you 
+
+need to go 

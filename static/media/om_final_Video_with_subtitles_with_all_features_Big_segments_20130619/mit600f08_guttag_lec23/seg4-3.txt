@@ -1,0 +1,278 @@
+
+
+theyre very volatile 
+
+even if the expected value is the same theyd 
+
+move around a lot 
+
+so how can we model this kind of thing 
+
+well weve already looked at the basic notion 
+
+last time we looked at the notion last lecture we looked 
+
+at the idea of a distribution 
+
+and when we do a simulation were pulling the samples 
+
+from some distribution 
+
+it could be normal everything that would be a gaussian where 
+
+if you recall there was a mean and a standard deviation and 
+
+
+most values were going to be close to the mean 
+
+especially if there is a small standard deviation 
+
+if theres a large standard deviation it would be spread 
+
+or it could be uniform where every value was 
+
+equally probable 
+
+we also looked at exponential 
+
+so were going to assign to each stock when we create 
+
+it a distribution 
+
+some way of visualizing or thinking about where we draw 
+
+the price changes from 
+
+this gets us into a new linguistic concept which 
+
+well see down here 
+
+you dont have this particular code on your handout you do 
+
+
+have a code that uses the same concept 
+
+so heres my unit test procedure 
+
+and heres where im going to create distributions 
+
+and im going to look at two 
+
+a random a uniform and a gaussian 
+
+what lambda that does it creates on the fly a function 
+
+as the program runs 
+
+that i can then pass around 
+
+so here im going to look at the thing random dot uniform 
+
+for example between minus volatility and plus volatility 
+
+so ignoring the lambda what do we expect random 
+
+dot uniform to do 
+
+it has equally likely in the range from minus volatility 
+
+to plus volatility it will return any value in here 
+
+but notice the previous line where i am 
+
+computing volatility 
+
+if i wanted every stock to have the same volatility i could 
+
+just do that if you will at the time i wrote my program 
+
+but here i want it to be determined chosen at run time 
+
+so first i choose a volatility randomly from some 
+
+distribution of possible volatilities from  to 
+
+in this case  
+
+think of this as the percentage move per day 
+
+so  of a percent would be the move here 
+
+and then ill create this function this distribution d 
+
+ which will whenever i call it give me a random a 
+
+uniformly selected value between minus and 
+
+plus volatility 
+
+then when i create the stock here i can pass 
+
+
+it in pass in d  
+
+ok its a new concept 
+
+i dont expect youll all immediately grab it but you 
+
+will need to understand it before the quiz comes along 
+
+and then i could also do a gaussian one here with the 
+
+mean of  and the standard deviation of volatility 
+
+divided by  
+
+where do these parameters come from 
+
+i made them up out of whole cloth 
+
+later well talk about how  could think about them 
+
+more intelligently 
+
+
+now what do i do with that 
+
+all right well see that in a minute 
+
+but people understand what the basic idea here is 
+
+now i can set the price of a stock 
+
+and when i do that ill append it to history 
+
+i can oh these have got some remnants which 
+
+we really dont need 
+
+ill get rid of this which is just an uninteresting thing 
+
+and lets look at make move 
+
+
+because this is the interesting thing 
+
+make move is what we call to change the price of a stock 
+
+at the beginning or end of a day if you will 
+
+so the first thing it does is it says if self dot price is 
+
+ im just going to return 
+
+this is not the right thing to do by the way 
+
+again there are some bugs in here 
+
+you wont find these bugs in your handout right 
+
+code is different in the handout 
+
+but i wanted to show these to you so we could think about 
+
+
+what im more interested in here than in the result 
+
+of the simulation is the process of creating it 
+
+so why did i put this here 
+
+why did i say if self dot price equals  return 
+
+because the first time i wrote the program i didnt have 
+
+anything like that here and a stock could go to  
+
+and then recover 
+
+or even go to negative values 
+
+well we know stock prices are never negative 
+
+and in fact we know if the price goes to  its 
+
+delisted from the exchange 
+
+so i said all right we better make a special case of that it 
+
+turns out that this will be a bug and i want you to think 
+
+about why its wrong for me to put this check here 
+
+the check needs to be somewhere in the program but this is 
+
+not the right place for it 
+
+so think about why i didnt leave it here 
+
+ok then well get the old price which were going to try 
+
+
+and remember and now comes the interesting part 
+
+were going to try and figure out how the 
+
+price should change 
+
+so im first going to compute something called the base move 
+
+think of this as kind of the basis from which well be 
+
+computing the actual move 
+
+ill draw something from the distribution so this is 
+
+interesting im now calling self dot distribution and 
+
+remember this will be different for each stock 
+
+it will return me some random value from either the gaussian 
+
+
+or the normal distribution 
+
+with a different volatility for the stocks because that was 
+
+also selected randomly plus some market bias 
+
+saying well the market on average will go up a little 
+
+bit or go down a little bit 
+
+and then ill set the new price if you will self dot 
+
+price to self dot price times  plus the base move 
+
+so notice what this says 
+
+if the base move is  then the price doesnt change 
+
+so that makes sense 
+
+interesting question 
+
+why do you think i said self dot price times  plus the base 
+
+move rather than just adding the base move to the stock 
+
+price of the stock 
+
+again the first time i coded this i had an addition there 
+
+
+instead of a multiplication 
+
+what would the ramifications of an addition there be 
+
+that would say how much the stock changed is independent 
+
+of its current price 
+
+and when i ran that it i got weird results because we know 
+
+that a google priced at say  is much more likely to 
+
+move by  points in a day than a stock thats priced at  
+
+so in fact it is the case if you look at data and by the 

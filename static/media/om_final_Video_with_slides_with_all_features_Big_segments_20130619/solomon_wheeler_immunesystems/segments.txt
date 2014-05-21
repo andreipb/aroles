@@ -1,0 +1,1805 @@
+i hope everyone can hear me i'm 
+
+freed up for the 
+
+camera i guess 
+
+well it's all going to introduce myself very briefly um i have a yeah 
+
+a background in education 
+
+and i did my postgraduate work at the university of admiral 
+
+and i do a i n. adaptive disease control systems 
+
+the w. h. o. in geneva 
+
+and i worked at a. i. a. i. in and number up 
+
+ah i was research manager at star lab research in brussels 
+
+and at public voice labs in vienna austria 
+
+and i was the business development executive for the school of informatics 
+
+again at the university of edinburgh 
+
+and i now have a small uh same to the consultancy called a number of scientific 
+
+um 
+
+my focus what i do is mostly applied a ike 
+
+so done a lot of research but but generally speaking i've done 
+
+applications 
+
+and that's what this presentation is mostly going to be about 
+
+so this presentation will be about forty five minutes a maybe a little less
+
+ 
+
+feel free to ask questions at any time 
+
+um i'm going to be describing some of the basic 
+
+concepts in research in artificial immune systems 
+
+and i'm sure some applied examples 
+
+a specifically artificial immune systems for applied knowledge engineering 
+
+so here we're talking about biological metaphors in a i've 
+
+as opposed to biological modelling which 
+
+is it so novel field of course 
+
+the end of this presentation is for general 
+
+scientific audience 
+
+um so you see here that we have a 
+
+i kind of graphic of where a icons and it's a very big field obviously
+
+ 
+
+and um a i combining again with biology and chemistry in cognitive science 
+
+over on the non symbolic side 
+
+ah you have things like genetic algorithms and neural networks in in the middle maybe 
+
+somewhere is artificial 
+
+immune systems 
+
+artificial immune systems are as here in emerging paradigm for computation and machine learning based on 
+
+biological immune systems 
+
+so i'm going to present very briefly a couple slides about human immunology and so what parts of the metaphor we're taking away from its 
+
+and so the human immune system is a highly 
+
+complex massively parallel and distributed system 
+
+that maintains both inmate 
+
+of the you know that the union indeed 
+
+yeah immune system that you're born with which is these non specific 
+
+and acquired defences so 
+
+these are things that are getting from your environments 
+
+and the this system is therefore
+
+ 
+
+the defence 
+
+and for self and non self discrimination so your immune system is 
+
+wandering around looking for things that are not you 
+
+but it can try to kill 
+
+um so there are cellular building blocks of the system 
+
+a olympus sites agnes sites stands within them for sites there be cells and t. cells 
+
+they're created in the favela simple marrow and the interactive antigens 
+
+antigens or anything that are perceived as being foreign to the body 
+
+um 
+
+answer recognition cause an immune response 
+
+so the indy cells have around a hundred thousand receptors so that's how much information 
+
+roughly they are prepared to store 
+
+and use in their matching process 
+
+and there's about ten to the twelfth of these 
+
+in the human body 
+
+a little more simple immunology 
+
+an immune response includes the cloning of activity be cells with some identical and some slightly different offspring
+
+ 
+
+antibodies recognize dangerous antigens in their environment through complex matching 
+
+an interaction process in their binding regions 
+
+i once a foreign antigen is recognised immunological memory is created 
+
+and this is the basis for modern 
+
+vaccination 
+
+so when you introduce a new antigen into the human body 
+
+ah there will be response in the response will be 
+
+in some ways out of proportion to the threat 
+
+and that is where vaccination comes from 
+
+the key concepts are taking away here from from
+
+ 
+
+human immunology and artificial immune systems are things like matching 
+
+cloning 
+
+morphology 
+
+negative selection and self non self 
+
+discrimination 
+
+so what are artificial immune systems 
+
+um 
+
+artificial immune systems are very young sub field in a i 
+
+they tend to be software based 
+
+biologically inspired and often applied intractable fault detection problems 
+
+so if you think about classifiers systems 
+
+ah you might have a 
+
+you might have had examples of a particular class 
+
+examples of another class you want to to distinguish between the two 
+
+an artificial immune system you very only have the first class 
+
+you learn what is normal there is no second class everything that is not in the first class 
+
+is going to be discriminated against in some way 
+
+um what are they good for 
+
+things like a lot anomaly detection in 
+
+complex environments environments that are are constantly changing you need a lot of ongoing learning
+
+ 
+
+a physical and network security applications 
+
+evolutionary in distributed information processing 
+
+scheduling and planning constraint satisfaction 
+
+modelling and design optimization 
+
+how do they work 
+
+um again taking the metaphor from the human immune system 
+
+start with an environment in you generate antibodies 
+
+and the antibodies might also be 
+
+uh from a test sets and i will show an example here a moment 
+
+and these these antibodies that came from the 
+
+from the the original sat 
+
+a training center the environment called the self 
+
+others and and and interaction between the antibodies in the environment 
+
+there's a kind of immune response if there's matching 
+
+ah and then there's a process of cloning or reproduction 
+
+and this goes back in the loop 
+
+so you start out with innate immunity these are the things that 
+
+but you nor normal 
+
+and you you move on towards acquired immunity acquired immunity is where the system has learns to be hyper vigilant 
+
+for particular types of things in the environment that is looking for 
+
+and i will give some simply examples in a moment
+
+ 
+
+how do you build them 
+
+um 
+
+okay that's not right yes 
+
+like many a. i. systems a 
+
+artificial immune systems are taking for learning in reacting to an environment 
+
+others a cycle of observation training monitoring 
+
+and response 
+
+so you choose an environmental monitoring 
+
+here for example were talking about the animals in a zoo 
+
+so why there's a famous machine learning set you try to learn what animals are which 
+
+a from a zoo database 
+
+and you interface this data to an artificial immune system 
+
+here i'm using an artificial immune system that's part of the shell 
+
+system 
+
+and uh self memory 
+
+can be created automatically to test the data 
+
+i'm sorry that this is all marble that never seen it this way
+
+ 
+
+and finally antibody profiles are automatically created 
+
+okay so what we've done here is there's a zoo database and it has animals and it has these values 
+
+so um you know does the animal have hair doesn't have feathers does it lay agnes 
+
+and all this stuff goes into a database and then antibodies are created 
+
+that may or may net may or may not match the examples in it 
+
+you need that 
+
+training set 
+
+uh so here i'm going to talk a little bit more about 
+
+artificial immune systems and semi on supervised classifiers thing need no negative examples in some ways
+
+ 
+
+i would continuous learning 
+
+and antibodies are created random or using a genetic algorithm 
+
+antibodies to closely matching the self 
+
+a four or the normal state 
+
+are killed off during training so for example if we had a zoo database 
+
+you had a zebra 
+
+a any anti body that was created originally that can closely matches a zebra in description 
+
+will be removed 
+
+so the only antibodies that are going to remain in our database are those 
+
+do not match
+-----
+ 
+
+an animal in the zoo 
+
+but 
+
+exactly 
+
+yeah and so what you're really doing and i have some good uh graphics later 
+
+is it is you are populate in the state space around good solutions 
+
+but during the monitoring face 
+
+and 
+
+that represented here as antigens 
+
+so via this self 
+
+and the environment are compared 
+
+it's our matches we know that it's probably outside of as you say the 
+
+the state space of good solutions 
+
+and according to immunological principles an immune response maker 
+
+so how do they react 
+
+so um i would that this slide is all about what an immune an enemy response will be 
+
+but generally speaking what it does is so if you take the state space metaphor when it finds 
+
+something that it knows is not the self 
+
+it will do cloning of different kinds of a around that area of the state space 
+
+as part of its learning process and i have a good example here in a moment
+
+ 
+
+so 
+
+uh so comparing the self to the environment may trigger an immune response 
+
+and ah the immune system depending on on what you're building here in san applied system 
+
+uh so it may storm warning contact an administrator or react automatically 
+
+and the immune response may also 
+
+a include a generation or network dissemination of advanced anti bodies are clones would even better detection skills are providing acquired 
+
+community 
+
+again i'm sorry about these titles i have no idea what 
+
+the problem is 
+
+so here are some of the basics
+
+ 
+
+representation 
+
+a i s. systems in software usually built like this 
+
+you decide upon a representation of the problem domain 
+
+either direct binary symbolic fuzzy 
+
+solution ranges 
+
+and then you establish communication standards for the environment monitored 
+
+all examples in this presentation are taken 
+
+from a shell system that's that i built 
+
+you're starting with the database of animals in the zoo as before 
+
+the question is having trains an artificial immune system on the animals in a zoo 
+
+how do we protect them 
+
+of when we're introducing new and unknown animals so we're using this 
+
+as metaphor of animals in a zoo 
+
+to try to look into the logic of how the system works 
+
+so we start by creating in in an initial population of anybody's 
+
+either randomly or using statistical orgy a methods 
+
+and remove antibodies that too closely match the self 
+
+which is here 
+
+animals in the zoo 
+
+antibodies form the collective memory 
+
+of natural interaction with the self 
+
+auto immunity which is a very important concept here 
+
+is the failure of an organism to recognise its own constituent parts as itself 
+
+which allows an amusing immune response against its own selves 
+
+so if we were not removing anti bodies that were matching the data that we're starting with you would get this autoimmune response 
+
+where it was seeing already animals in the zoo as being 
+
+incorrect 
+
+so these are the basics of learning in matching 
+
+so we start by monitoring the environment 
+
+which is creating data samples for learning in this case what we're doing is we're cycling animals too busy database 
+
+removing any antibodies which match the environment samples too closely 
+
+as another machine learning methods were looking for the smallest collection of classifiers or antibodies 
+
+which abstract the systems knowledge or logic 
+
+in a i ask too many antibodies equals over fitting 
+
+so if you imagine the state space if you're over fitting with antibodies you're creating a big bubble around the data 
+
+everything that's not an it is not us 
+
+it is not a very robust way of 
+
+interacting with the world if you have limited resources 
+
+so here you have an elk 
+
+they went through the database of antibodies that were generated 
+
+and it removed any that were matching it too closely 
+
+so this database environmental knowledge is the it's in me immunity 
+
+going over to monitoring c. train to the system
+
+ 
+
+um you're monitoring alive environment here we're introducing new animals 
+
+so you're you're allowing the remaining antibodies to begin monitoring their environment in generating an immune response 
+
+when they too closely match the environment so 
+
+so we know that uh zebras probably okay the fish is o. k. d. l. p.s okay but this this one here which i think is like a 
+
+percent or maybe 
+
+if you try this with the shell system it will identify this 
+
+as being not correct
+
+ 
+
+that is because it has abstracted the logic 
+
+of how animals in a zoo what they are 
+
+his abstract a lot of that logic 
+
+and it will flag that up and say this is not correct does not belong in a zoo 
+
+so what happens next having found this animal that does not belong in the zoo 
+
+um we create clones and mutations of the antibodies which caused an immune response 
+
+and distribute them throughout the system 
+
+and we also create occasional random new antibodies 
+
+and introduce them into the population 
+
+okay so 
+
+we know that this thing was not correct 
+
+so we're going to do is we might be warning the user we might be logging warnings but for the most important part 
+
+is down here we're creating a lot of things similar to this 
+
+to populate this 
+
+part of the state space
+
+ 
+
+to be hyper vigilance 
+
+georgia 
+
+reading some clones probably using some 
+
+genetic metaphors 
+
+and they go back into the into the database and they might also be distributed remotely 
+
+two other systems that were minor 
+
+three 
+
+um 
+
+was not either 
+
+yes 
+
+no i i'm sorry this is it 
+
+this is a bit confusing here but this is actually database of of antibodies in not the original tests at 
+
+the original tacit has been removed 
+
+ah the graphic that's under the databases there be simply because of the way the shell system 
+
+works it had the data appeared in the same window 
+
+yes yes so now we have populated the state space with a lot of different combinations 
+
+and the question now is this character i think is a cycle ops 
+
+will he be more likely to be detected as not belonging in the zoo 
+
+and the answer should be yes 
+
+um you have to remember to that it's not just a single 
+
+antibody that might be matching 
+
+this character 
+
+it might be of a collection of might be pulling system with hundreds that are matching 
+
+different aspects of 
+
+that character 
+
+um so the more there are the more um 
+
+that that is more antibodies the match eight a particular ah 
+
+antigen 
+
+the more confidence the system has that what it has its 
+
+what it is seen what it is doing is correct 
+
+so the question is the system now better able having seen this one 
+
+to detect this one in the answer should be yes
+
+ 
+
+so maybe it would not detect this one before i would actually 
+
+ah but now we know what well it will with a lot of strength because it's beginning to abstract 
+
+ah some of the logic for where it is going to be seeing 
+
+a deviations from 
+
+the database 
+
+because of a very very simple 
+
+explanation of the kind of things that are doing 
+
+but then 
+
+not not not absolutely 
+
+it is in this case because it is an illustration 
+
+um but but what i'm trying to show here is that 
+
+is that the system will will learn 
+
+ah you know we will do negative selection in an ongoing way 
+
+then it will increase its individual and says it goes on 
+
+so is obviously a very simple illustrated example 
+
+yes you know you also don't need to start with an initial 
+
+a exclusion set 
+
+so you can start with a kind of one class classifiers someplace 
+
+ah i think it will become a little clearer when i show some some more real world examples 
+
+ah 
+
+you know just to finish new zoo database metaphor 
+
+you know what happens when the system see something like 
+
+this this character on the left you know sows an enormous armoured mammal 
+
+the system will find that normal 
+
+what will it do with a platter plus you know an egg laying venomous duck bill beaver tail otter footed mammal
+
+ 
+
+he thinks it's normal but it's at the absolute outer reaches 
+
+of what can be considered normal for an animal in the zoo 
+
+um so i think the artificial immune systems a lot like 
+
+neural networks g. a.'s rule learning 
+
+he systems can all be kind of 
+
+a fit together to be doing the same kinds of tasks 
+
+you might look at this and say well we could do this with a with a 
+
+you know will rule based system we could do this with induction we could do with the neural network you know why use an artificial immune system 
+
+and and i think every one of these approaches has some things that it's it's good at 
+
+so and i'll show you something in a moment that it probably is is more good at 
+
+then differentiating animals in a database 
+
+so we all talk a little bit about some practical and applied examples
+
+ 
+
+so this is behavioral based network security 
+
+and um what we're doing here is you're starting with something like a 
+
+a job or or o. s. embedded profile or 
+
+that's creating database entries linking processes threads 
+
+and resources to behaviours 
+
+a an artificial immune system learns what normal behaviours are 
+
+and blocks unusual behaviour after after asking the user or administrator 
+
+to verify 
+
+a very simple example of this is 
+
+i bet you sand 
+
+between fifteen and hundred emails in a day
+
+ 
+
+but i bet you've never sent a thousand 
+
+but most viruses well 
+
+i bet there are domains in the world 
+
+and ports 
+
+on your computer that you've never been to and have never communicated through 
+
+but a virus well 
+
+you know about net well 
+
+and so there are actually behavioral profiles for how you're using your machine 
+
+that can be used instead of 
+
+what's called signature based 
+
+a virus detection 
+
+and here we we basically have a system 
+
+that is going to to to look for unusual behaviours and then it's going 
+
+feed that back into the rest of the network
+-----
+ 
+
+which is going to be in theory giving it 
+
+a more uh protective coverage and more diversity 
+
+ah and vigilance against it 
+
+poly morph as um 
+
+so a lot of viruses they change every time they copy 
+
+a system like this will always be looking for those small changes 
+
+because that's the part of the state space it's going to be searching and 
+
+for example 
+
+so here you can see the immune response will include sending on details of unusual behaviour profiles
+
+ 
+
+to make sure that the rest of the system of the rest of the computers in a local network are much more vigilant 
+
+ah and then 
+
+on to 
+
+you know a remote services 
+
+i won't go on too much about this example of because it's it's not really my work i've done a little bit of it but 
+
+something to talk a little bit about um 
+
+artificial immune systems for 
+
+a physical security which is really a good fit for
+
+ 
+
+for artificial immune systems 
+
+so um here we're talking about a video motion detection 
+
+we start with video motion detection that's looking for interesting 
+
+areas areas of interest 
+
+in the upper right hand corner it's marked areas of interest this is not using an artificial immune system that 
+
+this is just preprocessing in the system 
+
+in the lower right you see some edge detection algorithms that are ongoing 
+
+so what we built is we built a system that was multi site 
+
+a real time streaming video and sound integrated over standard networks across platforms and the video was transformed 
+
+into a variable cellular automata bread 
+
+that encodes the behavioral in regional information so you've got a series of cameras 
+
+in most of these examples i will only talk about one camera 
+
+the camera that's looking into learning behaviour of the things that it seeing
+
+ 
+
+it's compiling a lot of that behavioral information 
+
+into a a mathematical 
+
+interface 
+
+and 
+
+and that it is feeding forward these behavioural primitives 
+
+into an artificial immune system 
+
+so i should say 
+
+the way the system works is you set up a camera and you leave that 
+
+you don't train it 
+
+or there is a training face 
+
+generally speaking you're not training it to um 
+
+to recognise specific things 
+
+so here again behaviours are compiled into c. a. structures 
+
+and these form the input to the a. i. s. shell here you see that that's that the system has found something interesting that it is watching
+
+ 
+
+and there's also a types of advanced environmental learning that its abstraction 
+
+a behavioural primitives and this includes things like time series 
+
+sensitivity in sound analysis 
+
+but let me explain what you see in this slide 
+
+um you know there are different kind of lenses that can be put on 
+
+to the interface and one of them is a 
+
+show me your tolerance 
+
+and your ideas about motion 
+
+and what we're seeing in this slide is that there's a lot of motion out here on the street
+
+ 
+
+there's a little motion here in the foreground 
+
+there's a lot of motion up in the trees 
+
+so those are very very simple 
+
+way of looking at how it might be 
+
+conceptualizing what it seeing 
+
+and then compiling it into behaviours 
+
+yeah it's not even comparing images it's kids doing a kind of 
+
+a grade based it's looking for things passing between grid points 
+
+a hearing i'm talking little bit about software engineering 
+
+but here you know there's a variable overlay grid all sorts of user controls 
+
+ah 
+
+we we we added to that things like um 
+
+good based motion vector analysis and waiting 
+
+a mass locking magnification is an alarm browser 
+
+what you're seeing here interestingly it's a a fellow who is bicycling around and you know the front of of our laboratory 
+
+and the systems learning what direction he's going and 
+
+and it's kind of marked it up a little arrows with little white heads so what you're seeing is that 
+
+is that this guy is i'm going around in a circle and it's learning that this is one of the behavioural primitives 
+
+again what we're seeing 
+
+a on this 
+
+on this slide is really kind of a shorthand for what's really going on behind the scenes
+
+ 
+
+i'm going to show you some alarms that we had 
+
+because they will illustrate the kind of learning it was able to do 
+
+in this first picture this is a perfectly normal thing it's observing a person in it doesn't find anything unusual 
+
+in the second slide you've got a person who has stepped out from behind a tree 
+
+ah for whatever reason 
+
+but it had never seen that and it's significantly strange 
+
+because no one ever walks on that grass so for someone to appear
+
+ 
+
+from behind a tree 
+
+they thought that was unusual 
+
+in this picture 
+
+um we couldn't figure out exactly what the alarm was 
+
+but we realise later that the building behind these trees had caught on fire 
+
+and was producing smoke 
+
+the smoke was coming up and 
+
+and since it had never seen anything move through the sky in the foreground in this manner 
+
+it took a picture and issued a warning you can actually see the slope 
+
+marked in red up here and here 
+
+a more alarms 
+
+so here on the right we are 
+
+we tried to figure out what was going on here in this was actually the postman 
+
+and the postman was drunk 
+
+and his bicycle was weaving 
+
+like this and it it found that to be very unusual 
+
+here we thought that this car was going the wrong way on this one way system 
+
+but it actually was that a person
+
+ 
+
+had walked in 
+
+and he was blocking the sensor and holding the gate open 
+
+and it had never seen anyone do that before 
+
+so a little more about software 
+
+engineering 
+
+ah we did a complete installation with a number of different cameras doing three d. synthesis which is 
+
+actually very difficult um 
+
+in this example 
+
+and this system was so 
+
+was taken forward to patent 
+
+and has been propertized 
+
+i think that's all fruit for this particular example are there any questions about this one 
+
+i'll give a few more examples just to finish this off 
+
+so um this same system we could unplug been reset and we take it to warehouse 
+
+we we we we put the camera on the warehouse so that it can see people going in and coming out 
+
+how do we know who works there and who doesn't
+
+ 
+
+and having tried this 
+
+the a. i. s. learns that workers take the shortest path 
+
+to their targets 
+
+but intruders don't 
+
+people were in their stealing things don't take the shortest path 
+
+they go along the edges 
+
+and when they reach a junction they don't just keep going 
+
+because these are behaviours that the system learns 
+
+and it knows that these people are not correct 
+
+in a museum you can take the same system pointed at a room in a museum 
+
+the artificial immune system will learn where people stand in how quickly they move in what areas are forbidden 
+
+so for example of the system will learn that are not supposed to 
+
+touch a painting or not supposed to climb on furniture can suppose to go out the window 
+
+in an office setting we also tested 
+
+artificial immune systems a were able to learn that people come and go and sit and talk in eat and drink
+-----
+ 
+
+but they do not come in through the window 
+
+they don't come to the ceiling 
+
+don't stand on tables fire guns or smoke 
+
+so it's really it's it's becoming very vigilant towards unusual behaviors 
+
+as you say there's a part of the state space 
+
+that is encapsulated as being normal 
+
+everything outside of that is less normal 
+
+and in an airport setting and a i ask and learn the speed and angle of approach is for different size aircraft
+
+ 
+
+and watch for strange behaviours on the apron the runways 
+
+a most aircraft disasters happen 
+
+on the ground 
+
+and not in the air 
+
+um which is why you put the seatbelt on when you're on 
+
+the grounds and now when you're in the air 
+
+and 
+
+and there's all sorts of things that 
+
+bad things that happen on the grounds 
+
+there's birds runaway switch 
+
+and i found out was very common 
+
+so you know your lover 
+
+he's flying away 
+
+forever and you run out to catch her plane
+
+ 
+
+you are sucked into the engine 
+
+so you might think this is not a common problem 
+
+but it is a common problem 
+
+a idea down 
+
+i did engine 
+
+fault detection for 
+
+a guy g. aircraft engine services in wales 
+
+and they said that this was one of the main problems and that it shuts down a plane for a month 
+
+and if you are sucked through a jet engine the only thing that will remain on the other side 
+
+are your teeth 
+
+um so there's birds there's planes off the apron guide people running 
+
+luggage that is falling and breaking there's fires 
+
+anyone has ever been at an airport knows how bad this can be 
+
+and there's a great video on youtube 
+
+of an eighty three eighty 
+
+but really big when the new airbus a three eighty 
+
+and it's going along the apron and the edge of its wing grabs a smaller plane have you seen this 
+
+if you look on youtube you will see it 
+
+it's going along the apron it's it's just this much too close 
+
+to a smaller plane and it's weighing grabs was playing and spins it 
+
+causing a lot of damage obviously
+
+ 
+
+and that would not have happened if 
+
+a system like this had been watching because it would know that with it 
+
+forgetting everything else 
+
+we never did this before this is and it's just too close 
+
+and finally course there's a lot of military applications 
+
+so 
+
+it it depends if you can learn as quickly 
+
+as you can represent a basic data set so i would say if we put a system like this 
+
+up here just one lecturer 
+
+would be more than enough 
+
+as long as all of know all of the normal behaviours here we represent
+
+ 
+
+people are going to go up and down stairs 
+
+two and come in and talk and move around 
+
+ah but for example none of us will levitate through the ceiling 
+
+very unlikely 
+
+um none of us are going to stand up and shout 
+
+ah well normally that's true 
+
+so ah the learning time can be very short and the selection time 
+
+it can be very short for the antibodies it depends on 
+
+ah how complex the representation yes 
+
+as well so very complex problem will require a lot a lot more learning 
+
+any other questions about a b. m. d. 
+
+but there's there are ways that you could use it in place of almost any other a. i. system
+
+ 
+
+there's a lot of equivalency there 
+
+i'll give you an example that will appear here a little later 
+
+is um 
+
+when we talk about matching 
+
+and binding in immunology 
+
+it's not just two strings are similar 
+
+so there's a morphology and morphology is a two dimensional two or three dimensional shape 
+
+that can or cannot match like three dimensional puzzle pieces 
+
+and uh for example let's say we want to build constraints into the system or use it as a constraint satisfaction solver 
+
+or we would do is we would create a representation 
+
+it has a shape 
+
+i only allows 
+
+valid solution chunks were or chunks of the solution that 
+
+satisfy certain constraints 
+
+imagine we're trying to do scheduling for classrooms 
+
+you could create a um an antibody
+
+ 
+
+morphology 
+
+they had some that had available classrooms 
+
+as edges 
+
+details mother available classrooms 
+
+and the main goal 
+
+of the of the topology 
+
+of the anti body 
+
+would be some aspect of the time 
+
+for example and then using that you would basically be encoding into it some idea 
+
+of what are valid chunks or parts of the solution in a timetable and problem 
+
+um and there are systems that have been tested that user g. a. for evolving 
+
+morphologies 
+
+as constraint satisfaction solvers 
+
+so here i'm going to talk for maybe five minutes about building a better shell system 
+
+in this slide before a. t. m. d. use a very simple system that i wrote it you can download on the web 
+
+and i'm going to show up a better shell system so this is a little bit also about software engineering 
+
+so um 
+
+and some colleagues myself we built a yeah 
+
+the next generation shell 
+
+and we tried to take in a lot of the 
+
+the deficiencies of the previous gel system 
+
+you know and kind of work through them 
+
+so that a lot of things in immunology that are not in an a. i. s. system 
+
+because a human immunology for example is extremely complex 
+
+and so we worked on things like multiple antibody models
+
+ 
+
+and representations so 
+
+there's actually not just be cells and t. cells there's an enormous amount of information moving around in a suit 
+
+and there's all electrical effects biochemical effects all these different things have to do with the way the matching works 
+
+and actually a lot of these aspects of immunology are not really very well known 
+
+in in human immunology 
+
+we we put together multiple matching algorithms soul kind of algorithms are going the matching 
+
+um using fuzzy operators networking database 
+
+today's visualization of variable cloning methods 
+
+i think the only one here if you know machine learning that are really interested in is probably this one 
+
+that simply because the relationship between the morphology in the representation 
+
+is is really kind of hard to 
+
+visualize in some ways 
+
+how does the morphology effect 
+
+the matching 
+
+and so here are just some images this is more about the software engineering 
+
+and here you see an immune response with variable cloning and diagnostics 
+
+here it's um it's doing data analysis on me i address
+
+ 
+
+a machine learning said 
+
+um this is you know network topology is for 
+
+for how you share or antibodies 
+
+this is a visual immune space browser editing tool this has an integrated fuzzy engine so you can kind of 
+
+you can choose which one off ossify and then you can you know 
+
+move switches around 
+
+and the visual data browser 
+
+and the editing tool had c. four point five style inducted visualizations it was going through 
+
+a complex data set 
+
+it was choosing the things that it thought were crucial for making a good 
+
+classification distinction 
+
+and you're you're kind of singing a little bit of this 
+
+here this is actually the three different types of cyrus 
+
+and here's a more advanced example you can see it beginning to generate antibodies in state space 
+
+and the green is its sense of self 
+
+so it's not beyond the iris examples that's its sense of self
+
+ 
+
+some kind of a complicated graphic 
+
+this is a beautiful image because of this is is the antibodies that are maximal 
+
+for for distinguishing the i. r. s. 
+
+set it forms an onion 
+
+inside the state space 
+
+very interesting 
+
+and a five finally 
+
+and last slide 
+
+our conclusions and open questions 
+
+a i s. systems at a very young 
+
+and wide open field 
+
+the rule of biological diversity and plausibility n. a. i. s. systems 
+
+things like messenger cells memory cells really people are just beginning to deal with that 
+
+of the rule of morphology representation is very interesting 
+
+and i have a paper here that so you can pick up if you're interested in a more technical details 
+
+the paper this one is very interesting and it's about 
+
+morphology representation 
+
+a matching algorithms and methodologies 
+
+a what applications will a i s. systems really excel at 
+
+i think people are applying artificial immune systems everything that you can apply a neural network to
+-----
+ 
+
+but you're looking for problems where you don't really know what a problem it's 
+
+only know what's normal 
+
+and of course it's 
+
+exciting to contribute to the birth of a new field 
+
+this field is really only been around since about nineteen eighty six 
+
+it's only really become a common thing in machine learning since about nineteen ninety 
+
+eight perhaps 
+
+finally thanks to not i n. g. s. i. 
+
+and you can contact me at at r. w. 
+
+that canberra scientific that come 
+
+you can download a 
+
+first of the two shell systems at this address 
+
+i can send you a copy of the n. g. shell if you're good with job or 
+
+if you email me and finally there's a paper here that you can download from the web 
+
+a or i have a thing twenty copies here
+
+ 
+
+if you'd like 
+
+and 
+
+questions 
+
+the one who 
+
+it's been done 
+
+um 
+
+part of what is so good about the advanced video motion detection think 
+
+that is that is that we imagine that or someone trying to sell it 
+
+i'm not saying the point is to sell the let's say you were 
+
+it's basically they ask you how do you set it up potty training what do you do in the answer is 
+
+you point the camera at what it is you want to protect
+
+ 
+
+when you push a button and then that's the end of that 
+
+you know so basically it's going through the learning cycle by itself and after a few days 
+
+in a room like this well there was no fire there was no fast we push the button 
+
+and that's basically it 
+
+after that there may be iterative refinement since learning about new things 
+
+for example we would all get up in wrong 
+
+out of the room 
+
+it would sound an alarm 
+
+and you can imagine a lot of 
+
+uh very useful applications for that
+
+ 
+
+particularly where you need to have 
+
+our as you say streaming real time recognition places like in an airport 
+
+we may only have ten seconds to tell a plane 
+
+stop or pull up or go around something like this 
+
+and of course a lot of it is military 
+
+use i don't do that that side of its or 
+
+but yes stream processing is one of the primary source 
+
+um 
+
+well the the fellow who designed this 
+
+and and myself we come from or machine learning background so we use all the standard statistical methods 
+
+and 
+
+you know a lot of it is comparing it to 
+
+two up other methods 
+
+so particularly neural network methods 
+
+but it's all the regular ways in in this paper were talking about how different morphologies 
+
+a fact a system's ability to respond 
+
+how how how well they are responding in here it's just that it is the classic thing with a 
+
+you know a tenfold 
+
+a cross validation and so forth 
+
+generally speaking all of these systems so as not to video motion detection of the shells were validated against the machine learning 
+
+a test sets in the 
+
+i think the 
+
+m. i. t. repository 
+
+no 
+
+no it did there's um with this kind of system artificial immune systems are are used for a lot of things out you look into the literature
+
+ 
+
+there's nothing you can use the g. a. or a neural network for people have not tried this approach 
+
+but in terms of active learning 
+
+um but again the a. b. m. d. is it is a great example because it's it's watching 
+
+any it's it's building its own sense of what our behavioural primitives 
+
+without any intervention 
+
+and it is actually kind of a lot of learning face in the sense that everything that learning goes into the positive sept 
+
+and when that freezes over anything that deviate significantly from that 
+
+minsky's considered anomaly and there's a big question about over fitting you can imagine
+
+ 
+
+a really good way to do this if you had an a. i. s. system is just 
+
+he's just shrink wrap it in plastic in anything outside that would be an anomaly 
+
+but if you look back at the 
+
+at the at the at the iris sat 
+
+you can see that you have three classes of things that are completely intertwined 
+
+designing be anyway to me you know to wrap these together 
+
+ah yes 
+
+see 
+
+so it's it's again it's a difficult problem if but if you have 
+
+for example a two class problem and they are 
+
+absolutely divisible then then the system does what you think it will do 
+
+the kind of wraps them separately 
+
+a a and city in the case of the iris as 
+
+it is abstracting some sort of basic idea about where indy body should go to be very good detectors
+
+ 
+
+ah i think these are not some of these like the iris they're good examples because they're illustrated but they don't show 
+
+how many classes of problems you might be able to apply here 
+
+a camera was watching this room and there's really a lot of things we could do that would be unusual a lot of strange behaviours 
+
+and that's the kind of thing that a b. m. z. and 
+
+artificial immune systems excel at is looking for things are really weird 
+
+it's very good for anomaly detection 
+
+if i if i were building these kinds of systems today i probably would be taking some of the ideas about this 
+
+and i'd be applying them in other machine learning settings 
+
+the building the system for 
+
+fun and then applying it to 
+
+difficult problems are probably would look at the difficult problem 
+
+build a solution and then i would take some of these ideas 
+
+about how artificial immune systems work and apply them 
+
+i was actually some very interesting mathematics involved in morphology
+
+ 
+
+and representation 
+
+so you know how big 
+
+ah how big is an antibody 
+
+i will can adapt does it have mathematically 
+
+what does it mean when an antibody folds 
+
+so imagine an antibody that is able to grab a hold of something 
+
+and wrapped its data sensing arms around an antigen 
+
+how does it do that folding and this is actually kind of how 
+
+immunology works in biology so it's not just 
+
+strings bumping against each other in a matter they do
+
+ 
+
+there's an actual physical morphology 
+
+and that can change 
+
+and um 
+
+this this idea of the computational 
+
+abilities of systems that change their physical 
+
+instantiation 
+
+you know there's there's now a sub field in computer science called morphological computation 
+
+a that that has to do with 
+
+hmmm 
+
+you used to 
+
+missions where are you 
+
+yeah you 
+
+a lot of these are practical problems i i know a little bit about this 
+
+and imagine that you are the security guard in a big building or campus 
+
+instead of watching monitors that are constantly showing a live update of people smoking cigarettes downstairs
+
+ 
+
+it only shows you things suspicious 
+
+and our two big buttons 
+
+and you push the red one and it will dispatch people to go look into it in the green one means no this was okay 
+
+um remove the anti bodies 
+
+but found this unusual so you can also go with the other way with the learning 
+
+so that's that's one real use in a traffic setting 
+
+ah for example that would they tested the system in belgium 
+
+and if you've ever been to belgium if you've ever driven in brussels you know that 
+
+that these people are only technically driving a car 
+
+i mean you're not actually in the sense that i'm driving i won't hit things there's none of that 
+
+um belgians the only place where i'd in where 
+
+you're going down the road and you say oh look car on fire 
+
+another car on fire you know this cars off the road 
+
+then in belgium what they decided was yes we want to know about everyone who's speaking 
+
+what we really want to look for our cars that have gone off the road catastrophically
+-----
+ 
+
+things on fire 
+
+and no activity 
+
+so here you have kind of a four class problem 
+
+things on fire 
+
+ah no activity which actually means all the cars are stopped for some reason and things that have gone off the road 
+
+and considering how many cameras there are now you can imagine this is actually a really pretty good 
+
+application 
+
+um i think in the united states you you would be more likely to use this kind of system 
+
+for routine traffic 
+
+i mean it's 
+
+it is 
+
+one way 
+
+the guy body explicitly 
+
+also on another question 
+
+related to that so they 
+
+so these 
+
+good bet that they 
+
+and so on but a 
+
+and then 
+
+a nominee 
+
+these things 
+
+but 
+
+yeah but the shell system we designed this one 
+
+uses try grams to take apart taxed so you can actually feeding in 
+
+any arbitrary two strings and it will give you an idea of how similar they are 
+
+um it also had a database of calm in a categorical declarative so 
+
+so you could say a his blood pressure was something something 
+
+which i considered high 
+
+and it would pick up blood pressure high would throw away all the other garbage 
+
+then would begin to ship that back into the fuzzy classify or 
+
+i was able to do a lot of the kind of back and text mining 
+
+but as you say in the speeding example like in belgium no one i've ever seen anyone go speed limit how would you train it
+
+ 
+
+and the answer is you probably would 
+
+you would create a phony 
+
+tests at train it remove it and then the antibodies we just sit and watch for this behavior 
+
+or if you had access to the the cellular automaton the mathematics 
+
+you forget about the artificial immune system 
+
+and you would just use statistical methods 
+
+in the cellular automata layer 
+
+because that's really the thing that's doing the um 
+
+in some ways the logic of what 
+
+constitutes a behavioral primitive 
+
+and then sending it forward
+
+ 
+
+an interesting thing in morphological computing 
+
+which were kind of talking about here 
+
+i met some people in sweden and they had been looking at jellyfish 
+
+and they have a jellyfish that has thirty two different kinds of eyes 
+
+and what it does is it has won the big guy 
+
+that is very good at focusing american really see 
+
+what it does is it performs its lands to change the amount of information coming into its system 
+
+because it's it's physiology is such that it can't really see anyway 
+
+presents i that's actually really very good at what it's doing is it's compressing 
+
+using its um 
+
+morphological features 
+
+so for example if i am a jellyfish and i wanna look only at you 
+
+i don't use neurological methods 
+
+to mask out everything else using social associative memory 
+
+i i change my the morphology the lands 
+
+so literally physically the only thing i see is you 
+
+which is a very interesting way up 
+
+changing the amount of information is going in and out of the system
+
+ 
+
+using morphology 
+
+and actually the immune system metaphors doing the same thing 
+
+it's doing a lot with a little 
+
+how you distribute features 
+
+i'm on a hundred thousand anti bodies of an arbitrary complexities really difficult 
+
+conceptual problem 
+
+in some ways 
+
+um here what we're using we we have been using a very common 
+
+i think when we built this we're using g. d. p. c. connectivity for the software side 
+
+and we were either building a custom representation for the problem 
+
+for it was just building one 
+
+you know from scratch 
+
+so this system here was just using i think hash tables to bring in the data 
+
+and it was 
+
+you know just processing it 
+
+so there was not a formal representation as as my recognise it 
+
+now for some of these system so much preprocessing is taking place 
+
+but you have to think about the representation it at all sorts of different stages particularly with a video camera 
+
+because there's just so much information coming in that is misleading and as extraneous and his noisy 
+
+these systems tend to be very good ah 
+
+add noise 
+
+i asked the fellows who were who were doing a jet engine diagnostics what's the strangest thing

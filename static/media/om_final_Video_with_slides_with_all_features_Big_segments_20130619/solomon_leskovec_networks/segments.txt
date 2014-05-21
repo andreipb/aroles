@@ -1,0 +1,2055 @@
+so thanks for the invitation and for everything so um 
+
+the plan for today stock east 
+
+is that we do think about um 
+
+basically how to think about structure of network so this is this is the of the bottom line and then i plan to sort of walk you through a few 
+
+a few different things so 
+
+i will start at the beginning right so the first thing is 
+
+well i get networks right then 
+
+basically there is lots and lots of network of data that can very naturally be presented as networks right so 
+
+social networks are just one example in there are many many other examples where 
+
+where you can take some daytime sort of the most natural way to look at that kind of data east represented does a graph as a set of 
+
+but she says onset and a set of edges 
+
+parks or connections between these nodes right so 
+
+you can look at social networks 
+
+a rich use facebook's and things like that 
+
+you can take a collaboration networks know when you're an older human send you connect to 
+
+to know that if they vote the paper together or if they collaborated together 
+
+you can take networks from cell biology so basically you can take 
+
+proteins or genes 
+
+as nodes and you can add them if they interactive they work together 
+
+to produce um you protein or something right and now you can study how the cell works
+
+ 
+
+through the of the by analysing those kinds of networks um 
+
+redmond citation networks is another 
+
+are another are another example of a very 
+
+simple case of networks right and then 
+
+a computer networks basically the internet how computers talk to one another 
+
+and communication networks those are all again 
+
+kinds of data data that connect naturally be presented does get us 
+
+right so this is basically 
+
+the data will be working with 
+
+and then the next question nice 
+
+if you're a scientist rightist holidays
+
+ 
+
+grass organised right so what kind of structure spectrums do i seen these guys right 
+
+and ah 
+
+usually when we plot networks 
+
+at this in our mind we have to just like be simply just like that right so 
+
+really what i would like to dive into two days 
+
+how should they think about structure of this large networks and what kind of sort of mental images should i care for myself somewhat in the back of my brain 
+
+right on 
+
+so this is basically what i what i want to talk about and 
+
+the level of organization of these networks that i want to talk about 
+
+it's called the level of communities right so really 
+
+the way we we think of networks is that we say that
+
+ 
+
+um nodes in these networks maybe humans people are organising to this kind of tightly connected clusters right so for example 
+
+this is a set of 
+
+this is a network where every node is a scientist and connection started 
+
+people who worked or published together 
+
+and like you see in this network the better sort of these clumps of nodes 
+
+that stand to work 
+
+the ten to work together and maybe these clumps correspond 
+
+although researchers seen a particular sub area 
+
+or maybe these are all the researcher 
+
+researchers coming from the same university and so on
+
+ 
+
+and also in like social networks 
+
+you expect to see this kind of community sort climb sort of groups of nodes right 
+
+and um there are many other cases where a disk 
+
+communities naturally arise right 
+
+on the web if you think of the web was a graph so web pages and hyperlinks 
+
+community school corresponds to populate that sets of pages 
+
+or for example if you take citation networks 
+
+then sort of 
+
+if you'd you would do community detection is citation networks the communities would probably corresponds to save defeat sub discipline sort particular area us 
+
+or particular peaks where people like to cite each other 
+
+ah in for example on the web this is a very sort of a very 
+
+in some sense famous picture so 
+
+every note here is a blog 
+
+and um 
+
+the connections between the blog represents each blog tend to stance to cite each other blog
+
+ 
+
+and on it and then blot afford a republican and democrats and sort of what you find here is that you can be sort of very nicely 
+
+you know the the the democrat the democratic part of the blogosphere and anybody can part of the blogosphere net already few 
+
+connections across right so 
+
+now we have one community and the other community so basically the idea is that the network structure
+
+ 
+
+or that any t. v. or something 
+
+about what is the underlying singing the network on what i have here is another collaboration at what this is 
+
+all the people from a santa fe institute 
+
+and again you sort of see these tightly connected class status 
+
+and each cluster corresponds to a cent 
+
+if you then go and see 
+
+and examine what are the people corresponding to that cluster 
+
+you see that they sort of work and different topical areas 
+
+um maybe from computer science point of motivation
+
+ 
+
+here's another another view of why 
+
+why you may want to be interested in communities 
+
+so what i'm showing you here is a 
+
+what is called an adjacent semantics right so i have notes here and nodes that and i have a daughter whatever there is an edge between these snow than that node 
+
+right and and what i've done noting my network now i can advertisers 
+
+and these are the communities they be done right so basically in web search 
+
+you have the ads 
+
+and uh particular advertiser can be done uh particular community so the idea is that 
+
+whenever somebody searchers 
+
+for the line here 
+
+all these guys will compete to have the ads displayed neck next to that 
+
+right and now the idea is if you now go in search for 
+
+plasticine this kind of network 
+
+then you would find structures like this and
+
+ 
+
+maybe what you would find is that all these advertisers 
+
+tends to be on a common set of creation if you would look at 
+
+examine like this bizarre 
+
+it's done now the police committee set about gambling 
+
+and you know this 
+
+some part of them out of bouts of sports betting and so on 
+
+right so again 
+
+what i want to say is 
+
+we communities a toffee 
+
+right so so now if i want to think about this class the sea networks 
+
+the question is how how do i go and how do i find them right so the way
+
+ 
+
+the way we mentally picture this kind of the structure of net was a calf blasters 
+
+here i'm showing you three examples from the literature right so there's that 
+
+sort of the the version one point zero right so using that you can't 
+
+you have the city clusters your cab 
+
+you have no aging these clusters there are lots of connections between the members of the cluster 
+
+and a few connections pointing outside the cluster right 
+
+and now if you sort of get a bit fancier 
+
+you you arrive to this picture 
+
+well now again i sort of have three clusters 
+
+but each of these 
+
+phoebe cluster sort of care 
+
+um some sub clusters right so sort of like having a hierarchy of clusters 
+
+and if i even get fancier 
+
+then i arrive to the pictures like this when i say that now 
+
+gloucester skin even overlap 
+
+so maybe he said nodes 
+
+i had a maybe in a social network these are people that belong to move people community sort of people clusters 
+
+right so this is 
+
+one one 
+
+image that we have in our mind when thinking about networks 
+
+and the other teenager i want to contras be seen this talk
+-----
+ 
+
+is the following each actually that is out when you look at large networks 
+
+they look like they sort of they look like an 
+
+onion or are they can be so 
+
+called they call it a court pretty thirty structural because he thought 
+
+jellyfish structure or out octopus structure right so these are all 
+
+a technical terms dirty foot pool structures like this right sort of that that sort of that you're 
+
+network is composed of this 
+
+concentric circles not get bands and answered 
+
+and they really don't know plasticine here right it sort of justice 
+
+man is that there's there's that and then to think of like 
+
+you've got an onion across 
+
+right so in it
+
+ 
+
+what my talk of 
+
+today will be about will be 
+
+how do you reconcile 
+
+this picture and that picture 
+
+right so 
+
+if my networks look like these then they cannot look like that and if they look like these then they 
+
+cannot look like that so 
+
+how can how should i think about clusters so that 
+
+these two pictures come together so this is really
+
+ 
+
+um what i want to talk about today is 
+
+how do you sort of put these two seemingly 
+
+different loose about the structure of the networks of together 
+
+okay and um what they want to do for the rest of the talk is 
+
+i want to first focus on this side of the picture and she and sort of show you 
+
+how you arrived 
+
+to the conclusion that large networks have this kind of structure 
+
+and then i want to make a step back and actually start talking about communities 
+
+and bring the two 
+
+features 
+
+so that's 
+
+that's basically um 
+
+what that one 
+
+to talk about 
+
+ah so the first thing 
+
+but i want to talk about this 
+
+how do i have to use 
+
+this notion that networks have this kind of
+
+ 
+
+oh cool pretty thirty structure read sort of have these densely connected court 
+
+and in this sparsely connected briefly 
+
+and the way we think about this is basically would say okay 
+
+how could i quantify how well does the network organise into clusters 
+
+and then sort of a next step will be to say okay what kind of computational experiment 
+
+could i design 
+
+that would be really something useful about organisational snap kicks 
+
+right and the idea will be 
+
+so i came to kiribati basically was approximation of items 
+
+to do 
+
+instead of antique a graph petitioning problems 
+
+sort of a some kind of experimental probes in the um structure of our networks so 
+
+i made this more precise 
+
+so any the way we think about this is the following day we say if he sees 
+
+if you think of networks like these
+
+ 
+
+then women say let's go and try to identify cluster c. networks and maybe not just trying to identify them but let's try to measure 
+
+how well are discussed as expressed in networks right 
+
+and then we will design 
+
+i measured that tell me how well are the clusters expressed and maybe learn something from that measure right 
+
+and i'm not if i want to go on a search for this class this 
+
+a working definition of discussed this is basically that 
+
+i want to find sets of laws that have lots of connections 
+
+between the members of the set and a few connections pointing goats outside the set right sort of this kind of intuition 
+
+and then the set of laws that have this kind of property 
+
+i call them 
+
+community so i called them cluster sort of groups or
+
+ 
+
+modules solar i give them something 
+
+right so in it 
+
+on that is that has been the whole sinking taking the sting out 
+
+holly at least this intuition 
+
+and how do you sort of 
+
+of those four meters into some kind of 
+
+i'll gaudy them or something that again to go and find 
+
+this sets of nodes that have this kind of problem 
+
+right on 
+
+and i will touch on a few of these 
+
+so on any my question to be 
+
+you know is this the right way to think about 
+
+of the structure of catholics
+
+ 
+
+okay so hideous candies the can sort of the 
+
+if you have ever seen a single social network then you must have seen this one right 
+
+so this is the the um the it's called zachary scott the club network so the idea was that 
+
+there was a was a critique was appears used to them 
+
+he was studying social dicey narcotic lab 
+
+and during the history of this crowded lobby the university there was a 
+
+there was a conflict and this the clock split into two clubs 
+
+and then one club formed around the 
+
+the um the the the the the instructor of the previous club 
+
+and another pub formed around one of one of its members write an auto show you here is 
+
+a or the square is formed the second club and all the circle in circles formed another club rights or the beginning this was
+
+ 
+
+one got the club and then the people speak 
+
+and circus went to form one 
+
+and the squares went to form another one and now if you say given just the network structure could i sort of reconstruct 
+
+in some sense predict 
+
+whether people will go with the circus or whether they're in this uh decided to go to the square club 
+
+the the way 
+
+the way to find these division 
+
+ease by basically trying to split the network 
+
+into two equally sized hops
+
+ 
+
+sargent then is the smallest number of edges crossing these bond right 
+
+so this is basically one intuition why 
+
+searching for 
+
+sexist loads of have lots of connections between them and listen very few connections 
+
+pointing across would find you sort of clusters that corresponds to something or yield from your life 
+
+right so uh beds basically the the basically grecian why searching for designated sets of nodes might be useful 
+
+so now going back to what we want to do right so we would like to 
+
+design a measured or something that is say how 
+
+community like is a set of nodes right so how would of a community is a set of notes right so now i will take a set of nodes s. 
+
+and my intuition he still to say hi 
+
+good communities have many edges between the members of the set them through i just pointing outside 
+
+right so nicely dear examples of two sets 
+
+so that i have my set s. and below i am i sent this prime and i ask you 
+
+which is that each of these stories of better communities what community like 
+
+i think it would all 
+
+sort of decide that this is a better community why 
+
+because it has more edges between the member state has fewer edges
+
+ 
+
+pointing outside then my then my doing community of that 
+
+right so one way to formalise this you grecian 
+
+into on on objective functional in some kind of far 
+
+hermetic 
+
+is a is the notion that comes from a theoretical computer science it's called conductors 
+
+and they all the conductors nazis the following the test 
+
+how many i just point 
+
+a outside the separate these are all the edges where 
+
+one endpoint easy to set in the other and point is outside the set 
+
+so in in this case i have to i just pointing outside 
+
+and ah 
+
+below i just take the some of the degrees of all the nodes inside this so 
+
+the way you can think about this study is just to say
+-----
+ 
+
+how many edges way have inside my set s. right and i take this a shock 
+
+the smaller the ratio the better the community right so 
+
+um the the conductors offset this prime 
+
+smaller than conduct tinsel set s. 
+
+okay so that's the first thing we we we need to have its 
+
+basically the simplest 
+
+um formally station 
+
+all of this intuition that i that i started meat of all along
+
+ 
+
+okay so now now i have the first thing 
+
+so now what i want to do is i want to say 
+
+i want to define a new quantity that i would call it a network community profile 
+
+and the way i mean define this quantities the following 
+
+i was saying that 
+
+ah i really find this a piece of profile that to basically try to say 
+
+for every ace cluster size how well at it 
+
+clusters of that particular size expressed how community life i process of a particular size 
+
+so the way i will do this is the following i would say 
+
+i will say the following so i have something that is a search function of k. k.'s the size of the cluster 
+
+and then i just say i would go or what all subsets of my 
+
+of my network the subsets ice has to be 
+
+equal to k. and i will take the class third that has the best quality right so for every cluster size 
+
+i will go find the best cluster and i remembered that okay 
+
+and then what i do is i would just create a spot 
+
+well here is a the log the tedium of the cost of size k. 
+
+and here is the conductors of the best cluster right so i find the best last so 
+
+the way you can think of 
+
+about doing this is the idea is the following right maybe i six cake was five 
+
+i'd go search or what all possible subsets 
+
+of sci spies 
+
+i find the best one any that gives me a dog right and then i say okay what that what is the best last of size salmon 
+
+katie's these gives me a doctor right and 
+
+i do this what every possible okay 
+
+um 
+
+right this would be maybe the best cluster of sci stand 
+
+okay but here 
+
+i do this for all possible case and i get 
+
+i get a life 
+
+okay so really 
+
+and this is what it'd be looking got so all this is going into it is to say
+
+ 
+
+i have i have class the size here and used as me 
+
+how will what is the score to what is the quality of best cluster 
+
+of that particular size 
+
+okay on 
+
+and any sort of the technical question about 
+
+how do i compute this profile plot 
+
+the problem is 
+
+that i can't researcher would all possible subsets right so i'd 
+
+i cannot do that right in the really the way the way i we do in computer scene 
+
+in fact this is to use 
+
+approximation uh got it comes to get up graph petitioning so basically use community detection methods and 
+
+um computer science has developed 
+
+a lot of um 
+
+a different approaches to finding plus the sea networks and all these approaches sort of give you give you some sense probably good results 
+
+but they also have um 
+
+some problems so we need the way we really do need to compute this impact this 
+
+is this is that 
+
+we will take a particular um 
+
+sort of take a community detection method 
+
+we will find all the cluster seen the network 
+
+for every class to be to review 
+
+every custom now here will be a particular bought so maybe i take imagine that they take my
+
+ 
+
+but at community action mess that i find all the clusters 
+
+every cluster of 
+
+he represents about that i'd this is the size of the class that this is the score of that cluster 
+
+and all i do then use i find the low what envelope 
+
+off of of this plot right so 
+
+i would go and i would connect the millions of whatever every possible k. 
+
+and this gives me my mike 
+
+okay so 
+
+this is intuitively what we are computing so 
+
+what i want to tell you now is
+
+ 
+
+what can i learn from the shape of this curve 
+
+so everything good so far 
+
+any any questions 
+
+okay so we know what we are computing then how we are computing 
+
+so now what 
+
+as i said what i want to ask is 
+
+how does the shape these blue blue line what does it tell me about the structure of my networks 
+
+so um first i show you a few examples to build some intuition so 
+
+imagine that i'm taking 
+
+um let me see so basically like a
+
+ 
+
+a good deeds order cubes waterloo chains right so imagine that i take a grab that is a good 
+
+and um if i if i compute 
+
+um if i take these big grass and i ask 
+
+what is a nice 
+
+try to find clusters seen these graph right back to god these graphs 
+
+i can ask what is the size of the cluster 
+
+what is cis of conduct insanity 
+
+conductors is measuring nothing as a sort of surface to volume ratio right so if i'm
+
+ 
+
+plotting this on a logarithmic scales 
+
+then for example for a chain 
+
+i get i get us this line to be downward sloping read a slope one 
+
+because basically if i have a long chain i always need to cut one edge 
+
+to get a cluster of how many how many nodes whatever size i want bright so 
+
+so my conduct and she's always one all would 
+
+the number of notes times to inside the cluster right so this will go down 
+
+in the green right 
+
+if i want to cut the clustering agreed 
+
+i need to cut sort of 
+
+the perimeter of the greed 
+
+and i get square 
+
+the number of nodes inside right so this is why 
+
+this has a slope of one hop 
+
+right and if i take a very bands and on graph 
+
+then then the slope of this plot to deflect 
+
+right so 
+
+um this is one one intuition so the intuition can is basically fighting some graph 
+
+and i compute my magic block 
+
+then depending in some sense on the dimensionality of that object that i'm cutting
+
+ 
+
+i will have the downward sloping line 
+
+with a different slope 
+
+right so we find for example taking a cube 
+
+like a good often cutting that i get us locals once it 
+
+and for example if i take 
+
+audio network for example i take a network before the californian roads 
+
+and i compute my plot 
+
+i will get a downward sloping plot 
+
+whether the slope is around one hop right 
+
+which basically says that 
+
+world networks 
+
+i like a good it's friday look like these blue line here
+
+ 
+
+right so that's the first piece of invention 
+
+um the second piece of information is that actually fight go think somebody oh what of networks for example 
+
+he's he's the network that i showed you this is the 
+
+the people that work of the research on network 
+
+if i compute my 
+
+my my community said i compute my my community profile 
+
+kiddies the size of the
+
+ 
+
+of the community buses the score 
+
+you again see that it's downward sloping 
+
+and you see for example that this particular deep here 
+
+corresponds to the community that i labelled read a right so disgusted 
+
+corresponds to these deep here 
+
+the class to be corresponds here if i combined see any together 
+
+i get a i get that point here so 
+
+but what i want to say is again i see the stink of sophie downwards 
+
+and so really 
+
+what what should we what we know so far if i sort of summarise and make a hypothesis right so what we know so far
+-----
+ 
+
+for the two examples that they did there is that 
+
+basically this this network and really profile that i showed you sort of slopes downwards right 
+
+sort of has this kind of 
+
+down what shape 
+
+and a base in this example that i gave you 
+
+a from a chain single leads and things like that 
+
+the this bill or this the speed at which this is sort of descending 
+
+which tell me something about the the originality of my network right 
+
+you know that in a soft sense 
+
+so in the question is what happens if i 
+
+it's sort of if i think 
+
+my networks and a might i take real networks that allowed right so the example i showed you before had like two hundred three hundred nodes 
+
+what happens if i take grabs that have bigger size 
+
+so what we did is we took 
+
+basically live two hundred different large networks with a large means everything this has more than ten thousand nodes 
+
+and i think the largest we too could like ten million that's right 
+
+and the question is how does the shape of this plot look there 
+
+and he's a he's a sort of small example that we were still able to do so 
+
+and this is the network
+
+ 
+
+visualization of the network and this is the applaud that i define before right so plasticizer versus quality lower is better 
+
+of was a surprise the surprise is that these goes down and then goes up 
+
+ah and the other thing that sort of a 
+
+oh corresponds to to go to the picture that is this is now the visualization 
+
+i think we did it 
+
+ah yes you buy it 
+
+ah of that network and what you see right is that sort of there is no 
+
+no little got no good class that's actually if you're on your community detection method 
+
+and then blocked 
+
+the clusters for example the community addiction method will tell you that with his remote corners along along cluster
+
+ 
+
+and all that and notes of them belong to another cluster 
+
+and all these green old scores belong to some other 
+
+green cluster that i that i've labeled there 
+
+right so sort of 
+
+something something funny is going on right in this network is not that big because only 
+
+four thousand nodes in ten thousand edges fifteen thousand pages 
+
+right so easy to show you that 
+
+this kind of down and up shape 
+
+ease of use common here and different examples so right so this is the
+
+ 
+
+live journal network a social networking seven million people 
+
+these are all the germans that they're using microsoft instant messenger 
+
+again couple of million people 
+
+this is the bypass pipe network of or service to papers 
+
+uh so scientific papers a disease citation network from high energy physics 
+
+part of the web graph 
+
+and this is the amazon of products co purchasing network so every note is a is a a product
+
+ 
+
+and you connect nodes of death go put just together okay 
+
+uh the black line a good question so the black line 
+
+ease the community profile 
+
+of the random graph conditions on the same degree distribution 
+
+right so a decent black line tells me what if i would beg the ground because the same number of notes the same number of fair just and every edge has the same number of connections 
+
+but these connections go and them 
+
+and you see 
+
+but basically i lose all the structure i see no class this whatsoever 
+
+so it's it's like comparing to the baseline but for now it doesn't really matter 
+
+it says that 
+
+networks are not and because 
+
+these networks would be random 
+
+i would be of them but i'm down here so i have 
+
+more structure i have better start bit more structure or more clusters than what i would expect 
+
+the world would be sort of them 
+
+but sort of it doesn't really matter for what i want to pay 
+
+okay so 
+
+uh going back so 
+
+just to show you 
+
+of my live journal example right the thing goes down and goes up
+
+ 
+
+so the question basically call should i understand he's right what the way i should 
+
+early this is to say that 
+
+us us classed as go between you know from small size to let's around a hundred 
+
+they get better and better 
+
+right so the the saying goes down 
+
+but then at some size right 
+
+and my class this started getting worse and worse right sort of if i want the cluster on thousand miles 
+
+it's actually has very bad quality has was quality than something 
+
+of a small size 
+
+so really now the question is why does this tell me about the structure of the networks 
+
+and the first thing is 
+
+what kind of the question is how do i 
+
+what how do i explain the upward going body and the way to extend upward growth going part
+
+ 
+
+is to think of networks as a heavy here so here i have a big three 
+
+and these three like continues down to a you know to the ground and so on 
+
+and the way to think about this is to say 
+
+ah that sort of if you cavity where every node 
+
+because um 
+
+let it twice as many children as it 
+
+ozzie ozzie it's that bad and does 
+
+then you get you will get the upward sloping 
+
+community profile why is that 
+
+because first you will say okay this is the best community i can get right 
+
+i got one edge 
+
+and i get seven oh so we fly some of the degrees 
+
+i get a seven edges inside so 
+
+ah you know here's my conduct that's now i want the bigger cluster so 
+
+the way i get a bigger cluster is to cut here right now i have to cut way i just
+
+ 
+
+to get one additional edge inside 
+
+right so again i'm getting worse not if i want to make even a bigger cluster 
+
+right i would have to cut even more than just to get 
+
+basically to get this to these two edges of above things inside my cluster right so basically 
+
+the bigger class that i want 
+
+the water seed gets right so this is sort of a pie example 
+
+that says that as i'm trying to get bigger clusters 
+
+basically more and more edges i have to cut so my class this basically get worse and worse 
+
+um so that's the first part 
+
+the second part is how do i explain these downward by the green part 
+
+and it and basically hearing
+
+ 
+
+it empirically result 
+
+but basically you have lots of these 
+
+very little 
+
+a thesis 
+
+but that are that are connected to just a few edges to the rest of the network 
+
+right um 
+
+and basically this or anything as you that your networks 
+
+have some kind of courtly thirty structure right i have this 
+
+little clusters on the periphery the decks to around one hundred 
+
+nodes large 
+
+but i can easily cut away and they get sort of better embedded as i
+
+ 
+
+as i can use the size but one sort of i get beyond these critical cluster size 
+
+i have to go start cutting into these then score 
+
+and my clusters get worse and worse 
+
+right so this is this is the first sort of the first conclusion 
+
+a bit of the qualities needed pieces we call them this cares okay 
+
+so why am i telling you this because i can do the following 
+
+i can take my network 
+
+identify my whiskers 
+
+and then you remove them so i can say what is the 
+
+what is the community profile of the food network 
+
+versus was a community profile of the core of the network only 
+
+and what i'm showing you here 
+
+is the green is the
+-----
+ 
+
+is of the committee profile of only the quarter 
+
+and read these of the food network on 
+
+so what do you see 
+
+basically you see that very little happens right my record of 
+
+just she's that upwards 
+
+and um um to the right of so basically this means that 
+
+but even whatever is left 
+
+because very similar structure 
+
+to the to do regional network right so really what happened was that my class that has got a bit worse even though
+
+ 
+
+i removed all the green parts out of the network 
+
+so any one used as is now that i have a court briefly structure 
+
+and these corporate infrastructure is actually mastered the right so that the score 
+
+also has a bar layout of pretty pretty and another layer of court 
+
+okay so that's what i can conclude from aicha what i can conclude all of these 
+
+so just to summarise what what what do these experiments suggests
+
+ 
+
+so this experience of jazz that's when i'd 
+
+look at net was a calf couple of thousands of nodes 
+
+the way i i should think about the structure something is something like this right sort of i have this 
+
+can concentric circles that all smells of good then as more and more densely connected 
+
+and then if i want to get 
+
+good clusters what i do is basically i cut away distinctly scripps right so 
+
+you know that this little pieces that are very easy to cut away and these are 
+
+these are good small clusters but then 
+
+when i want to start to find the clusters 
+
+i have to start cutting deeper and deeper into the 
+
+court off my network 
+
+and these clusters get worse and worse 
+
+and just on 
+
+empirically it turns out that 
+
+ah ah sixty percent of the nodes and eighty percent of the edges 
+
+um sort of fighting the core of the network 
+
+and the rest easy that these of first layer of the briefly 
+
+and this also sort of explains 
+
+many experiments with people take a large network 
+
+do the clustering 
+
+and then they find one big cluster 
+
+but these about cough of the size of the network and they call disgusted miscellaneous 
+
+and then they find all the other small and then the that but for the small clusters right so basically
+
+ 
+
+they find the core 
+
+and then they find all the little small pieces okay 
+
+so this is what i wanted to say 
+
+about the structure of the networks and sort of different community school use this kind of structure of different right so 
+
+the court it nest that could produce a structure 
+
+a computer networks community quoted jellyfish structure 
+
+mathematicians call it the octopus texture 
+
+but at the end is basically the same sort of some kind of body with some kind of tentacles of
+
+ 
+
+speaking go 
+
+so with these i hope i convinced you or show you demonstrated that networks have 
+
+this kind of structure 
+
+so what i want to do now for the for the next twenty minutes 
+
+is to focus on this part of the picture 
+
+okay so now i want to go back and start actually say oh but you know 
+
+ideally i was really telling you how 
+
+how classless existing those networks and now for twenty minutes i was convincing you 
+
+that there are no plastics right so sort of i have to decide what they want to bed so 
+
+i'll go there and i'll i'll tell you about communities 
+
+so arm 
+
+here is the way how we usually do community detection right 
+
+so the way we do it is the following we go we take some data set maybe i take 
+
+for those who who quite familiar with networks i conveyed the d. v. l. p. dataset so these are 
+
+or the computer science article speaking much ever published right so every node 
+
+now who are out of this data alright so out of this computer science of publication data 
+
+i can be presented as a graph i can represent it does a collaboration network right so every node is a scientist 
+
+and i connect to sign t. c. b. wrote a a paper together right so 
+
+i know me and monica would be connected because we have a joint paper together
+
+ 
+
+so now okay i am a graph and now i could take my favourite comedian addiction matter 
+
+and i would go to detect 
+
+class the sort of communities right 
+
+and then what what is the next step i do 
+
+i go i examine discussed this and i sort of try to 
+
+even to read them as i recall that was sort of video communities right i maybe go and say 
+
+oh i discover the bayes 
+
+on the amazing based on the network structure identify clusters 
+
+but then i figured out that all these nodes may be working the same area 
+
+and all these three notes you know 
+
+a publishing the same journal or come from the same university of 
+
+have something else in common 
+
+but i don't observe 
+
+um internet 
+
+right so basic um just drink 
+
+normal class thing right 
+
+so on 
+
+what we need in the following thing is the following gripe is to say 
+
+can i use this is the typical pipeline people who 
+
+this can i go can i find data sets that actually i have some kind of notion of ground truth 
+
+could i sort of
+
+ 
+
+have data sets when i know what the clusters of i'm looking for are 
+
+right and here is basically the idea right so so 
+
+is the idea was to go and try to find 
+
+networks where 
+
+there is an explicit notion of ground truth right so if i go back to my 
+
+collaborations example 
+
+right so maybe i would 
+
+proxy for the ground truth community see global collaboration networks
+
+ 
+
+could be conference a sojourn strike you would think that 
+
+if i take a collaboration at work 
+
+community seen a collaboration network would risk corresponds to saint if it basically is a sub disciplines 
+
+and sandy pit scientific disciplines have their own jonas so maybe a good 
+
+proxy for a scientific community 
+
+these are all the people that publishing the same job 
+
+and actually we have the data you know where the papers were published right 
+
+is social networks 
+
+people um 
+
+create and joining of two groups right so on facebook you can create a group and your friends can join on many other social networks you can create groups right so again this can be 
+
+a notion of ground truth clusters and 
+
+um for example in information networks that's another example we we look up 
+
+is basically you have people that sort of 
+
+created it this topic the cohesion of or 
+
+groups based on topics 
+
+so really the idea i use 
+
+but i have networks 
+
+maybe like this 
+
+and they know that 
+
+that is me what community or what group it belongs end 
+
+in this case i just drew the the way the example in such a way that every node belongs to a single community 
+
+but of course you can be long commute people groups 
+
+right and the data said that we were able to find the cab 
+
+well these data is available or are up here right away that you have 
+
+on social networks 
+
+a collaboration network and some
+
+ 
+
+and ah amazon progress commendation network 
+
+a number of notes number offenders 
+
+this is the number of plaster so number of ground truth groups 
+
+but i see a s. is that every size of the group and eighties 
+
+the average number of groups i'm not a node belongs right so in some 
+
+in some of these some networks a uh no belong scoop and so groups while 
+
+in other in other networks nodes don't tell us what group they belong okay 
+
+but this is basically read we restart so what we have now 
+
+is i have a network 
+
+and for every node
+
+ 
+
+i sort of know what group it belongs to what clustered along school 
+
+okay so if i had this kind of a top 
+
+what can i do 
+
+so there are two important things that i can read 
+
+so the first thing is i can actually stand going insane 
+
+right before i was telling you a group is a set of snow that has lots of connections 
+
+um between the member since you pointing outside right
+-----
+ 
+
+now i can think is grounded groups and say old lady has that property right is this city the property that i should be looking for 
+
+in my networks if i want to identify discussed 
+
+so really the question is i can take you study 
+
+how these groups met on the top of the network 
+
+and this will give me insight altitudes design better community detection algorithms 
+
+on the second thing that's also important is that 
+
+now i can do that 
+
+sort of proper evaluation methods right i can sort of 
+
+start computing do curiously of my
+
+ 
+
+or might clustering were my community detection of god 
+
+what i mean by that is that i can make my 
+
+my empty network 
+
+like so i like a bit of that 
+
+i do my 
+
+my community detection method and now i can say 
+
+how well does for example this community 
+
+correspond to a you know do this or this clusters or this know that i do that but i identify belong pokemon here 
+
+we really belong to the same community right 
+
+maybe i hear you see i i was able to buy my method identified this community correctly 
+
+but it totally screwed up in this part of the network right so now i can 
+
+measure 
+
+and a curious you're my matter 
+
+right so this is basically what i can do and i'll give you 
+
+examples of both of these are cases 
+
+right so if i now want to study color this video groups
+
+ 
+
+map on the on the on the top of the network 
+
+he's the most simple question you can ask you can say 
+
+i have two notes from 
+
+they share a k. groups so they they belong to k. group they have k. groups in common 
+
+what is the probability that 
+
+you are un t. v. beating 
+
+linked as a number of other groups they have in common 
+
+okay sort of super simple question 
+
+so the way people thought about this is the following right so
+
+ 
+
+so the first you off network community detection which is 
+
+the intuition i was sending you all along about 
+
+finding sets of nodes eat lots of connections between the members of the outside 
+
+then you that 
+
+um you know 
+
+you don't you are not connected basically you only belong to a single group so this question doesn't even apply so that the mental picture of the network of having your head is something like that 
+
+then the next thing is to say okay what is my group's overlap in the way 
+
+people think about overlapping groups today 
+
+is basically something clyde is basically they say that there are these nodes 
+
+that and ones that belong to multiple groups but he's dead now that basically 
+
+they don't need to one another so the assumption is that the probability of financial decreases 
+
+as a as a as an um as the number of common groups increases between the two people 
+
+right it's a tough 
+
+um maybe doesn't make too much sense 
+
+so what you can actually do is 
+
+given that we have these ground truth i can go and measure these right so what i have here is
+
+ 
+
+of what every better for miles i ask 
+
+how many groups 
+
+do you have in common right how many common groups grew belong to 
+
+versus was a probability of a net right 
+
+and of the thing goes up 
+
+so really what does this tell me 
+
+right so that this this thing this tells me is the following right is it does mean that 
+
+the more groups we have in common the more likely what the art of to be connected
+
+ 
+
+right which basically means that 
+
+the 
+
+the more communities overlap in in a particular part of the network 
+
+the more and just are there in that part of the network 
+
+right so just to give you a little picture right 
+
+so the way the way i can think about this is the following great so carry have 
+
+a city to example networks in here i have the corresponding adjacent sea maybe she's right so 
+
+knowns nodes 
+
+a empty space means there's no edge of bought means there is a net right 
+
+so really 
+
+if i buy 
+
+if i think of network communities uh some kind of graph petitioning problem 
+
+then i'm making an assumption that my 
+
+adjacent sea matrix looks like this right i have a cluster lots of connections another plaster 
+
+and a few connections between the two clusters 
+
+if i buy 
+
+for example or if i 
+
+my picture my notion of network communities 
+
+these these of sort of finding articulation points which is which is what 
+
+um click click relation method does and so on 
+
+in in what the way i think of our jesse maybe she's the following right ocampo clusters they overlap
+
+ 
+
+but the overlap is 
+
+less well connected than 
+
+each of the two non overlapping parts of the last strike 
+
+and sort of what happens the intuition that comes from the plot in the previous slide is the following right is 
+
+if i have to communities that overlap 
+
+then i can the most at justin over there 
+
+right so any my point is that 
+
+the world is not like that 
+
+but it's like this 
+
+and now the question is 
+
+how can a goal detect communities might look how can i go to tech clusters
+
+ 
+
+if these classes have such a structure 
+
+right because 
+
+methods the bayes 
+
+but the bayes and easy bring in that intuition or this intuition 
+
+with fail in this case 
+
+so the question is 
+
+on how wasted going to tech clusters 
+
+so the way i really do this is the following 
+
+i will i will basically do 
+
+like a model based community detection so i will show you 
+
+a very simple model hollow networks can be generated
+
+ 
+
+and then we will feed that model back to the data 
+
+right so my money is very simple it is a 
+
+basically um what i call my record my model a 
+
+community affiliation graph model so 
+
+the verse structure is very simple 
+
+so the bottom line out of my notes of the network 
+
+ah the the top are my communities 
+
+on all these connected to the communities it belongs to 
+
+so all the nodes belong to the community a
+
+ 
+
+or the blue notes belong to the community be 
+
+and all of the word and knows they belong to both communities right 
+
+so very simple so 
+
+what it says is 
+
+now i have um are now i have my notes of the social network at the bottom 
+
+i have communities on the top 
+
+and i just mean memberships 
+
+so now the question is 
+
+given these kind of 
+
+a graph how do i generate the social network 
+
+the way i regenerate the social network is very simple 
+
+for every pair of nodes 
+
+i will just say 
+
+of and for every community that they have in common 
+
+i mean sweep a coin 
+
+and need that particular probability that they have a bad 
+
+the corn you do manage 
+
+so on 
+
+yeah and of course now it's any 
+
+easy to see that 
+
+if if i have 
+
+if these two nodes have 
+
+communities in common 
+
+they get to sleep one coin
+-----
+ 
+
+and to get to sleep another quite right so the more communities we have in common the more than one quite as we get to sleep 
+
+the more likely we will have a marriage 
+
+a between us 
+
+so many naturally models 
+
+of the plot that i showed you before sort of that 
+
+better mortgage assisi share more communities right so here's the farmer at the probability of financial simply 
+
+um of i go at all the communities we have in common 
+
+this is the probability that the that do not base again this is a problem that none of these coin flip succeeds like if at least one of them succeeds we create an edge 
+
+between are my notes of this ocean 
+
+right so now 
+
+what i can do is i have a model of how networks can be generated 
+
+um what is cute is actually that that 
+
+this you can automatically analyse this model 
+
+and for example prove that you can get follow the distributions and all of them 
+
+other nice things 
+
+but that sort of not important for us what is important for us is that 
+
+we have this model of networks
+
+ 
+
+but despite amortized by by these parameters try to have my work except so my notes of the social network 
+
+okay my communities visegrad nodes 
+
+i have my membership and just 
+
+and i have these parameters that danny how like the article notes to be connected is they belong to that particular common community 
+
+right so what they can do now is 
+
+i can do the following thing right so what i'm showing you so far less to say if i if i do this kind of by paragraph
+
+ 
+
+you know how to generate the network right 
+
+for every a pair of notes here you flip a coin and you connect them there 
+
+what i can also do is i can go the other way i can say 
+
+uh given the network figured out 
+
+of the model right so figure out these by but i've got 
+
+um so what do i mean by figure out the graph 
+
+figure out 
+
+uh the structure of this network 
+
+figure out the number of communities so the number of square miles 
+
+and the figure out the parameters use a barometer speak of that right 
+
+um and again 
+
+the thing is that ah you can go into a 
+
+the way we do that is on 
+
+is very sort of it's a relatively simple 
+
+so it's a symbol maximum likelihood um 
+
+estimation problem right i'm just saying 
+
+um given my graph 
+
+what is the most likely 
+
+a model that he's got his urge even argued that that could have generated my video that up
+
+ 
+
+and um 
+
+the way i saw this at the end 
+
+is basically i'd i'm doing some kind of coordinate coordinate the sand 
+
+when in the first step i'm sort of 
+
+it's changing the structure of my grass 
+
+any the second step 
+
+i'm a fixing my graph and i'm figuring out what this platonic this linking probability should be a night of a repeat is a long enough and sort of i converge and find a good good
+
+ 
+
+okay so 
+
+ah this is a this is the point in being here is that actually if you do this 
+
+on synthetic they dine measure how well are you doing 
+
+and it sort of works well in practise 
+
+but what's important now is the following right is that i can think of the graph 
+
+my social network and i can figure out 
+
+my community affiliation go right i can figure out for every node 
+
+what community she belongs to doesn't even 
+
+given a graph like that 
+
+and then the other thing i can do i can also go back and say
+
+ 
+
+now i when i see that the model to that i really discovered communities because i i i disk i decided to teach nodes belong to what communities so now i can go and start comparing 
+
+my ah my inflate community swede idiot communities so what i mean by that is right i can take my network 
+
+might be scarless correspond dirty own group memberships 
+
+and maybe these um 
+
+um the circus or the set
+
+ 
+
+sets indicate that you put community memberships right now i can say you know how well how anybody discovered these colors 
+
+but based solely on the network structure 
+
+and then a few measure measure sort methods that already standard in computer science 
+
+to evaluate a this kind of a 
+
+of problems right so there is the escort of the s. one score the precision and recall 
+
+you can measure the mutual information 
+
+we do the discovered community centre to communities 
+
+would you can quantify something that is called all my index 
+
+and then for comparison 
+
+i will show you how to compare and my method right so what is my method given a network i want to find the parameters of this model which basically means that i 
+
+i found the group memberships and now i will compare how rude groups i find 
+
+this is the two standard methods 
+
+one is called click population 
+
+and the other one was just published 
+
+it's called link clustering so involved this mask methods find groups that over the right sort of 
+
+they allowed notes to belong to move people groups 
+
+and if you don our master 
+
+a case hallway leads drink
+
+ 
+
+ah these ah so i have different data sets 
+
+difference course higher is better 
+
+what i'm showing you is a relative improvement 
+
+of our method over in this case the link clustering right on 
+
+and what you see is that here for example 
+
+the other we do seventy times better in 
+
+deciding how many community side bending the network 
+
+and we also do better in terms of their scorn or migraine x. 
+
+but it and so future information we do a bit worse so this is falling clustering 
+
+and this is the results for the click click relation 
+
+um and again sort of the detect communities that corresponded real ones 
+
+much better than the population
+
+ 
+
+um the other thing i wanted to show 
+
+he's also so another way how you can look at the d. c.'s just sort of to say can use the performance automatically corporation 
+
+this is the performance of the other of our team effort 
+
+ah for the city different um 
+
+a performance metrics 
+
+if in the bodies of a that they're gonna be better if it's below their growth 
+
+the competition does better 
+
+um he it snowed is no doubt that sort of we do better than in custody 
+
+for quick regulation actually also too much but like 
+
+so this is just a visual way to look at the previous table 
+
+that sort of a a tall sizing up all sort of quality ranges 
+
+of you find better tasks 
+
+um so just to give you maybe a small example of of how how you find clusters
+
+ 
+
+so what is this is is a is ego network of one of my students so this is a 
+
+ah one of my korean students who took 
+
+or he's a facebook friends and then tied to a labelled a good living two different groups and he he he decided he he has four groups of his fancy care sort of 
+
+france from his career in high school 
+
+ah ah ah ah france from his workplace basically everywhere he did an internship and then he cares
+-----
+ 
+
+two sets of stanford friends 
+
+one with whom he play squash 
+
+and the other one arm he's sort of of basketball friends and um 
+
+a what i show you here is 
+
+and every 
+
+is the communities our method was able to identify 
+
+for example these are no that don't belong to any for any of the groups that are were 
+
+we decided not to classify 
+
+and the open circles side of the are the mistakes right so 
+
+for circus are the certain are good knows where we made the correct guess 
+
+and the da da empty circus are the mistakes but what i want to show you here is basically that 
+
+the place where the communities overlap 
+
+thus far the most edges right so sort of if you play 
+
+basketball and squashing you at stanford 
+
+then you're more like much more likely to know each other than 
+
+if you play basketball and somebody else works for example 
+
+right so having more in common 
+
+but this is social networks gives you a mornings
+
+ 
+
+so what like um basically this is what i wanted to say so let me just sort of summarise 
+
+what what would the point that i wanted to make today 
+
+so the first one was we did did you find this 
+
+the network redo profile plot 
+
+basically to be able to analyse the greedy structure of the networks 
+
+this or that in small network is there 
+
+the this plot has a downward slope 
+
+while for large networks it starts going upwards so basically it's important to our group at large data
+
+ 
+
+um and basically you that the discovery or the conclusion from the shape of the plot is that 
+
+networks have this kind of corporate restructuring rights or sort of it's like 
+
+cutting an onion if you like 
+
+um so that was one thing 
+
+and then the other thing we we looked at was then saying okay but what about community sing plasticine networks 
+
+so we went and took networks where 
+
+camp ground truth labels for the class status 
+
+the empirical observation remade was that these two class the solar lab do the probability or of on edge berries higher 
+
+then in the non overlapping parts of the cluster 
+
+based on this v. 
+
+develop these by prototype models group affiliations 
+
+and we were able to feed a model of a car 
+
+to be able to um to detect communities 
+
+just on average the i. v. outperform the existing methods for thirty to sixty percent 
+
+on but they really now the question is sort of the concept to my original question 
+
+how does the court pretty free structure
+
+ 
+
+a feedback to the to the network communities 
+
+i see that now um 
+
+he's he's sort of 
+
+easy to see right so if you have communities that 
+
+overlap and the more communities overlap 
+
+the the the more edges you carry that part of the network then 
+
+this is completely consistent 
+
+um we did that right so that basically you have networks where the core of the network there are many 
+
+different overlapping communities 
+
+while while in the pretty thirty you sort of care people that maybe belong to one or maybe even zero communities and this way

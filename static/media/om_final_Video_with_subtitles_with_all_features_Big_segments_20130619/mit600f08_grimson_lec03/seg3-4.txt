@@ -1,0 +1,236 @@
+
+
+i now have the ability to check whether it does 
+
+the right thing 
+
+and those are two things that youd like to do with every 
+
+looping construct you youd like to be able to assure 
+
+yourself that they will always terminate and then the second 
+
+thing youd like to do is to assure yourself that it 
+
+does give you back a reasonable answer 
+
+
+we started to talk about ways to do the former 
+
+its looking at the end test 
+
+its looking at the kinds of conditions youre 
+
+going to put in 
+
+for the latter this is a place where running test cases 
+
+would do a good job of helping with that 
+
+nonetheless having done that lets look at a 
+
+better way to write this 
+
+which is right here it is also i think on your sheet 
+
+im going to uncomment that and comment this one out yeah 
+
+all right 
+
+so lets look at this code for a second 
+
+notice what this does 
+
+certainly the heart of it right in here is 
+
+still the same thing 
+
+but notice what this does 
+
+the first thing it does is it says lets check and make sure 
+
+x is greater than or equal to  
+
+if it isnt notice whats going to happen 
+
+none of that block is going to get executed and its going to 
+
+
+come down here and print out a useful piece of information 
+
+which says hey you gave me a negative number 
+
+i dont know how to do this 
+
+if it is in fact positive then were going to go 
+
+in here but now notice what were doing here 
+
+there is the basic thing we did before right 
+
+were checking the end test and incrementing actually i was 
+
+going to i commented that out for a reason youll see in a 
+
+second but i normally i would keep this on which would let 
+
+me at each step see what its doing 
+
+if i ran this it would print out each step 
+
+which is helping me make sure that its incrementing 
+
+
+the right way 
+
+ok once it gets to the end of that whats it going to do 
+
+its going to come down here and oh 
+
+whats that doing 
+
+well i cheated when i started 
+
+i said somebodys giving me a perfect square im looking 
+
+for the square root of it 
+
+but suppose i gave this thing  and asked it to run 
+
+itd still give me an answer 
+
+it just would not be the answer im looking for 
+
+so now in this case this code is going to when we get here 
+
+check and if you havent seen that strange thing there that 
+
+exclamation point in computerese called a bang it 
+
+
+says if ans star ans is not equal to x all right 
+
+whats that say it says ive already gotten to the end of 
+
+the loop im now past where i wanted to be and im going to 
+
+check to make sure that in fact this really is 
+
+a perfect square 
+
+if it isnt print out something says ah you gave 
+
+me something that wasnt a perfect square 
+
+
+and only if that is true am i going to print out the answer 
+
+its the same computation 
+
+but this is a nice way of writing it often called 
+
+defensive programming 
+
+and i think we have lots of variations on it i dont know 
+
+about john what your favorite is for the definition of 
+
+defensive programming for me it says make sure that im 
+
+going through all possible paths through the code make 
+
+sure im printing out or returning if you like useful 
+
+information for each style sorry for each path through 
+
+
+the code make sure that for all possible inputs there is a 
+
+path through the code or a way to get through the code that 
+
+does not cause an error or infinite loop 
+
+what else would you add john 
+
+professor john well well come back to this later 
+
+in the term and talk in some detail about particular 
+
+techniques 
+
+the basic idea of defensive programming is to assume that 
+
+a if youre getting inputs from a user they wont 
+
+necessarily give you the input youve asked for so if you ask 
+
+for a positive number dont count on them giving you one 
+
+and b if youre using a piece of a program written by a 
+
+
+programmer who is not perfect perhaps yourself there could 
+
+be mistakes in that program and so you write your program 
+
+under the assumption that not only might the user make a 
+
+mistake other parts of your program might make a mistake 
+
+and you just put in lots of different tests under the 
+
+assumption that youd rather catch that something has gone 
+
+wrong then have it go wrong and not know it 
+
+and well talk later in the term about dozens of different 
+
+tricks but the main thing to keep in mind is the general 
+
+principle that people are dumb 
+
+and will make mistakes 
+
+
+and therefore you write your programs so that catastrophes 
+
+dont occur when those mistakes are made 
+
+professor eric good 
+
+as john said were going to come back to it 
+
+but thats what basically the goal here 
+
+and you saw me put my hands up when i said stupid programmer 
+
+ive certainly written code that has this problem ive 
+
+tried to use my own code that has this problem and good to 
+
+us right good hygiene im going to use that word again 
+
+here of getting into the habit of writing defensive code up 
+
+front its part of that collection of things that 
+
+you ought to do is a great thing to do 
+
+i stress it in particular because i know youre all 
+
+going to get into this stage youve got a problem set due in 
+
+a couple of hours youre still writing the code you dont 
+
+
+want to waste time and im going to use quotes on waste 
+
+time doing those extra things to do the defensive 
+
+programming you just want to get the darn thing done 
+
+its a bad habit to get into because when you come back 
+
+to it it may haunt you later on down the road 
+
+so really get into that notion of trying to be defensive 

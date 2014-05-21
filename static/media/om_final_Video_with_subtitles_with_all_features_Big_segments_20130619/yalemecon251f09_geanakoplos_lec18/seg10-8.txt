@@ -1,0 +1,362 @@
+
+
+what does hedging mean 
+
+and i want to put it in the context the old context of the 
+
+world series which we started with before 
+
+so its easier to understand there 
+
+and so many of you will have thought about this before so 
+
+youll be able to answer it but if i put it in the mortgage 
+
+context it would seem just too difficult 
+
+i dont know why i did that 
+
+so the world seriesim going to lower it in a second 
+
+so suppose that the yankees have a  percent chance 
+
+i said beating the dodgers i thought the dodgers would be 
+
+in the world series a  percent chance of winning 
+
+
+any game against the phillies in the world series 
+
+and you are a bookie and your fellow bookies all understand 
+
+that its  percent 
+
+so some naive philly fan comes to you and says i want to bet 
+
+ dollars that the phillies win the world series 
+
+should you take the bet or not 
+
+yes you should take the bet because  percent of the time 
+
+youre going to win  dollarsno 
+
+
+yes you should take the bet 
+
+if he bet on one game you would make with  percent 
+
+probability youd win  and with  percent probability 
+
+youd lose  
+
+so that means on average your expectation is equal to  
+
+so if hes willing to bet  dollars on the phillies winning 
+
+the first game of the series with you 
+
+you know that your expected chance of winning is  dollars 
+
+youre expecting to win  dollars from the guy 
+
+now suppose hes willing to make the same bet 
+
+ dollars for the entire series 
+
+whats your chance of winning and whats your expected profit 
+
+from him 
+
+is it less than  or more than  
+
+more than   
+
+more than   
+
+its going to turn out to be so a  game series 
+
+its going to turn out to be  which were going to figure out 
+
+in a second 
+
+but whats your risk 
+
+whats your risk 
+
+in either case you might lose  dollars 
+
+the phillies theyre probably going to lose 
+
+but theres a chance something goes crazy and some unknown guy 
+
+hits five home runs in the first four games or something 
+
+and some other unknown guy hits another four home runs and you 
+
+lose the world series 
+
+you could lose  dollars and maybe the guys not betting 
+
+ dollars but  thousand dollars or a hundred million 
+
+
+dollars 
+
+you know youve got a favorable bet but you dont want to run 
+
+the risk of losing even though theres not that high a chance 
+
+youre going to lose 
+
+what can you do about it 
+
+well you know that there are these other bookies out there 
+
+who every game are willing to bet at odds  either 
+
+direction on the phillies or the yankees because they just all 
+
+know theyre just like you 
+
+you all know that the odds are  percent for the yankees 
+
+winning every game 
+
+so suppose this naive guy the phillies fan 
+
+comes up to you and bets  dollars on the world series that 
+
+the phillies will win 
+
+you dont want to run the risk of losing  dollars 
+
+you know there are these other bookies who are willing to take 
+
+bets a game at a time  odds 
+
+what should you be doing 
+
+what would you do 
+
+yes 
+
+bet on the phillies winning because  
+
+give you better odds so youre guaranteed your profit 
+
+so what would you  
+
+so this guys come to you and youre not going to be able 
+
+to give the were going to find out exactly 
+
+what you should do in one second 
+
+but lets just see how far you can get by reason without 
+
+calculation 
+
+so this guys come to you and said im betting  
+
+dollars on the phillies winning the world series 
+
+
+this is the night before the first game 
+
+every bookie is standing by ready to take bets at  to  
+
+odds 
+
+what would you do 
+
+youd bet with the bookie that the  
+
+would win because 
+
+that what  
+
+that the phillies would  
+
+yeah how much  
+
+ dollars  
+
+youd bet the whole   
+
+well you get better  
+
+
+so 
+
+but would you bet the whole  dollars on  
+
+first game 
+
+the guys only bet  dollars on the whole series 
+
+youd bet  b 
+
+dollars 
+
+so its not so obvious what to  
+
+right but hes got exactly the right idea 
+
+you can hedge your bet 
+
+so here we are 
+
+i shouldnt have put that down 
+
+dont tell me i turned it off 
+
+that would just kill me 
+
+god i meant to hit mute 
+
+i think i hit off 
+
+oh how dumb 
+
+so you would bet on thewhile that warms up 
+
+i can see it 
+
+all right so what happens is youll have a tree which looks 
+
+
+like this and like this like this and like this 
+
+like this and like this and lets say we go out a few games 
+
+like this 
+
+now this is a   game series 
+
+all right so ive done it 
+
+heres the start of world series 
+
+this is the world series spreadsheet you had before 
+
+now heres the start 
+
+heres game     
+
+so if the yankees win the series they get  dollars 
+
+you get  dollars sorry 
+
+oh what an idiot 
+
+so every time you end up above the start win more than you 
+
+lose you get  dollars 
+
+on the other hand if you lose more than you win 
+
+you lose  dollars and so ctrl 
+
+copy 
+
+here is losing  dollars 
+
+so now this tree remember from doing it before 
+
+
+is just by backward induction 
+
+if you look at this thing up there it says you get 
+
+ percent i think was the number we figured out over here 
+
+so right 
+
+so  percent is the probability of the yankees 
+
+winning a game 
+
+so you take any node like this one youre always taking  
+
+percent of the value up here plus  percent of the value 
+
+here 
+
+so if you do that you find out that the value to you is  
+
+
+dollars just what we said 
+
+so lets put that in the middle of the screen 
+
+so the value is  dollars 
+
+now if the yankees win the first game youre in much better 
+
+shape 
+
+so winning the first game means you moved up to this node here 
+
+all of a sudden you went from  dollars to  dollars 
+
+and if the yankees lost the first game you would have gone 
+
+down to that value which is like  dollars 
+
+your expected winnings when the yankees are down a game 
+
+you know theyre still a better team so actually its 
+
+more likely even after losing the first game that the yankees 
+
+
+would still win the series 
+
+so you see the risk that youre running and you can calculate 
+
+this 
+
+so what should you do in the very first game 
+
+this tells you that your expected winnings is  
+
+of course  times  thats   times  is  
+
+that is  dollars 
+
+so thats  because its the average of this and this 
+
+and  is the average of  of this and  of that 
+
+so what should you do 
+
+well on average youre going to make  dollars 
+
+whats the essence of hedging 
+
+you want to guarantee that you make  dollars no matter what 
+
+happens 
+
+no matter who wins the series you want to end up with  extra 
+
+dollars assuming the interest rate is  from the beginning to 
+
+the end of the series 
+
+so how can you arrange that 
+
+what can you do 
+
+well so thats the mystery 
+
+ill give you one second to try and think it through 
+
+you should get this 
+
+what would you do here 
+
+are there no baseball bookies in theyep 
+
+didnt we just bring this up before like  

@@ -1,0 +1,105 @@
+Slide 0
+INTRODUCTIONRichard WheelerArtificial Immune SystemsBackground in education teacher inmainland China for five yearsPost-graduate work at the Universityof Edinburgh in Artificial IntelligenceArtificial intelligence and adaptive disease control systems for the WorldHealth Organisationin GenevaArtificial Intelligence ApplicationsInstitute, EdinburghStarlabResearch, BrusselsPublic Voice Labs in Vienna, AustriaBusiness Development Executive for  the School of Informatics, UoEEdinburgh ScientificFocus: applied AI and machinelearning for fault detection, medical informatics,inventing 
+---------
+Slide 1
+This Presentation45 Minutes feel free to ask questions at any timeDescribe basic concepts and research in artificial immune systems (AIS) and show some applied examplesAIS for applied knowledge engineering (biological metaphors, not biological modeling)For a general scientific audienceComputerScienceMathematics/InformationTheoryEngineeringArtificialIntelligenceBiology &ChemistryCognitiveScienceNon-SymbolicAISymbolicAImachine learningGeneticAlgorithmsNeuralNetworksArtificial Immune Systemscomputation and machine learning based on biological 
+---------
+Slide 2
+ImmunologyFacts about the human immune system:A highly complex massively parallel and distributed system maintaining both innate (non-specific)and acquired (specific)defenses for the purpose of defense and self/non-self discriminationLymphocytes and phagocytes are the cellular building blocksLymphocytes (B and T cells) created in the thymus and bone marrow interact with antigens(things perceived as foreign to the body) and through recognitioncause an immune responseB and T Cells have around 100,000 receptors to match a single pathogen, with 10^12in the human body!Human lymphocyteLymphocyte killing tumor cell
+---------
+Slide 3
+ImmunologyAn immune response includes the cloning of activated B cells, with some identical, and some slightly different offspringAntibodies recognize dangerous antigens through a complex matching and interaction process in their Once a foreign antigen is recognized, an immunological memoryis created, which is the basis for modern vaccinationKey concepts: matching, cloning, morphology, negative selection, self/non-self discrimination (Parham 2000)B CellCloningMatchingBindingImmunization
+---------
+Slide 4
+ArtificialImmune SystemsWhat are they good for?Anomaly detection in dynamic and complex environmentsPhysical and network security applicationsEvolutionary and distributed information processingScheduling and planning, constraint satisfaction?Modeling and design optimizationA very young subfield in artificial intelligenceGenerally software basedOften applied to intractable fault detection problemsHow do they work?Learn an environmentand generate antibodiesInteraction between antibodies and environmentImmune responseCloningdiagnosisactionreproductioninnate immunityacquired immunityBiologically inspired
+---------
+Slide 5
+How Do You Build Them?Like many AI systems, AISs are a technique for learning and reacting to an environmentChoose an environment to monitorInterface data to AISbe automatically created from test dataAntibody profiles are automatically created
+---------
+Slide 6
+AIS as Semi-Unsupervised Classifier (needs no negative examples) with Continuous LearningAntibodies are created at random or using a genetic algorithmAntibodies too closely normal system states are killed off during trainingDuring monitoring the environment (represented as antigens) is compared to the self (represented as antibodies)According to immunological 
+---------
+Slide 7
+How do they react?an immune responseWhich may store the warning, contact an administrator, or react automaticallyImmune response may also include the generation or network dissemination of advanced antibodies or clones with even better detection skills providing acquired immunity
+---------
+Slide 8
+Database ofanimals inthe zooWhat Are the Basics?  RepresentationAISs systems in software are usually built like this:Decide upon a representation of the problem domain (direct, binary, symbolic, fuzzy) and solution ranges, and establish communication standards for the environment monitored (all examples in this presentation are taken from the AIAI AIS Shell System)ZOO.DBHow can we protect the animals in a zoo (database) when we are introducing new, unknown animals?
+---------
+Slide 9
+Basics: Database of AntibodiesCreate an initial population of antibodies either randomly or using statistical or GA methods and remove antibodies too Creation ofantibodydatabaseautoimmunity is the failure of an organism to recognize its own constituent parts as self, which allows an immune response against its own cells and tissues.ANTIBODIESANTIBODIES
+---------
+Slide 10
+Monitor the environment (which creates data samples for learning), and remove any antibodies which match the environment samples too closelyAs in other ML methods, we are looking for the smallest collection of AIS, too many antibodies = overfitting.Database of environmental knowledge = innate immunityBasics: Learning & MatchingANTIBODIESLearning of a normal environment
+---------
+Slide 11
+After a suitable length of time, allow the remaining antibodies to begin monitoring their environment and generating an immune response when they match the environment too closelyenvironmentOKOKOK!!!!!Basics: Monitoring
+---------
+Slide 12
+ANTIBODIESCreate clones and mutations of antibodies which caused an immune response and distribute them throughout the system; also create occasional random new antibodies and introduce them into the populationWarn UserWARNINGSLogWarningsGenerateClonesRemote ServerDistributedAntibodiesAcquired ImmunityImmuneresponseBasics: Immune Response?
+---------
+Slide 13
+Platypus (monotreme): egg-laying, venomous, duck-billed, beaver-tailed, otter-footed mammal.  Outlier.Doedicurus clavicaudatus (prehistoric glyptodont): enormous armoured mammal.  Normal.Platypus (monotreme): egg-laying, venomous, duck-billed, beaver-tailed, otter-footed mammal.  Outlier.Doedicurus clavicaudatus (prehistoric glyptodont): enormous armoured mammal.  Normal.Did the AIS learn some of the basic stable states of earthly biology?
+---------
+Slide 14
+Some practical and 
+---------
+Slide 15
+A More Practical ExampleInternetJava VM or OS embedded profiler creates database entries linking processes, threads, and resources to behavioursBEHAVIOURSAIS system learns normal behaviours and blocks unusual behaviour (after asking user or administrator to verify)Antibodies which caused an immune response clone to the local neighbourhood and internet instantly giving protection against new viruses and attacks; clone diversity ensures vigilance against attack polymorphismNo virus signature needed for recognitionIntranetIntranetIntranetIntranetIntranetIntranetIntranetIntranetInternetInternetInternetImmune response SECUREANTIBODIESINSECUREINOCULATIONINOCULATIONBehavioural Based Network Security(Hofmeyr 1999, Kim, Bently 1999)
+---------
+Slide 16
+AIS Research: Physical SecurityAdvances in AIS based video motion detection and learning
+---------
+Slide 17
+Multi-site real-time streaming video and sound  integrated over standard networks and across platforms; video transformed into a variable cellular automata grid that encodes behavioural and regional informationAIS For Advanced Video Motion Detection
+---------
+Slide 18
+Behaviours are compiled (compressed) in CA structures and mathematical grids and form the input to the AIS shell which is generalizing across cameras and sitesAIS For Advanced Video Motion Detection
+---------
+Slide 19
+Advanced  environmental learning (e.g. abstracting of behavioural primitives, time series sensitivity, sound analysis) AIS For Advanced Video Motion Detection
+---------
+Slide 20
+Variable overlay grid and user controls addedAIS For Advanced Video Motion Detection
+---------
+Slide 21
+CA/Grid-based motion vector analysis and weighting developed; mask blocking,  magnification, and alarm browser addedAIS For Advanced Video Motion Detection
+---------
+Slide 22
+Some alarmsAIS For Advanced Video Motion Detection
+---------
+Slide 23
+More alarmsAIS For Advanced Video Motion Detection
+---------
+Slide 24
+Complete installation testing and validation including office settings (examples?) and 3D camera/CA synthesis trialsAIS For Advanced Video Motion Detection
+---------
+Slide 25
+Warehouse: AIS learns workers take shortest path to targets, Museums: AIS learns where people stand and how quickly Office: AIS learns that people come and go and sit and talk and eat and drink, but people do not come in through windows or ceiling, do not shout or stand on tables or fire Airport: AIS can learn speed and angle of approaches for different size aircraft, and watch for strange behaviours on the aprons and runways (birds, runaways, planes off the AVMD: Some More Examples
+---------
+Slide 26
+Research: Building a Better Shell System
+---------
+Slide 27
+AIS Next Generation Shell (NG)AIS Shell NG features include:Multiple antibody models and representationsMultiple matching algorithms and fuzzy operators (Dasgupta 2002)Variable antibody morphology (Wheeler 2003)Advanced visualizationIntegrated network and database managementVariable cloning methods (Oprea 1998)
+---------
+Slide 28
+Next Generation ShellImmune response with variable cloning and diagnostics
+---------
+Slide 29
+Next Generation ShellFull network support including variable topologies and antibody vectors
+---------
+Slide 30
+Next Generation ShellVisual immune space browser/editing tool with integrated fuzzy engine
+---------
+Slide 31
+Next Generation ShellVisual data browser/editing tool with C4.5 style inductive visualization
+---------
+Slide 32
+Next Generation ShellReal time environment monitor with all particles and clones rendered dynamically
+---------
+Slide 33
+Conclusions and Open QuestionsEXCITING: Contributing to the birth of a new fieldVery young and wide open field (1986)Role of biological diversity and plausibility in AIS systems (eg. messenger, memory cells)Role of morphology and representationMatching algorithms and methodologiesWhat applications will AIS systems really excel at?
+---------
+Slide 34
+Thanks to Nada and JSI!Contact:                                                                 Richard Wheeler (rw@edinburghscientific.com)Download an AIS shell system: http://www.inf.ed.ac.uk/research/isdd/AIS Shell NG email mePaper -self (Kaers, Wheeler, Verrelst 2003) also at http://tinyurl.com/3wbcjctQuestions?
+---------

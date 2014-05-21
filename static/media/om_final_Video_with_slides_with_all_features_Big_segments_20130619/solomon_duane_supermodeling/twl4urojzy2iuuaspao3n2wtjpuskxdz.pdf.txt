@@ -1,0 +1,72 @@
+Slide 0
+Consensus By Synchronization of  Alternative Models  Greg Duane MANU Supported by: DOE Grant# DE-SC0005238 and ERC Grant# 266722 -with contributions from    Ljupco Kocarev    Frank Selten    Wim Wiegerinck    Lasko Basnarkov    Leonie van den Berge    Paul Hiemstra 
+---------
+Slide 1
+
+---------
+Slide 2
+SUPPOSE THE WORLD IS A LORENZ SYSTEM AND ONLY  X  IS OBSERVED  two coupled chaotic systems can fall into synchronized motion    along their strange attractors when linked through only one variable () x= (y-x) y= x-y-xz z= -z+xy  y1= x-y1-x(z1) z1= -z1)+x(y1)  z (t)   (also works for y-coupling, but not   for z-coupling) SYNCHRONIZATION                  DATA ASSIMILATION 
+---------
+Slide 3
+LET  A  COLLECTION  OF  MODELS  ASSIMILATE DATA FROM  (SYNCHRONIZE WITH)  ONE  ANOTHER;  ADAPT  THE  COUPLING  COEFFICIENTS Ki constant:      data assimilation  -l adapt Clij:     learning  CONSENSUS 
+---------
+Slide 4
+SUMMARY  Problem: IPCC-class climate models give widely divergent                    predictions in regard to:                        a) magnitude of long-term climate change                        b) detailed regional predictions                        c) short-term climate change                   Can we do better than averaging model outputs?   Potential Solution: Take the synchronization view of data assimilation,                                   and allow models to form a consensus (synchronize)                                   by assimilating data from one another.               -                - Parameters can be nudged as well as states without ensembles.               - Choose the adaptable parameters to be connection coefficients                  linking corresponding variables in different models; adapt                  them using historical data.            
+---------
+Slide 5
+
+---------
+Slide 6
+
+---------
+Slide 7
+EXAMPLE: DIVERGENT  MODEL PROJECTIONS   OF REGIONAL PRECIPITATION CHANGE increased or decreased            precipitation White areas:  less than 2/3 of models agree on the sign of                         precipitation change Stippled areas:  more than 90% of models agree on the sign 
+---------
+Slide 8
+ Test Case:  Fusing 3 Lorenz Systems  With Different Parameters adapting not adapting dClij/dt =0 time time time zMavg-zT Fused Models Average Output of  Models (Unfused) z from Model With Best z Eqn zMavg-zT zMbest-zT - Model fusion is superior to any weighted averaging of outputs dCxij/dt  = a(xj-xi)(x  k) dCyij dCzij 
+---------
+Slide 9
+Supermodeling Relies on 3-Way Synchronization of               Truth and Alternative Models Hebbian                                                    
+---------
+Slide 10
+ METHODS TO ADAPT INTER-MODEL CONNECTIONS (Berge et al. 2010) 
+---------
+Slide 11
+
+---------
+Slide 12
+Learning Algorithm 
+---------
+Slide 13
+Supermodeling Works With Multi-time-scale Models Tsupermodel - Ttruth xsupermodel - xtruth   x' = -(y^2) - (z^2) - a x + a (F0 + F1 T)            f =  T -  S y' = x y - b x z - y + G0 + G1 (Tav - T) z' = b x y + x z - z T' = ka ( x - T) - |f| T - kw T S' = 0 + 1 (y^2 + z^2) - |f| S - kw S - nudged to truth so as to obtain an atmospheric supermodel. Ocean supermodel can be trained on longer time scales. 
+---------
+Slide 14
+What if all models err in the same way? Analogous to group of experts who make the same mistake,      but to different degrees        and extrapolate to values outside the range of the group  A very risky procedure! 
+---------
+Slide 15
+What if all models are biased in same direction? Lorenz supermodel with truth < 1, 2, 3      Some connections become negative zsupermodel - ztruth Not as effective as positive connections, but better than averaging. weather-prediction mode 
+---------
+Slide 16
+What if parameters shift between training  and testing? Train with Lorenz  =28 and then reset  adaptation =28 =50 =100 Average of outputs        (unfused) Fusion Attractors -fusion still better than averaging even when training and test systems  differ by a large number of dynamical bifurcations  
+---------
+Slide 17
+What if the connection scheme obtained by cost-minimization is only locally optimal?   stochastic learning methods  can help optimize supermodel Autocorrelations  for Truth and Two Supermodels SMIIb is formed using a deterministic  learning method  SMIIc is formed using a stochastic learning method 
+---------
+Slide 18
+ density of inter-model coupling? Synchronization of two 1D  Kuramoto-Sivishinsky systems: ut = -uxxxx  - u uxxx - uxx - 2uux vt = -vxxxx  - v vxxx - vxx - 2vvx + K[u(x) - v(x)] f (x) f (x) non-vanishing only at discrete points Maximum coupling distance is length scale of coherent structures:  
+---------
+Slide 19
+What variables should be coupled? Consider 3-layer QG model on sphere with realistic topography and a forcing chosen to reproduce the observed winter mean state.   sync error Number of components that are coupled nudging time scale  
+---------
+Slide 20
+Proposed Adaptive Fusion of Two  QG Channel Models * + * 2 (k-dependence   suppressed) Fo =fo(q-q*) Fofo(q-q*)   If the parallel channels synchronize, their common solution also solves the single-channel model with the average forcing forcing in Atlantic forcing in Pacific                                         To find  c  adaptively:                            2x  J(,q-q)(q-qobs2x  J(,q-q)(q-qobs)  
+---------
+Slide 21
+                 model with Atlantic forcing  model with Pacific forcing n = 1000: n = 30000: n = 30000: 
+---------
+Slide 22
+Intermodel  Connection Coefficient   c  1/2 
+---------
+Slide 23
+     Limits of Supermodeling reliance on stochasticity to escape local optima V deterministic deterministic stochastic stochastic stochastic -can we define intelligent triggers? Can we do better than negative coefficients when       individual models err in similar ways?  How can we restrict the number of separately trained       connections ?    Need  expert-system-like generalization of supermodeling 
+---------

@@ -1,0 +1,288 @@
+
+
+seem to be around  percent when nothings happening 
+
+so you say  percent plus maybe youre going to get some 
+
+more prepayments so you might writewell i just wrote down a 
+
+function plus the min 
+
+the min say of  because it never seems 
+
+to get over  percent if you look at that you see it never 
+
+gets over  percent really 
+
+so the min of  and  times the max of  and m  
+
+rs  sigma over  
+
+that would be a kind of prepayment function 
+
+so what does this say 
+
+what happens 
+
+youre normally going to payso this is this whole 
+
+function here so i should write this as  
+
+plus can you see that over there 
+
+maybe not so this plus  
+
+so theres a baseline of  percent and if the interest rate 
+
+is high so the interest rate is above 
+
+the mortgage rate no one else is going to prepay because this is 
+
+going to be a negative number and this will be  
+
+so youre just going to do  percent 
+
+on the other hand as the interest rate gets low 
+
+and falls far enough below the mortgage rate people are going 
+
+to say to themselves ahha 
+
+i have a big incentive to prepay now 
+
+maybe interest rates have gone down so far i can no longer hope 
+
+theyre going to go back up above the mortgage rate 
+
+i should start prepaying more 
+
+so more people are going to prepay and this thing is going 
+
+to go up 
+
+
+i just multiply it by some constant but itll never go up 
+
+more than  percent 
+
+thats what this function says 
+
+and sigma this is the volatilityall right 
+
+so lets just leave that aside 
+
+so theres a prepayment function that seems to sort of 
+
+capture whats going on 
+
+its usually around  percent when theres no incentive 
+
+it never gets above  percent but as the incentive to prepay 
+
+
+as interest rates get lower and the incentive to prepay 
+
+increases more and more people prepay 
+
+thats kind of the idea 
+
+all right and then you would fit fancier curves than that 
+
+you would look at m  rt and you would fit 
+
+a curve that looks like this 
+
+so if theres just a little bit of incentive to prepay 
+
+the rates are a little bit lower than the mortgage rate 
+
+nobody does it 
+
+then quickly a lot of people do it and then they stop doing it 
+
+so this is like  percent and most of the time youre around 
+
+
+ percent and you try and fit this curve 
+
+youre going to have millions of parameters and since you have 
+
+so much data you could fit parameters 
+
+that was the old fashioned way and thats how people would 
+
+predict prepayments 
+
+now thats not going to turn out to be such a great way 
+
+but it certainly teaches you something 
+
+so lets look at what happens if you nowwith those realistic 
+
+prepayments you compute the value of a mortgage 
+
+so this is the prepayment that youd get for the different 
+
+rates and so you can see that as the rates go down the total 
+
+prepayment is going up 
+
+and by the way its more than  percent 
+
+because youve got this  percent added to the  percent 
+
+
+so the most it could be is  percent 
+
+which it hits over here 
+
+so you get  percent as the maximum prepayments 
+
+and as interest rates get higher no one prepays except the 
+
+ percent of guys 
+
+now by the way why are people prepaying over 
+
+here even when the rates are so high 
+
+its because some people are moving or theyre getting 
+
+divorced and they have to sell their house 
+
+so obviously youre going to get some prepayments no matter 
+
+what 
+
+people have to prepay and why is it that people never 
+
+prepay more than  percent historically or  percent 
+
+because not everybody pays attention 
+
+
+now i called them the dumb guys last time 
+
+but as i said i probably fit into that 
+
+category 
+
+its people who are distracted and doing other things 
+
+theyre just not paying attention and so they dont 
+
+realize 
+
+they dont know whats going on so they dont realize they 
+
+should be prepaying 
+
+so as interest rates go down more people prepay 
+
+as interest rates go up less people prepay 
+
+and if you did some historical thing and figured out the right 
+
+parameters youd get a prepayment function 
+
+
+so how did i figure out this was  
+
+how did i figure out this was  
+
+why should i divide this by  
+
+whats sigma 
+
+once you get those parameters historically you now have a 
+
+welldetermined behavior rule of what people are going to prepay 
+
+and from that you can figure out what the prices are of any 
+
+mortgage by backward induction 
+
+so how would you do it again by backward induction 
+
+the same we always did it 
+
+over here what would you do over here 
+
+how would you change this rule 
+
+well you would just be feeding in the prepayment function 
+
+so what would the prepayment function be 
+
+well people wouldnt be doing a minimum here 
+
+right 
+
+theyre not deciding whether or not to prepay 
+
+
+theyre just prepaying 
+
+so lets get rid of that 
+
+theyre prepaying 
+
+so this is the value of  dollars left of principal 
+
+so some of them are prepaying and thats the function 
+
+so prepay and that depends on what node youre at 
+
+and here it says what percentage of the remaining 
+
+balance is being prepaid 
+
+so that tells you that rule whos prepaying 
+
+
+and then with the rest of the money thats going on until next 
+
+time  minus that same thing  minus prepay times exactly 
+
+what we had before 
+
+so this part of  dollar got prepaid immediately so thats 
+
+the cash that went to the mortgage holder 
+
+the rest of the cash got saved until next time and heres what 
+
+happens to it 
+
+you have to make your coupon then you have a remaining 
+
+balance and then whatever is going to happen is going to 
+
+happen 
+
+so youll study this and youll figure out im sure 
+
+
+it takes a little bit of effort to see that through 
+
+but with half an hour staring at it youll understand how this 
+
+works and youll read it in a spreadsheet so you can figure 
+
+out the value of a mortgage 
+
+you get a value of a mortgage and now we can start doing 
+
+experiments by changing the parameters and see how the 
+
+mortgage works 
+
+now before i do that i want to say that theres a better way to 
+
+do this 
+
+i mean maybe these numbers are estimatedwhats a better way 
+
+of doing it 
+
+how did i do it at ellington how did wei mean at kidder 

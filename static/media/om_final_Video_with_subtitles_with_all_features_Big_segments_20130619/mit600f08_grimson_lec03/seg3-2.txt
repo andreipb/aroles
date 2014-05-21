@@ -1,0 +1,312 @@
+
+
+all right if that variable thats counting is not 
+
+changing im going to be stuck in an infinite loop so i ought 
+
+to unintelligible phrase 
+
+that 
+
+ right expect somewhere in there a change 
+
+of that variable 
+
+all right 
+
+and then the last thing i want to do is just decide you 
+
+know what do i do when im done 
+
+ok 
+
+i know 
+
+it looks boring 
+
+but its a structure of the things i want to think about 
+
+
+when i go through trying to take a problem and mapping it 
+
+into a iterative program 
+
+those are the things i want to see if i go along 
+
+all right 
+
+so let me give you an example 
+
+im given an integer thats a perfect square and i want to 
+
+write a little piece of code thats going to find 
+
+the square root of it 
+
+all right so im cheating a little i know its a perfect 
+
+
+square somebodys given it to me well come back in a second 
+
+to generalizing it so what would the steps be that id 
+
+use to walk through it 
+
+well if you think about these steps heres 
+
+an easy way to do it 
+
+lets start at  
+
+lets call x the thing im trying to find 
+
+the square root of 
+
+lets start at  
+
+square it 
+
+if its not greater than x take  
+
+square it 
+
+if its not greater than x take  
+
+square it 
+
+and keep going until the square of one of those integers 
+
+is greater than or equal to sorry just greater than x 
+
+ok why am i doing that 
+
+when i get greater than x ive gone past the place 
+
+where i want to be 
+
+and obviously when i get to something whose square is equal 
+
+to x ive got the answer i want and i kick it out 
+
+so who knows what ive done 
+
+ive identified the thing im going to use to count 
+
+something some variable is going to just count the 
+
+
+integers ive identified the end test which is when that 
+
+square is bigger than the thing im looking for ive 
+
+identified basically what i want to do inside the loop 
+
+which is simply keep changing that variable and i didnt say 
+
+what i want to do when im done essentially 
+
+print out the answer 
+
+ok so how can i code this up 
+
+well you might think lets just jump in and write some 
+
+code i dont want to quite do that though because i want to 
+
+
+show you another tool thats valuable for thinking about how 
+
+to structure the code and that is a something called 
+
+a flow chart 
+
+now 
+
+people of professor guttags and my age unfortunately 
+
+remember flow charts back as they say on the simpsons back 
+
+in the day back in the s john right really good 
+
+programmers had these wonderful little plastic stencils i 
+
+tried to find one i couldnt find it its a little stencil 
+
+with little cutout shapes on it that you used to draw flow 
+
+
+charts im going to show you in a second and you tucked it 
+
+right in here next to your pocket protector with all your 
+
+pens in it you know so your belt was also about this high 
+
+and your glasses were this thick you know we have a few 
+
+of those nerds left we mostly keep them in the museum but 
+
+that was what you did with the flow chart 
+
+despite making a bad joke about it were going to 
+
+do the same thing here 
+
+were going to do the same thing here were going to 
+
+chart out a little bit of what should go into actually 
+
+making this thing work 
+
+so heres a simple flow chart that im going to use to 
+
+
+capture what i just described 
+
+and im going to again im actually going to do it the way 
+
+they used to do it and draw a rectangle with rounded corners 
+
+thats my starting point and then what did i say to do 
+
+i said i need to identify a variable im going to give it 
+
+a name lets just call ans for answer and i need to 
+
+initialize it so im going to come down and in a 
+
+square box im going to initialize ans to  
+
+and now i want to run through the loop 
+
+whats the first thing i do in a loop 
+
+i test an end test 
+
+so the flow chart says and the tradition was to do this in a 
+
+diamond shape im going to check if ans times ans oh 
+
+which way did i want to do this is less than 
+
+or equal to x 
+
+now thats a test 
+
+there are two possibilities 
+
+if the answer is yes then im still looking for the answer 
+
+what do i want to do 
+
+well i dont have to do anything other than 
+
+change the counter 
+
+so im going to go to ans is ans plus  and im 
+
+going to do it again 
+
+eventually if ive done this right that test is no and i 
+
+wonderfully ran out of room here in which case im going 
+
+to go to a print statement which was always done in a 
+
+trapezoid and print out ans 
+
+i should have put a box below it that says stop 
+
+ok 
+
+wow 
+
+and notice what i got here 
+
+actually this is a useful tool for visualizing how im trying 
+
+to put it together because it lets me see where the loop is 
+
+right there it lets me see the end test it lets me make sure 
+
+
+that im in fact initializing the variable and im checking 
+
+the right things as i go along 
+
+and the idea of this flow chart is if you start you know a 
+
+little ball bearing here its going to roll down setting up 
+
+an assignment statement and then depending on here its 
+
+like theres a pair of flippers in there it does the test it 
+
+sets the ball this way to change it to ans plus  and 
+
+comes back around eventually its going to drop through 
+
+and print out the answer 
+
+the reason im going to show you this flow chart im going 
+
+to do one other example in a second but i want to 
+
+show you a comparison 
+
+remember last time we wrote this simple piece of code 
+
+
+to print out even or odd 
+
+if you know x it was in fact even or odd 
+
+so let me show you what a flow chart for that would look like 
+
+because i want to make a comparison point here 
+
+if i were to do a flow chart for that one 
+
+id do the following 
+
+it reminds you that the test here was we took x if thats 
+
+what we were looking for it did integer division by  
+
+
+multiplied it by  and we check to see if that 
+
+was the same as x 
+
+if the answer is yes then we did a print of even 
+
+if the answer was no we did a print of odd and 
+
+we then carried on 
+
+again wow 
+
+but theres an important point here 
+
+remember last time i said that theres different kinds of 
+
+complexity in our code and i suggested for simple branching 
+
+programs the amount of time it takes to run that program is 
+
+in essence bounded by the number of instructions because 
+
+you only execute each instruction at most once 
+
+it didnt depend on the size of the input 
+
+and you can see that there 
+
+i start off either i take this path and carry on or i take 
+
+that path and carry on but each box if you like gets 
+
+touched exactly once 
+
+on the other hand look at this one 
+
+this depends now on the size of x 

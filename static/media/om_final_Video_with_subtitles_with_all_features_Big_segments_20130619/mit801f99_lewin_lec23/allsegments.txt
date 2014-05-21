@@ -1,0 +1,1906 @@
+
+
+
+
+
+
+  it depends a little bit on the temperature 
+
+about  miles per hour 
+
+when i speak to you my sound reaches you with that speed 
+
+i produce a certain frequency here 
+
+a certain number of oscillations per second 
+
+they reach you 
+
+your eardrum starts to oscillate with the same frequency 
+
+and you hear that tone 
+
+i have here a tuning fork 
+
+which oscillates  times per second 
+
+ tuning fork  mediumpitched   
+
+your eardrum oscillates  times per second 
+
+you hear this tone 
+
+here i have  oscillations per second 
+
+ metal rod emits lower   
+
+
+your eardrum is now shaking 
+
+going back and forth  times per second 
+
+if you stay where you are and you dont move 
+
+and i move these tuning forks 
+
+you will hear a different frequency 
+
+and thats what we call doppler effect 
+
+if my sound source approaches you 
+
+you will hear a frequency f prime which is larger 
+
+than the frequency of the tuning fork 
+
+if it moves away from you which i will call receding 
+
+then f prime equals lower lower frequency 
+
+for instance i move to you a sound source 
+
+i call that a transmitter 
+
+with a speed of about one meters per second 
+
+transmitter is the sound transmitter 
+
+then if it approaches you here you will hear f prime 
+
+which is  times f 
+
+this three here is the one part out of  
+
+that you get an increase in frequency 
+
+if i move it away from you then f prime would be 
+
+ times the frequency of the source itself 
+
+
+you stay where you are 
+
+i have here a tuning fork which generates  hertz 
+
+a very high frequency 
+
+if i move it to you with the speed of one meter per second 
+
+which i can do then you get an increase in pitch of  
+
+that makes it  hertz 
+
+and when i move it away from you there is a decrease of  
+
+and you can clearly hear that difference 
+
+i will first make you listen to the  hertz 
+
+without my moving 
+
+ tuning fork  very high pitched   
+
+can you hear it very high frequency 
+
+is it painful really 
+
+high frequency 
+
+most of you are young enough 
+
+
+you should be able to hear  hertz 
+
+okay now i am going to move it to you one meter per second 
+
+and away from you 
+
+ high tone goes up and  slightly in   
+
+did you hear it once more 
+
+ tone goes up and  quickly   
+
+ class   
+
+when it comes to you its clear that the frequency goes up 
+
+and when it moves away from you the frequency is down 
+
+now imagine that im going to rotate the sound source 
+
+
+around in a circle 
+
+now the sound that you receive the frequency that you receive 
+
+will change in a sinusoidal fashion 
+
+if this is that circle and this is the radius of that circle 
+
+and if you are here in the plane of the circle 
+
+then when the source comes straight to you 
+
+with the velocity v lets say its a uniform circular motion 
+
+f prime will be larger than f 
+
+and it will in this case reach a maximum 
+
+when it is at  degrees relative to you 
+
+i dont have to give it a vector notation 
+
+f prime equals f 
+
+when it moves away from you f prime is smaller than f 
+
+you hear a minimum 
+
+and when it is here again 
+
+when the angle between the velocity and your direction 
+
+is again  degrees then f prime equals f again 
+
+and so this phenomenon is called the doppler effect 
+
+so if i twirl it around 
+
+you will hear a sinusoidal fluctuation in f prime 
+
+suppose i plot as a function of time f prime 
+
+the way you will receive it you sit still 
+
+but im going to move the sound source around like this 
+
+
+then you will have a curve that looks something like 
+
+some sinusoidalcosinusoidal fluctuation of f prime 
+
+this will be the value f 
+
+produced by the sound source itself 
+
+this will be f prime maximum and this will be f prime minimum 
+
+if you could record this there is an amazing number of things 
+
+that you can deduce from this curve 
+
+first of all you can take 
+
+you can measure f prime max divided by f 
+
+because you see this curve so you know what f is here 
+
+
+you see what f prime max is 
+
+and that should allow you to retrieve immediately 
+
+v velocity of the transmitter 
+
+if that number were  then you know 
+
+that the speed in the orbit was one meter per second 
+
+so this ratio immediately gives you the transmitter velocity 
+
+this time separation gives you immediately 
+
+the period of rotation 
+
+but since two pi r if r is the radius 
+
+divided by the velocity of the transmitter 
+
+
+since that is the oh i can reverse it it doesnt matter 
+
+two pi r divided by the time to go around 
+
+is the velocity of the transmitter 
+
+since you know the velocity of the transmitter from this ratio 
+
+since you know the period which is this 
+
+you now also find the radius r 
+
+so from that curve and keep that with you 
+
+
+because its going to be important in what follows 
+
+we can derive three 
+
+the radius the period of rotation 
+
+and the speed of the object as i twirl it around 
+
+i have here what we call a wind organ 
+
+when i twirl this around it produces a particular tone 
+
+we will talk later about  
+
+why it produces a particular tone 
+
+sometimes you hear two tones 
+
+ill try to make you hear only one 
+
+and as i swirl it around the sound is coming 
+
+the sound source the transmitter is coming to you 
+
+this when it goes like this its degree angle 
+
+so you should not hear any doppler shift 
+
+when it is here its moved away from you 
+
+and so you hear a sinusoidal change in f prime 
+
+try to hear that 
+
+ wind organ producing  that changes   
+
+can you hear when its coming to you that its higherpitched 
+
+
+than when its going away from you 
+
+can you hear that 
+
+just say no if you dont hear it 
+
+not very clear 
+
+ wind organ again  varying   
+
+for me its impossible to hear 
+
+because im standing right under it of course 
+
+well i tried 
+
+
+
+i now want to change to electromagnetic waves 
+
+electromagnetic waves travel with the speed of light 
+
+which is  kilometers per second 
+
+and if you want to treat that correctly 
+
+you would have to use special relativity 
+
+in the case of sound i stressed repeatedly 
+
+that you in the audience should not move 
+
+but that the sound source is moving 
+
+in the case of electromagnetic radiation 
+
+when you deal with the speed of light 
+
+you dont have to ask that question 
+
+it is a meaningless question in special relativity 
+
+to ask whether you are moving relative to me 
+
+or whether i am moving relative to you it doesnt matter 
+
+all that matters in special relativity 
+
+is the relative motion 
+
+so you can always think of yourself as standing still 
+
+and make the source of electromagnetic radiation 
+
+move to you or away from you relative to you 
+
+
+electromagnetic radiation is optical light infrared 
+
+ultraviolet radio xrays gamma rays 
+
+all of that is electromagnetic radiation 
+
+if the velocity of the source of electromagnetic radiation 
+
+the transmitter 
+
+if that is way way smaller than the speed of light 
+
+then it is very easy to predict 
+
+the change in frequency due to doppler shift 
+
+let this be the transmitter which produces frequency f 
+
+and here is the receiver which receives the frequency f prime 
+
+and let the velocity 
+
+of the source of electromagnetic radiation be v 
+
+i could put transmitter here but we can drop that index 
+
+and let this angle be theta 
+
+then this is the component in your direction 
+
+we call that the radial component 
+
+which is v cosine theta 
+
+so i delete the tr 
+
+this is just the velocity of the source 
+
+relative to you at that angle 
+
+
+
+if now we want to know what f prime is 
+
+then f prime equals f times one plus v over c 
+
+times the cosine of theta 
+
+what matters is only the radial component of the velocity 
+
+this is the radial component 
+
+
+if theta is  degrees just like we had with sound 
+
+then f prime equals f 
+
+so  degrees the cosine of theta is zero 
+
+f prime equals f 
+
+if theta is smaller than  degrees 
+
+then its coming towards you 
+
+then f prime equals larger than f 
+
+if theta equals larger than  degrees 
+
+its going away from you 
+
+then f prime equals smaller than f 
+
+
+
+you would get a similar equation for sound 
+
+by replacing this c by the speed of sound 
+
+but i want to stress 
+
+
+that this only holds for electromagnetic radiation 
+
+if v over c is much much smaller than one 
+
+
+
+now when we deal with sound 
+
+there is something mechanically oscillating 
+
+something is vibrating 
+
+with electromagnetic radiation charges are vibrating 
+
+electrons are vibrating 
+
+and they are vibrating with a certain frequency 
+
+and that means 
+
+there is a certain period of one oscillation 
+
+and that period of one oscillation is of course 
+
+one over the frequency 
+
+i can ask myself now the question 
+
+how far does electromagnetic radiation 
+
+how far does light travel in the time of one period capital t 
+
+well it goes with the speed of light 
+
+so in t seconds it moves a distance ct 
+
+and that distance we call 
+
+the wavelength of electromagnetic radiation 
+
+
+lambda equals ct for which you can also write c divided by f 
+
+so this is the wavelength of the electromagnetic radiation 
+
+the speed of light  kilometers per second 
+
+the period of one oscillation say of the electrons 
+
+and this is the frequency which you can give in hertz 
+
+i could give you a specific example 
+
+i for instance can take a period t 
+
+of two times ten to the minus  seconds 
+
+that would give me a wavelength 
+
+of about six times ten to the minus seven meters 
+
+six times ten to the minus seven meters 
+
+and that you would experience as red light 
+
+if i make the period shorter 
+
+say  times ten to the minus  seconds 
+
+
+i get a shorter wavelength 
+
+i get four times ten to the minus seven meters 
+
+and you would experience that as blue light 
+
+
+
+in astronomy in optical astronomy 
+
+we cannot measure the period or the frequency of optical light 
+
+all we can measure is the wavelength 
+
+and so if i want to use this equation 
+
+then i have to replace f prime by c divided by lambda prime 
+
+and f i have to replace by c divided by lambda 
+
+and when i do that i get the following result 
+
+i get lambda prime equals lambda 
+
+times one minus v over c cosine theta 
+
+if this is a plus this is a minus 
+
+check that for yourself 
+
+you have to use the small number approximation 
+
+the taylor expansion 
+
+namely that v over c is much much smaller than one 
+
+so you can see now if the object comes to you 
+
+in other words if f prime is larger than f 
+
+if the frequency is higher then the wavelength will be smaller 
+
+and so let me write that down 
+
+when the cosine of theta so the object is coming to you 
+
+
+when the cosine of theta is larger than zero 
+
+the object is approaching you 
+
+then the wavelength lambda prime will be less than lambda 
+
+and that has a name we call that blue shift 
+
+and the reason why we call that blue shift is 
+
+that if the wavelengths become shorter 
+
+it moves towards the blue end of the spectrum 
+
+because blue has a lower wavelength than red 
+
+if cosine theta is negative 
+
+then the object is receding from you 
+
+then lambda prime is larger than lambda 
+
+
+and we call that red shift 
+
+these are the terms that astronomers use all the time 
+
+when you make a spectrum of a star 
+
+you can do that using prisms or by other means 
+
+and you look at the light intensity 
+
+as a function of wavelength 
+
+so here is the light intensity as a function of wavelength 
+
+then you may expect to see some kind of a continuum 
+
+but in fact what you do see is 
+
+superimposed on a continuum 
+
+you see sometimes very sharp absorption lines 
+
+black missing light called absorption lines 
+
+and these absorption lines correspond 
+
+to elements in the atmosphere of the star 
+
+in fact if you see the absorption lines you can tell 
+
+what kind of elements are present in the star 
+
+some are very characteristic absorption 
+
+some for hydrogen some for calcium some for silicon 
+
+some for magnesium and so on 
+
+its actually interesting 
+
+that when you look at the spectrum of the sun 
+
+when people did that first 
+
+when they had the means of doing that 
+
+they found absorption lines in the spectrum of the sun 
+
+which could not be identified 
+
+they had never been seen here on earth these lines 
+
+and so they called these lines after the sun 
+
+
+the sun is helios and so they called it helium 
+
+so helium was first discovered on the sun 
+
+before it was later discovered on earth 
+
+by looking at the absorption lines of the solar spectrum 
+
+if a star moves to you then all the lines 
+
+every single line will be blueshifted 
+
+and if the star moves away from you 
+
+all the lines will be redshifted 
+
+if you take an 
+
+with lambda prime divided by lambda 
+
+and you pick any one of those lines 
+
+
+it doesnt matter which you pick 
+
+because they will all do exactly the same 
+
+if this were for instance  
+
+i just pick a very nice number 
+
+that means lambda prime as you see is larger than lambda 
+
+the wavelengths get longer so we have a red shift 
+
+and you substitute that in that equation 
+
+then youll find that the velocity 
+
+at which that star is moving relative to you 
+
+that gives you immediately the answer there 
+
+equals minus  times the speed of light c 
+
+and that is minus  kilometers per second 
+
+and the minus then reminds you 
+
+that the object is receding from you 
+
+so that gives you a red shift 
+
+
+
+i just wrote down 
+
+that the velocity v is minus  kilometers per second 
+
+its of course v cosine theta 
+
+that is minus  kilometers per second 
+
+its the radiali velocity thats all you can measure 
+
+
+you have no information on theta 
+
+so it is this component v cosine theta 
+
+which we call the radial velocity 
+
+that is minus  kilometers per second 
+
+
+
+half of all the stars in the sky are binaries 
+
+and so when you look at the spectra 
+
+you will see them go around each other 
+
+and so you in principle can measure the red shifts 
+
+and the blue shifts as they go around each other 
+
+you see doppler effect 
+
+if they come to you you see blue shift 
+
+
+if they go away from you you see red shift 
+
+so in principle 
+
+you can determine for each one of those stars 
+
+the velocity in orbit the radius of their orbit 
+
+and of course the period of the binary system 
+
+so its an extremely powerful tool in astronomy 
+
+if you have a binary system when the stars exactly do this 
+
+to determine 
+
+all these quantities that you would like to know 
+
+i first would like to show you now some slides 
+
+
+
+the first slide oh i have to lower the screen by the way 
+
+that would help wouldnt it 
+
+ chucklesi  
+
+the first slide is a spectrum made in the laboratory 
+
+of hydrogen helium and calcium and sodium 
+
+it shows you emission lines no absorption lines 
+
+these lines are produced by lamps 
+
+and the frequencies are very well known 
+
+here you see the famous sodium yellow lines 
+
+so here is the red part of the spectrum 
+
+and there is the blue part of the spectrum 
+
+
+
+so we know these frequencies 
+
+we know these wavelengths very well 
+
+and here you see the spectrum of the sun 
+
+with all these absorption lines that i mentioned to you 
+
+its plastered with absorption lines 
+
+and each of them can be identified 
+
+these are due to calcium iron hydrogen and so on 
+
+here is the blue part of the spectrum 
+
+
+here is the green part the green part 
+
+and here is the red part of the spectrum 
+
+
+
+and here you see the basic idea behind a binary system 
+
+suppose you have a binary system 
+
+that only one star is visible and the other one is invisible 
+
+and the one star shows you three clear absorption lines 
+
+then as the star moves around the center of mass 
+
+you see that all these lines drift in unison 
+
+and out of this information 
+
+you get the radius the velocity and the period 
+
+assuming that you are on earth 
+
+in the plane of the orbit of the stars 
+
+if you have a binary system whereby both stars are visible 
+
+so you get the spectrum of both stars 
+
+then you see the doppler shift of both stars in the spectrum 
+
+here we have a simple case 
+
+that we only have two absorption lines not to confuse the issue 
+
+and so in one in the case of one star 
+
+the shift will be towards the left of the two lines 
+
+but the other star the shift will be to the right 
+
+because if you have a binary system 
+
+when one star comes to you 
+
+the other star goes away from you and vice versa 
+
+so now you are very lucky now you have an ideal situation 
+
+
+that you can find for both stars the radius of the orbit 
+
+the velocity in orbit and the period for each star 
+
+which of course is the same for both 
+
+
+
+and here you see real data 
+
+you see here first of all 
+
+the emission lines which are measured in the laboratory 
+
+that i just showed you 
+
+they are always done simultaneously 
+
+with the measurements 
+
+you always must be sure 
+
+that you have a good calibration of your wavelength 
+
+
+and this spectrum a the top spectrum is of a star 
+
+a binary system that has a period of  days 
+
+and you see here single lines if you have good eyes 
+
+that means at this very moment 
+
+both stars move relative to you at angles of  degrees 
+
+so you dont see any doppler shift 
+
+but now look here 
+
+later in time you see that this line has split in two lines 
+
+
+and this one has also split in two lines 
+
+clearly one component is coming to you 
+
+and the other component is moving away from you 
+
+and so you get all this useful information in astronomy 
+
+by making the doppler shift measurements of binary systems 
+
+
+
+i want to pursue the idea of binary stars 
+
+they give us 
+
+not only the information that we want regarding the orbits 
+
+but there is even more that we can get out of it 
+
+which is even more exciting 
+
+so i will remind you what a binary system looks like 
+
+
+
+remember the second exam 
+
+im sure you will never forget that second exam 
+
+and maybe never forgive me for that 
+
+
+
+binary star one radius r mass m velocity v 
+
+and star two going about their common center of mass 
+
+mass m radius r and velocity v 
+
+m r equals m r 
+
+thats the way the center of mass is defined 
+
+imagine that you as an observer 
+
+are somewhere in the plane of this orbit and you are here 
+
+and you are observing the system going around 
+
+keplers third law which you derived on your exam 
+
+as well as on an the period squared equals 
+
+four pi squared times r plus r to the power three 
+
+divided by g times m plus m 
+
+let me check that to make sure i have that right 
+
+yes that is correct 
+
+imagine now you can make 
+
+the doppler shift measurements of both stars 
+
+you make the doppler shift measurement of star number one 
+
+so you measure lambda one prime as a function of time 
+
+out of that pops immediately the period of rotation 
+
+out of that pops the velocity as we discussed 
+
+out of that pops the radius r 
+
+and now you measure 
+
+the doppler shift of star two as a function of time 
+
+out of that pops the period 
+
+which of course better be the same 
+
+
+out of that pops its velocity in orbit 
+
+and out of it pops its radius 
+
+all these things come out of the doppler shift measurements 
+
+but if you know r and you know r 
+
+then you also know r plus r 
+
+so you know this part in keplers third law 
+
+since you also know the periods you can find what m plus m is 
+
+so now you get an extra bonus 
+
+you know now what the sum of the mass of the two stars is 
+
+in the binary system but you also know that m r is m r 
+
+so now you have two equations 
+
+you know what m plus m is 
+
+and you know this equation and you can solve for m and m 
+
+
+which is an amazing thing when you come to think of it 
+
+so we finally end up 
+
+with the mass of star one and the mass of star two 
+
+all this comes out of doppler shift 
+
+the velocities the radii the periods 
+
+and even the masses of these objects 
+
+now if you as an observer on earth 
+
+are not exactly in the plane of the orbit 
+
+then the situation is a little bit more complicated 
+
+and i will not discuss that here today 
+
+because in principle 
+
+it doesnt affect the idea behind doppler shift 
+
+but for astronomers it is very important 
+
+its really a nuisance 
+
+but i will not discuss that in any detail 
+
+i want to discuss a fascinating application 
+
+that we have in xray astronomy 
+
+namely we have xray binaries 
+
+
+
+what is an xray binary 
+
+well it is a binary system 
+
+this is a star not unlike our sun 
+
+it has as certain mass has a certain radius 
+
+and it is in orbit lets say with a neutron star 
+
+even though it could be a black hole 
+
+but for now lets just assume it is a neutron star 
+
+and if these two masses are the same 
+
+which i only use for the sake of simplicity 
+
+in practice they could be very different 
+
+then there is a point between these two right in the middle 
+
+whereby the gravitational pull in one direction is the same 
+
+as the gravitational pull in the other direction 
+
+and we call that the inner lagrangian point 
+
+in other words if you were there 
+
+the neutron star would pull at you 
+
+with exactly the same force as the other star 
+
+so you wouldnt know where to go 
+
+if this inner legrangian point lies 
+
+below the surface of this star that means 
+
+if the stars are a little closer than i have drawn them here 
+
+then the matter of this star will fall 
+
+towards the neutron star 
+
+because the pull in this direction is then larger 
+
+than the pull in this direction 
+
+now of course this system is a binary system 
+
+they go around in the plane of the blackboard say 
+
+
+and so this matter cannot fall radially in 
+
+but it will fall in and spiral in 
+
+and forms what we call an accretion disk 
+
+around the neutron star 
+
+this is called the accretor and this is called the donor 
+
+there is mass transfer from the donor to the neutron star 
+
+oops i just noticed i misspelled the word accretion 
+
+there is an r in accretion 
+
+and as that occurs 
+
+there is a tremendous amount of energy that is released 
+
+i want to blow up the neutron star 
+
+very simple  considerations now 
+
+what comes is extremely pedestrian 
+
+this is the mass of the neutron star 
+
+and this is the radius of the neutron star 
+
+and i take a little bit of matter m 
+
+and i drop it from a large distance onto the neutron star 
+
+at what speed 
+
+will that little piece of matter reach the neutron star 
+
+you should almost be able to close your eyes 
+
+and give me that answer right now 
+
+the kinetic energy when it reaches the neutron star 
+
+equals onehalf m v squared 
+
+that is the speed 
+
+at which it will crash onto the neutron star 
+
+and that must be 
+
+mm neutron star g divided by the radius of the neutron star 
+
+you always lose your m and so you find 
+
+that the speed at which it reaches the neutron star 
+
+is the square root of two m neutron star 
+
+times g divided by r neutron star 
+
+you should remember this equation 
+
+this was the equation that we had for escape velocity 
+
+if you were here and you go back to infinity 
+
+you reach exactly that speed so if you fall in from infinity 
+
+that is exactly the speed 
+
+at which you reach the neutron star 
+
+
+it should obviously be the same number 
+
+and you dont really have to be infinitely far away 
+
+you just have to be much further away 
+
+than the radius of the neutron star 
+
+when this matter crashes onto the neutron star 
+
+the kinetic energy that is released is onehalf mv squared 
+
+it is converted to heat and to give you some feeling 
+
+for the incredible power of a neutron star 
+
+if you make this little m as little as ten grams 
+
+
+think of it as a pretty fullsized marshmallow 
+
+and you throw a marshmallow 
+
+from a large distance onto a neutron star 
+
+the energy that is released is comparable 
+
+to the atomic bomb that was used on hiroshima 
+
+a tengram object thrown onto a neutron star 
+
+the reason being that this velocity 
+
+becomes enormously high 
+
+if you put in for the neutron star 
+
+a mass of about three times ten to the th kilograms 
+
+and you take for the radius of the neutron star 
+
+
+about ten kilometers 
+
+you will find that that velocity becomes 
+
+about two times ten to the eighth meters per second 
+
+which is about  of the speed of light 
+
+and because of this enormousi speed 
+
+onehalf mv squared is horrendously high 
+
+it is a conversion 
+
+of gravitational potential energy to kinetic energy 
+
+and then ultimately to heat 
+
+now nature is transferring mass at an extraordinarily high rate 
+
+in many of these binary systems 
+
+there are at least some hundred or so that we know 
+
+in our own galaxy 
+
+the mass transfer rate which i call dmdt 
+
+so that is the transfer rate 
+
+from the donor onto the neutron star 
+
+that transfer rate 
+
+is roughly ten to the th kilograms per second 
+
+
+it is a horrendousi mass transfer rate 
+
+you can calculate 
+
+by multiplying it with onehalf v squared 
+
+how many joules per second are released 
+
+in the form of kinetic energy 
+
+that means in the form of heat 
+
+and i call that the power of that neutron star 
+
+and that then for this mass transfer rate 
+
+thats about two times ten to the th joules per second 
+
+which is watts 
+
+and that is about  times larger 
+
+
+than the power of our own sun 
+
+but the temperature of this neutron star 
+
+because of this enormous amount of energy released 
+
+the temperature would reach values 
+
+of about ten million degrees kelvin 
+
+and at that high temperature 
+
+the neutron star would emit almost exclusively xrays 
+
+you and i are very cold bodies only  degrees kelvin 
+
+we radiate electromagnetic radiation 
+
+in the infrared part of the spectrum 
+
+we have warm bodies 
+
+when you hold someone in your arms you can feel that 
+
+if i would heat you up to  degrees kelvin 
+
+you would become redhot 
+
+and you actually 
+
+we could turn the light off and i would see you 
+
+youre just emitting red light 
+
+if i would heat you up to three million degrees 
+
+you would start to begin to radiate in xrays 
+
+you may not like it but thats a detail of course 
+
+so i want you to appreciate the fact that the 
+
+the kind of radiation that you get depends strongly 
+
+on the temperature and at ten million degrees 
+
+
+youre dealing almost exclusively with xrays 
+
+
+
+so these binary systems are very potent sources of xrays 
+
+the neutron stars rotate around we discussed that earlier 
+
+conservation of angular momentum 
+
+and they have strong magnetic fields 
+
+the matter that falls onto the neutron star 
+
+already heats up during the infall 
+
+because there is gravitational potential energy released 
+
+and so the matter is so hot 
+
+that in general its highly ionized 
+
+and highly ionized material cannot reach 
+
+a magnetic neutron star 
+
+in all locations that it prefers to do so 
+
+in  you will learn why thats the case 
+
+however the matter can reach 
+
+the neutron star at the magnetic poles 
+
+and so what youre going to see now is 
+
+youre going to have a neutron star with magnetic poles 
+
+so the matter streams in onto the magnetic poles 
+
+which gives you two hot spots 
+
+and if the axis of rotation doesnt coincide 
+
+with the line through the two hot spots 
+
+if the neutron star rotates 
+
+youre going to see xray pulsations 
+
+when the hot spot is here you will see xrays 
+
+and when the hot spot is here you will not see xrays 
+
+
+and so we observe from these systems xray pulsations 
+
+now think of the following 
+
+the xray pulsations are a clock 
+
+it is the clock of the rotating neutron star 
+
+if the neutron star in a binary system 
+
+because all of these are in a binary system 
+
+these xray binaries 
+
+if its coming to you you see doppler shift 
+
+the ticks of the clock come a little closer together 
+
+
+if the neutron star moves away from you 
+
+the ticks of the clocks are a little bit further apart 
+
+that is exactly what doppler shift is all about 
+
+so by timing the pulses of the xrays 
+
+you can get a handle 
+
+on the doppler shift of the neutron star 
+
+that means you can get the speed of the neutron star 
+
+you can get the radius of the orbit 
+
+and you can get the period just like we discussed before 
+
+
+but now you take an optical 
+
+the xray observations by the way have to be made 
+
+from outside the earths atmosphere 
+
+because xrays are absorbed by the earths atmosphere 
+
+now you take an optical telescope 
+
+and you look from the ground 
+
+and now you see the optical spectrum of the donor 
+
+and what do you see in the donor 
+
+you see these absorption lines 
+
+and as the donor moves around the center of mass 
+
+these absorption lines move back and forth 
+
+the doppler shift of the donor 
+
+so you know the velocity of the donor 
+
+you know the radius of the donor 
+
+not the radius of the donor 
+
+you know the radius of the orbit and you know the period 
+
+so now we have a situation that i just described earlier 
+
+
+that you have the doppler shift of both objects 
+
+and remember i told you that you also get the masses 
+
+you get the mass of the donor and the mass of the accretor 
+
+
+
+before i go ahead let me show you some slides 
+
+so we have to lower this again if thats possible yep 
+
+
+
+i want to show you 
+
+an artists conception of such a binary system 
+
+
+
+
+so this is what it may look like 
+
+you see the donor there 
+
+and you see the neutron star right here 
+
+so small of course that its invisible 
+
+and this is the accretion disk 
+
+swirls in the matter ends up on the neutron star 
+
+and this is another view that gives you an idea of the donor 
+
+and then the swirl of matter 
+
+and then it swirls in and ends up here on the neutron star 
+
+
+and here you see data that were obtained in  
+
+its clear evidence for the existence 
+
+of these rotating neutron stars with these xray hot spots 
+
+you see here the observed xray intensity as a function of time 
+
+and the actual data are these very thin lines 
+
+and this bold line was drawn over by the authors 
+
+to convince you that you see a signal which is highly periodic 
+
+the time from here to here is  seconds 
+
+this object was called hercules x 
+
+so this is one of the magnetic poles 
+
+and this is the other magnetic pole 
+
+one magnetic pole and the other magnetic pole 
+
+so you see here unmistakably the rotation of the neutron star 
+
+and the xray pulsations 
+
+here you see data from the same object 
+
+but now the time scale is very different 
+
+from here to here is one day 
+
+this is two days 
+
+and when you look at this data alone forget this for now 
+
+notice that you see the source is active in xrays 
+
+the second oscillations 
+
+you cannot see of course anymore 
+
+because the time scale is different 
+
+but notice here there are no xrays at 
+
+ days later no xrays at all 
+
+
+ days later no xrays at all 
+
+and so what youre looking at here 
+
+are what we call xray eclipses 
+
+when the neutron star moves behind the donor star 
+
+all the xrays are absorbed by the donor star 
+
+and you get xray eclipses 
+
+in other words you get 
+
+independently from the doppler shift 
+
+you also get the period of the orbit by the xray eclipses 
+
+and this really changed our whole concept of astronomy 
+
+the existence of these neutron star binaries 
+
+and now comes a part what are the masses of these objects 
+
+
+i already alluded you to the idea 
+
+of the possibility that there may be black holes 
+
+all the mass measurements that have been done to date 
+
+of these neutron stars where you see the pulsations 
+
+all of them are very close to  solar mass 
+
+and theres a good reason for that thats not an accident 
+
+in  the physicist chandrasekhar predicted 
+
+that white dwarfs could not exist 
+
+if their mass is larger than  solar mass 
+
+it was a quantum mechanical calculation 
+
+for which he received in  the nobel prize 
+
+remember we discussed white dwarfs earlier 
+
+a white dwarf has about a radius of  kilometers 
+
+about the same as the earth 
+
+and imagine that you have a white dwarf 
+
+and you add matter to the white dwarf 
+
+and you pass the solarmass mark 
+
+then the white dwarf will collapse 
+
+and becomes a neutron star 
+
+and so when we measure the masses of neutron stars 
+
+it turns out maybe somewhat by surprise 
+
+
+that theyre all very close to  
+
+if you could add more matter to the neutron star 
+
+by accreting more and more matter 
+
+and you reach the point that the neutron star becomes 
+
+as massive as three times the mass of the sun 
+
+we believe that the neutron star can no longer support itself 
+
+and becomes a black hole 
+
+and so now comes the question what is a black hole 
+
+a black hole is the most bizarre object that you can imagine 
+
+and it is something 
+
+that you want to stay away from too 
+
+
+a black hole has no size unlike a neutron star 
+
+it has no size but it does have mass and it has a lot of mass 
+
+three times the mass of the sun ten times the mass of the sun 
+
+a hundred times the mass of the sun 
+
+so it has mass but it has no size 
+
+we identify around the black hole a sphere with radius r 
+
+
+which we call the event horizon 
+
+
+
+imagine you are at the event horizon 
+
+and you want to get away from the black hole 
+
+what kind of speed do you need 
+
+you should be able to give me that answer immediately 
+
+the escape velocity must be 
+
+ mg divided by the radius of that event horizon 
+
+in other words the radius of the event horizon itself 
+
+equals  mg divided by c squared 
+
+if you tell me what m is 
+
+i will tell you what the radius of the event horizon is 
+
+
+
+i went a little fast here 
+
+i skipped an important step 
+
+v is the escape velocity from the event horizon 
+
+which is at a distance capital r from the mass m 
+
+so we see that here 
+
+now this escape velocity can never be larger 
+
+than the speed of light so the maximum value possible is c 
+
+and if now you look at this part of this equation 
+
+and you take the radius on one side 
+
+youll get that the radius of the event horizon 
+
+equals  mg divided by c squared 
+
+and thats how i found that equation 
+
+sorry that i went a little too fast 
+
+
+
+if m is the mass of the earth 
+
+the radius of the event horizon is one centimeter 
+
+if m is the mass of the sun 
+
+the radius of the event horizon is three kilometers 
+
+if m is three times the mass of the sun 
+
+the radius of the event horizon would become ten kilometers 
+
+
+it scales linearly with the mass 
+
+if you were inside the event horizon 
+
+you could never escape the black hole 
+
+because you would need 
+
+a speed which is larger than the speed of light 
+
+therefore you can never escape from inside the event horizon 
+
+nothing can get out of it 
+
+not xrays no radio emission no light nothing 
+
+once youre inside the event horizon youve had it 
+
+you cannot escape it 
+
+and so the question now that comes 
+
+can we see xrays from a black hole 
+
+
+because if nothing can come out of a black hole 
+
+how can we see xrays 
+
+and the answer is yes we can 
+
+because as long as the matter that swirls in 
+
+is outside the event horizon it would still be very hot 
+
+because gravitational potential energy 
+
+would already have been released it would be very hot 
+
+and it would emit xrays 
+
+so we can see xrays outside a black hole 
+
+however you will never see pulsations 
+
+because a black hole has no surface like a neutron star 
+
+so theres no such thing 
+
+as two hot spots which rotate around 
+
+and so now comes the problem for 
+
+how can you determine the mass of the accretor 
+
+
+if the accretor is not a pulsating neutron star 
+
+but if the accretor is a black hole 
+
+well you can only now measure the doppler shift of the donor 
+
+because the donor in general is quite well visible 
+
+its an optical star 
+
+but you will not be able to measure 
+
+the doppler shift of the black hole no pulsations 
+
+if however an astronomer can make an estimate 
+
+of the mass of that donor 
+
+then you will find the mass of the accretor 
+
+in other words instead of having 
+
+the doppler shift measurements of both stars 
+
+the neutron star and the donor star 
+
+which gives you the mass of two stars 
+
+now you have to settle for the doppler shift of only the donor 
+
+and the mass of the donor itself 
+
+and if you have a reasonable idea of what that mass will be 
+
+then you can find the mass of the accretor 
+
+and there is a very famous case 
+
+that was the first one discovered in the early s 
+
+which is called cygnus x 
+
+cygnus x is an xray binary 
+
+which has an orbital period of  days 
+
+the doppler shift measurements of the donor were made 
+
+and astronomers simply looking at the spectrum 
+
+at the absorption lines 
+
+and the structure of the absorption lines 
+
+and the kind of absorption lines 
+
+were able to say yeah the mass of the donor 
+
+is probably approximately  solar masses 
+
+and with that information and with the doppler shift 
+
+you can now arrive at the mass of the accretor 
+
+and that is in this case 
+
+oh by the way 
+
+there is an r missing in the word accretion there 
+
+that mass turns out to be about  solar masses 
+
+
+
+now when this was found in the early s 
+
+most people concluded this has to be a black hole 
+
+it is a very compact object 
+
+otherwise it wouldnt emit xrays in the first place 
+
+and clearly if the mass of that compact object 
+
+is way larger than three solar masses 
+
+then there is no doubt in our minds that this is a black hole 
+
+since that time 
+
+many black hole xray binaries have been discovered 
+
+so if i summarize the amazing thing is 
+
+from studying the doppler shift 
+
+of binary systems like xray binaries 
+
+you can derive the orbital parameters orbital radius 
+
+
+orbital periods the speed of the stars in orbit 
+
+but you can also find the masses 
+
+and whenever you make a measurement of the mass 
+
+when it is a neutron star 
+
+when you see the xray pulsations 
+
+you almost always find 
+
+that it is very close to  times the mass of the sun 
+
+but in a few cases you will find 
+
+that the mass is substantially larger 
+
+admittedly you have to do without the doppler shift then 
+
+of the accretor but you have to use some other information 
+
+and then you can conclude in most cases 
+
+with pretty good confidence 
+
+that youre dealing with something like 
+
+bizarre as a black hole 
+
+
+which you can only define the event horizon 
+
+and you can never escape a black hole 
+
+when youre inside the event horizon 
+
+because that is when the escape velocity 
+
+would be larger than the speed of light 
+
+so this is the escape velocity 
+
+if you set that equal to c 
+
+then you can solve for the radius of the event horizon 
+
+and out of it pops this equation 
+
+i would like to show you now a slide of cygnus x 
+
+which is the oldest known black hole xray binary 
+
+
+
+i have to lower the screen 
+
+
+
+and there it comes 
+
+
+
+this was really a bombshell when this was discovered 
+
+i still remember reading that first publication 
+
+two people discovered this independently by the way 
+
+they came independently to the same conclusion 
+
+tom bolton and it was paul merlin 
+
+two independent groups 

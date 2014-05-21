@@ -1,0 +1,87 @@
+Slide 0
+Superconductivity: Electron-phonon Coupling and Unconventional Pairing with Repulsive Interaction V.V. Kabanov  
+---------
+Slide 1
+National Research Nuclear University "MEPhI MEPhI was founded in 1942 as the Moscow Mechanical Institute of Munitions 1 Historical overview 2 Some theoretical concepts and e-ph coupling. 3 Superconductivity with repulsion. 
+---------
+Slide 2
+Heike Kamerlingh Onnes (21 September 1853  21 February 1926) was a  Dutch physisist. His scientific career was spent exploring extremely  cold refrigeration techniques and the associated phenomena.     1908 he was the first physicist to liquify helium. Reducing the pressure of  helium allows to reach 0.9K. Birthday of low temperature physics.   1911 The resistivity of mercury drops unexpectedly to zero at 4.2K.  Birthday of superconductivity.  1913 Nobel prize in physics.  In the field of superconductivity and superfluidity it was awarded 7  Nobel prices, 6 of them in the last 40 years (the last in 2003).  
+---------
+Slide 3
+Few historical facts Kamerlingh Onnes and his assistant  Gerrit Jahn Flim in Cryogenic Lab. 1   Problem of obtaining  the required amount of helium gas. They manage to get 360 liters of helium gas from the sand from North Carolina.   2   Measurements of resistivity of pure  metals at low T. First platinum and  gold. Then mercury was chosen  because of easy purification.   3Zero resistance has been found.  But it was attributed to a short circuit  somewhere in the cryostat. 
+---------
+Slide 4
+Gilles Holst, who made the first measurements of superconductivity. Because of deficit of helium the pressure in the cryostat was low, to ensure  that helium does not escape from the cryostat.   Boiling point of He is 4.2 K. Critical temperature of  mercury is  4.15K  The finite resistivity was found, because student was not able to keep  the pressure low! Very soon it was discovered superconductivity in tin and lead. Then it was discovered, that external  magnetic field as well as superconducting current suppresses superconductivity. It was attempts to  measure isotope effect and Meissner -Ochsenfeld effect(1933).     
+---------
+Slide 5
+London Equations London penetration depth The meaning of London theory: 
+---------
+Slide 6
+
+---------
+Slide 7
+Ginzburg-Landau Theory (Nobel prize 2003).  Order parameter  scalar complex function  ! Interesting story about charge 2e in GL theory! 
+---------
+Slide 8
+Magnetic field Magnetic field penetrates to the superconductor in the form of tubes. Outside of this tubes field is absent  Vortices in in type II superconductors Abrikosov phase -Coherence length -Penetration depth - Type I superconductors - Type II superconductors 
+---------
+Slide 9
+Microscopic theory of superconductivity (1956) 
+---------
+Slide 10
+Superconducting transition is the phase transition of the second order which is described by the complex order parameter:  Elementary excitations have gapped spectrum.  The ground state is described by the order parameter which have the meaning of the quantum mechanical wave function.  The properties of the system at large energies are not changed with respect to that of the normal state.   Critical temperature is determined by the interactions in the normal metallic state, i.e. by Coulomb pseudopotential and coupling to phonons. Microscopic theory of superconductivity (1956) 
+---------
+Slide 11
+Discovery of high temperature superconductivity (1986) 
+---------
+Slide 12
+
+---------
+Slide 13
+Eliashberg theory of superconductivity Coulomb pseudopotential: This parameter is dimensionless and tells us if the correlations are weak or strong in the metal. Electron-phonon interaction in metals Isotropic case, nothing is momentum dependent: Coulomb pseudopotential is renormalized due to retardation effect 
+---------
+Slide 14
+is complicated function Electron-phonon interaction in superconductors is spectral function of electron-phonon interaction or Eliashberg function. This function describes electron-phonon interaction in superconductors.  Dimensionless electron-phonon coupling constant n-th moment of Eliashberg function 
+---------
+Slide 15
+Superconducting metals There are two dimensionless parameters to characterize superconducting metals: Electron-phonon coupling constant Coulomb pseudopotential, reduced due to retardation effects 
+---------
+Slide 16
+Kinetics of hot electrons in the normal states.               Pump-probe spectroscopy. 
+---------
+Slide 17
+YBaCuO LaSrCuO Iron-based pnictides PRB, 82, 012505 (2010) 
+---------
+Slide 18
+Background 
+---------
+Slide 19
+Order parameter In our simple case  we consider uniform case  i.e 
+---------
+Slide 20
+More details Equation for    
+---------
+Slide 21
+This diagrams are very difficult to evaluate if repulsion V(q) is               q-dependent!  Therefore most of the previous and recent studies confined to hard sphere (Hubbard U) repulsion V(q)=const!   Diagrams  b),c),d)  cancel each other. Diagram e) is known Lindhard function: 
+---------
+Slide 22
+Hubbard model: Weakly interacting Hubbard model is superconducting in 3D 
+---------
+Slide 23
+In 2D the screening is different and the pairing is possible only because of nontrivial Fermi surface.  The exchange diagram e) is given  by: Pairing is absent because it does not have negative contributions for any l ! To have superconductivity in 2D it is important to take into account nonspherical shape of Fermi surface.   M.A. Baranov, A.V. Chubukov M.Yu. Kagan  Int. J. of Mod. Phys.  (1992). 
+---------
+Slide 24
+Only diagrams a) and e) are not equal to 0!  
+---------
+Slide 25
+Therefore screening radius is large in comparison with the distance between  particles. q-dependence is important in metals  with small  Note that the line from my paper with Raghu, (''in the small rs limit, the Coulomb interactions are sufficiently well screened that it may be reasonable to treat them as weak and short-the carefully inserted modifier, "may," as this is not something we could establish.  
+---------
+Slide 26
+Where superconductivity is possible? P-wave superconductivity is outside of applicability of the theory, d-wave superconductivity requires screening radius which is at leas 1 order of magnitude shorter than lattice constant! 
+---------
+Slide 27
+Self-consistent calculations 
+---------
+Slide 28
+Conclusions Thank you for the attention 
+---------

@@ -1,0 +1,426 @@
+
+
+do you think its standard to have the real interest rate be 
+
+under  
+
+so why is it under  
+
+whats going on now that would make that happen 
+
+yep 
+
+the federal reserve wants to  
+
+investment 
+
+ah ha  
+
+the federal reserve has cut the interest rate 
+
+the nominal interest rate that it lends at to close to  
+
+lets say to  percent on the  year bond to  on the  month 
+
+thing 
+
+so the reason theyre saying theyre doing that is to 
+
+stimulate investment 
+
+thats what they teach you in macro keynesian 
+
+stimulate investment 
+
+were going to find out that thats not the reason theyre 
+
+doing it at all 
+
+the reason the federal reserve is cutting the interest rate to 
+
+almost zero is to just give money away to the banks 
+
+and why it that 
+
+well when you put your money and deposit it in the bank 
+
+
+youre getting almost no interest 
+
+so the banks the big banks have got all 
+
+these deposits and people dont change what they do 
+
+they just leave their money in the banks getting no interest 
+
+so the banks have the money for free and they can make money 
+
+with it 
+
+so normally theyd have to pay  percent interest or something 
+
+and that would be expensive for them 
+
+
+and that expense is a big part of their expenses 
+
+they dont have it anymore 
+
+so were going to come back to that whats really going on 
+
+today but thats whats going on 
+
+but anyway the point is the nominal interest rate is somehow 
+
+controlled by the fed 
+
+thats why we dont have a theory of it 
+
+were not going to do macro in this course 
+
+so fisher doesnt have a theory of the nominal interest rate 
+
+of inflation but he does tell you 
+
+given inflation and the nominal interest rate 
+
+thats determining a real interest rate 
+
+and people should look through that 
+
+so now they should say this is sort of the keynesian 
+
+part they should realize that 
+
+actually an apple today if you just sort of put it in the bank 
+
+you get less than an apple in the future so you should spend 
+
+it and do something with it 
+
+thats the keynesian idea so peoplewhy fritter away 
+
+
+part of your apple do something with it 
+
+thats why its supposed to stimulate demand and activity 
+
+today 
+
+so the point is thats how you calculate the 
+
+real rate of interest and shockingly its negative and 
+
+its hardly ever negative but it can be negative 
+
+are there any questions about this no arbitrage business 
+
+all right so lets do one more trick here a fisher thing 
+
+so lets go back to the equilibrium with q  
+
+ and q   
+
+suppose china offered to lend money lend us dollars at a  
+
+percent interest 
+
+would that be a great deal 
+
+would people rush to do that 
+
+this is the equilibrium we solved over here already 
+
+so is that a great deal 
+
+would that upset the equilibrium 
+
+would anyone bother to take the chinese deal if they lent at  
+
+percent interest they were offering to do that 
+
+
+
+what 
+
+no  
+
+professor john they wouldnt take it 
+
+were back here 
+
+whats the nominal interest rate in this economy 
+
+ percent  
+
+professor john  percent interest 
+
+so if you want to borrow in this economy from another 
+
+american you have to give the guy  percent interest 
+
+here the chinese are offering to lend you at  percent 
+
+
+interest 
+
+so yes everyone would rush to take the thing and that would 
+
+have a big effect on what the equilibrium was if the chinese 
+
+were willing to lend money at such a low rate of interest 
+
+lets try another question 
+
+suppose you invented a technology new technology 
+
+new technology turns  unit  apple today 
+
+into  apples tomorrow 
+
+is this something people would rush to do or not 
+
+suppose some inventor figured out how to do that 
+
+would he rush to do it 
+
+could it be used to help the economy 
+
+so lets put it this way 
+
+could this new technology be used to make a pareto 
+
+improvement everybody better off 
+
+yep 
+
+thats no because an apple tomorrow  
+
+worth less than half of an apple today 
+
+its worth a third of an apple today so no one would want to 
+
+do that 
+
+professor john so thats exactly the right 
+
+answer 
+
+actually youre answering two questions 
+
+i asked two questions 
+
+one is could it be used to help the economy make everybody 
+
+better off 
+
+if a social planner was in charge of things and the chinese 
+
+invented this new technology or some american in alaska 
+
+invented this new technology should the government use the 
+
+technology and could it use the technology to make everybody 
+
+better off and the answer to that is no 
+
+and then the answer to a second question issuppose the guy in 
+
+
+alaska discovered it himself 
+
+he couldnt care less about the pareto improvement and helping 
+
+other guys or the american planners or anything 
+
+he just wanted to make a profit for himself 
+
+would he make a profit 
+
+the answer is no because the real prices 
+
+fisher would say are  and a third and no matter 
+
+how you look at it the interest rate is  
+
+hes losing money because hes giving something 
+
+
+up thats worth  and hes getting something thats only 
+
+worth  thirds 
+
+so hed be losing money to do it 
+
+hed lose money 
+
+so we could prove that even 
+
+so the answer is no 
+
+thats the first question and nobody would do it anyway 
+
+and fortunately nobody would choose to do itchoose to use 
+
+itbecause it loses money 
+
+so those are two separate questions 
+
+could it be used and would any individual choose to do it 
+
+would it be good for the society and would any individual 
+
+
+choose to do it 
+
+the answers happen to agree here 
+
+so why cant it be used as a pareto improvement 
+
+whats the proof of this that it cant be 
+
+the answers no 
+
+whats the proof 
+
+well the proof is that if it did 
+
+if in the end it led to an allocation 
+
+xhata lets call it xtilde 
+
+a xtildea 
+
+and xtildeb xtildeb that 
+
+made everyone better off 
+
+then well we give their old proof 
+
+then what 
+
+it means that p xtildea 
+
+p xtildea is bigger 
+
+than what 
+
+p ehata 
+
+all right thats what you have in the fisher economy 
+
+p ehata and similarly p 
+
+xtildeb p 
+
+xtildeb is bigger than p 
+
+ehatb p 
+
+ehatb 
+
+so why is that 
+
+because in this fisher economy the general equilibrium 
+
+if this allocation really made a better off than what hes 
+
+gotten than  third and  
+
+he would have chosen it 
+
+
+and b she would have chosen her thing if it was better than 
+
+ thirds and  
+
+so clearly they must have been too expensive for those two to 
+
+choose because they were rationally choosing the right 
+
+thing given what they could afford 
+
+so then you just add the stuff up 
+
+you add and you find that total consumption value is bigger than 
+
+total endowment value 
+
+thats in the fisher economy but weve changed the fisher 
+
+economy because now weve added this technology which took away 
+
+some of the first good and made it into the second good 
+
+but that technology just lost money 
+
+which is bigger than total value in new technology economy 
+
+right 
+
+and so thats a contradiction because the consumption of this 
+
+however the new technology got used in the end the total 
+
+consumption of the people had to be the total of what there was 
+
+and what was produced in the economy 
+
+the value after the new technology is introduced in that 
+
+new economy has only gone down compared to the fisher economy 
+
+and the fisher economy value of endowments must have been less 
+
+than this brilliant new allocation 
+
+and thats a contradiction because this new allocation has 
+
+to add up to the stuff thats there in the new technology 
+
+economy 
+
+so thats how we know that no new technology could possibly 
+
+make everybody better off and we know trivially it makes 
+
+
+everyone better off if and only if it makes a profit 
+
+so if and only if it makes a profit can it be used to make 
+
+everybody better off and amazingly 
+
+in a free market economy people are going to use it if 
+
+and only if it makes a profit 
+
+so theyre going to use it if and only if its a good thing 
+
+for the economy 
+
+so thats the basic laissezfaire argumentthat 
+
+there are new discoveries all the time 
+
+every other day somebodys thinking of something new 
+
+are we going to use it 
+
+should we use it 
+
+is it something we need to read about in the papers and use 
+
+well there are a whole bunch of people 
+
+the discoverers themselves theyre going to talk to their 
+
+business friends and theyre going to say 
+
+do you want to lend me the money to get this thing 
+
+going and all of them are going to do this profit 
+
+calculation 
+
+if they decide it loses money theyre not going to do it 

@@ -1,0 +1,204 @@
+Slide 0
+Gil RosenmanSchool of Electrical Engineering-Physical Electronics, Faculty of Engineering, Tel Aviv UniversityBiological and Bioinspired Nanostructured Materials: Basic Physics and Applications Peptide NanotubesVapor Deposition TechnologyBioinspired MaterialsElastic FibrilsBiological WorldInorganic World Nanostructured MaterialsBasic Physics and Applications
+---------
+Slide 1
+Biological and Bioinspired Materials at Nanoscale Natural Nanofibrils Amyloid fibrilsAlzheimer amyloid nanofibrils Living Nature: Protein FibersActin filamentMicrotubulesNanofibrillar filaments Actin filamentMicrotubulesNanofibrillar filaments Human Bone Collagen
+---------
+Slide 2
+The transition from the native state conformation  to amyloid fibrils There are ~ 20 distinct human diseases that are associated with amyloid fibrils  formation: regular fibrillar structures micrometers in length, a few nanometers in diameter Nature: Amyloid FibrilsAmyloid Fibrils-NATURAL BIOLOGICAL NANOFIBRILS  Soluble Peptides and Proteins Insoluble Amyloid Fibrils M. Hayden, S. Tyagi, 2001 Endocrine pancreas, amyloid fibrils K. Dill, H. Chan, Nature Struct.  Biology, 1997 TTR amyloid fibrils in cerebrospinal fluid   T. Kowalewski, D. Holtzman,   PNAS, 1996 Alzheimers amyloid peptide Alzheimer filaments diam.  10-15 nm , few mm length S.Takahashi, Osaka Univ, 2006 2-microglobulin amyloid fibrils 
+---------
+Slide 3
+E. Gazit, et al, Nature Nanotechnology, 2006E. Gazit, et al, Science, 2003Bioinspired Chemically Synthesized Molecules-Core Motif of Alzheimer diseaseFF-peptideFFBioinspired Peptide NanotubesZhang, (2002): "Peptide Lego   Peptide Engineering Peptide Engineering: D- and L-amino-acid cyclic peptide M. R. Ghadiri, Nature, 1993 SEM imageAqueous solution New Generation of BioinspiredMaterials
+---------
+Slide 4
+E. Gazit, et al, Nature Nanotechnology, 2006E. Gazit, et al, Science, 2003Bioinspired Chemically Synthesized Molecules-Core Motif of Alzheimer diseaseFF-peptideFFBioinspired Peptide NanotubesZhang, (2002): "Peptide Lego   Peptide Engineering Peptide Engineering: D- and L-amino-acid cyclic peptide M. R. Ghadiri, Nature, 1993 SEM imageAqueous solution The Question is:What Do We Know About These New Nanostructures? New Generation of BioinspiredMaterials
+---------
+Slide 5
+Biological and Bioinspired Structures250  M. Perutz, Adenovirus-based on peptide fibrils,  J Biol. Chem,  2005 Makin, O. S., Amyloid Fibrils (Alzheimer) Febs J. 2005TEMP. Samori, Adv Mater, 2010 2D SupramolecularStructure of  Carboxylic AcidsSelf assembly mechanismR. Ghadiri, Angew. Chem. 2001Nanocrystalline Building Blocks Linked by  Noncovalent, Weak InteractionsD- and L-amino-acid cyclic peptideR. Ghadiri , Bioinspired Peptide Nanotubes, Nature, (1993)Supramolecular Structures
+---------
+Slide 6
+Common Basic Features:  1. Identical core biomolecule composition 2. Similar molecular recognition and self assembly mechanisms 3. Supramolecular nanofibrillar structures containing nanoscale crystalline elementary building blocks assembled due to noncovalent weak, reversible, dynamic interactions Common Intrinsic Physical Properties?2 mm Biological Natural Nanofibrils Bioinspired NanostructuresNanofibrillar  StructureHuman Bone CollagenAmyloid FibrilsHuman InsulinPeptide Nanotubes
+---------
+Slide 7
+P. Samoli, (2010) Biological and Bioinspired Structures: Motivation and Goals 1. Basic Intrinsic Properties at the Interchange Physics-Biology   -Nanophotonics (Bio-LEDs, Bio-Lasers, Non-Linear Optical Converters, etc)  -Nanopiezotronics, Nano-Bio-Piezotronics and Bio-Piezoceramics -Energy Storage Devices (Batteries and Supercapacitors) Could  Self Assembly Bioinspired  Peptide Nanostructures be a  Model of Biological Materials? -Structural Nanoordering (scale of ~10-30 )-Low Dimensional  Structures: Quantum confinement,  Exciton PL, LED and Lasers; QD-biomarkers Virtual Optical Microscopy   -Symmetry of Nanocrystalline Blocks: Piezoelectric,  Linear Electrooptic and Nonlinear Optical Effects Exceptional Physical SituationMotivation and Goals2. Self Assembly Mechanism 3. New Generation of Nanostructural Bioinspired Materials 
+---------
+Slide 8
+Bottom-up Nanotechnology of Bioinspired Peptide Nanostructures Vapor Deposited Peptide Nanotubes Evaporated from Solution Peptide Nanotubes E. Gazit, Science, 2003Rosenman, Gazit, Nature  Nanotechnol, 2009Self Assembly-Technology Developed by NaturePart I
+---------
+Slide 9
+Peptide Engineering and Self Assembly Mechanism M. R. Ghadiri, Nature, 1993,  D- and L-amino-acids (8 units forming  Cyclic Peptide) SEM imageAqueous solution Cryo-TEMElementaryBuilding Block2 Peptide Molecules Striations in the TEM image are ~ 18 A diameter of peptide ring Subunit distances of 4.8 A D
+---------
+Slide 10
+substrate substrate Substrate Heater Peptide  Nanotubes Peptide Nanotubes Vapor DepositionPCT Patent Application No. PCT/IL2008/001118, 2008 Nature Nanotechnology, 2009 Large Scale SystemTryptophanePNT PatterningTyrosineTryptophane
+---------
+Slide 11
+substrate substrate Substrate Heater Peptide  Nanotubes Peptide Nanotubes Vapor DepositionPCT Patent Application No. PCT/IL2008/001118, 2008 Nature Nanotechnology, 2009 Large Scale SystemTryptophanePNT Density~108 units/cm2  Diameter~50-200 nm  Height~1-50 mm PNT PatterningTyrosineTryptophaneJ. Pept. Sci, 2011Regular Cross Section: Tetragonal Symmetry I4  
+---------
+Slide 12
+substrate substrate Substrate Heater Peptide  Nanotubes Peptide Nanotubes Vapor DepositionPCT Patent Application No. PCT/IL2008/001118, 2008 Nature Nanotechnology, 2009 Large Scale SystemTryptophanePNT Density~108 units/cm2  Diameter~50-200 nm  Height~1-50 mm PNT PatterningTyrosineTryptophaneJ. Pept. Sci, 2011Regular Cross Section: Tetragonal Symmetry I4  Self Assembly Mechanism?Elementary Building Blocks?
+---------
+Slide 13
+Peptide NanostructuresPNT Vapor Deposited, FF-dipeptidePNT From Solution FF-dipeptideHydrogel Fibrils,  Fmoc-FF Peptide spheres,  Boc-FF 2 mm Insulin Amyloid fribrils1 mm Peptide Quantum DotsNature Nanotech, 2010Nano Lett, 2009JACS, 2010Advanced Mater, 2010Appl. Phys. Lett 2009 JACS, 2010Recent Publications-Nature Nanotechnology, ( 2009) -Nano Lett, (2009) -Appl Phys. Lett, ( 2009) -ACS Nano (2010) -Advanced Materials (2010) -J. of Materials Research (2010) -J. of Materials Science (2010) -Material Science and Engineering, B (2010) -Ferroelectrics (2010) -JACS(2010),                  Nature, News & Views (2010) -J. Pept Sci (2011) -J. Biomacromol (2011) Bio-Piezoceramics 10 m 
+---------
+Slide 14
+Part IIOptical Properties of Bioinspired Materials:  Nanostructure and  Quantum ConfinementY. L. Dory, Angew. Chem. Int. Ed. 2001  Could This Nanotube Be  A Quantum Well Structure? 
+---------
+Slide 15
+Self Assembled Bio-Inspired Peptide Nanotubes (Abs)~nm Absorption (PL)~nm, ~30 nm PhotoluminescenceWavelength, nmAbsorption, a.uNormalized efficiencyNormalized efficiencyMonomer Diphenilalanine, Aqueous Solution FF-Peptide Monomer10 m JACS, 2010Nature Nanotechnol, 2009Nano Letters, 2009FF-peptide nanofibers  (vapor deposition) FF-peptide nanotubes assembled in liquid The Same Monomer Diphenilalanine FF-Peptide
+---------
+Slide 16
+10 m FF-PNT, assembled in liquid Optical Absorption280320240Wavelength, nm JACS, 2010Optical Absorption of Self Assembled Bio-Inspired Peptide NanotubesFF-nanofibersFF-monomer0.0 0.4 0.8 Optical Absorption 250 350 450 Wavelength, nm Step-like absorption PNTNature Nanotechnol, 2009Nano Letters, 2009Peak-like  Optical  Absorption FF-peptide nanofibers  (vapor deposition) Optical AbsorptionOptical Absorption
+---------
+Slide 17
+L(Z)~Density of States , DOS3DQuantum well2DQuantum dot0DhhE~3-4 eVE~10-15 eVEL(Z)~L(X)~L(Y)~L(X,Y)~1 cmXY1DL(Z)~L(X)~L(Y)~1 cmL(X,Y,Z)~1 cmXZYEE~1 eVL(Z)~Density of StatesQuantum Confinement PhenomenaOptical Absorption is Defined by  Electron Density of States Bulk crystal L~(de Broglie wavelength of an electron, ~10-40 Angstrom)
+---------
+Slide 18
+L(Z)~Density of States , DOS3DQuantum well2DQuantum dot0DhhE~3-4 eVE~10-15 eVEL(Z)~L(X)~L(Y)~L(X,Y)~1 cmXY1DL(Z)~L(X)~L(Y)~1 cmL(X,Y,Z)~1 cmXZYEE~1 eVL(Z)~Density of StatesQuantum Confinement PhenomenaBulk crystal L~(de Broglie wavelength of an electron, ~10-40 Angstrom)
+---------
+Slide 19
+L(Z)~Density of States , DOS3DQuantum well2DQuantum dot0DhhE~3-4 eVE~10-15 eVEL(Z)~L(X)~L(Y)~L(X,Y)~1 cmXY1DL(Z)~L(X)~L(Y)~1 cmL(X,Y,Z)~1 cmXZYEE~1 eVL(Z)~Density of StatesQuantum Confinement PhenomenaBulk crystal L~(de Broglie wavelength of an electron, ~10-40 Angstrom)
+---------
+Slide 20
+Optical Data-Virtual Probe MicroscopyL(Z)~Density of States , DOS3DQuantum well2DQuantum dot0DhhE~3-4 eVE~10-15 eVEL(Z)~L(X)~L(Y)~L(X,Y)~1 cmXY1DL(Z)~L(X)~L(Y)~1 cmL(X,Y,Z)~1 cmXZYEE~1 eVL(Z)~Density of StatesQuantum Confinement PhenomenaBulk crystal L~(de Broglie wavelength of an electron, ~10-40 Angstrom)
+---------
+Slide 21
+FF-peptide nanotubes (evaporation from solutions) 1 m PQD, dissembled10 mm PNT, assembled Optical Absorption280320240Wavelength, nm JACS, 2010Quantum Confinement in Self Assembled Bio-Inspired Peptide NanotubesStep-like optical  absorption 2D-Quantum Confinement FF- Vapor Deposited Peptide Nanofibers PNT-Assembled from Solution Peak-like optical absorption OD-confinement Monomer Diphenilalanine, aqueous solution (Abs)~nm Absorption (PL)~nm, ~30 nm PhotoluminescenceWavelength, nmAbsorption, a.uNormalized efficiencyNormalized efficiencyFF-nanotubesFF-monomer0.0 0.4 0.8 Optical Absorption 250 350 450 Wavelength, nm Step-like absorption Spectrum of QDPQDPNTQuantum Well StructureFF-PNF 
+---------
+Slide 22
+FF-peptide nanotubes (evaporation from solutions) 1 m PQD, dissembled10 mm PNT, assembled Optical Absorption280320240Wavelength, nm JACS, 2010Quantum Confinement in Self Assembled Bio-Inspired Peptide NanotubesStep-like optical  absorption 2D-Quantum Confinement FF- Vapor Deposited Peptide Nanofibers PNT-Assembled from Solution Peak-like optical absorption OD-confinement Monomer Diphenilalanine, aqueous solution (Abs)~nm Absorption (PL)~nm, ~30 nm PhotoluminescenceWavelength, nmAbsorption, a.uNormalized efficiencyNormalized efficiencyFF-nanotubesFF-monomer0.0 0.4 0.8 Optical Absorption 250 350 450 Wavelength, nm Step-like absorption Spectrum of QDPQDPNTQuantum Well StructureQuantum Dot StructureFF-PNF 
+---------
+Slide 23
+1.Step-like optical absorption spectra 2. Photoluminescence in UV and visible  region of Exciton origin at Room Temperature 2D-quantum confinement in self assembled FF-nanofibersHighly Ordered Nanocrystallized QW Structure Photoluminescence in Quantum Confined Bio-Inspired Nanostructures  E=0.98 eV, L~10-13  FF-peptide nanotubes (vapor deposition Absorption, a.u Normalized efficiencyNormalized efficiencyPL,Normalized efficiencyPL,(Exc~370 nm) PL,(Exc~290 nm) UV Blue 300500700 Wavelength, nmWavelength, nmPL,Normalized efficiencyAbsorption, a.u 240280320 Optical AbsorptionPLEPLPNT Evaporated from SolutionStocks shiftVapor Deposited PNTPL at Room temperatureNano Letters, 2009
+---------
+Slide 24
+FF-peptide nanotubes (vapor deposition) 10 mm FF-nanotubesFF-monomer0.0 0.4 0.8 Optical Absorption 250 350 450 Wavelength, nm Cyclic Peptide Nanotubes-QW Engineering  Quantum Well Structure~13  Spectrum of QWSelf Assembly Process: PNT of 10 m length: 10,000 QW in dozen of secondsQW structure in PNT  is intrinsic structure for Laser-QW-Bio-Laser? Nano Lett., 2009R. Ghadiri , Nature., (1993); J. Am. Chem. Soc., (1996)Cyclic Peptides              Quantum Wells
+---------
+Slide 25
+FF-peptide nanotubes (vapor deposition) 10 mm FF-nanotubesFF-monomer0.0 0.4 0.8 Optical Absorption 250 350 450 Wavelength, nm Cyclic Peptide Nanotubes-QW Engineering  Quantum Well Structure~13  Spectrum of QWSelf Assembly Process: PNT of 10 m length: 10,000 QW in dozen of secondsQW structure in PNT  is intrinsic structure for Laser-QW-Bio-Laser? Nano Lett., 2009Could we TUNE the wavelength?R. Ghadiri , Nature., (1993); J. Am. Chem. Soc., (1996)Cyclic Peptides              Quantum Wells
+---------
+Slide 26
+Quantum Dot Structure~15  1 mm PQD, dissembledFF-peptide nanotubes (evaporation from solutions) 10 mm PNT, assembled PQDPNTOptical Absorption280320240Wavelength, nm Spectrum of QDJACS, October, 19, 2010QD-Bio-Markers?Nature, N&V, 468, Nov 25, 2010QD-Bio-Laser?
+---------
+Slide 27
+Quantum Dot Structure~15  1 mm PQD, dissembledFF-peptide nanotubes (evaporation from solutions) 10 mm PNT, assembled PQDPNTOptical Absorption280320240Wavelength, nm Spectrum of QDJACS, October, 19, 2010QD-Bio-Markers?Nature, N&V, 468, Nov 25, 2010QD-Bio-Laser?Could we TUNE the wavelength?
+---------
+Slide 28
+Wavelength, nm2.90Absorption, a.u 1.900.90235285335385FF FibrilsSub-gelFmoc-FF A.Machler, et al. Advan. Mater., 2006 Hydrogel Fmoc-FF 1 m Quantum Dot StructurePeptide Nanotubes Self Assembly MechanismExcitation PL Absorption Stokes Shift,  ~ 15 nm Normalized efficiencyNormalized efficiencyNormalized efficiencyWavelength, nmAbsorption, a.u~307 nm Hydrogel-Fibrils Adv. Mater., 2010Photoluminescence excitation spectraFmoc-FF HydrogelSub-gelWavelength, nmNormalized efficiencyNormalized efficiencyNormalized efficiency(PL)~325 nm ~3.7 nm Dynamics of Exciton Formation-Self Assembly Mechanism
+---------
+Slide 29
+Wavelength, nm2.90Absorption, a.u 1.900.90235285335385FF FibrilsSub-gelFmoc-FF A.Machler, et al. Advan. Mater., 2006 Hydrogel Fmoc-FF 1 m Quantum Dot StructurePeptide Nanotubes Self Assembly MechanismExcitation PL Absorption Stokes Shift,  ~ 15 nm Normalized efficiencyNormalized efficiencyNormalized efficiencyWavelength, nmAbsorption, a.u~307 nm Hydrogel-Fibrils Adv. Mater., 2010Could  Self Assembly Bioinspired  Peptide Nanostructures be a  Model of Biological Materials? Photoluminescence excitation spectraFmoc-FF HydrogelSub-gelWavelength, nmNormalized efficiencyNormalized efficiencyNormalized efficiency(PL)~325 nm ~3.7 nm Dynamics of Exciton Formation-Self Assembly Mechanism
+---------
+Slide 30
+Self Assembly Insulin Amyloid Fibrils 200 nm C~0.5 mg/ml,  d~1.3 nm 200 nm C>1.5 mg/ml,  d~5 nm 1 m C>6 mg/ml Amyloid fibrils Optical AbsorptionPL Excitation bbba a a ccc~4 nm
+---------
+Slide 31
+BIOLOGICAL AND BIOINSPIRED NANOSTRUCTURES:   FERROELECTRICITY AND RELATED PHENOMENA Pasteur, 1860:  Biological systems have a common basic feature: pronounced chiral dissymmetric structures Part  III
+---------
+Slide 32
+P. Samori, (2010) Biological and Bioinspired Structures: Motivation and Goals -Ferroelectric Properties in Bioinspired Nanostructures   - Bottom-up Technology  -Ferroelectric  (Piezoelectric) Bioinspired  Biocompatible Materials -Structural Nanoordering (scale of ~10-30 )-Low Dimensional  Structures: Quantum confinement,  Exciton PL, LED and Lasers, Diagnostics of Amyloid Disease   -Symmetry of Nanocrystalline blocks: Ferroelectric and Related  Phenomena Such as Piezoelectric, Linear Electrooptic and  Nonlinear Optical Effects New Physical SituationMotivation and Goals
+---------
+Slide 33
+Piezoelectricity, SHG are Fundamental and INTRINSIC Property of Biological  Materials.Plants, animal and human tissues are Piezoelectrics.  Ferroelectricity in Biology Piezoelectric effect in bones Fukada, J. Phys. Soc. Japan, 1957 Linear electroptic effect in nerve fibers Tasaki, Jpn. J. Physiol, 1993 Second harmonic generation in pineal glandLang, IEEE Trans. on Dielectrics, 1996 Y. Feldman, et al J. Phys. Chem. B, 105, No. 14, 2001 Bacteriorhodopsin-membrane protein  Dipole moment P~100 D, Kimura, 1984 Ferroelectric and related phenomenon Pyroelectric properties in tendon and bones Lang, Nature, 1966  Athenstaedt, Ann NY Acad. Sc., 1974 and in nerve tissue Electrical Spontaneous PolarizationPyroelectric and piezoelectric properties in  amino acids-based crystals Lemanov, Ferroelectrics, 1998 
+---------
+Slide 34
+Piezoelectricity, SHG are Fundamental and INTRINSIC Property of Biological  Materials.Plants, animal and human tissues are Piezoelectrics.  Ferroelectricity in Biology Piezoelectric effect in bones Fukada, J. Phys. Soc. Japan, 1957 Linear electroptic effect in nerve fibers Tasaki, Jpn. J. Physiol, 1993 Second harmonic generation in pineal glandLang, IEEE Trans. on Dielectrics, 1996 Y. Feldman, et al J. Phys. Chem. B, 105, No. 14, 2001 Bacteriorhodopsin-membrane protein  Dipole moment P~100 D, Kimura, 1984 Ferroelectric and related phenomenon Pyroelectric properties in tendon and bones Lang, Nature, 1966  Athenstaedt, Ann NY Acad. Sc., 1974 and in nerve tissue Electrical Spontaneous PolarizationPyroelectric and piezoelectric properties in  amino acids-based crystals Lemanov, Ferroelectrics, 1998 Matthias:   
+---------
+Slide 35
+Piezoelectric Effect in Human Bones at NanoscalePiezoresponse image    Rosenman, Nano Letters, (2004) Humerus and tibia bones 
+---------
+Slide 36
+Piezoelectric Effect in Human Bones at NanoscalePiezoresponse image    Rosenman, Nano Letters, (2004) Humerus and tibia bones Fibrils within parallel bundles in fascia tissues can have opposite polar axis orientation and are organized in small groups (domains) having the same polar orientation (180 domains). A.Gruverman, Biophysical Journal, 2010  Collagen Type 1Fibrils, Piezoresponse,   Collagen 1 fibrils Rotation 180Rotation 9050 nm
+---------
+Slide 37
+Ferroelectric and  Related Properties in  Bioinspired Peptide Nanotubes Diphenilalanine (FF) Peptide NanostructuresDipeptides:          Space Group LL-orthorhombic,  P212121 LF-monoclinic   P21 FL-orthorhombic  P212121 FF-hexagonal   P61 Chem. Eur. J. 2001  Chem. Commun. 2006;  Acta Cryst. 2010;  Curr. Opin. Sol. St. Mater. Sci. 2002  C. H. Grbitz, University of Oslo: Structure and Symmetry of 160  Dipeptide Nanotubes:
+---------
+Slide 38
+Ferroelectric and  Related Properties in  Bioinspired Peptide Nanotubes Diphenilalanine (FF) Peptide NanostructuresSymmetry of FF-Peptide Nanostructures?Dipeptides:          Space Group LL-orthorhombic,  P212121 LF-monoclinic   P21 FL-orthorhombic  P212121 FF-hexagonal   P61 Chem. Eur. J. 2001  Chem. Commun. 2006;  Acta Cryst. 2010;  Curr. Opin. Sol. St. Mater. Sci. 2002  C. H. Grbitz, University of Oslo: Structure and Symmetry of 160  Dipeptide Nanotubes:
+---------
+Slide 39
+Ferroelectric  Properties of FF-Peptide NanotubesPNT-Evaporated  from solution 10 mm PNT-Hexagonal StructureJACS, 2010Biomacromolecules, 2011Native PNT: Hexagonal Symmetry P61Self AssemblyLinear Diphenilalanine Peptide
+---------
+Slide 40
+1.Piezoelectric effect: 2. Spontaneous PolarizationPFM-room temperature Dr. A. Kholkin (Portugal)cooperation with : Force Microscopy-PiezoPSPSPeptide Nanotubes Piezoelectricity : Phase Transitiond15 ~ 100 pm/V    d33 ~ 7 pm/VACS Nano, 2010Piezo-Force Microscopy: cooperation with Prof. A. Gruverman (USA, Nebraska-Lincoln)  Piezoresponse
+---------
+Slide 41
+1.Piezoelectric effect: 2. Spontaneous PolarizationPFM-room temperature Dr. A. Kholkin (Portugal)cooperation with : Force Microscopy-PiezoPSPSPeptide Nanotubes Piezoelectricity : Phase Transitiond15 ~ 100 pm/V    d33 ~ 7 pm/VACS Nano, 2010Piezo-Force Microscopy: cooperation with Prof. A. Gruverman (USA, Nebraska-Lincoln)  PiezoresponseMacroscopic Piezoelectricity and Macroscopic  Electrical Polarization inSupramolecular Structures
+---------
+Slide 42
+1.Piezoelectric effect: 2. Spontaneous PolarizationPFM-room temperature Dr. A. Kholkin (Portugal)cooperation with : Force Microscopy-PiezoPSPSPeptide Nanotubes Piezoelectricity : Phase Transitiond15 ~ 100 pm/V    d33 ~ 7 pm/VACS Nano, 2010Piezo-Force Microscopy: cooperation with Prof. A. Gruverman (USA, Nebraska-Lincoln)  PiezoresponseMacroscopic Piezoelectricity and Macroscopic  Electrical Polarization inSupramolecular StructuresPhase Transition inSupramolecular Structures
+---------
+Slide 43
+Phase Transition in FF-Peptide NanotubesDiphenilalanine (FF) Peptide NanostructuresThe Same Diphenilalanine Monomer BUT Absolutely Different Properties At All Levels: Morphology, Symmetry, Molecular, Piezoelecric, SHG, Electronic, Optical, Wettability..and More  10 mm Low Temperature PhaseHollow NanotubesNanofibersT~150CHigh Temperature Phase J.Pept. Sci, 2011Biomacromolecules, 2011
+---------
+Slide 44
+Peptide Nanotubes Morphological Transition Biomacromolecules, 201110 m 1 mmSTEMT~150 C1 mm 
+---------
+Slide 45
+Peptide Nanotubes Morphological Transition Biomacromolecules, 201110 m 1 mmSTEMHollow PNTHollow PNTT~150 C1 mm Nanofibers Nanofiber
+---------
+Slide 46
+Peptide Nanotubes Morphological Transition100 nmTa.Tb.Tc.Td.Biomacromolecules, 2011
+---------
+Slide 47
+Peptide Nanotubes Morphological Transition100 nmTa.Tb.Tc.Td.-Huge Atomic Displacements -Transition Via Amorphous State?Irreversible   Phase TransitionBiomacromolecules, 2011
+---------
+Slide 48
+10 mm T~150 CPhase Transition: Wettability Properties Biomacromolecules, 2011SuperhydrophilicSuperhydrophobicHigh Temperature Phase 
+---------
+Slide 49
+10 mm T~150 CPhase Transition: Wettability Properties Biomacromolecules, 2011SuperhydrophilicSuperhydrophobicTotal Collapse of Nanochannels in PNTDue To Transition to PNFHigh Temperature Phase 
+---------
+Slide 50
+High Temperature Phase  10 mm XRD CharacterizationLow Temperature PhasePhase Transition: Symmetry C6 to D2hAsymmetric Structure to Symmetric OneStructural Phase Transition, T~150 CPeptide Nanotubes Structural TransformationT~150CCentrosymmetric, Class D2h22 Orthorhombic, D2hCentrosymmetricAsymmetric Structure, Class C611 PNT-Hexagonal StructureHexagonal, C6Asymmetric
+---------
+Slide 51
+High Temperature Phase  10 mm XRD CharacterizationLow Temperature PhasePhase Transition: Symmetry C6 to D2hAsymmetric Structure to Symmetric OneStructural Phase Transition, T~150 CPeptide Nanotubes Structural TransformationT~150CCentrosymmetric, Class D2h22 Orthorhombic, D2hCentrosymmetricAsymmetric Structure, Class C611 PNT-Hexagonal StructureHexagonal, C6AsymmetricGroup-Subgroup Relationship Between the Symmetries of the Phases is Absent
+---------
+Slide 52
+Linear FF-MoleculeTGAPhase Transition: Molecular TransformationWater Releasing10 mm E=157.98 kcal/mole T~150C Linear-FF Cyclic-FF K. Joshi,Tetrah. Lett. 2008Cyclic FF-MoleculeJ. Pept Sci, 2011J. Biomacromol., 2011T~150 C Cyclic-FFLinear-FF
+---------
+Slide 53
+Linear FF-MoleculeTGAPhase Transition: Molecular TransformationWater Releasing10 mm E=157.98 kcal/mole T~150C Linear-FF Cyclic-FF K. Joshi,Tetrah. Lett. 2008Cyclic FF-MoleculeJ. Pept Sci, 2011J. Biomacromol., 2011T~150 C Phase Transition: -Reconstruction of Covalent Bonds-Irreversible Phase TransitionCyclic-FFLinear-FF
+---------
+Slide 54
+Phase TransitionIn Bioinspired FF-Peptide NanostructuresReconstructive Phase Transition1.The transition is based on breaking of chemical bonds  2.Group-Subgroup relationship between the symmetries of the phases is absent 3. The transition is strongly first order 10 mm Low Temperature PhaseHollow NanotubesNanofibersT~150CHigh Temperature  Phase 
+---------
+Slide 55
+a.Nanophotonics b. Nanobiopiezotronics c. Energy Storage Devices d. Medical Technology APPLICATIONS  OF BIOINSPIRED MATERIALS: 
+---------
+Slide 56
+Bioinspired Peptide  Nanostructures NanophotonicsLED, Bio-LasersNano-Bio-PiezotronicsEnergy Storage DevicesNANO-BIO-MEDICINENANOTECHNOLOGYNANO-BIO-MEDICINENANOTECHNOLOGYDiagnostics of Amyloid Diseases Nano-Bio-MarkersOrthopedic CoatingsIJS, Electronic CeramicsProf. M. Kosec
+---------
+Slide 57
+FF-peptide nanotubes (vapor deposition) 10 mm FF-nanotubesFF-monomer0.0 0.4 0.8 Optical Absorption 250 350 450 Wavelength, nm Quantum Well Structure~13  Quantum Dot Structure~15  Spectrum of QWNature, 468, Nov 25, 20101 mm PQD, dissembledFF-peptide nanotubes (evaporation from solutions) 10 mm PNT, assembled PQDPNTOptical Absorption280320240Wavelength, nm Spectrum of QDJACS, October, 19, 2010Nano Lett., 2009Self Assembly Process: PNT of 10 m length: 10,000 QW in dozen of secondsQW structure in PNT  is intrinsic structure for Lasers Peptide Nanotubes-Nanoordering and Nanostructure  
+---------
+Slide 58
+FF-peptide nanotubes (vapor deposition) 10 mm FF-nanotubesFF-monomer0.0 0.4 0.8 Optical Absorption 250 350 450 Wavelength, nm Quantum Well Structure~13  Quantum Dot Structure~15  Spectrum of QWNature, 468, Nov 25, 20101 mm PQD, dissembledFF-peptide nanotubes (evaporation from solutions) 10 mm PNT, assembled PQDPNTOptical Absorption280320240Wavelength, nm Spectrum of QDJACS, October, 19, 2010Nano Lett., 2009Self Assembly Process: PNT of 10 m length: 10,000 QW in dozen of secondsQW structure in PNT  is intrinsic structure for Lasers QW- and QD-Bio-Laser           Bio-LEDsPeptide Nanotubes-Nanoordering and Nanostructure  
+---------
+Slide 59
+PNT- LED Light Emitting DevicesToward Bio-LaserPNT-Nanophotonics Heat-treated PNT evaporated from organic solutionsVapor Deposited PNT
+---------
+Slide 60
+Nanophotonics-Insulin Amyloid Fibrils 200 nm C~0.5 mg/ml,  d~1.3 nm a1 m cC>6 mg/ml Amyloid fibrils PL Excitation ~4 nm
+---------
+Slide 61
+Nanophotonics-Insulin Amyloid Fibrils 200 nm C~0.5 mg/ml,  d~1.3 nm a1 m cC>6 mg/ml Amyloid fibrils PL Excitation ~4 nmCould  Self Assembly Bioinspired Peptide  Nanostructures Be a  Model of Biological Materials? 
+---------
+Slide 62
+Bio-Nano-Piezoelectrics Asymmetric Peptide Structures (J. Pept. Sci, 2011)FFFF-Hexagonal    Hexagonal, P61 Linear peptideAla-Ala (AA), TetragonalLL-Orthorhombic,  -Piezoelectric Properties -Second Harmonic Generation-Spontaneous Electrical Polarization-Pyroelectric Effect? Tetragonal, I4Orthorhombic, P212121  Could we speak about New Class of Ferroelectrics-Supramolecular Ferroelectrics of Biological Origin?
+---------
+Slide 63
+Bio-Nano-Piezoelectrics Asymmetric Peptide Structures (J. Pept. Sci, 2011)FFFF-Hexagonal    Hexagonal, P61 Linear peptideAla-Ala (AA), TetragonalLL-Orthorhombic,  -Piezoelectric Properties -Second Harmonic Generation-Spontaneous Electrical Polarization-Pyroelectric Effect? Tetragonal, I4Orthorhombic, P212121  Bio-Peptide Thin Films Bio-Piezoceramics Could we speak about New Class of Ferroelectrics-Supramolecular Ferroelectrics of Biological Origin?
+---------
+Slide 64
+1 mm PQD, dissembled10 mm PNT, assembled PQDPNTOptical Absorption280320240Wavelength, nm Quantum Dot Structure  Stacked Balls ~15  Spectrum of QDJACS, 2010Nature, N&V, 2010Nanotechnology of Elementary Building Blocks 
+---------
+Slide 65
+1 mm PQD, dissembled10 mm PNT, assembled PQDPNTOptical Absorption280320240Wavelength, nm Quantum Dot Structure  Stacked Balls ~15  Spectrum of QDJACS, 2010Nature, N&V, 2010Nanotechnology of Elementary Building Blocks Elementary Building Blocks of Nanometer Size:          -Quantum confinement:  QD-Biomarkers and Quantum Dot Lasers   -Asymmetric Structure And Ferroelectric Properties: FE memory  NanoPiezo Devices  -Organic Charge Storage Memory For flexible Electronics  
+---------
+Slide 66
+Acknowledgments-PhD student Nadav Amdursky-Optical Studies  -PhD student Peter Beker-Electrochemistry, Energy Storage Devices -MSc. student Itai Koren-Bio-Ferroelectricty -MSc. student Becky Bank-Bio-Molecular Vapor Deposition - -PhD  student Ilia Torchinsky-Surface Modification  -MSc Maya Yevnin-Wettability -Prof. M. Molotsky-Theoretical support-Prof. E. Gazit Life Science Faculty, TAU-BionspirationPiezoelectric studies Dr. A. Kholkin, University of Aveiro, PortugalProf. A. Gruverman, University of Nebraska-LincolnOptical studies (SHG)Prof. E. Mishina, MIREA, Russian Prof. T. Rasing, Radboud University, The Netherlands This research was supported by the Ministry of Science & Technology,  Israel & the Russian Foundation for Basic Research 
+---------
+Slide 67
+From Biology and Medicineto  Physics and Technology and .BACK to Biology Gil RosenmanSchool of Electrical Engineering-Physical Electronics, Faculty of Engineering, Tel Aviv UniversityPeptide Nanotubes: Peptide Flower 
+---------

@@ -1,0 +1,390 @@
+
+
+how do you make them in between 
+
+well suppose that for example 
+
+i only did one thing 
+
+suppose its costly to prepay 
+
+some people just say to themselves im going to 
+
+have to take a whole day off of work 
+
+im not going to write my paper 
+
+i might lose some business that i was going to do that day 
+
+a whole bunch of stuff im losing so im going to subtract 
+
+that 
+
+im not going to prepay 
+
+im not going to even think about doing it unless i can get 
+
+
+at least a certain benefit from having done it 
+
+so you can add a cost of prepaying and people arent 
+
+going to prepay unless the gain that they have by prepaying 
+
+exceeds the cost of doing the prepayments 
+
+so to take the simplest case lets suppose the very act of 
+
+never mind the thinking and all that 
+
+the very act of prepaying going to the bank literally 
+
+costs you money 
+
+so if you have a value if the thing is  and you can 
+
+prepay you know if you do your 
+
+calculations and dont prepay today its worth  and if you 
+
+prepay today the remaining balance is  youre saving  
+
+dollars but if the cost of prepayment 
+
+is  youre still not going to do it 
+
+so you get a guy with a high cost of prepaying 
+
+an infinite cost of prepaying hes going to look like hes 
+
+totally unalert 
+
+a guy with zero cost of paying is going to look like hes 
+
+totally alert 
+
+so you can have gradations of rationality and you can have 
+
+different dimensions 
+
+so you can have cost of prepaying and you can have 
+
+
+alertness 
+
+whats the percentage of time youre actually paying attention 
+
+that month 
+
+what fraction of the months do you actually pay attention 
+
+and you can have a distribution of people different costs and 
+
+different alertnesses 
+
+so thats the model that i built 
+
+its a simplified form of it 
+
+it gives you an idea 
+
+so heres this burnout effect that i showed that if you take 
+
+the same coupons but an older one rather than 
+
+aan older one thats burned out will always prepay slower 
+
+so the pink one is always less than the blue one because it 
+
+went through an opportunity to prepay 
+
+so here you start with a pool of guys on the right 
+
+and then after a while after time has gone down a lot 
+
+of them have prepaid 
+
+so heres alertness and cost 
+
+so you describe a person by what his cost of prepaying is 
+
+and how alert he is 
+
+the more alert he is and the lower the cost of prepaying the 
+
+closer to rational he is 
+
+the less alert he is the higher the cost of 
+
+prepaying the closer to the totally dumb guy he is 
+
+and so you could have a whole normally distributed 
+
+distribution of people and over time those groups are going to 
+
+be reduced because a lot of them are prepaying 
+
+but they wont be reduce symmetrically 
+
+the low cost high alertness guys are going to disappear much 
+
+faster and the pools going to get more and more favorable to 
+
+you 
+
+and so anyway all you have to do is 
+
+parameterize the cost what the distribution of people 
+
+in the population what the standard deviation and 
+
+expectation of cost is and of alertness is 
+
+and that tells you what this distribution looks like 
+
+
+so youre fitting four numbers and youve got thousands of 
+
+pools and hundreds and hundreds of months 
+
+and fitting four parameters you can end up fitting all the data 
+
+so look at what happens here 
+
+so heres the same data 
+
+so i just tell you i know that in a population 
+
+given what ive calculated in the s there 
+
+i know what fraction of the people have this cost and that 
+
+alertness what fraction of the people are 
+
+
+so close to dumb that their costs are astronomical and their 
+
+alertness is tiny what fraction of the people 
+
+have almost no cost and a very high alertness 
+
+so im only estimating four parameters because im assuming 
+
+its normally distributed 
+
+given that fixed pool of people i apply that to the beginning of 
+
+every single mortgage and i just crank out what would those guys 
+
+do 
+
+in the tree if they knew what the volatilities were when would 
+
+they decide to prepay and then i have to follow a 
+
+scenario out in the future and i say 
+
+well along this path which guy would prepay and which 
+
+guy wouldnt prepay and what would the total prepayments look 
+
+along that path 
+
+and so this has generated the pink line from the model with no 
+
+knowledge of the world except i fit those parameters and look 
+
+how close it is to what actually happened 
+
+so it turns out that it was incredibly easy to predict 
+
+contingently predict what prepayments were going to be and 
+
+
+therefore to be able to value mortgages 
+
+and this was a secret that not many people 
+
+you know a bunch of people understood 
+
+but not that many understood and so for years we were 
+
+trading at our hedge fund first at kidder and then at 
+
+ellington with this ability to contingently forecast 
+
+prepayments at a very high rate 
+
+and why was it so stable the prediction 
+
+and so reliable 
+
+its because the class of people stayed pretty much the 
+
+same and every year thered be the same kinds of people with 
+
+
+the same kinds of behavior 
+
+some were very alert 
+
+some were very not alert but the distribution of types 
+
+was more or less the same and you could predict with pretty 
+
+good accuracy what was going to happen from year to year 
+
+of course then after  or so the class of people started 
+
+to radically change and many more people who never got 
+
+mortgages before got them and it became much harder to predict 
+
+what they were going to do 
+
+but so in the old days it was pretty easy to predict 
+
+and why was it so easy to predict 
+
+because it was an agent based model agent based 
+
+so by the way i added this volatility here 
+
+so these guys who just ran regressions they had to have a 
+
+volatility or something parameter 
+
+so you see as volatility goes up the prepayments are slower 
+
+well they just had to notice that and build it right into 
+
+their function 
+
+i didnt even have to think of that or burnout 
+
+none of those things did i have to think about because if youre 
+
+a guy optimizing here and volatility goes up 
+
+so you reset the tree so that the interest rates can change 
+
+faster 
+
+the option is worth more so youre going to wait longer 
+
+
+youre not going to just exercise it right away because 
+
+youve got a chance that prices will really go up so you can 
+
+wait a little longer afford to wait longer 
+
+so prepayments will slow down 
+
+so all im saying all of this is just to say that 
+
+if you have the right so its agent based 
+
+its contingent predictions those two things together 
+
+enable you to make quite reliable predictions about the 
+
+future if youre in a stable environment 
+
+and so what seems like a bewildering amount of stuff 
+
+turns out to be pretty easy to explain 
+
+so now what happens 
+
+so do you have any questions here or should iyes 
+
+you said you assume that those two  
+
+
+are normally distributed 
+
+did you select among some sort of variance 
+
+some sort of what  
+
+variance  
+
+i had to figure out what the mean and  
+
+variance is 
+
+theres mean and variance of cost and mean and variance of 
+
+alertness to get that distribution 
+
+right 
+
+so how do i know what the populationso let me just put 
+
+the picture up again 
+
+so who are the hyper rational guys 
+
+
+they are the people with the really high alertness up there 
+
+and the really low cost so theyre the guys back there 
+
+theyre the hyperor maybe it was the guys 
+
+you know one of these corners with very high alertness and 
+
+very low cost 
+
+i forgot which way the scale works 
+
+it might be going down 
+
+so anyway the guys with very high alertness and very low 
+
+costs are the hyper rational people 
+
+at the other corner youve got the guys who have very low 
+
+alertness and very high costs 
+
+theyre the people who youre going to make a lot of money on 
+
+if youre the bank 
+
+so how do i know how many people are of each type 
+
+well i dont 
+
+i have to fit this distribution 
+
+but you see i have so much data 
+
+ive got this kind of curve 
+
+this kind of curve ive got for every starting year for the 
+
+whole history and theres so many different interest rates 
+
+and so many different so im applying that same 
+
+population at the beginning of every single curve and then 
+
+seeing what happens to my prediction versus what really 
+
+happened 
+
+so ive got thousands and thousands 
+
+and thousands of data points and only four parameters to fit 
+
+so i pick the four parameters to fit the data as much as 
+
+possible 
+
+if i assumed everybody was perfectly alert instead of that 
+
+curve that i showed you i put a huge crowd here of 
+
+perfectly rational people then i would have found that i would 

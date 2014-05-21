@@ -1,0 +1,55 @@
+Supermodeling: Consensus by Synchronization of Alternative Models
+
+author: Gregory Duane, Macedonian Academy of Science and Arts
+
+published: Nov. 8, 2011,   recorded: October 2011,   views: 95
+
+Categories
+Top Computer Science Data modeling
+
+Description
+Computational models of an ongoing objective process, as in weather forecasting, 
+must continually assimilate new observational data as they run. Both "truth" and 
+"model" are chaotic systems that thus synchronize through a limited exchange of 
+information in one direction - a phenomenon that can be characterized as machine 
+perception. A recent suggestion has been to envision the fusion of different models 
+analogously, as 3-way synchronization of the different models with reality. This 
+phenomenon may be useful for improving climate projection by combining a few 
+different models that differ in regard to the magnitude of global warming and 
+regional predictions. Several machine learning approaches have been proposed to 
+train the connections linking corresponding variables in the different models. 
+Stochastic approaches can avoid non-global local optima, but it seems likely 
+that an intelligent "expert system" approach would improve the supermodel.
+
+Slides
+0:00 	Consensus By Synchronization of Alternative Models
+0:25 	Data Assimilation
+1:38 	Suppose the World is a Lorenz System and Only x is Observed
+5:37 	Let a Collection of Models Assimilate Data From (Synchronize With) One Another; Adapt the Coupling Coefficients
+8:15 	Summary
+10:14 	Let a Collection of Models Assimilate Data From (Synchronize With) One Another; Adapt the Coupling Coefficients
+10:25 	Suppose the World is a Lorenz System and Only x is Observed
+11:34 	Coupled Model Intercomparison Project
+13:01 	Error in annual mean surface air temperatures
+14:00 	Example: Divergent Model Projections of Regional Precipitation Change
+14:21 	Test Case: Fusing 3 Lorenz Systems With Different Parameters
+19:47 	Supermodeling Relies on 3-Way Synchronization of Truth and Alternative Models
+21:00 	Or Can Use Standard Machine Learning Methods to Adapt Inter-Model Connections ()
+21:42 	Or Can Use Standard Machine Learning Methods to Adapt Inter-Model Connections (2)
+22:19 	Or Can Use Standard Machine Learning Methods to Adapt Inter-Model Connections ()
+22:28 	Or Can Use Standard Machine Learning Methods to Adapt Inter-Model Connections (2)
+22:46 	Learning Algorithm
+24:04 	Supermodeling Works With Multi-time-scale Models
+27:23 	What if all models err in the same way?
+28:19 	What if all models are biased in same direction?
+31:50 	What if parameters shift between training and testing?
+32:49 	Test Case Fusing 3 Lorenz Systems With Different Parameters
+33:07 	What if parameters shift between training and testing?
+34:09 	What if the connection scheme obtained by cost-minimization is only locally optimal?
+35:53 	Extension to PDE's: What is the required spatial density of inter-model coupling?
+39:44 	What variables should be coupled?
+41:51 	Proposed Adaptive Fusion of Two QG Channel Models
+44:12 	Models Synchronize With Each Other and With Truth
+45:08 	Proposed Adaptive Fusion of Two QG Channel Models
+46:27 	As the Adaptation Procedure Estimates the Intermodel Connection Coefficient 
+46:43 	Questions

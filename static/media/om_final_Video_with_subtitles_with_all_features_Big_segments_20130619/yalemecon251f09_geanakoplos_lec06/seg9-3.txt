@@ -1,0 +1,340 @@
+
+
+dalpha 
+
+so fisher saidso heres his famous equation 
+
+fisher said the way to figure out the value of a stock 
+
+if you solve that problem over here 
+
+is to look at its dividends and discount them by the real rate 
+
+of interest  unit of output tomorrow 
+
+since the value of an apple tomorrow is only a third of the 
+
+value of an output today 
+
+remember the interest rate  r the real interest rate 
+
+is equal to the ratio of the two goods 
+
+so p over p is just  r 
+
+ r is p over p 
+
+im making some things simple seem more complicated 
+
+
+sorry 
+
+so lets just say it again 
+
+when we solved that equilibrium over there we figured out that 
+
+p is only a third of p 
+
+when people think today how much would i give up of apples 
+
+today to get an apple next year they dont think apples next 
+
+year are worth nearly as much as apples this year 
+
+so theyd only give up a third of an apple this year to get an 
+
+apple next year 
+
+p is the amount you give up today to get an apple 
+
+next year so its a third 
+
+another way of saying that if p is  
+
+is that the real interest rate the tradeoff between apples 
+
+tomorrow and apples today which is p over 
+
+p because  apple today can give 
+
+you three apples tomorrow so p over 
+
+p is  so  r is three 
+
+so the apple tomorrow is worth p times the 
+
+dividend 
+
+thats just  over  r times the dividend 
+
+
+so the value of a stock is the real dividends its paying in 
+
+the future discounted by the real rate of interest 
+
+youre turning tomorrows next years goods 
+
+finding the equivalent in terms of this years goods 
+
+and the ratio of those two prices is the real rate of 
+
+interest and so thats how you would get it 
+
+so another way of saying the same thing is you could turn 
+
+cash next year into cash this year 
+
+
+so assuming q is  another way of saying that is  
+
+over  i times dalpha times 
+
+q 
+
+so you take the nominal rate of interest times the money thats 
+
+being produced because the nominal rate of 
+
+interest says how do you trade off a dollar today for a dollar 
+
+in the future 
+
+so a dollar in the future isnt worth usually 
+
+as much as a dollar today so you have to discount it 
+
+so a certain number of dollars in the future are worth less 
+
+dollars today 
+
+so you take the payoff of dollars in the future discounted 
+
+by the nominal rate of interest and you get todays price 
+
+or you take the real dividends in the future discounted by the 
+
+real rate of interest and you get todays price 
+
+so both those things are an application of the principle of 
+
+no arbitrage looking through the veil 
+
+so what would the nominal interest rate be in this case 
+
+in this case you see how did i know that palpha 
+
+was still a third 
+
+because the real interest rate hasnt changed 
+
+its still  percent 
+
+so dalpha is  and im still multiplying by  
+
+third so im still getting a third for the price of alpha 
+
+so thats how she knew that the answer should stay a third 
+
+because she knew nothing real had changed in the economy 
+
+therefore the real interest rate couldnt have changed 
+
+therefore the price of the stock still had to be the same 
+
+so how could we have used this 
+
+another formula formula 
+
+we have to know what the nominal interest rate is 
+
+
+so what is the nominal interest rate 
+
+if you put in a dollar today how many dollars can you get out 
+
+in the future in this new economy where theres  
+
+percent inflation 
+
+yes 
+
+ percent  
+
+so thats right now how did he do  
+
+because lets just do it 
+
+you take  dollar today at price q   
+
+you can buy  units of alpha still because its price is 
+
+still a third and that tells you that you get 
+
+
+ units of x thats the dividend 
+
+of  units of alpha each share of alpha pays  
+
+right  apple so now you get  apples 
+
+but thats equal to  times  because the price is  
+
+  dollars tomorrow 
+
+so youve turned  dollar into  dollars 
+
+so  i   over  implies i   percent just exactly what 
+
+he said 
+
+so to say that just more simply the real rate of interest  r 
+
+this is the most famous equation fisher ever wrote 
+
+is  i divided by  g 
+
+so this is called the fisher equation 
+
+his two famous equations are this this is called the fisher 
+
+equation and this which is called 
+
+these two things which are the same are called the fundamental 
+
+theorem of asset pricing 
+
+so why is this theorem true 
+
+the real rate of interest trades off apples today for 
+
+apples tomorrow the real rate of interest 
+
+apples today for apples tomorrow 
+
+so we had  apple giving you  apples 
+
+thats why r was  percent 
+
+
+well if inflation is  percent so this is  
+
+ apple today gives you  apples in the future 
+
+but that means  apple today gives you  dollar 
+
+is one apple today gives you  apples or  dollars in the 
+
+future 
+
+so  times  so if this is equal to  and 
+
+inflations  percent so this is equal to  then whats the 
+
+fair rate of interest 
+
+what will the banks give you 
+
+well any banker can take a dollar buy a stock 
+
+
+turn it into  units of dividends and then sell it for  
+
+dollars apiece and get  dollars 
+
+and so a banker can take a dollar and turn it to  
+
+so competition will force the bankers to give you  dollars 
+
+for every  dollar you give it next period 
+
+so the interest rate has to be  i   times  
+
+or  
+
+so the real rate of interest is the nominal rate of interest 
+
+divided by inflation 
+
+so thats one subtle but once you realize it 
+
+obvious implication of thinking people are rational and make 
+
+sort of simple calculations looking at the future 
+
+and a consequence of that is the price of assets 
+
+or you look at the cash that comes out in the future 
+
+discounted by the nominal interest rate 
+
+
+or you look at the real goods that come out in the future and 
+
+discount it by the real interest rate 
+
+and its all the same thing 
+
+so does anybody know what the inflation is today 
+
+or what the nominal interest rates are today 
+
+so i is the nominal interest rate the amount of interest you 
+
+put in the bank and what theyll pay you at the end of a year 
+
+so were going tonext class were going to find out the 
+
+exact numbers but what do you think it is 
+
+about 
+
+does anyone have any idea 
+
+take a wild guess 
+
+is it  percent  percent 
+
+yep 
+
+i think the inflation is usually around  
+
+percent 
+
+usually and do you think its higher  
+
+lower than usual nowadays 
+
+its probably  
+
+thats good  
+
+so lets say its around  percent 
+
+so that means this is  and what do you think the nominal 
+
+
+interest rate is now 
+
+ percent  
+
+who said that  
+
+thats a good percent thats about right 
+
+so what is the real rate of interest now 
+
+b 
+
+what  
+
+b 
+
+well  r is less than  
+
+so  r is around  
+
+so the real rate of interest is actually like negative  
+
+percent 
+
+how did that happen 

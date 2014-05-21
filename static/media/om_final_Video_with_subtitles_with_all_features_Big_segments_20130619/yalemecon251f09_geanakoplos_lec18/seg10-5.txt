@@ -1,0 +1,334 @@
+
+
+peabody 
+
+how did we predict prepayments 
+
+whats another way at looking at prepayments 
+
+let me tell you something thats missing 
+
+i used to ask people who wanted to work at kidder peabody or 
+
+ellington the following little simple puzzle 
+
+and most of the genius mathematicians always got this 
+
+answer wrong 
+
+of course we hired them anyway but theyd always get this 
+
+wrong 
+
+so the question is suppose youve got a group of 
+
+people like this and you figure out what the value of the 
+
+mortgage is and interest rates have been 
+
+constant all this time 
+
+lets suppose for one month interest rates shoot down 
+
+interest rates collapse and half the pool 
+
+
+ percent of the pool disappears 
+
+so now youve only got  percent of the people left you 
+
+had before and then interest rates return to exactly where 
+
+they were to begin with 
+
+should the pool thats left be worth  percent of the pool 
+
+that you had just here or more than  percent 
+
+or less than  percent 
+
+so remember you had  people here 
+
+youre the bank whos lent them the money 
+
+youre valuing the mortgage payments theyre going to make 
+
+to you youre getting a certain amount 
+
+of money from them  percent of them suddenly 
+
+disappeared in  month leaving  left 
+
+but now interest rates are back exactly where they were before 
+
+is the value of the mortgage starting here with the  
+
+percent pool worth  percent of what it was originally 
+
+more than  percent or less than  percent 
+
+what do you think 
+
+yes 
+
+is it worth more than  percent  
+
+
+those people dont understand interest rates and therefore 
+
+theyre not  
+
+option properly and  
+
+their mortgages 
+
+exactly  
+
+so thats an incredibly important point 
+
+its called the opposite of adverse selection 
+
+every one of these events is selecting the people left not 
+
+adversely not perversely 
+
+whats the opposite of adversely 
+
+favorably to you so the guys who are left are 
+
+all losers but thats who you want to deal 
+
+with 
+
+
+you dont want to trade with the geniuses 
+
+you want to trade with the guy whos not paying any attention 
+
+so the guys left are the people who are never going to prepay or 
+
+hardly ever going to prepay and so its much better 
+
+now this function doesnt capture that at all 
+
+right 
+
+it doesnt say anything 
+
+it just says your prepayments depending on where you are 
+
+so whether you were here or here youre going to get the 
+
+same prepayment but we know that thats not 
+
+
+going to be the case 
+
+in fact its clear that over here there must have been a much 
+
+bigger incentive than there was over there 
+
+so the prepayments are the same but actually interest 
+
+rates here were vastly lower than interest rates there 
+
+so this is not such a good function 
+
+so how would you improve 
+
+what would you do to take into account this adverse selection 
+
+
+or actually proverse selection 
+
+what is the opposite of adverse 
+
+well it doesnt matter 
+
+what would you think to do 
+
+your whole livelihood depends on it millions 
+
+trillions of dollars at stake here 
+
+youve got to model prepayments correctly so how would you 
+
+think of doing this 
+
+just give me some sense of what a hedge fund does or what anyone 
+
+in this market would have to do 
+
+well most of them did this 
+
+so what would you do 
+
+yeah 
+
+buy up old mortgages because the market  
+
+probably under estimating their value 
+
+well you would buy it up  
+
+right after  
+
+right here youd buy it up right  
+
+but what model would you use to predict prepayments 
+
+not this one so how would you imagine doing 
+
+it 
+
+you would imagine making a model just like your intuition 
+
+so what does that mean doing 
+
+someones asking you to run a research department 
+
+make a model of forecasting prepayments 
+
+all the data you have is aggregate data like that 
+
+you cant observe individual homeowners in those days 
+
+they wouldnt give you the information 
+
+ill explain all that sunday night 
+
+so this is the kind of data you have what the whole group of 
+
+
+people is doing every year but what would you do to build 
+
+the model 
+
+adverse selection is very important or proverse 
+
+selection 
+
+its embarrassing i dont remember the word 
+
+favorable selection a very important thing 
+
+so how would you capture that in your model 
+
+yep 
+
+would you split it into two groups and  
+
+model it separately 
+
+so maybe another thing you could  
+
+what if you instead of having this function that says what the 
+
+aggregates going to do all the datas aggregate 
+
+so all you can do is test against aggregate data 
+
+
+but suppose you said the world 
+
+all we can see is the aggregate but the people really 
+
+acting are individuals acting not the aggregate 
+
+its the sum of individual activities so what we should do 
+
+now is have different kinds of people 
+
+oh gosh sorry 
+
+it was there already 
+
+so lets go back to where we were before so realistic 
+
+what you ought to do is you ought to say 
+
+well  percentremember we had two kinds of people already 
+
+
+weve already got two kinds of people sorry 
+
+weve got these guys the guys who never call 
+
+so theyre people 
+
+thats a kind of person 
+
+and suppose you go down here and you have the people who are 
+
+optimally prepaying 
+
+suppose you imagine that half the people were optimally 
+
+prepaying and half the people never prepaid 
+
+well would that explain this favorable selection 
+
+absolutely it would explain it because when you went through 
+
+your little tree and you went here 
+
+and here and here and here by the time you got 
+
+down here all those people all the optimal prepayers 
+
+theyre all prepaying 
+
+so you start off with halfoptimal guys and 
+
+halfasleep guys 
+
+once you get down here all the optimal guys have disappeared 
+
+and the pool thats left is all asleep 
+
+so of course the pool is worth much more here given the 
+
+interest rate than it was over here 
+
+in fact if it goes back then again to here where it was 
+
+beforesorry thats same line 
+
+if it goes back to herehave i done this right 
+
+no ive got to go back twice here and then here 
+
+so once it goes back to here if it goes here 
+
+here here and here then the pool is going to be much more 
+
+valuable here than it started there 
+
+there are half as many people but its worth much more than 
+
+half of what it was there 
+
+so the way to do this is to breakso then youre looking at 
+
+the individuals 
+
+youre saying one class of people is very smart 
+
+or one class of people is very alert its a much better word 
+
+
+one class of people is very alert 
+
+one class of people is very unalert and as you go through 
+
+the tree the alert people are going to disappear faster than 
+
+the nonalert people and thats why youre going to have a 
+
+favorable selection of people whos left in the pool 
+
+well of course there are no extremes of 
+
+perfectly rational or perfectly asleep in the economy so what 
+
+you can do is you can make people in between 

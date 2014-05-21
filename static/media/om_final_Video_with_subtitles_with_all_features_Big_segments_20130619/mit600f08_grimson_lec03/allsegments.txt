@@ -1,0 +1,2310 @@
+
+
+
+
+the following content is provided under a creative 
+
+commons license 
+
+your support will help mit opencourseware continue to 
+
+offer highquality educational resources for free 
+
+to make a donation or view additional materials from 
+
+hundreds of mit courses visit mit opencourseware 
+
+at ocwmitedu 
+
+professor eric all right im going to start 
+
+today by talking about so what have we been doing 
+
+what have we actually done over the last few lectures 
+
+and i want to suggest that what weve done is weve outlined a 
+
+lot of the basic elements of programming 
+
+a lot of the basic elements were going to need 
+
+to write code 
+
+and i want to just highlight it for you because were going 
+
+to come back and look at it 
+
+so im going to suggest that weve looked at three 
+
+different kinds of things 
+
+weve talked about data weve talked about operations 
+
+and weve talked about commands or statements 
+
+all right 
+
+datas what we expect 
+
+its our way of representing fundamentally the kinds of 
+
+information we want to move around 
+
+and here im going to suggest weve seen numbers weve seen 
+
+strings and im going to add booleans here as well 
+
+theyre a third kind of value that we saw when we started 
+
+talking about conditions 
+
+we saw associated with that primitive data we have ways of 
+
+taking data in and creating new kinds of data out or new 
+
+versions of data out so we have operations 
+
+things like addition and multiplication which we saw 
+
+not only apply to numbers but we can use them on things like 
+
+strings and were going to come back to them again 
+
+cant use them on booleans they have a different 
+
+set of things 
+
+they do things like and and or 
+
+and of course theres a bunch of other ones in there im not 
+
+going to put them all up but were building up a little 
+
+collection if you like of those operations 
+
+and then the main thing weve done is weve 
+
+talked about commands 
+
+
+so im going to suggest weve seen now four different things 
+
+weve seen assignment how to bind a name to a value 
+
+weve seen input and output 
+
+print for output for example and raw input for input 
+
+weve seen conditionals or said another way branches 
+
+ways of changing the flow of control through that 
+
+sequence of instructions were building up 
+
+and the last thing we added were loop mechanisms 
+
+and here we saw wow 
+
+its the first example weve seen 
+
+
+so whatve we done so far 
+
+now interestingly this set of instructions was actually quite 
+
+powerful and were going to come back to that later on in 
+
+terms of what we can do with it but what weve really done 
+
+is given that basis were now talking about how do we write 
+
+common patterns of code how do we write things that solve 
+
+particular kinds of problems 
+
+so what i want you to do is to keep in mind those are the 
+
+
+bases we ought to be able to do a lot with that bases but 
+
+what were really interested in is not filling out a whole 
+
+bunch of other things in here but how do we put them together 
+
+into common templates 
+
+and were going to do that today 
+
+second thing weve been doing i want to highlight for you is 
+
+weve along the way mostly just verbally rather than 
+
+writing it down but weve been talking about good style 
+
+good programming style 
+
+all right 
+
+
+things that we ought to do as you put these pieces together 
+
+in order to give you really good code 
+
+and you should be collecting those together 
+
+give you some examples 
+
+what have we talked about 
+
+weve talked about things like using comments to highlight 
+
+what youre doing in the code to make it easier to debug 
+
+we talked about type discipline the notion that you 
+
+should check the types of operands before you apply 
+
+operators to them to make sure that theyre what the 
+
+code is expecting 
+
+we talked about descriptive use of good variable names 
+
+as a way in essence of documenting your code 
+
+the fourth one we talked about was this idea of testing all 
+
+possible branches through a piece of code if its got 
+
+conditionals in it to make sure that every possible input 
+
+is going to give you an output that you actually want to see 
+
+so you know you can start writing your own kind of miss 
+
+
+manners book if you like i mean are what are good 
+
+programming you know i wonder what youd call them 
+
+john good programming hygiene 
+
+good programming style 
+
+good programming practices things that you want to 
+
+do to write good code 
+
+ok 
+
+what were going to do today is were going to start now 
+
+building up beyond just these pieces although theyre 
+
+valuable to start creating two one common patterns of 
+
+code that tackle certain classes of problems and 
+
+
+secondly were going to talk about tools you can use to 
+
+help understand those pieces of things 
+
+ok 
+
+so last time around we talked about or introduced if you 
+
+like iterative programs 
+
+and i want to generalize that for a second because 
+
+were going to come back and use this a lot 
+
+and i want to do a very highlevel description of what 
+
+goes into an iterative program or how i would think 
+
+about this all right 
+
+and i know if john disagrees with me hell tell me but this 
+
+is my way of thinking about it 
+
+if i want to try and decide how to tackle a problem in an 
+
+iterative matter here the steps im going to go through 
+
+
+first thing im going to do is im going to choose a variable 
+
+thats going to count 
+
+what i meant what in the world do i mean by that 
+
+im thinking about a problem im going to show you an 
+
+example in a second first thing im going to do is say 
+
+what is the thing thats going to change every time i run 
+
+through the same set of code 
+
+what is counting my way through this process 
+
+now im putting count in double quotes not to make it a 
+
+string but to say this is count generically 
+
+it could be counting one by one through the integers it could 
+
+also be taking a collection of data and going through 
+
+them one by one 
+
+it could be doing counting in some other mechanism 
+
+but whats the variable i want to use 
+
+second thing i do i need to initialize it 
+
+and i need to initialize it outside of the loop 
+
+that is where do i want to start 
+
+
+and i need to make sure i have a command that sets that up 
+
+the third thing im going to do is i need to set 
+
+up the right end test 
+
+how do i know when im done with the loop 
+
+and obviously that ought to involve the variable in some 
+
+way or its not going to make a lot of sense so this 
+
+includes the variable since thats the thing 
+
+
+thats changing 
+
+all right 
+
+the fourth thing im going to do is im going to then 
+
+construct the block of code 
+
+and i want to remind you that block of code is a set of 
+
+instructions the same set of instructions that are going to 
+
+be done each time through the loop 
+
+all thats going to change is the value the variable or the 
+
+value of some data structures 
+
+and remind you that inside of here id better be 
+
+changing the variable 
+
+
+all right if that variable thats counting is not 
+
+changing im going to be stuck in an infinite loop so i ought 
+
+to unintelligible phrase 
+
+that 
+
+ right expect somewhere in there a change 
+
+of that variable 
+
+all right 
+
+and then the last thing i want to do is just decide you 
+
+know what do i do when im done 
+
+ok 
+
+i know 
+
+it looks boring 
+
+but its a structure of the things i want to think about 
+
+
+when i go through trying to take a problem and mapping it 
+
+into a iterative program 
+
+those are the things i want to see if i go along 
+
+all right 
+
+so let me give you an example 
+
+im given an integer thats a perfect square and i want to 
+
+write a little piece of code thats going to find 
+
+the square root of it 
+
+all right so im cheating a little i know its a perfect 
+
+
+square somebodys given it to me well come back in a second 
+
+to generalizing it so what would the steps be that id 
+
+use to walk through it 
+
+well if you think about these steps heres 
+
+an easy way to do it 
+
+lets start at  
+
+lets call x the thing im trying to find 
+
+the square root of 
+
+lets start at  
+
+square it 
+
+if its not greater than x take  
+
+square it 
+
+if its not greater than x take  
+
+square it 
+
+and keep going until the square of one of those integers 
+
+is greater than or equal to sorry just greater than x 
+
+ok why am i doing that 
+
+when i get greater than x ive gone past the place 
+
+where i want to be 
+
+and obviously when i get to something whose square is equal 
+
+to x ive got the answer i want and i kick it out 
+
+so who knows what ive done 
+
+ive identified the thing im going to use to count 
+
+something some variable is going to just count the 
+
+
+integers ive identified the end test which is when that 
+
+square is bigger than the thing im looking for ive 
+
+identified basically what i want to do inside the loop 
+
+which is simply keep changing that variable and i didnt say 
+
+what i want to do when im done essentially 
+
+print out the answer 
+
+ok so how can i code this up 
+
+well you might think lets just jump in and write some 
+
+code i dont want to quite do that though because i want to 
+
+
+show you another tool thats valuable for thinking about how 
+
+to structure the code and that is a something called 
+
+a flow chart 
+
+now 
+
+people of professor guttags and my age unfortunately 
+
+remember flow charts back as they say on the simpsons back 
+
+in the day back in the s john right really good 
+
+programmers had these wonderful little plastic stencils i 
+
+tried to find one i couldnt find it its a little stencil 
+
+with little cutout shapes on it that you used to draw flow 
+
+
+charts im going to show you in a second and you tucked it 
+
+right in here next to your pocket protector with all your 
+
+pens in it you know so your belt was also about this high 
+
+and your glasses were this thick you know we have a few 
+
+of those nerds left we mostly keep them in the museum but 
+
+that was what you did with the flow chart 
+
+despite making a bad joke about it were going to 
+
+do the same thing here 
+
+were going to do the same thing here were going to 
+
+chart out a little bit of what should go into actually 
+
+making this thing work 
+
+so heres a simple flow chart that im going to use to 
+
+
+capture what i just described 
+
+and im going to again im actually going to do it the way 
+
+they used to do it and draw a rectangle with rounded corners 
+
+thats my starting point and then what did i say to do 
+
+i said i need to identify a variable im going to give it 
+
+a name lets just call ans for answer and i need to 
+
+initialize it so im going to come down and in a 
+
+square box im going to initialize ans to  
+
+and now i want to run through the loop 
+
+whats the first thing i do in a loop 
+
+i test an end test 
+
+so the flow chart says and the tradition was to do this in a 
+
+diamond shape im going to check if ans times ans oh 
+
+which way did i want to do this is less than 
+
+or equal to x 
+
+now thats a test 
+
+there are two possibilities 
+
+if the answer is yes then im still looking for the answer 
+
+what do i want to do 
+
+well i dont have to do anything other than 
+
+change the counter 
+
+so im going to go to ans is ans plus  and im 
+
+going to do it again 
+
+eventually if ive done this right that test is no and i 
+
+wonderfully ran out of room here in which case im going 
+
+to go to a print statement which was always done in a 
+
+trapezoid and print out ans 
+
+i should have put a box below it that says stop 
+
+ok 
+
+wow 
+
+and notice what i got here 
+
+actually this is a useful tool for visualizing how im trying 
+
+to put it together because it lets me see where the loop is 
+
+right there it lets me see the end test it lets me make sure 
+
+
+that im in fact initializing the variable and im checking 
+
+the right things as i go along 
+
+and the idea of this flow chart is if you start you know a 
+
+little ball bearing here its going to roll down setting up 
+
+an assignment statement and then depending on here its 
+
+like theres a pair of flippers in there it does the test it 
+
+sets the ball this way to change it to ans plus  and 
+
+comes back around eventually its going to drop through 
+
+and print out the answer 
+
+the reason im going to show you this flow chart im going 
+
+to do one other example in a second but i want to 
+
+show you a comparison 
+
+remember last time we wrote this simple piece of code 
+
+
+to print out even or odd 
+
+if you know x it was in fact even or odd 
+
+so let me show you what a flow chart for that would look like 
+
+because i want to make a comparison point here 
+
+if i were to do a flow chart for that one 
+
+id do the following 
+
+it reminds you that the test here was we took x if thats 
+
+what we were looking for it did integer division by  
+
+
+multiplied it by  and we check to see if that 
+
+was the same as x 
+
+if the answer is yes then we did a print of even 
+
+if the answer was no we did a print of odd and 
+
+we then carried on 
+
+again wow 
+
+but theres an important point here 
+
+remember last time i said that theres different kinds of 
+
+complexity in our code and i suggested for simple branching 
+
+programs the amount of time it takes to run that program is 
+
+in essence bounded by the number of instructions because 
+
+you only execute each instruction at most once 
+
+it didnt depend on the size of the input 
+
+and you can see that there 
+
+i start off either i take this path and carry on or i take 
+
+that path and carry on but each box if you like gets 
+
+touched exactly once 
+
+on the other hand look at this one 
+
+this depends now on the size of x 
+
+
+all right 
+
+because what am i going to do 
+
+im going to come down and say is ans squared less 
+
+than or equal to x 
+
+if it is im going to go around and execute that 
+
+statement check it again and go around and execute that 
+
+so im going to cycle around that loop there enough times to 
+
+get to the answer and that number of times is going to 
+
+
+depend on the input so as i change the input im going to 
+
+change the complexity of the code 
+
+now this happens to be what we would call a linear process 
+
+because the number of times i go around the loop is directly 
+
+related to the size of the argument 
+
+if i double the argument im going to double the number of 
+
+times i go around the loop 
+
+if i increase it by five im going to increase by five the 
+
+number of times i go around the loop 
+
+well see later on there are classes of computation that are 
+
+inherently much more complex 
+
+we hate them because theyre costly but theyre sometimes 
+
+inherently that way 
+
+but you can see the comparison between these two 
+
+ok 
+
+now having done that lets build this code 
+
+yeah if my machine will come back up there we go 
+
+so im going to now go ahead and write a little piece of 
+
+code and i put it here and i hope you can actually see these 
+
+better this time let me uncomment that region 
+
+all right 
+
+so theres basically an encapsulation of 
+
+that code right 
+
+it says what look at this where am i right here ive 
+
+got some value for x initially im going to set ans to  just 
+
+like there and theres my loop theres the test which 
+
+
+is right like that is ans squared less than or equal to 
+
+x if it is theres the block corresponding to the loop 
+
+change ans and eventually when im done with all this thing 
+
+im just going to print ans out 
+
+ok 
+
+all right let me show you one other tool that i want to use 
+
+which is ive written that piece of code 
+
+i ought to check it 
+
+well i could just run it but another useful thing to do is 
+
+im especially as i want to debug these things is 
+
+
+to simulate that code 
+
+and im going to do this because as professor guttag 
+
+noticed to me students seem reluctant to do this 
+
+i guess its not macho enough john to just you know you 
+
+know go off and do things by hand you ought to just run 
+
+them but its a valuable tool to get into so let 
+
+me do that here 
+
+unintelligible 
+
+professor eric im doing such a great job 
+
+ive got to say when my ive got two sons now aged eighteen 
+
+
+and twenty they used to think i had the coolest job in 
+
+the world because i came home covered in chalk 
+
+now they have a different opinion that you can 
+
+probably figure out 
+
+all right 
+
+simulate the code 
+
+what i mean by that is pick a simple set of values and lets 
+
+walk through it to see what happens 
+
+and this is useful because its going to allow me to a make 
+
+sure that ive got something thats going to terminate its 
+
+going to let me make sure that in fact im doing the 
+
+right kinds of updates 
+
+i could do this by the way by running the code and putting 
+
+print statements in various places as well but the hand 
+
+simulation is valuable so let me just start it 
+
+what do i have here 
+
+i need the variable ans i need x and i need ans 
+
+times ans ans times ans 
+
+right 
+
+those are the three things that are involved in this 
+
+computation and i pick something reasonably simple 
+
+
+the ans starts at  
+
+i set up x i think to be  there 
+
+so what does the loop say 
+
+i can either look at my flow chart or i can 
+
+look at the code 
+
+if i look at the flow chart it says im at this point 
+
+look at ans squared 
+
+is it less than or equal to sorry first of all ans 
+
+squared is  is it less than or equal to x yes 
+
+so what do i do 
+
+change ans 
+
+x doesnt change 
+
+back around to the test 
+
+whats ans squared 
+
+
+its  
+
+is it less than or equal to  
+
+sure 
+
+run the loop again 
+
+ans becomes  
+
+x stays  
+
+ans squared is  
+
+is that less than or equal to  
+
+yes 
+
+arent you glad i didnt pick x equals  
+
+all right 
+
+ans goes up by  
+
+ans squared is nine 
+
+still less than or equal to  
+
+ans goes to  
+
+x stays the same 
+
+ squared is  
+
+is  less than or equal to  
+
+yes 
+
+so ans goes to five 
+
+ans squared becomes  
+
+ah 
+
+that is now no longer true here so i print out  
+
+right 
+
+sure 
+
+square root of  is  
+
+its bush economics 
+
+ok 
+
+i know 
+
+im not supposed to make bad jokes like that 
+
+what happened 
+
+yeah 
+
+it doesnt stop at the right place 
+
+professor eric it doesnt stop at 
+
+the right place 
+
+thank you 
+
+exactly 
+
+right 
+
+my bug here is right there 
+
+ah let me find my cursor 
+
+i probably want that 
+
+right 
+
+i want less than rather than less than or equal to 
+
+this is an easy bug to come up with 
+
+
+but imagine if you dont do the test youre going to get 
+
+answers that dont make any sense 
+
+and in fact if we just go ahead and run this now 
+
+hopefully we get out oops sorry im going to have to 
+
+change this quickly i still have some things uncommented at 
+
+the bottom yeah there they are i dont think we need that 
+
+
+yet all right we will comment those out 
+
+ok 
+
+so 
+
+why did i do it 
+
+its a simple example i agree but notice what i just did 
+
+it allowed me to highlight is the code doing the right thing 
+
+i spotted an error here i could have spotted it by 
+
+running it on different test sets and using prints things 
+
+another way of doing it but this idea of at least 
+
+simulating it on simple examples lets you check a 
+
+couple of important questions 
+
+and in fact now let me ask those two questions about 
+
+this piece of code 
+
+first question is for what values of integers were 
+
+going to assume integers but for what values of x does 
+
+this code terminate 
+
+and the second question is for what values of x does it give 
+
+me back the right answer 
+
+all right first question 
+
+what values of x does it terminate 
+
+again assume x is an integer 
+
+well break it down into pieces 
+
+suppose x is positive 
+
+does it terminate 
+
+sure 
+
+all right 
+
+because ans starts out as  so ans squared is  and 
+
+each time through the loop ans is increasing 
+
+
+that means at some point in some finite number of steps 
+
+ans squared has got to get bigger than x if x is positive 
+
+so for positive integers it terminates 
+
+and it probably i think we can deduce returns 
+
+the right answer here 
+
+right 
+
+x is negative 
+
+x is  
+
+does this code terminate 
+
+boy i feel like arnold schwarzenegger 
+
+does this terminate 
+
+somebody 
+
+unintelligible 
+
+professor eric ah thank you so it 
+
+does terminate right 
+
+youre sitting too far back let me try 
+
+oh too far sorry 
+
+come get me one later if you cant find it 
+
+yes it stops at the first step right 
+
+lets look at it 
+
+it says if answer sorry imagine x is  ans is  
+
+is  less than  no 
+
+so what does it do 
+
+it prints out  
+
+ah 
+
+so that now answers my second question it does terminate 
+
+but does it give me the right answer 
+
+no 
+
+right 
+
+it gives me an answer and imagine im using this 
+
+somewhere else you know its going to go off and say gee 
+
+the square root of  is  
+
+well it really should be a you know an imaginary number 
+
+but this is not a valuable thing to have come back 
+
+so thats the second thing ive just highlighted here is that 
+
+
+i now have the ability to check whether it does 
+
+the right thing 
+
+and those are two things that youd like to do with every 
+
+looping construct you youd like to be able to assure 
+
+yourself that they will always terminate and then the second 
+
+thing youd like to do is to assure yourself that it 
+
+does give you back a reasonable answer 
+
+
+we started to talk about ways to do the former 
+
+its looking at the end test 
+
+its looking at the kinds of conditions youre 
+
+going to put in 
+
+for the latter this is a place where running test cases 
+
+would do a good job of helping with that 
+
+nonetheless having done that lets look at a 
+
+better way to write this 
+
+which is right here it is also i think on your sheet 
+
+im going to uncomment that and comment this one out yeah 
+
+all right 
+
+so lets look at this code for a second 
+
+notice what this does 
+
+certainly the heart of it right in here is 
+
+still the same thing 
+
+but notice what this does 
+
+the first thing it does is it says lets check and make sure 
+
+x is greater than or equal to  
+
+if it isnt notice whats going to happen 
+
+none of that block is going to get executed and its going to 
+
+
+come down here and print out a useful piece of information 
+
+which says hey you gave me a negative number 
+
+i dont know how to do this 
+
+if it is in fact positive then were going to go 
+
+in here but now notice what were doing here 
+
+there is the basic thing we did before right 
+
+were checking the end test and incrementing actually i was 
+
+going to i commented that out for a reason youll see in a 
+
+second but i normally i would keep this on which would let 
+
+me at each step see what its doing 
+
+if i ran this it would print out each step 
+
+which is helping me make sure that its incrementing 
+
+
+the right way 
+
+ok once it gets to the end of that whats it going to do 
+
+its going to come down here and oh 
+
+whats that doing 
+
+well i cheated when i started 
+
+i said somebodys giving me a perfect square im looking 
+
+for the square root of it 
+
+but suppose i gave this thing  and asked it to run 
+
+itd still give me an answer 
+
+it just would not be the answer im looking for 
+
+so now in this case this code is going to when we get here 
+
+check and if you havent seen that strange thing there that 
+
+exclamation point in computerese called a bang it 
+
+
+says if ans star ans is not equal to x all right 
+
+whats that say it says ive already gotten to the end of 
+
+the loop im now past where i wanted to be and im going to 
+
+check to make sure that in fact this really is 
+
+a perfect square 
+
+if it isnt print out something says ah you gave 
+
+me something that wasnt a perfect square 
+
+
+and only if that is true am i going to print out the answer 
+
+its the same computation 
+
+but this is a nice way of writing it often called 
+
+defensive programming 
+
+and i think we have lots of variations on it i dont know 
+
+about john what your favorite is for the definition of 
+
+defensive programming for me it says make sure that im 
+
+going through all possible paths through the code make 
+
+sure im printing out or returning if you like useful 
+
+information for each style sorry for each path through 
+
+
+the code make sure that for all possible inputs there is a 
+
+path through the code or a way to get through the code that 
+
+does not cause an error or infinite loop 
+
+what else would you add john 
+
+professor john well well come back to this later 
+
+in the term and talk in some detail about particular 
+
+techniques 
+
+the basic idea of defensive programming is to assume that 
+
+a if youre getting inputs from a user they wont 
+
+necessarily give you the input youve asked for so if you ask 
+
+for a positive number dont count on them giving you one 
+
+and b if youre using a piece of a program written by a 
+
+
+programmer who is not perfect perhaps yourself there could 
+
+be mistakes in that program and so you write your program 
+
+under the assumption that not only might the user make a 
+
+mistake other parts of your program might make a mistake 
+
+and you just put in lots of different tests under the 
+
+assumption that youd rather catch that something has gone 
+
+wrong then have it go wrong and not know it 
+
+and well talk later in the term about dozens of different 
+
+tricks but the main thing to keep in mind is the general 
+
+principle that people are dumb 
+
+and will make mistakes 
+
+
+and therefore you write your programs so that catastrophes 
+
+dont occur when those mistakes are made 
+
+professor eric good 
+
+as john said were going to come back to it 
+
+but thats what basically the goal here 
+
+and you saw me put my hands up when i said stupid programmer 
+
+ive certainly written code that has this problem ive 
+
+tried to use my own code that has this problem and good to 
+
+us right good hygiene im going to use that word again 
+
+here of getting into the habit of writing defensive code up 
+
+front its part of that collection of things that 
+
+you ought to do is a great thing to do 
+
+i stress it in particular because i know youre all 
+
+going to get into this stage youve got a problem set due in 
+
+a couple of hours youre still writing the code you dont 
+
+
+want to waste time and im going to use quotes on waste 
+
+time doing those extra things to do the defensive 
+
+programming you just want to get the darn thing done 
+
+its a bad habit to get into because when you come back 
+
+to it it may haunt you later on down the road 
+
+so really get into that notion of trying to be defensive 
+
+
+as you program 
+
+ok 
+
+the other thing i want to say here is that this style of 
+
+program we just wrote is actually a very common one 
+
+and were going to give it a nice little name 
+
+often referred to as exhaustive enumeration 
+
+what does that mean 
+
+it says im literally walking through all possible values of 
+
+some parameter some element of the computation testing 
+
+everything until i find the right answer 
+
+all right so its you know again i can even write that 
+
+down essentially saying try all reasonable values until 
+
+you find the solution 
+
+and you might say well wait a minute isnt that going 
+
+to be really expensive 
+
+and the answer is yeah i guess if you want to search 
+
+you know all the pages on google one by one yes 
+
+probably its going to take a while 
+
+but there are an awful lot of computations for which this 
+
+is the right way to do it 
+
+you just want to exhaustively go through things 
+
+and just to give you a sense of that let me 
+
+show you an example 
+
+im going to change this all right 
+
+nice big number 
+
+you know computers are fast these days 
+
+
+i can make this even bigger its going to do it fairly 
+
+quickly so it really is quick to do this 
+
+it doesnt mean that exhaustive enumeration is a bad idea it 
+
+is often the right idea to use 
+
+so weve seen one example of this this idea of walking 
+
+through all the integers looking for the square root 
+
+lets look at some other examples in order to try 
+
+and see other ways in which we could do it 
+
+ok 
+
+in particular lets go over to here and let me show 
+
+you a second example 
+
+and let me comment that out 
+
+heres another problem that id like to solve 
+
+suppose i want to find all the divisors of some integer i 
+
+
+want to figure out what all the divisors are that 
+
+go evenly into it 
+
+again same kind of reasoning says given some value x i 
+
+happened to pick a small one here whats an easy 
+
+way to do this 
+
+well lets just start at one 
+
+thats my variable im going to change and check 
+
+does it divide evenly into x 
+
+if it does print it out 
+
+move on to the next one print it out 
+
+so again i can do the same kind of thing here you can see 
+
+that in fact lets just run it to make sure it does 
+
+the right thing ok 
+
+in fact if i go back to the code what did i 
+
+
+decide to do here 
+
+i say starting with an initialization of i theres my 
+
+first step as equal to  im going to walk through a little 
+
+loop where i check as long first of all as long as i is 
+
+less than x so theres my end test im going 
+
+to do something 
+
+and in this case the something is im going to look to 
+
+see if i divides x evenly 
+
+so ill remind you of that amp sorry that percent sign 
+
+there that says if x divided by i has a  remainder because 
+
+this gives me back the remainder if thats equal to 
+
+ print something out 
+
+and theres my nice increment 
+
+simple little piece of code 
+
+notice again exactly the same i picked the thing i 
+
+wanted to vary i initialized it outside the loop i have a 
+
+
+test to see when im done and then ive got a set of 
+
+instructions im doing every time inside the loop 
+
+in this case its doing the check on the remainder 
+
+and printing them out 
+
+and when im done with the whole thing before i end the 
+
+increment of the variable you know when im done im just 
+
+not returning anything out 
+
+ok 
+
+
+so now youve seen two simple examples 
+
+let me generalize this 
+
+in this case my incrementer was just adding  to an 
+
+integer its a pretty straightforward thing to do 
+
+but you can imagine thinking about this a little 
+
+differently 
+
+if i somehow had a collection an ordered collection of all 
+
+the integers from  to  i could imagine doing the same 
+
+thing where now what im doing is im starting with the first 
+
+element of that collection doing something going to the 
+
+next element doing something going to the next element 
+
+doing something im just walking through the 
+
+sequence of elements 
+
+right 
+
+and i havent said yet how do i get that collection but you 
+
+could certainly conceptualize that if i had that collection 
+
+that would be nice thing to do 
+
+that is a more common pattern 
+
+that is basically saying given some collection of data i want 
+
+to have again a looping mechanism where now my process 
+
+is walk through this the collection one 
+
+element at a time 
+
+and for that we have a particular construct 
+
+called a for loop 
+
+its going to do exactly that for us 
+
+its going to be more general than this and were going to 
+
+come back to that in fact professor guttags going to 
+
+
+pick this up in a couple of lectures but we can talk right 
+
+now about the basic form 
+
+the form of a for loop says for and im going to put 
+
+little angle braces in here again to say for some 
+
+variable like a name i want to get to it in some collection 
+
+and then i have a block of code 
+
+and what its saying semantically is using that 
+
+variable as my placeholder have it walk through this 
+
+
+collection starting at the first thing execute that code 
+
+then the next thing execute that code and so on 
+
+one of the advantages of this is that i dont have to 
+
+worry about explicitly updating my variable 
+
+that happens for me automatically 
+
+and thats very nice because this allows me to be sure 
+
+that my for loop is going to terminate 
+
+and because as long as this collection is finite this 
+
+thing is just going to walk through 
+
+all right 
+
+so if i show you for example im going to comment this one 
+
+out in the usual manner and lets look at uncommenting 
+
+that there is the same piece of code 
+
+now i slung something by you or snuck something by you 
+
+which is i hadnt said how to generate the set of 
+
+integers from  to  
+
+so range is a builtin python function 
+
+im going to come back to it in a second 
+
+for now just think of it as saying it gives you all the 
+
+integers from  up to but not including x 
+
+ok 
+
+but now you can see the form 
+
+this now says ok let i start as the first thing in there 
+
+which is  and then do exactly as i did before the same 
+
+thing but notice i dont need to say how to increment it 
+
+its happening automatically for me 
+
+ok 
+
+in fact if i run it it does the same thing which 
+
+is what i would expect 
+
+ok 
+
+now the advantage of the for as i said is that it 
+
+has then if you like a cleaner way of reading it 
+
+
+i dont have to worry about do i initialize it did i forget 
+
+to initialize it outside the loop it happens automatically 
+
+just by the syntax of it right there thats going to start 
+
+with the first element 
+
+i dont have to worry about did i remember to put the 
+
+incrementer in its going to automatically walk its 
+
+way through there 
+
+second advantage of the for is that right now were 
+
+thinking about it just as a sequence of integers 
+
+we could imagine its just counting its way through 
+
+
+but were going to see very shortly that in fact those 
+
+collections could be arbitrary 
+
+were going to have other ways of building them but it could 
+
+be a collection of all the primes 
+
+hm 
+
+theres an interesting thing to do 
+
+it could be a collection of ah you know i dont know 
+
+batting averages of somebody or other 
+
+it could be arbitrary collections that youve come 
+
+up with in other ways 
+
+the for is again going to let you walk through that thing 
+
+so it does not have to be something that could be 
+
+described procedurally such as add  just to 
+
+the previous element 
+
+it could be any arbitrary collection 
+
+
+and if i were to use that again id just put it on your 
+
+handout i could go back and rewrite that thing that i had 
+
+previously for finding the square roots of the perfect 
+
+squares just using the for loop 
+
+ok 
+
+what i want to do though is go on to or sorry go back 
+
+to my divisor example 
+
+unintelligible phrase 
+
+ok 
+
+try again 
+
+ive got a number i want to find the divisors 
+
+right now what my code is doing is its printing them 
+
+
+up for me which is useful 
+
+but imagine i actually wanted to gather them together 
+
+i wanted to collect them so i could do something with them 
+
+i might want to add them up 
+
+might want to multiply them together 
+
+might want to do i dont know something else with them find 
+
+common divisors of things by looking at them 
+
+i need in fact a way to make explicit what i cant do that 
+
+with range is i need a way to collect things together 
+
+and thats going to be the first of our more compound data 
+
+structures and we have exactly such a structure and 
+
+its called a tuple 
+
+this is an ordered sequence of elements 
+
+now im going to actually add something to it thats going to 
+
+make sense in a little while or in a couple of lectures 
+
+which is it is immutable 
+
+meaning i cannot change it and well see why thats 
+
+important later on 
+
+but for now tuple is this ordered sequence of structures 
+
+ok 
+
+and how do i create them 
+
+
+well the representation is following a square bracket 
+
+followed by a sequence of elements separated by 
+
+commas followed by a closed square bracket 
+
+and that is literally what i said it is an ordered 
+
+sequence of elements you can see where they are 
+
+ok 
+
+so let me do a little example of this 
+
+if i go back over here lets define er cant type i can 
+
+look at the value of test its an ordered sequence 
+
+
+i need to get elements out of it 
+
+so again i have a way of doing that 
+
+in particular i can ask for the zeroth element of test 
+
+ok notice im putting a square bracket around it and 
+
+it gives me i know this sounds confusing but this is 
+
+a long tradition it gives me ah yes 
+
+unintelligible 
+
+professor eric sorry 
+
+unintelligible 
+
+professor eric i created a list here 
+
+ah thank you 
+
+im glad you guys are on top of it 
+
+
+youre saying i want that 
+
+is that right john 
+
+yes 
+
+ok 
+
+sorry 
+
+youre going to see why this was a mistake 
+
+in a little while 
+
+i did not want to make a list i wanted to create a tuple 
+
+thank you for catching it 
+
+i want parens not square brackets there 
+
+youll also see in a little while why both of these things 
+
+would work this way but its not what i wanted 
+
+ok 
+
+so i guess i should go back and let me do this 
+
+correctly this way 
+
+again i can look at test and i guess test now if i want to 
+
+get the element out angle bracket or square bracket 
+
+i still want square bracket thats what i thought ok 
+
+now i can go back to where i was which is a strange 
+
+piece of history which is we start counting at  
+
+so the i hate to say it this way the first element of this 
+
+tuple is at position  or index  ok so i can get the 
+
+zeroth one out i can get if i do  i get the third thing 
+
+out because it goes    notice however if i do 
+
+something that tries to go outside the length of the tuple 
+
+
+it complains which is right 
+
+tuples also have another nice structure which is i can go 
+
+the other direction which is if i want to get the last 
+
+element of that tuple i give it a negative index 
+
+so imagine you think of it as is it starting right just 
+
+before the beginning of the thing if i give it a  its 
+
+going to take the first one if i give it a  its going to 
+
+take the next one but i can go the other direction if i give 
+
+it a  it picks up the last element of the tuple 
+
+and again i can go  go back 
+
+so this is what we would call selection 
+
+we can do things like foo of  to get out the 
+
+
+particular element 
+
+i can also pick up pieces of that tuple 
+
+again i want to show you the format here 
+
+if i give it this strange expression this is saying i 
+
+want to get the piece of the tuple starting at index  its 
+
+going to be the second element and going up to but not 
+
+including index  
+
+and it gives me back that piece 
+
+
+actually a copy of that piece of the tuple 
+
+this is called slicing 
+
+and then just to complete this 
+
+two other nice things you can do with slices are you can 
+
+get the beginning or the end of tuple 
+
+so for example if i say test and i dont give it a start but 
+
+i give it an end then it gives me all the elements 
+
+up to that point 
+
+and i can obviously do the other direction which is i 
+
+can say skip to index  and all the remaining pieces 
+
+this lets me slice out if you like the front part or back 
+
+part or a middle part of the tuple as i go along 
+
+what in the world does that have to do with 
+
+my divisor example 
+
+well actually before i do that let me in fact 
+
+fill in a piece here 
+
+which is remember i said range we could think of conceptually 
+
+as a tuple  or sorry as a sequence of these things 
+
+in fact it gives me back now i hate this its actually 
+
+a list its not a tuple 
+
+but for now think of it as giving you back an explicit 
+
+
+version of that representation of all those elements 
+
+youll see why im going to make that distinction in 
+
+a couple of lectures 
+
+all right 
+
+what does this have to do with my divisor example 
+
+this says i can make tuples but imagine now going back 
+
+to my divisor example and i want to gather up the 
+
+elements as i go along 
+
+i ought to be able to do that by in fact just 
+
+
+adding the pieces in 
+
+and thats what im going to do over here 
+
+which is let me comment that out let me uncomment that 
+
+and i guess i need the same thing here right 
+
+i need parens not thank you 
+
+you can tell im an old time list packer 
+
+i really do love these things 
+
+and is that right john 
+
+ok so my apologies that your handout is wrong 
+
+i did not think to check about the difference 
+
+between these things 
+
+nonetheless having done that lets look at 
+
+
+what im going to do 
+
+i now want to run a loop where i need to collect 
+
+things together 
+
+im going to give a name to that 
+
+and what you see there is im going to call divisors 
+
+initially an empty tuple something has nothing in it 
+
+right here 
+
+and then im going to run through the same loop as 
+
+before going through this set of things doing the check 
+
+now what id like to do every time i find a divisor id 
+
+like to gather it together 
+
+so im going to create a tuple of one element the value of i 
+
+
+and then ah cool 
+
+heres that addition operation thats badly overloaded 
+
+this is why professor guttag likes and i dont 
+
+because given that this is a tuple and thats a tuple i 
+
+can just add them together 
+
+that is concatenate them if you like one on the end of it 
+
+and if i keep doing that when im done divisor will be 
+
+a collection of things 
+
+so let me just run it 
+
+all right 
+
+this is what i get for trying to  
+
+student there should be a comment after the 
+
+i in parentheses 
+
+professor eric thank you 
+
+right there 
+
+all right well try this again 
+
+ok 
+
+and there are the set of devices 
+
+thank you 
+
+who did that 
+
+somebody gets no 
+
+yours 
+
+thank you 
+
+nice catch too by the way 
+
+all right so now that you can see that i can screw up 
+
+programming which i just did 
+
+but we fixed it on the fly 
+
+thank you 
+
+what have we done 
+
+weve now got a way of collecting things 
+
+together right 
+
+and this is the first version of something wed like to use 
+
+now that ive gotten that bound as a name i could go in 
+
+and do things with that 
+
+i could go in and say give me the fourth divisor give me the 
+
+second through fifth divisor 
+
+again as i suggested if ive got two integers and i want 
+
+to find common divisors i could take those two lists 
+
+and walk through them 
+
+i shouldnt say list those two tuples and walk through them 
+
+to find the pieces that match up 
+
+
+so ive got a way now of gathering data together 
+
+the last thing i want to do is to say all right now that 
+
+weve got this idea of being able to collect things into 
+
+collections weve got the ability now to use looping 
+
+structures as we did before but we can walk down then doing 
+
+things to them where else might we have this need to do 
+
+things with looping structures 
+
+and im going to suggest youve already seen it 
+
+whats a string 
+
+well at some level it is an ordered sequence of characters 
+
+right 
+
+now it is not represented this same way 
+
+you dont see strings inside these open parens 
+
+and closed parens 
+
+you dont see strings with commas between them but it has 
+
+
+the same kind of property 
+
+it is in ordered sequence of characters 
+
+wed like to do the same thing with strings 
+
+that is wed like to be able to get pieces of them out 
+
+wed like to be able add them together or concatenate 
+
+them together 
+
+wed like to be able to slice them 
+
+and in fact we can 
+
+so strings also support things like selection slicing and a 
+
+set of other parameters other properties 
+
+and lets just look at that 
+
+again if i go back here let me comment this out 
+
+right here are a pair of strings that ive 
+
+set up s  and s  
+
+let me just run these 
+
+we can go back over here 
+
+so i can see the value of s  its a string 
+
+i can do things like s  and s  
+
+as we saw before it simply concatenates them together and 
+
+gives me back a longer string 
+
+but i can also ask for parts of this 
+
+so i can for example say give me the first element 
+
+
+of string  s  
+
+ah thats exactly what we would have thought if this was 
+
+represented as an ordered sequence of things 
+
+again i should have said first index  the first one 
+
+i can similarly go in and say id like all the things 
+
+between index  and index  
+
+and again remember what that does 
+
+index  says start a  
+
+  
+
+so a b c 
+
+and then it goes up to but not including index  so it gets 
+
+c and d and then it stops 
+
+
+i can similarly just as i did with the tuples i can ask for 
+
+everything up to some point or i can ask for everything 
+
+starting at some point and carrying on 
+
+now what youre seeing here then is the beginning of 
+
+complex data structures 
+
+and the nice thing is that theres a shared 
+
+behavior there 
+
+just as i can have tuples as an ordered collection of things 
+
+strings behave as an ordered collection of things 
+
+so i can start thinking about doing manipulation on strings 
+
+i can concatenate them together i can find pieces 
+
+inside of them i could actually do things with them 
+
+and let me show you just a simple little example of 
+
+something i might want to do 
+
+suppose i take i better comment this one out or 
+
+its going to spit it out 
+
+let me comment that out 
+
+suppose i take a number 
+
+id like to add up all the digits inside of the number 
+
+
+i can use the tools ive just described in 
+
+order to capture that 
+
+so what would i want to do 
+
+id like to somehow walk down each of the digits one at 
+
+a time and add them up 
+
+ah thats a looping mechanism right 
+
+i need to have some way of walking through them 
+
+an easy way to do it would be inside of a for 
+
+and what would i like to do 
+
+well i need to take that number and im going to 
+
+turn it into a string 
+
+so notice what im going to do right here 
+
+i take that number and convert it into a string 
+
+thats an example of that type conversion we did earlier on 
+
+by doing that it makes it possible for me to 
+
+treat it as an ordered sequence of characters 
+
+and so whats the loop going to do 
+
+
+its going to say for c which was my name for the 
+
+character in that string 
+
+that means starting at the first one im going 
+
+to do something to it 
+
+and what am im going to do 
+
+im going to take that character convert it back 
+
+into an integer and add it into some digits 
+
+and ive done a little short hand here which is i should 
+
+have said some digits is equal to some digits plus this 
+
+but that little short hand there is doing exactly 
+
+
+the same thing 
+
+it is adding that value into some digits and putting 
+
+it back or signing it back into some digits 
+
+and ill walk through that loop and when im done i can print 
+
+out the total thing does 
+
+and if i do that i get out what i would expect 
+
+so what have i done 
+
+weve now generalized the idea of iteration into 
+
+this little pattern 
+
+again as i said this is my version of it but you can see 
+
+every one of the examples weve used so far has that 
+
+pattern to it 
+
+figure out what im trying to walk through 
+
+whats the collection of things im trying to walk through 
+
+figure out what i want to do at each stage 
+
+figure out what the end test is 
+
+figure out what im going to do at the end of it 
+
+i can write it explicitly 
+
+i can write it inside of a for loop 
+
+and weve started to add and well see a lot more of this 
+
+examples of collections of structures so that we dont 
+
+just have to do something that can be easily described as 
+
+walking through a set of things but can actually be 
+
+a collection that you walk through 
+
+the last thing i want to point out to you is i started 
+
+out with this list 
+
+i havent added anything to the list right 
+
+i mean ive got a different kind of looping mechanism 
+
+i guess i should say thats not quite true 
+
+ive added the ability to have more complex 
+
+data structures here 
+
+
+but i dropped a hint in the first lecture about what you 
+
+could computer with things 
+
+in fact if you think for a second about that list you 
+
+could ask what can i compute with just that set 
+
+of constructs 
+
+and the answer is basically anything 
+
+this is an example of what is referred to frequently as being 
+
+a turing complete language 
+
+that is to say with just those set of constructs anything you 
+
+can describe algorithmically you can compute with 
+
+that set of constructs 
+
+so theres good news and bad news 
+
+the good news is it sounds like were done 
+
+class is cancelled until final exam because this is all 

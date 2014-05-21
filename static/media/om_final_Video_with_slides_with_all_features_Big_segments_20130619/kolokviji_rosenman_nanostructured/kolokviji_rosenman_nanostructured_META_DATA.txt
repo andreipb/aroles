@@ -1,0 +1,88 @@
+Biological and Bioinspired Nanostructured Materials: Basic Physics and Applications
+
+author: Gil Rosenman, Faculty of Engineering, Tel Aviv University
+
+published: Nov. 7, 2011,   recorded: October 2011,   views: 220
+
+Categories
+Top » Technology » Nanotechnology » Nanomaterials » Nanostructures
+
+Description
+Elementary biological units such as proteins and peptides self-assemble into natural biological nanostructures 
+such as protein fibers and amyloid fibrils (AF). Another class of nanomaterials is man-made bioinspired materials, 
+which are composed from chemically synthesized biomolecules and can self assemble into nanotubes (PNT), nanospheres, 
+hydrogels, etc. AF and PNT are supramolecular ensembles, which are built-up from crystallized subunits highly ordered 
+at the nanoscale and possessing unique intrinsic physical properties, such as quantum confined phenomena or asymmetric 
+space structure and polar dielectric properties. The Lecture will be focused on basic physical properties of biological 
+and bioinspired nanostructures, development of novel generation of bioinspired nanomaterials and their applications in 
+nanophotonics, nanomedicine and nanobiopiezotronics.
+
+Slides
+0:00 	Biological and Bioinspired Nanostructured Materials: Basic Physics and Applications
+5:38 	Living Nature: Protein Fibers
+8:19 	Nature: Amyloid Fibrils
+10:22 	Bioinspired Peptide Nanotubes (1)
+14:54 	Bioinspired Peptide Nanotubes (2)
+15:16 	Biological and Bioinspired Structures
+20:14 	Common Intrinsic Physical Properties?
+22:34 	Biological and Bioinspired Structures: Motivation and Goals
+25:47 	Part I
+25:54 	Peptide Engineering and Self Assembly Mechanism
+27:20 	Peptide Nanotubes Vapor Deposition (1)
+28:21 	Peptide Nanotubes Vapor Deposition (2)
+29:17 	Peptide Nanotubes Vapor Deposition (3)
+29:25 	Peptide Nanostructures
+30:05 	Part II
+30:20 	Self Assembled Bio-Inspired Peptide Nanotubes
+31:37 	Optical Absorption of Self Assembled Bio-Inspired Peptide Nanotubes
+33:41 	Quantum Confinement Phenomena (1)
+35:02 	Quantum Confinement Phenomena (2)
+37:01 	Quantum Confinement Phenomena (3)
+37:31 	Quantum Confinement Phenomena (4)
+37:32 	Quantum Confinement in Self Assembled Bio-Inspired Peptide Nanotubes (1)
+39:05 	Quantum Confinement in Self Assembled Bio-Inspired Peptide Nanotubes (2)
+39:41 	Photoluminescence in Quantum Confined Bio-Inspired Nanostructures
+41:16 	Cyclic Peptide Nanotubes-QW Engineering (1)
+41:54 	Cyclic Peptide Nanotubes-QW Engineering (2)
+42:20 	FF-peptide nanotubes (evaporation from solutions) - 1
+42:54 	FF-peptide nanotubes (evaporation from solutions) - 2
+42:58 	Peptide Nanotubes Self Assembly Mechanism (1)
+45:23 	Peptide Nanotubes Self Assembly Mechanism (2)
+45:25 	Self Assembly Insulin Amyloid Fibrils
+46:35 	Part III
+46:50 	Biological and Bioinspired Structures: Motivation and Goals
+47:13 	Ferroelectricity in Biology (1)
+47:57 	Ferroelectricity in Biology (2)
+48:03 	Piezoelectric Effect in Human Bones at Nanoscale (1)
+48:08 	Piezoelectric Effect in Human Bones at Nanoscale (2)
+48:38 	Ferroelectric and Related Properties in Bioinspired Peptide Nanotubes (1)
+49:40 	Ferroelectric and Related Properties in Bioinspired Peptide Nanotubes (2)
+49:42 	Ferroelectric Properties of FF-Peptide Nanotubes
+50:02 	Peptide Nanotubes Piezoelectricity: Phase Transition (1)
+51:13 	Peptide Nanotubes Piezoelectricity: Phase Transition (2)
+51:31 	Peptide Nanotubes Piezoelectricity: Phase Transition (3)
+51:34 	Phase Transition in FF-Peptide Nanotubes
+52:10 	Peptide Nanotubes Morphological Transition (1)
+52:21 	Peptide Nanotubes Morphological Transition (2)
+52:36 	Peptide Nanotubes Morphological Transition (3)
+53:21 	Peptide Nanotubes Morphological Transition (4)
+53:59 	Phase Transition: Wettability Properties (1)
+54:25 	Phase Transition: Wettability Properties (2)
+54:29 	Peptide Nanotubes Structural Transformation (1)
+55:16 	Peptide Nanotubes Structural Transformation (2)
+55:26 	Phase Transition: Molecular Transformation (1)
+56:13 	Phase Transition: Molecular Transformation (2)
+56:18 	Phase Transition In Bioinspired FF-Peptide Nanostructures
+56:25 	Applications of Bioinspired Materials (1)
+56:27 	Bioinspired Peptide Nanostructures (2)
+58:40 	Peptide Nanotubes-Nanoordering and Nanostructure (1)
+58:47 	Peptide Nanotubes-Nanoordering and Nanostructure (2)
+58:48 	PNT-Nanophotonics
+58:59 	Nanophotonics-Insulin Amyloid Fibrils (1)
+59:03 	Nanophotonics-Insulin Amyloid Fibrils (2)
+59:07 	Bio-Nano-Piezoelectrics (1)
+59:16 	Bio-Nano-Piezoelectrics (2)
+59:38 	Nanotechnology of Elementary Building Blocks (1)
+60:35 	Nanotechnology of Elementary Building Blocks (2)
+60:59 	Acknowledgments
+62:11 	Thank you!

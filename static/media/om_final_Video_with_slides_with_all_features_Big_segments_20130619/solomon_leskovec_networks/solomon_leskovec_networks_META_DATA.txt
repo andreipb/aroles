@@ -1,0 +1,86 @@
+Networks, communities and the ground-truth
+
+author: Jure Leskovec, Computer Science Department, Stanford University
+
+published: Feb. 23, 2012,   recorded: January 2012,   views: 452
+
+Categories
+Top » Social Sciences » Society » Social Networks
+
+Description
+The Web, society, information, cells and brain can all be represented and studied as complex 
+networks of interactions. Nodes in such networks tend to organize into clusters and communities, 
+which represent the fundamental structures for understanding the organization of complex systems. 
+Even though detection of network communities is of significant importance for computer science, 
+sociology and biology, our understanding of the community structure of large networks remains limited.
+
+We study a set of more than 200 large networks with the goal to understand and identify communities 
+in networks. We challenge the conventional view of network community structure and show that it is 
+not exhibited by the large real-world networks. We then present a new conceptual model of network 
+community structure, which reliably captures the overall structure of networks and accurately identifies 
+the overlapping nature of network communities.
+
+This is joint work with Jaewon Yang.
+
+Slides
+0:00 	Networks, Communities and the Ground-Truth
+0:17 	Many Data ARE Networks
+1:35 	Organization of Networks
+2:11 	Network Communities (1)
+2:13 	Organization of Networks
+2:49 	Network Communities (1)
+4:15 	Communities as Micro-markets
+5:22 	This Talk: Networks & Communities (1)
+6:24 	This Talk: Networks & Communities (2)
+7:03 	This Talk: Networks & Communities (3)
+7:51 	Part 1: Core-Periphery
+8:37 	Network Communities (2)
+9:54 	Network Communities (3)
+9:55 	Communities: Social Networks
+11:31 	Community Score
+13:14 	Network Community Profile (1)
+15:02 	Network Community Profile (2)
+16:40 	Network Community Profile (3)
+16:44 	NCP Plot: Lattices
+18:43 	NCP Plot: Network Science
+19:24 	Natural Hypothesis (1)
+19:39 	NCP Plot: Network Science
+19:43 	Natural Hypothesis (1)
+19:58 	Natural Hypothesis (2)
+20:02 	Natural Hypothesis (1)
+20:13 	Natural Hypothesis (2)
+20:28 	Large Networks: Very Different!
+21:29 	More NCP Plots
+22:57 	NCP: LiveJournal (n=5m, m=42m) -1
+23:04 	NCP: LiveJournal (n=5m, m=42m) -2
+23:32 	Explanation: The Upward Part
+24:55 	Explanation: Downward part
+25:48 	What If We Remove Good Clusters?
+26:51 	Suggested Network Structure (1)
+27:14 	Suggested Network Structure (2)
+27:26 	Suggested Network Structure (3)
+27:35 	Suggested Network Structure (4)
+28:08 	Suggested Network Structure (5)
+28:32 	Part 2: Networks & Communities
+29:01 	Step Back: Community Detection
+30:21 	Ground-Truth
+31:44 	Networks with Ground-Truth
+32:46 	Ground-Truth: Consequences
+34:12 	Groups and Networks
+35:32 	Edge Probability
+36:08 	Communities in Networks (1)
+37:17 	Communities in Networks (2)
+37:19 	Communities in Networks (3)
+37:43 	Natural Model
+40:22 	Model-based Community Detection (1)
+40:41 	Model-based Community Detection (2)
+41:07 	MAG Model Fitting
+42:02 	Experimental Setup
+43:46 	Experiments: Vs. Link Clustering
+44:18 	Experiments: Vs. CPM
+44:30 	Experiments
+45:10 	Example: Facebook
+46:43 	Conclusion (1)
+47:22 	Conclusion (2)
+48:03 	Connections: Core-Periphery
+48:49 	THANKS!

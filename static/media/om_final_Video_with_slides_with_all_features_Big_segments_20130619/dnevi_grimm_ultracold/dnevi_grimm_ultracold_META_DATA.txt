@@ -1,0 +1,105 @@
+Ultracold atoms: Model kits for quantum matter
+
+author: Rudolf Grimm, Institute for Experimental Physics, University of Innsbruck
+
+published: April 5, 2012,   recorded: March 2012,   views: 198
+
+Categories
+Top » Physics
+Top » Physics » Solid-state physics
+
+
+Description
+Atomic samples with temperatures in the nanokelvin range, prepared by advanced methods 
+of laser and evaporative cooling, offer unique opportunities to study a large variety 
+of phenomena in complex quantum systems. The important degrees of freedom and parameters 
+can be controlled in a way, not accessible to traditional quantum many-body systems. 
+Both bosonic and fermionic atoms are available to create Bose-Einstein condensates, 
+degenerate Fermi gases, and even quantum-degenerate mixtures. Optical traps allow the 
+experimentalists to realize macroscopic traps, artificial crystals (“optical lattices”), 
+and low-dimensional environments. The interaction can be magnetically tuned exploiting 
+a resonance phenomenon, called “Feshbach resonance”. Based on this rich tool-box, many 
+intriguing model systems can be experimentally studied with strong connections to 
+different branches of physics. After a general introduction into the field, I will 
+present a few examples based on research in Innsbruck, including new developments on 
+strongly interacting Fermi gases and few-body “Efimov” states in Bose gases.
+
+Slides
+0:00 	Ultracold atoms: Model kits for quantum matter
+1:59 	Outline
+2:57 	Ultracold quantum gases: The general ideas
+3:03 	Laser cooling
+5:05 	Conservative atom traps
+7:56 	Evaporative cooling: basic idea
+9:27 	BEC
+11:08 	Attainment of BEC <2000
+11:37 	Attainment of BEC
+13:45 	Degenerate Fermi gases
+14:19 	Optical lattices
+15:12 	Mott insulator phase transition - 1
+16:08 	Mott insulator phase transition - 2
+16:25 	84Sr Mott insulator in Innsbruck
+17:06 	Our detectors: Imaging of atom clouds
+18:10 	Interactions
+19:14 	Feshbach resonance
+20:35 	Table-top set up
+20:56 	Magneto-optically trapped Sr atoms (461nm)
+21:16 	Sr and Li: two-species MOT (461nm and 671nm)
+21:44 	Magneto-opically trapped erbium (583nm)
+22:04 	Ultracold group in Innsbruck (April 2011)
+22:16 	Ultracold PIs
+22:42 	Mysterious Efimov quantum states
+22:54 	43 years ago ...
+23:08 	42 years ago ...
+23:33 	Efimov observations in three-body systems
+23:45 	Vitaly Efimov visiting Innsbruck, 23 Oct 2009
+24:06 	Quantum states near two-body resonance - 1
+24:51 	Quantum states near two-body resonance - 2
+26:06 	Efimov states: Borromean region
+26:19 	Borromean states in nuclear physics
+26:46 	Search for Efimov states in He (1994-2005)
+27:31 	Three-body recombination
+28:13 	Three-body recomb. theory basics
+28:47 	Discrete scale invariance in 3-body decay
+29:12 	Efimov resonances
+29:45 	Exp. results (2005) !
+30:32 	Magnetic tunability of Cs
+31:04 	Very recent results
+32:09 	Variations of the three-body parameter? - 1
+32:30 	Variations of the three-body parameter? - 2
+33:14 	Vitaly Efimov & the Innsbruck Cs team
+33:21 	2, 3, 4,…. many
+34:43 	Strongly interacting Fermi gases
+34:49 	Two-component Fermi gas
+36:38 	Neutron star
+37:30 	Interesting question
+38:54 	dnevi_grimm_ultracold_01.jpg
+39:47 	Table-top trapping apparatus
+39:54 	Optical trap for evaporative cooling
+40:07 	BEC of molecules
+40:36 	Two classes - 1
+41:17 	Two classes - 2
+41:46 	Two classes - 3
+41:49 	Two classes - 4
+41:57 	Two classes - 5
+42:27 	Establishing superfluidity
+43:10 	Crossover in Fermi gases
+44:06 	Two-component Fermi system (spin mixture)
+44:13 	Two-species: Fermi-Fermi mixture
+45:40 	How about tunability?
+45:54 	Elastic scattering
+46:47 	Spin channels
+47:31 	Experimental parameters
+48:32 	Impurity in a Fermi sea
+49:55 	Innsbruck Fermi-Fermi team
+50:22 	Energy diagram (T=0)
+51:53 	"Reverse" rf spectroscopy
+52:14 	Spectral response - 1
+52:38 	Spectral response - 2
+53:06 	Spectral response - 3
+53:07 	Spectral response - 4
+53:27 	Energy diagram (T=0)
+53:58 	Measured decay rates
+54:51 	The big question
+56:07 	General conclusion
+56:56 	Thank you for your attention !

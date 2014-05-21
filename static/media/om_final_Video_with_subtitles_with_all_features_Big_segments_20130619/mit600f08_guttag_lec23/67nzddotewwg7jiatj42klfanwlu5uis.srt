@@ -1,0 +1,3700 @@
+1
+00:00:00 --> 00:00:00
+
+
+
+2
+00:00:00 --> 00:00:02
+OPERATOR:: The following
+content is provided under a
+
+3
+00:00:02 --> 00:00:03,84
+Creative Commons license.
+
+
+4
+00:00:03,84 --> 00:00:06,84
+Your support will help MIT
+OpenCourseWare continue to
+
+5
+00:00:06,84 --> 00:00:10,53
+offer high quality educational
+resources for free.
+
+6
+00:00:10,53 --> 00:00:13,39
+To make a donation or view
+additional materials from
+
+7
+00:00:13,39 --> 00:00:17,49
+hundreds of MIT courses,
+visit MIT OpenCourseWare
+
+8
+00:00:17,49 --> 00:00:21,81
+at ocw.mit.edu.
+
+
+9
+00:00:21,81 --> 00:00:24,4
+PROFESSOR: I want to
+pick up exactly where
+
+10
+00:00:24,4 --> 00:00:26,26
+I left off last time.
+
+
+11
+00:00:26,26 --> 00:00:28,79
+When I was talking about
+various sins one can
+
+12
+00:00:28,79 --> 00:00:31,14
+commit with statistics.
+
+
+13
+00:00:31,14 --> 00:00:45,4
+And I had been talking about
+the sin of data enhancement,
+
+14
+00:00:45,4 --> 00:00:49,28
+where the basic idea there is,
+you take a piece of data, and
+
+15
+00:00:49,28 --> 00:00:51,82
+you read much more into
+it than it implies.
+
+16
+00:00:51,82 --> 00:00:56,48
+In particular, a very common
+thing people do with data
+
+17
+00:00:56,48 --> 00:01:01,9
+is they extrapolate.
+
+
+18
+00:01:01,9 --> 00:01:08,08
+I'd given you a
+couple of examples.
+
+19
+00:01:08,08 --> 00:01:17,27
+In the real world, it's often
+not desirable to say that I
+
+20
+00:01:17,27 --> 00:01:21,47
+have a point here, and a point
+here, therefore the next
+
+21
+00:01:21,47 --> 00:01:23,84
+point will surely be here.
+
+
+22
+00:01:23,84 --> 00:01:27,4
+And we can just extrapolate
+in a straight line.
+
+23
+00:01:27,4 --> 00:01:30,56
+We before saw some examples
+where I had an algorithm to
+
+24
+00:01:30,56 --> 00:01:34,41
+generate points, and we fit a
+curve to it, used the curve to
+
+25
+00:01:34,41 --> 00:01:36,43
+predict future points, and
+discovered it was
+
+26
+00:01:36,43 --> 00:01:40,72
+nowhere close.
+
+
+27
+00:01:40,72 --> 00:01:44,65
+Unfortunately, we often see
+people do this sort of thing.
+
+28
+00:01:44,65 --> 00:01:49,95
+One of my favorite stories is,
+William Ruckelshaus, who was
+
+29
+00:01:49,95 --> 00:01:52,25
+head of the Environmental
+Protection Agency in
+
+30
+00:01:52,25 --> 00:01:54,74
+the early 1970s.
+
+
+31
+00:01:54,74 --> 00:01:58,84
+And he had a press conference,
+spoke about the increased use
+
+32
+00:01:58,84 --> 00:02:03,36
+of cars, and the decreased
+amount of carpooling.
+
+33
+00:02:03,36 --> 00:02:05,97
+He was trying to get people to
+carpool, since at the time
+
+34
+00:02:05,97 --> 00:02:11,25
+carpooling was on the way down,
+and I now quote, "each car
+
+35
+00:02:11,25 --> 00:02:16,03
+entering the central city,
+sorry, in 1960," he said, "each
+
+36
+00:02:16,03 --> 00:02:20,63
+car entering the central
+city had 1.7 people in it.
+
+37
+00:02:20,63 --> 00:02:25,54
+By 1970. this had dropped
+to less than 1.2.
+
+38
+00:02:25,54 --> 00:02:30,66
+If present trends continue, by
+1980, more than 1 out of every
+
+39
+00:02:30,66 --> 00:02:36,89
+10 cars entering the city will
+have no driver." Amazingly
+
+40
+00:02:36,89 --> 00:02:41,37
+enough, the press reported this
+as a straight story, and talked
+
+41
+00:02:41,37 --> 00:02:45,13
+about how we would be
+dramatically dropping.
+
+42
+00:02:45,13 --> 00:02:49,64
+Of course, as it happened,
+it didn't occur.
+
+43
+00:02:49,64 --> 00:02:53,29
+But it's just an example of,
+how much trouble you can
+
+44
+00:02:53,29 --> 00:02:56,88
+get into by extrapolating.
+
+
+45
+00:02:56,88 --> 00:03:00,87
+The final sin I want to talk
+about is probably the most
+
+46
+00:03:00,87 --> 00:03:13,83
+common, and it's called the
+Texas sharpshooter fallacy.
+
+47
+00:03:13,83 --> 00:03:17,39
+Now before I get into that, are
+any of you here from Texas?
+
+48
+00:03:17,39 --> 00:03:19,67
+All right, you're
+going to be offended.
+
+49
+00:03:19,67 --> 00:03:23,87
+Let me think, OK, anybody
+here from Oklahoma?
+
+50
+00:03:23,87 --> 00:03:24,38
+You'll like it.
+
+
+51
+00:03:24,38 --> 00:03:26,61
+I'll dump on Oklahoma, it
+will be much better then.
+
+52
+00:03:26,61 --> 00:03:32,53
+We'll talk about the Oklahoma
+sharpshooter fallacy.
+
+53
+00:03:32,53 --> 00:03:37,78
+We won't talk about the
+BCS rankings, though.
+
+54
+00:03:37,78 --> 00:03:40,8
+So the idea here is a
+pretty simple one.
+
+55
+00:03:40,8 --> 00:03:45,02
+This is a famous marksman who
+fires his gun randomly at the
+
+56
+00:03:45,02 --> 00:03:52,47
+side of a barn, has a bunch of
+holes in it, then goes and
+
+57
+00:03:52,47 --> 00:03:59,97
+takes a can of paint and draws
+bullseyes around all the places
+
+58
+00:03:59,97 --> 00:04:02,55
+his bullets happened to hit.
+
+
+59
+00:04:02,55 --> 00:04:07,77
+And people walk by the barn
+and say, God, he is good.
+
+60
+00:04:07,77 --> 00:04:13,65
+So obviously, not a good
+thing, but amazingly easy
+
+61
+00:04:13,65 --> 00:04:16,4
+to fall into this trap.
+
+
+62
+00:04:16,4 --> 00:04:17,79
+So here's another example.
+
+
+63
+00:04:17,79 --> 00:04:24,84
+In August of 2001, a paper
+which people took seriously
+
+64
+00:04:24,84 --> 00:04:27,71
+appeared in a moderately
+serious journal called
+
+65
+00:04:27,71 --> 00:04:29,63
+The New Scientist.
+
+
+66
+00:04:29,63 --> 00:04:33,36
+And it announced that
+researchers in Scotland had
+
+67
+00:04:33,36 --> 00:04:38,01
+proven that anorexics are
+likely to have been
+
+68
+00:04:38,01 --> 00:04:41,83
+born in June.
+
+
+69
+00:04:41,83 --> 00:04:44,08
+I'm sure you all knew that.
+
+
+70
+00:04:44,08 --> 00:04:45,75
+How did how did
+they prove this?
+
+71
+00:04:45,75 --> 00:04:47,57
+Or demonstrate this?
+
+
+72
+00:04:47,57 --> 00:04:59,95
+They studied 446 women.
+
+
+73
+00:04:59,95 --> 00:05:04,79
+Each of whom had been
+diagnosed anorexic.
+
+74
+00:05:04,79 --> 00:05:14,36
+And they observed that
+about 30 percent more than
+
+75
+00:05:14,36 --> 00:05:33,62
+average were born in June.
+
+
+76
+00:05:33,62 --> 00:05:36,95
+Now, since the monthly average
+of births, if you divide this
+
+77
+00:05:36,95 --> 00:05:43,2
+by 12, it's about 37,
+that tells us that 48
+
+78
+00:05:43,2 --> 00:05:47,21
+were born in June.
+
+
+79
+00:05:47,21 --> 00:05:50,5
+So at first sight, this seems
+significant, and in fact if you
+
+80
+00:05:50,5 --> 00:05:55,92
+run tests, and ask what's the
+likelihood of that many more
+
+81
+00:05:55,92 --> 00:06:04,78
+being born in 1 month, you'll
+find that it's quite unlikely.
+
+82
+00:06:04,78 --> 00:06:08,68
+In fact, you'll find the
+probability of this happening
+
+83
+00:06:08,68 --> 00:06:16,21
+is only about 3 percent, of it
+happening just by accident.
+
+84
+00:06:16,21 --> 00:06:19,18
+What's wrong with
+the logic here?
+
+85
+00:06:19,18 --> 00:06:19,67
+Yes?
+
+
+86
+00:06:19,67 --> 00:06:24,01
+STUDENT: They only studied
+diagnosed anorexics.
+
+87
+00:06:24,01 --> 00:06:26,21
+PROFESSOR: No, because they
+were only interested in the
+
+88
+00:06:26,21 --> 00:06:30,32
+question of when are anorexics
+born, so it made sense
+
+89
+00:06:30,32 --> 00:06:31,39
+to only study those.
+
+
+90
+00:06:31,39 --> 00:06:35,05
+Now maybe you're right, that we
+could study that, in fact, more
+
+91
+00:06:35,05 --> 00:06:37,86
+people are born in June period.
+
+
+92
+00:06:37,86 --> 00:06:38,74
+That could be true.
+
+
+93
+00:06:38,74 --> 00:06:40,33
+This would be one of the
+fallacies we looked
+
+94
+00:06:40,33 --> 00:06:42,22
+at before, right?
+
+
+95
+00:06:42,22 --> 00:06:45,54
+That there's a lurking variable
+which is just that people are
+
+96
+00:06:45,54 --> 00:06:47,55
+more likely to be born in June.
+
+
+97
+00:06:47,55 --> 00:06:50,61
+So that's certainly
+a possibility.
+
+98
+00:06:50,61 --> 00:06:52,32
+What else?
+
+
+99
+00:06:52,32 --> 00:06:53,37
+What else is the flaw?
+
+
+100
+00:06:53,37 --> 00:07:04,61
+Where's the flaw in this logic?
+
+
+101
+00:07:04,61 --> 00:07:06,68
+Well, what did they do?
+
+
+102
+00:07:06,68 --> 00:07:12,38
+They participated in the
+Oklahoma sharpshooter fallacy.
+
+103
+00:07:12,38 --> 00:07:17,96
+What they did is, they looked
+at 12 months, they took the
+
+104
+00:07:17,96 --> 00:07:22,05
+months with the most births in
+it, which happened to be
+
+105
+00:07:22,05 --> 00:07:29,46
+June, and calculated the
+probability of 3 percent.
+
+106
+00:07:29,46 --> 00:07:34,13
+They didn't start with the
+hypothesis that it was June.
+
+107
+00:07:34,13 --> 00:07:36,25
+They started with 12 months,
+and then they drew a
+
+108
+00:07:36,25 --> 00:07:39,89
+bullseye around June.
+
+
+109
+00:07:39,89 --> 00:07:43,93
+So the right question to ask
+is, what's the probability, not
+
+110
+00:07:43,93 --> 00:07:49,93
+that June had 48 babies, but
+that at least one of the
+
+111
+00:07:49,93 --> 00:07:55,09
+12 months had 48 babies.
+
+
+112
+00:07:55,09 --> 00:08:04,57
+That probability is a lot to
+higher than 3 percent, right?
+
+113
+00:08:04,57 --> 00:08:10,54
+In fact, it's about 30 percent.
+
+
+114
+00:08:10,54 --> 00:08:17,75
+So what we see is, again
+perfectly reasonable
+
+115
+00:08:17,75 --> 00:08:21,16
+statistical techniques,
+but not looking at
+
+116
+00:08:21,16 --> 00:08:23,81
+things in the right way.
+
+
+117
+00:08:23,81 --> 00:08:26,76
+And answering the
+wrong question.
+
+118
+00:08:26,76 --> 00:08:29,1
+That make sense to everybody?
+
+
+119
+00:08:29,1 --> 00:08:31,99
+And you can see why people can
+fall into this trap, right?
+
+120
+00:08:31,99 --> 00:08:36,82
+It was a perfectly sensible,
+seemingly sensible argument.
+
+121
+00:08:36,82 --> 00:08:45,89
+So the moral of this particular
+thing is, be very careful about
+
+122
+00:08:45,89 --> 00:08:49,57
+looking at your data, drawing a
+conclusion, and then saying how
+
+123
+00:08:49,57 --> 00:08:53,33
+probable was that
+to have occurred?
+
+124
+00:08:53,33 --> 00:08:56,2
+Because again, you're probably,
+or maybe, drawing the
+
+125
+00:08:56,2 --> 00:08:59,79
+bullseye around something
+that's already there.
+
+126
+00:08:59,79 --> 00:09:06,37
+Now if they had taken another
+set of 446 anorexics, and again
+
+127
+00:09:06,37 --> 00:09:09,39
+June was the month, then
+there would be some
+
+128
+00:09:09,39 --> 00:09:11,32
+credibility in it.
+
+
+129
+00:09:11,32 --> 00:09:13,99
+Because they would have started
+with the hypothesis, not that
+
+130
+00:09:13,99 --> 00:09:19,48
+there existed a month, but that
+June was particularly likely.
+
+131
+00:09:19,48 --> 00:09:22,3
+But then they would have to
+also check and make sure that
+
+132
+00:09:22,3 --> 00:09:25,53
+June isn't just a popular
+month to be born, as
+
+133
+00:09:25,53 --> 00:09:27,5
+was suggested earlier.
+
+
+134
+00:09:27,5 --> 00:09:30,25
+All right, I could go on
+and on with this sort of
+
+135
+00:09:30,25 --> 00:09:32,99
+thing, it's kind of fun.
+
+
+136
+00:09:32,99 --> 00:09:34,21
+But I won't.
+
+
+137
+00:09:34,21 --> 00:09:36,45
+Instead I'm going to
+torture you with yet
+
+138
+00:09:36,45 --> 00:09:39,31
+one more simulation.
+
+
+139
+00:09:39,31 --> 00:09:43,42
+You may be tempted at this
+point to just zone out.
+
+140
+00:09:43,42 --> 00:09:45,1
+Try not to.
+
+
+141
+00:09:45,1 --> 00:09:48,46
+And as an added incentive for
+you to pay attention, I'm
+
+142
+00:09:48,46 --> 00:09:52,3
+going to warn you that this
+particular simulation will
+
+143
+00:09:52,3 --> 00:09:58,08
+appear in the final,
+or a variant of it.
+
+144
+00:09:58,08 --> 00:10:02,16
+And what we'll be doing is,
+early next week we'll be
+
+145
+00:10:02,16 --> 00:10:06,79
+distributing code, which we'll
+ask you to study, about two or
+
+146
+00:10:06,79 --> 00:10:11,58
+three pages of code, and then
+on the final we'll be asking
+
+147
+00:10:11,58 --> 00:10:13,57
+you questions about the code.
+
+
+148
+00:10:13,57 --> 00:10:14,93
+Not that you have to
+memorize it, we'll
+
+149
+00:10:14,93 --> 00:10:16,69
+give you a copy of it.
+
+
+150
+00:10:16,69 --> 00:10:20,24
+But you should understand
+it before you walk in
+
+151
+00:10:20,24 --> 00:10:21,75
+to take the final.
+
+
+152
+00:10:21,75 --> 00:10:24,13
+Because there will not be time
+to look at that code for the
+
+153
+00:10:24,13 --> 00:10:30,13
+first time during the quiz, and
+figure out what it's doing.
+
+154
+00:10:30,13 --> 00:10:38,64
+OK, so let's look at it.
+
+
+155
+00:10:38,64 --> 00:10:41,93
+I should also warn you that
+this code includes some Python
+
+156
+00:10:41,93 --> 00:10:46,1
+concepts, at least one,
+that you have not yet seen.
+
+157
+00:10:46,1 --> 00:10:48,37
+We'll see it briefly today.
+
+
+158
+00:10:48,37 --> 00:10:52,11
+This is on purpose, because one
+of the things I hope you have
+
+159
+00:10:52,11 --> 00:10:56,19
+learned to do this semester, is
+look up things you don't know,
+
+160
+00:10:56,19 --> 00:10:57,76
+and figure out what they do.
+
+
+161
+00:10:57,76 --> 00:10:59,81
+What they mean.
+
+
+162
+00:10:59,81 --> 00:11:03,83
+Because we obviously can't, in
+any course, or even any set of
+
+163
+00:11:03,83 --> 00:11:05,51
+courses, tell you everything
+you'll ever want
+
+164
+00:11:05,51 --> 00:11:07,15
+to know in life.
+
+
+165
+00:11:07,15 --> 00:11:10,29
+So intentionally, we've seeded
+some things in this program
+
+166
+00:11:10,29 --> 00:11:13,61
+that will be unfamiliar, so
+during the time you're studying
+
+167
+00:11:13,61 --> 00:11:18,15
+the program, get online, look
+it up, figure out what they do.
+
+168
+00:11:18,15 --> 00:11:21,58
+If you have trouble, we will
+be having office hours, where
+
+169
+00:11:21,58 --> 00:11:23,92
+you can go and get some help.
+
+
+170
+00:11:23,92 --> 00:11:26,39
+But the TAs will expect you
+to have at least tried to
+
+171
+00:11:26,39 --> 00:11:27,62
+figure it out yourself.
+
+
+172
+00:11:27,62 --> 00:11:27,98
+Yeah?
+
+
+173
+00:11:27,98 --> 00:11:30,42
+STUDENT: Will the
+final be open note?
+
+174
+00:11:30,42 --> 00:11:32,99
+PROFESSOR: Final will be
+open book, open notes,
+
+175
+00:11:32,99 --> 00:11:34,57
+just like the quizzes.
+
+
+176
+00:11:34,57 --> 00:11:37,68
+It will be the first two hours
+of the allotted time, we won't
+
+177
+00:11:37,68 --> 00:11:44,4
+go the whole 3 hours, OK?
+
+
+178
+00:11:44,4 --> 00:11:48,3
+So it won't be hugely
+longer than the quizzes.
+
+179
+00:11:48,3 --> 00:11:49,7
+It would be a
+little bit longer.
+
+180
+00:11:49,7 --> 00:11:56,25
+And again, very much in the
+same style of the quizzes.
+
+181
+00:11:56,25 --> 00:11:59,35
+All right, let's look at this.
+
+
+182
+00:11:59,35 --> 00:12:03,99
+Let's assume that you've won
+the lottery, and have serious
+
+183
+00:12:03,99 --> 00:12:09,57
+money that you foolishly wish
+to invest in the stock market.
+
+184
+00:12:09,57 --> 00:12:15,89
+There are two basic strategies
+to choose from, in investing.
+
+185
+00:12:15,89 --> 00:12:27,45
+You can either have what's
+called an indexed portfolio,
+
+186
+00:12:27,45 --> 00:12:41,51
+or a managed portfolio.
+
+
+187
+00:12:41,51 --> 00:12:45,3
+Indexed portfolios, you
+basically say, I want to own
+
+188
+00:12:45,3 --> 00:12:49,43
+all of the stocks that there
+are, and if the stock market
+
+189
+00:12:49,43 --> 00:12:51,63
+goes up, I make money, if
+the stock market goes
+
+190
+00:12:51,63 --> 00:12:53,16
+down, I lose money.
+
+
+191
+00:12:53,16 --> 00:12:55,76
+I'm not going to be thinking
+I'm clever, and can pick
+
+192
+00:12:55,76 --> 00:12:57,43
+winners and losers, I'm
+just betting on the
+
+193
+00:12:57,43 --> 00:13:00
+market as a whole.
+
+
+194
+00:13:00 --> 00:13:03,95
+They're attractive, in that
+a, they don't require
+
+195
+00:13:03,95 --> 00:13:05,66
+a lot of thought.
+
+
+196
+00:13:05,66 --> 00:13:09,27
+And b, they have what's called
+a low expense ratio, since
+
+197
+00:13:09,27 --> 00:13:11,66
+they're easy to implement, you
+don't pay anyone to be
+
+198
+00:13:11,66 --> 00:13:13,67
+brilliant to implement
+if for you.
+
+199
+00:13:13,67 --> 00:13:17,1
+So they're very low fees.
+
+
+200
+00:13:17,1 --> 00:13:21,09
+A managed portfolio, you find
+somebody you think is really
+
+201
+00:13:21,09 --> 00:13:26,68
+smart, and you pay them a fair
+amount of money, and in return
+
+202
+00:13:26,68 --> 00:13:30,8
+they assert that they will pick
+winners for you, and in fact,
+
+203
+00:13:30,8 --> 00:13:33,42
+you will outperform
+the stock market.
+
+204
+00:13:33,42 --> 00:13:36,6
+And if it goes up 6 percent,
+well you'll go up 10 percent
+
+205
+00:13:36,6 --> 00:13:40,29
+or more, and if it goes down,
+don't worry, I'm so smart
+
+206
+00:13:40,29 --> 00:13:45,2
+your stocks won't go down.
+
+
+207
+00:13:45,2 --> 00:13:47,52
+There's a lot of debate
+about which is the
+
+208
+00:13:47,52 --> 00:13:52,8
+better of these two.
+
+
+209
+00:13:52,8 --> 00:13:55,57
+And so now we're going to try
+and see if we can write a
+
+210
+00:13:55,57 --> 00:14:01,19
+simulation that will give us
+some insight as to which of
+
+211
+00:14:01,19 --> 00:14:06,01
+these might be better or worse.
+
+
+212
+00:14:06,01 --> 00:14:10,78
+All right, so that's
+the basic problem.
+
+213
+00:14:10,78 --> 00:14:16,11
+Now, as we know, and by the way
+we're not going to write a
+
+214
+00:14:16,11 --> 00:14:18,6
+perfect simulation here,
+because we're going to try and
+
+215
+00:14:18,6 --> 00:14:21,07
+do it in 40 minutes,
+or 30 minutes.
+
+216
+00:14:21,07 --> 00:14:24,59
+And it would take at least an
+hour do a perfect simulation
+
+217
+00:14:24,59 --> 00:14:26,14
+of the stock market.
+
+
+218
+00:14:26,14 --> 00:14:29,09
+All right.
+
+
+219
+00:14:29,09 --> 00:14:33,19
+First thing we need to do is
+have some sort of a theory.
+
+220
+00:14:33,19 --> 00:14:36,89
+When we did the spring, we had
+this theory of Hooke's Law that
+
+221
+00:14:36,89 --> 00:14:40,37
+told us something, and we built
+a simulation, or built some
+
+222
+00:14:40,37 --> 00:14:42,83
+tools around that theory.
+
+
+223
+00:14:42,83 --> 00:14:47,46
+Now we need to think about a
+model of the stock market.
+
+224
+00:14:47,46 --> 00:14:52,87
+And the model we're going
+to use is based on what's
+
+225
+00:14:52,87 --> 00:15:00,84
+called the Efficient
+Market Hypothesis.
+
+226
+00:15:00,84 --> 00:15:05,07
+So the moral here, again, is
+whenever you're doing an
+
+227
+00:15:05,07 --> 00:15:07,8
+implementation of a simulation,
+you do need to have some
+
+228
+00:15:07,8 --> 00:15:12,21
+underlying theory
+about the model.
+
+229
+00:15:12,21 --> 00:15:14,9
+What this model asserts
+is that markets are
+
+230
+00:15:14,9 --> 00:15:31,13
+informationally efficient.
+
+
+231
+00:15:31,13 --> 00:15:36,28
+That is to say, current prices
+reflect all publicly known
+
+232
+00:15:36,28 --> 00:15:43,51
+information about each stock,
+and therefore are unbiased.
+
+233
+00:15:43,51 --> 00:15:47,43
+That if people thought that the
+stock was underpriced, well
+
+234
+00:15:47,43 --> 00:15:49,17
+people would buy more of it in
+the price would have
+
+235
+00:15:49,17 --> 00:15:51,07
+risen already.
+
+
+236
+00:15:51,07 --> 00:15:53,66
+If people thought the stock was
+overpriced, well, people would
+
+237
+00:15:53,66 --> 00:15:56,81
+have tried to sell it, and
+it would have come down.
+
+238
+00:15:56,81 --> 00:15:59,75
+So this is a very popular
+theory, believed by
+
+239
+00:15:59,75 --> 00:16:05,07
+many famous economists
+today, and in the past.
+
+240
+00:16:05,07 --> 00:16:09,64
+And says, OK, that effectively
+means that the market
+
+241
+00:16:09,64 --> 00:16:13,7
+is memoryless.
+
+
+242
+00:16:13,7 --> 00:16:15,96
+OK, that it doesn't matter
+what the price of the
+
+243
+00:16:15,96 --> 00:16:18,61
+stock was yesterday.
+
+
+244
+00:16:18,61 --> 00:16:22,92
+Today, it's priced given the
+best-known information, and
+
+245
+00:16:22,92 --> 00:16:29,9
+so tomorrow it's equally
+likely to go up or down.
+
+246
+00:16:29,9 --> 00:16:32,64
+Relative to the whole
+market, right?
+
+247
+00:16:32,64 --> 00:16:36,04
+It's well known that over
+periods of multiple
+
+248
+00:16:36,04 --> 00:16:39,09
+decades, the market has a
+tendency to go up.
+
+249
+00:16:39,09 --> 00:16:42,62
+And so there's an upward bias
+to the stock market, contrary
+
+250
+00:16:42,62 --> 00:16:46,15
+to what you may have
+seen recently.
+
+251
+00:16:46,15 --> 00:16:49,48
+But that no particular stock
+is more or less likely to
+
+252
+00:16:49,48 --> 00:16:53,61
+outperform the market, because
+all the information is
+
+253
+00:16:53,61 --> 00:16:56,69
+incorporated in the price.
+
+
+254
+00:16:56,69 --> 00:17:00,99
+And that leads to a notion
+of being able to model
+
+255
+00:17:00,99 --> 00:17:04,8
+the market, how?
+
+
+256
+00:17:04,8 --> 00:17:08,82
+How would you model individual
+stocks if you believe
+
+257
+00:17:08,82 --> 00:17:14,35
+this hypothesis?
+
+
+258
+00:17:14,35 --> 00:17:15,52
+Somebody?
+
+
+259
+00:17:15,52 --> 00:17:16,34
+What's going to happen?
+
+
+260
+00:17:16,34 --> 00:17:18,64
+STUDENT: Random walk.
+
+
+261
+00:17:18,64 --> 00:17:20,91
+PROFESSOR: Yes, exactly right.
+
+
+262
+00:17:20,91 --> 00:17:23,26
+So we would model it
+as a random walk.
+
+263
+00:17:23,26 --> 00:17:26,11
+In fact, there's a very famous
+book called A Random Walk Down
+
+264
+00:17:26,11 --> 00:17:30,06
+Wall Street, that was one of
+the first to make
+
+265
+00:17:30,06 --> 00:17:34,04
+this hypothesis.
+
+
+266
+00:17:34,04 --> 00:17:38,73
+Now later, we may decide to
+abandon this model, but for
+
+267
+00:17:38,73 --> 00:17:43,01
+the moment let's accept that.
+
+
+268
+00:17:43,01 --> 00:17:53,81
+And let's think about how we're
+going to build the simulation.
+
+269
+00:17:53,81 --> 00:17:58,19
+Whenever I think about how to
+build an interesting program,
+
+270
+00:17:58,19 --> 00:18:01,07
+and I hope whenever you think
+about it, the first thing I
+
+271
+00:18:01,07 --> 00:18:05,35
+think about is, what are the
+classes I might want to
+
+272
+00:18:05,35 --> 00:18:08,68
+have, what are the types?
+
+
+273
+00:18:08,68 --> 00:18:12,13
+And it seems pretty obvious
+that at least two of the
+
+274
+00:18:12,13 --> 00:18:18,07
+things I'm going to want
+are stock and market.
+
+275
+00:18:18,07 --> 00:18:23,19
+After all, I'm going to try and
+build a simulation of the stock
+
+276
+00:18:23,19 --> 00:18:26,87
+market, so I might as well have
+the notion of a market, and
+
+277
+00:18:26,87 --> 00:18:31,33
+probably the notion of a stock.
+
+
+278
+00:18:31,33 --> 00:18:35,88
+Which should I implement first?
+
+
+279
+00:18:35,88 --> 00:18:40,2
+Well, my usual style of
+programming would be to
+
+280
+00:18:40,2 --> 00:18:43,75
+implement the one that's
+lowest down in the
+
+281
+00:18:43,75 --> 00:18:48,37
+hierarchy, near the bottom.
+
+
+282
+00:18:48,37 --> 00:18:50,81
+I won't be able to show you
+what a market does unless I
+
+283
+00:18:50,81 --> 00:18:55,43
+have stocks, but I can look at
+what an individual stock does
+
+284
+00:18:55,43 --> 00:18:58,12
+without having a market.
+
+
+285
+00:18:58,12 --> 00:19:00,62
+So why do I implement
+this first?
+
+286
+00:19:00,62 --> 00:19:03,82
+Because it will be
+easier to unit test.
+
+287
+00:19:03,82 --> 00:19:10,72
+I can build class stock, and I
+can test class stock, before
+
+288
+00:19:10,72 --> 00:19:16,08
+I have a class market.
+
+
+289
+00:19:16,08 --> 00:19:30,74
+So now let's look at it.
+
+
+290
+00:19:30,74 --> 00:19:38,51
+Clean up the desktop
+a little bit.
+
+291
+00:19:38,51 --> 00:19:42,13
+This is similar to, but not
+identical to, what you
+
+292
+00:19:42,13 --> 00:19:48,39
+have in your handout.
+
+
+293
+00:19:48,39 --> 00:19:53,15
+All right, so there's
+class stock.
+
+294
+00:19:53,15 --> 00:19:58,22
+And I'm going to initialize
+it, create them, with
+
+295
+00:19:58,22 --> 00:19:59,71
+an opening price.
+
+
+296
+00:19:59,71 --> 00:20:02,01
+When a stock is first
+listed in the market, it
+
+297
+00:20:02,01 --> 00:20:06,04
+comes with some price.
+
+
+298
+00:20:06,04 --> 00:20:10,55
+I'm gonna keep as part of each
+stock, it's history of prices,
+
+299
+00:20:10,55 --> 00:20:13,86
+which we can initialize, well,
+I've initialized it as empty,
+
+300
+00:20:13,86 --> 00:20:17,21
+but that's probably the
+wrong thing, right?
+
+301
+00:20:17,21 --> 00:20:26,5
+I probably should have had it
+being the, starting here,
+
+302
+00:20:26,5 --> 00:20:32,04
+right, the opening price.
+
+
+303
+00:20:32,04 --> 00:20:34,65
+Now comes an interesting part.
+
+
+304
+00:20:34,65 --> 00:20:38,62
+Self dot distribution.
+
+
+305
+00:20:38,62 --> 00:20:46,67
+Well, I lied to you a little
+bit in my description of
+
+306
+00:20:46,67 --> 00:20:53,76
+what it meant to have the
+Efficient Market Hypothesis.
+
+307
+00:20:53,76 --> 00:20:59,67
+I said that no stock is likely
+to outperform the market or
+
+308
+00:20:59,67 --> 00:21:02,48
+underperform the market.
+
+
+309
+00:21:02,48 --> 00:21:06,98
+But it's not quite true,
+because typically what they
+
+310
+00:21:06,98 --> 00:21:21,12
+actually do that, is they
+say it's adjusted for risk.
+
+311
+00:21:21,12 --> 00:21:27,24
+It's clear that some stocks are
+more volatile than others.
+
+312
+00:21:27,24 --> 00:21:31,83
+If you will buy stock in an
+electrical utility which has a
+
+313
+00:21:31,83 --> 00:21:34,94
+guaranteed revenue stream,
+because no matter how bad the
+
+314
+00:21:34,94 --> 00:21:39,79
+economy gets, a lot of people
+still use electricity, you
+
+315
+00:21:39,79 --> 00:21:43,45
+don't expect it to
+fluctuate a lot.
+
+316
+00:21:43,45 --> 00:21:50,24
+If you buy stock in a high tech
+company, that sells things on
+
+317
+00:21:50,24 --> 00:21:55,16
+the internet, you might expect
+it to fluctuate enormously.
+
+318
+00:21:55,16 --> 00:21:59,4
+Or if you buy stock in a
+retailer, you might expect
+
+319
+00:21:59,4 --> 00:22:04,53
+it to go up or down more
+dramatically with the economy,
+
+320
+00:22:04,53 --> 00:22:09,47
+and so in fact there is a
+notion of risk, and I'm not
+
+321
+00:22:09,47 --> 00:22:12,37
+going to do this in this
+simulation, but usually people
+
+322
+00:22:12,37 --> 00:22:15,24
+have to be paid to take risk.
+
+
+323
+00:22:15,24 --> 00:22:18,66
+And so it's usually the case
+that you can get a higher
+
+324
+00:22:18,66 --> 00:22:20,87
+return if you're willing
+to take more risk.
+
+325
+00:22:20,87 --> 00:22:27,42
+We might or might not have
+time to come back to that.
+
+326
+00:22:27,42 --> 00:22:32,98
+But more generally, the point
+is, that each stock actually
+
+327
+00:22:32,98 --> 00:22:36,15
+behaves a little
+bit differently.
+
+328
+00:22:36,15 --> 00:22:39,35
+There's a distribution
+of how it would move.
+
+329
+00:22:39,35 --> 00:22:45,04
+So even if, on average, the
+stock is expected to not move
+
+330
+00:22:45,04 --> 00:22:51,55
+at all from where it starts,
+some stocks will be expected to
+
+331
+00:22:51,55 --> 00:22:56,63
+just trundle along without much
+change, not very volatile.
+
+332
+00:22:56,63 --> 00:23:02,45
+And other stocks might jump
+up and down a lot because
+
+333
+00:23:02,45 --> 00:23:03,37
+they're very volatile.
+
+
+334
+00:23:03,37 --> 00:23:07,24
+Even if the expected value
+is the same, they'd
+
+335
+00:23:07,24 --> 00:23:10,3
+move around a lot.
+
+
+336
+00:23:10,3 --> 00:23:12,5
+So how can we model
+this kind of thing?
+
+337
+00:23:12,5 --> 00:23:16,93
+Well, we've already looked
+at the basic notion.
+
+338
+00:23:16,93 --> 00:23:19,85
+Last time we looked at the
+notion, last lecture we looked
+
+339
+00:23:19,85 --> 00:23:25,64
+at the idea of a distribution.
+
+
+340
+00:23:25,64 --> 00:23:29,38
+And when we do a simulation,
+we're pulling the samples
+
+341
+00:23:29,38 --> 00:23:33,33
+from some distribution.
+
+
+342
+00:23:33,33 --> 00:23:39,13
+It could be normal, everything,
+that would be a Gaussian, where
+
+343
+00:23:39,13 --> 00:23:45,56
+if you recall there was a mean,
+and a standard deviation, and
+
+344
+00:23:45,56 --> 00:23:49,48
+most values were going to
+be close to the mean.
+
+345
+00:23:49,48 --> 00:23:52,17
+Especially if there is a
+small standard deviation.
+
+346
+00:23:52,17 --> 00:23:56,34
+If there's a large standard
+deviation it would be spread.
+
+347
+00:23:56,34 --> 00:23:59,19
+Or it could be uniform,
+where every value was
+
+348
+00:23:59,19 --> 00:24:00,19
+equally probable.
+
+
+349
+00:24:00,19 --> 00:24:03,56
+We also looked at exponential.
+
+
+350
+00:24:03,56 --> 00:24:07,655
+So we're going to assign to
+each stock, when we create
+
+351
+00:24:07,655 --> 00:24:11,23
+it, a distribution.
+
+
+352
+00:24:11,23 --> 00:24:17,33
+Some way of visualizing, or
+thinking about, where we draw
+
+353
+00:24:17,33 --> 00:24:20,37
+the price changes from.
+
+
+354
+00:24:20,37 --> 00:24:26,88
+This gets us into a new
+linguistic concept, which
+
+355
+00:24:26,88 --> 00:24:29,79
+we'll see down here.
+
+
+356
+00:24:29,79 --> 00:24:33,31
+You don't have this particular
+code on your handout, you do
+
+357
+00:24:33,31 --> 00:24:36,34
+have a code that uses
+the same concept.
+
+358
+00:24:36,34 --> 00:24:39,43
+So here's my unit
+test procedure.
+
+359
+00:24:39,43 --> 00:24:42,24
+And here's where I'm going
+to create distributions.
+
+360
+00:24:42,24 --> 00:24:45,46
+And I'm going to look at two.
+
+
+361
+00:24:45,46 --> 00:24:49,93
+A random-- a uniform,
+and a Gaussian.
+
+362
+00:24:49,93 --> 00:24:56,81
+What lambda that does, it
+creates on the fly a function,
+
+363
+00:24:56,81 --> 00:24:59,37
+as the program runs.
+
+
+364
+00:24:59,37 --> 00:25:03,44
+That I can then pass around.
+
+
+365
+00:25:03,44 --> 00:25:08,52
+So here, I'm going to look at
+the thing random dot uniform,
+
+366
+00:25:08,52 --> 00:25:13,27
+for example, between minus
+volatility and plus volatility.
+
+367
+00:25:13,27 --> 00:25:16,49
+So ignoring the lambda,
+what do we expect random
+
+368
+00:25:16,49 --> 00:25:19,34
+dot uniform to do?
+
+
+369
+00:25:19,34 --> 00:25:25,93
+It has equally likely, in the
+range from minus volatility
+
+370
+00:25:25,93 --> 00:25:35,47
+to plus volatility, it will
+return any value in here.
+
+371
+00:25:35,47 --> 00:25:39,05
+But notice the previous
+line, where I am
+
+372
+00:25:39,05 --> 00:25:42,62
+computing volatility.
+
+
+373
+00:25:42,62 --> 00:25:47,88
+If I wanted every stock to have
+the same volatility, I could
+
+374
+00:25:47,88 --> 00:25:52,94
+just do that, if you will, at
+the time I wrote my program.
+
+375
+00:25:52,94 --> 00:25:57,28
+But here I want it to be
+determined, chosen at run time.
+
+376
+00:25:57,28 --> 00:26:03,07
+So first, I choose a volatility
+randomly, from some
+
+377
+00:26:03,07 --> 00:26:06,85
+distribution of possible
+volatilities from 0 to,
+
+378
+00:26:06,85 --> 00:26:12,93
+in this case, 0.2.
+
+
+379
+00:26:12,93 --> 00:26:17,14
+Think of this as the
+percentage move per day.
+
+380
+00:26:17,14 --> 00:26:22,07
+So 2/10 of a percent,
+would be the move here.
+
+381
+00:26:22,07 --> 00:26:28,13
+And then I'll create this
+function, this distribution d
+
+382
+00:26:28,13 --> 00:26:33,72
+1, which will, whenever I call
+it, give me a random, a
+
+383
+00:26:33,72 --> 00:26:37,6
+uniformly selected value
+between minus and
+
+384
+00:26:37,6 --> 00:26:42,21
+plus volatility.
+
+
+385
+00:26:42,21 --> 00:26:48,51
+Then when I create the
+stock, here, I can pass
+
+386
+00:26:48,51 --> 00:26:54,04
+it in, pass in d 1.
+
+
+387
+00:26:54,04 --> 00:26:55,31
+OK, it's a new concept.
+
+
+388
+00:26:55,31 --> 00:26:58,24
+I don't expect you'll all
+immediately grab it, but you
+
+389
+00:26:58,24 --> 00:27:05
+will need to understand it
+before the quiz comes along.
+
+390
+00:27:05 --> 00:27:08,11
+And then I could also do a
+Gaussian one here, with the
+
+391
+00:27:08,11 --> 00:27:11,23
+mean of 0 and the standard
+deviation of volatility
+
+392
+00:27:11,23 --> 00:27:13,53
+divided by 2.
+
+
+393
+00:27:13,53 --> 00:27:15,26
+Where do these
+parameters come from?
+
+394
+00:27:15,26 --> 00:27:17,53
+I made them up out
+of whole cloth.
+
+395
+00:27:17,53 --> 00:27:20,4
+Later we'll talk about how
+1 could think about them
+
+396
+00:27:20,4 --> 00:27:24,71
+more intelligently.
+
+
+397
+00:27:24,71 --> 00:27:29,21
+Now what do I do with that?
+
+
+398
+00:27:29,21 --> 00:27:31,04
+All right, we'll see
+that in a minute.
+
+399
+00:27:31,04 --> 00:27:38,12
+But people understand what
+the basic idea here is.
+
+400
+00:27:38,12 --> 00:27:44,11
+Now, I can set the
+price of a stock.
+
+401
+00:27:44,11 --> 00:27:47,91
+And when I do that, I'll
+append it to history.
+
+402
+00:27:47,91 --> 00:27:50,21
+I can, oh, these have
+got some remnants which
+
+403
+00:27:50,21 --> 00:27:52,33
+we really don't need.
+
+
+404
+00:27:52,33 --> 00:27:58,29
+I'll get rid of this which is
+just an uninteresting thing.
+
+405
+00:27:58,29 --> 00:28:05,02
+And let's look at make move.
+
+
+406
+00:28:05,02 --> 00:28:06,49
+Because this is the
+interesting thing.
+
+407
+00:28:06,49 --> 00:28:11,52
+Make move is what we call to
+change the price of a stock,
+
+408
+00:28:11,52 --> 00:28:14,8
+at the beginning or end
+of a day if you will.
+
+409
+00:28:14,8 --> 00:28:18,73
+So the first thing it does, is
+it says, if self dot price is
+
+410
+00:28:18,73 --> 00:28:23,36
+0, I'm just going to return.
+
+
+411
+00:28:23,36 --> 00:28:26,55
+This is not the right
+thing to do, by the way.
+
+412
+00:28:26,55 --> 00:28:30,79
+Again, there are
+some bugs in here.
+
+413
+00:28:30,79 --> 00:28:33,12
+You won't find these bugs
+in your handout, right?
+
+414
+00:28:33,12 --> 00:28:35,24
+Code is different
+in the handout.
+
+415
+00:28:35,24 --> 00:28:39,4
+But I wanted to show these to
+you so we could think about.
+
+416
+00:28:39,4 --> 00:28:41,66
+What I'm more interested in
+here than in the result
+
+417
+00:28:41,66 --> 00:28:46,22
+of the simulation, is the
+process of creating it.
+
+418
+00:28:46,22 --> 00:28:48,4
+So why did I put this here?
+
+
+419
+00:28:48,4 --> 00:28:53,9
+Why did I say if self dot
+price equals 0 return?
+
+420
+00:28:53,9 --> 00:28:57,66
+Because the first time I wrote
+the program, I didn't have
+
+421
+00:28:57,66 --> 00:29:01,3
+anything like that here, and a
+stock could go to 0
+
+422
+00:29:01,3 --> 00:29:03,04
+and then recover.
+
+
+423
+00:29:03,04 --> 00:29:05,65
+Or even go to negative values.
+
+
+424
+00:29:05,65 --> 00:29:09,11
+Well we know stock prices
+are never negative.
+
+425
+00:29:09,11 --> 00:29:11,41
+And in fact we know if the
+price goes to 0, it's
+
+426
+00:29:11,41 --> 00:29:14,46
+delisted from the exchange.
+
+
+427
+00:29:14,46 --> 00:29:21,41
+So I said, all right, we better
+make a special case of that. it
+
+428
+00:29:21,41 --> 00:29:24,53
+turns out, that this will be a
+bug, and I want you to think
+
+429
+00:29:24,53 --> 00:29:29,74
+about why it's wrong for me
+to put this check here.
+
+430
+00:29:29,74 --> 00:29:33,46
+The check needs to be somewhere
+in the program, but this is
+
+431
+00:29:33,46 --> 00:29:36,27
+not the right place for it.
+
+
+432
+00:29:36,27 --> 00:29:40,64
+So think about why I
+didn't leave it here.
+
+433
+00:29:40,64 --> 00:29:44,9
+OK, then we'll get the old
+price, which we're going to try
+
+434
+00:29:44,9 --> 00:29:49,18
+and remember, and now comes
+the interesting part.
+
+435
+00:29:49,18 --> 00:29:51,01
+We're going to try and
+figure out how the
+
+436
+00:29:51,01 --> 00:29:54,84
+price should change.
+
+
+437
+00:29:54,84 --> 00:29:59,65
+So I'm first going to compute
+something called the base move.
+
+438
+00:29:59,65 --> 00:30:02,28
+Think of this as kind of the
+basis from which we'll be
+
+439
+00:30:02,28 --> 00:30:05,88
+computing the actual move.
+
+
+440
+00:30:05,88 --> 00:30:12,03
+I'll draw something from the
+distribution, so this is
+
+441
+00:30:12,03 --> 00:30:15,72
+interesting, I'm now calling
+self dot distribution, and
+
+442
+00:30:15,72 --> 00:30:20,27
+remember this will be
+different for each stock.
+
+443
+00:30:20,27 --> 00:30:23,84
+It will return me some random
+value from either the Gaussian
+
+444
+00:30:23,84 --> 00:30:28,46
+or the normal distribution.
+
+
+445
+00:30:28,46 --> 00:30:30,96
+With a different volatility for
+the stocks because that was
+
+446
+00:30:30,96 --> 00:30:35,34
+also selected randomly,
+plus some market bias.
+
+447
+00:30:35,34 --> 00:30:37,67
+Saying, well, the market on
+average will go up a little
+
+448
+00:30:37,67 --> 00:30:42,53
+bit, or go down a little bit.
+
+
+449
+00:30:42,53 --> 00:30:46,5
+And then I'll set the new
+price, if you will, self dot
+
+450
+00:30:46,5 --> 00:30:52,24
+price, to self dot price
+times 1 plus the base move.
+
+451
+00:30:52,24 --> 00:30:53,41
+So notice what this says.
+
+
+452
+00:30:53,41 --> 00:31:00,67
+If the base move is 0, then
+the price doesn't change.
+
+453
+00:31:00,67 --> 00:31:02,74
+So that makes sense.
+
+
+454
+00:31:02,74 --> 00:31:04,78
+Interesting question.
+
+
+455
+00:31:04,78 --> 00:31:13,11
+Why do you think I said self
+dot price times 1 plus the base
+
+456
+00:31:13,11 --> 00:31:16,66
+move, rather than just adding
+the base move to the stock,
+
+457
+00:31:16,66 --> 00:31:18,48
+price of the stock?
+
+
+458
+00:31:18,48 --> 00:31:22,09
+Again, the first time I coded
+this, I had an addition there
+
+459
+00:31:22,09 --> 00:31:24,71
+instead of a multiplication.
+
+
+460
+00:31:24,71 --> 00:31:31,19
+What would the ramifications
+of an addition there be?
+
+461
+00:31:31,19 --> 00:31:35,36
+That would say, how much the
+stock changed is independent
+
+462
+00:31:35,36 --> 00:31:39,43
+of its current price.
+
+
+463
+00:31:39,43 --> 00:31:43,78
+And when I ran that it, I got
+weird results, because we know
+
+464
+00:31:43,78 --> 00:31:49,75
+that a Google priced at, say,
+300, is much more likely to
+
+465
+00:31:49,75 --> 00:31:58,29
+move by 10 points in a day than
+a stock that's priced at $0.50.
+
+466
+00:31:58,29 --> 00:32:02,12
+So in fact, it is the case, if
+you look at data, and by the
+
+467
+00:32:02,12 --> 00:32:04,36
+way, that's the way I ended up
+setting a lot of these
+
+468
+00:32:04,36 --> 00:32:07,84
+parameters and playing with it,
+was comparing what my
+
+469
+00:32:07,84 --> 00:32:11,19
+simulation said to
+historical stock data.
+
+470
+00:32:11,19 --> 00:32:14,54
+And indeed it is the case that
+the price of the stock, the
+
+471
+00:32:14,54 --> 00:32:17,96
+move, the amount of move,
+tends to be proportional
+
+472
+00:32:17,96 --> 00:32:20,13
+to the price of the stock.
+
+
+473
+00:32:20,13 --> 00:32:22,91
+Expensive stocks move more.
+
+
+474
+00:32:22,91 --> 00:32:25,43
+Interestingly enough, the
+percentage moves are not much
+
+475
+00:32:25,43 --> 00:32:29,63
+different between cheap
+stocks and expensive stocks.
+
+476
+00:32:29,63 --> 00:32:34,77
+And that's why, I ended up
+using a multiplicative factor,
+
+477
+00:32:34,77 --> 00:32:47,88
+rather than an additive factor.
+
+
+478
+00:32:47,88 --> 00:32:50,06
+This is again a general lesson.
+
+
+479
+00:32:50,06 --> 00:32:53,15
+As you build these kinds of
+simulations, or anything like
+
+480
+00:32:53,15 --> 00:32:58,09
+this, you need to think through
+whether things should be
+
+481
+00:32:58,09 --> 00:32:59,88
+multiplicative or additive.
+
+
+482
+00:32:59,88 --> 00:33:03,16
+Because you get very different
+results, typically.
+
+483
+00:33:03,16 --> 00:33:07,55
+Multiplicative is what you want
+to do if the amount of change
+
+484
+00:33:07,55 --> 00:33:13,33
+is proportional to the current
+size, whether it's price or
+
+485
+00:33:13,33 --> 00:33:18,32
+anything else, and additive if
+the change is independent of
+
+486
+00:33:18,32 --> 00:33:22,76
+the current value, typically,
+is I think the general
+
+487
+00:33:22,76 --> 00:33:27,14
+way to think about it.
+
+
+488
+00:33:27,14 --> 00:33:31,35
+Now, you'll see this other
+kind of peculiar thing.
+
+489
+00:33:31,35 --> 00:33:39,88
+So I've now set the price, and
+then I've got this test here.
+
+490
+00:33:39,88 --> 00:33:45,57
+If mo, mo stands for momentum.
+
+
+491
+00:33:45,57 --> 00:33:53,39
+I'm now exploring the question
+of whether or not stock prices
+
+492
+00:33:53,39 --> 00:34:03
+are indeed memoryless,
+or the stock changes.
+
+493
+00:34:03 --> 00:34:09,24
+And the fancy word
+for that is Poisson.
+
+494
+00:34:09,24 --> 00:34:14,71
+People often model things as
+Poisson processes, which is to
+
+495
+00:34:14,71 --> 00:34:20,41
+say, processes in which past
+behavior has no impact on
+
+496
+00:34:20,41 --> 00:34:24,03
+future behavior,
+it's memoryless.
+
+497
+00:34:24,03 --> 00:34:29,2
+And in fact, that's what the
+Efficient Market Hypothesis
+
+498
+00:34:29,2 --> 00:34:31,94
+purports to say.
+
+
+499
+00:34:31,94 --> 00:34:35,93
+It says that, since all the
+information is in the current
+
+500
+00:34:35,93 --> 00:34:38,79
+price, you don't have to worry
+about whether it went up or
+
+501
+00:34:38,79 --> 00:34:45,61
+down yesterday, to decide
+what it's going to do today.
+
+502
+00:34:45,61 --> 00:34:48,5
+There are people who don't
+believe that, and instead
+
+503
+00:34:48,5 --> 00:34:52,47
+argue that there is this
+notion called momentum.
+
+504
+00:34:52,47 --> 00:34:54,69
+These are called
+momentum investors.
+
+505
+00:34:54,69 --> 00:34:58,18
+And they say, what's most
+likely to happen today, is
+
+506
+00:34:58,18 --> 00:35:00,11
+what happened yesterday.
+
+
+507
+00:35:00,11 --> 00:35:01,49
+Or more likely.
+
+
+508
+00:35:01,49 --> 00:35:04,19
+If the stock went up yesterday,
+it's more likely to go up
+
+509
+00:35:04,19 --> 00:35:08,36
+today, than if it didn't
+go up yesterday.
+
+510
+00:35:08,36 --> 00:35:13,38
+So I wasn't sure which religion
+I was willing to believe in, if
+
+511
+00:35:13,38 --> 00:35:17,39
+either, so I added a parameter
+called, if you believe in
+
+512
+00:35:17,39 --> 00:35:24,37
+momentum, then you should
+change the price by -- And here
+
+513
+00:35:24,37 --> 00:35:28,85
+I just did something taking a
+Gaussian times the last change,
+
+514
+00:35:28,85 --> 00:35:32,23
+and, in fact, added it in.
+
+
+515
+00:35:32,23 --> 00:35:35,61
+So if it went up yesterday, it
+will more likely go up today,
+
+516
+00:35:35,61 --> 00:35:39,07
+because I'm throwing in a
+positive number, otherwise
+
+517
+00:35:39,07 --> 00:35:41,43
+a negative number.
+
+
+518
+00:35:41,43 --> 00:35:44,75
+Notice that this is additive.
+
+
+519
+00:35:44,75 --> 00:35:48,91
+Because it's dealing
+with yesterday's price.
+
+520
+00:35:48,91 --> 00:35:51,14
+Change, with the change.
+
+
+521
+00:35:51,14 --> 00:35:56,74
+OK, so that's why we're
+dealing with that.
+
+522
+00:35:56,74 --> 00:35:59,61
+Now, here's where I
+should've put in this
+
+523
+00:35:59,61 --> 00:36:03,66
+test that I had up here.
+
+
+524
+00:36:03,66 --> 00:36:05,85
+Get it out from there.
+
+
+525
+00:36:05,85 --> 00:36:08,86
+Because what I want to do is,
+say if self dot price is less
+
+526
+00:36:08,86 --> 00:36:14,39
+than 0.01, I'm going to set
+it to 0, just keep it there.
+
+527
+00:36:14,39 --> 00:36:19,77
+That doesn't solve the problem
+we had before though, right?
+
+528
+00:36:19,77 --> 00:36:25,43
+Then I'm going to append
+it, and keep the last
+
+529
+00:36:25,43 --> 00:36:28,36
+change for future use.
+
+
+530
+00:36:28,36 --> 00:36:32,22
+OK, people understand
+what's going on here?
+
+531
+00:36:32,22 --> 00:36:35,14
+And then show history is just
+going to produce a plot.
+
+532
+00:36:35,14 --> 00:36:37,99
+We've seen that a
+million times before.
+
+533
+00:36:37,99 --> 00:36:42,84
+Any questions about this?
+
+
+534
+00:36:42,84 --> 00:36:45,48
+Well, I have a question?
+
+
+535
+00:36:45,48 --> 00:36:46,64
+Does it make any sense?
+
+
+536
+00:36:46,64 --> 00:36:48
+Is it going to work at all?
+
+
+537
+00:36:48 --> 00:36:51,22
+So now let's test it.
+
+
+538
+00:36:51,22 --> 00:37:01,36
+So, I now have this unit test
+program called unit test stock.
+
+539
+00:37:01,36 --> 00:37:04,89
+I originally did not make it a
+function, I had it in-line, and
+
+540
+00:37:04,89 --> 00:37:07,35
+I realized that was really
+stupid, because I wanted
+
+541
+00:37:07,35 --> 00:37:10,72
+to do it a lot of times.
+
+
+542
+00:37:10,72 --> 00:37:15,71
+So it's got an internal
+procedure, internal function,
+
+543
+00:37:15,71 --> 00:37:20,26
+local to the unit test,
+that runs the simulation.
+
+544
+00:37:20,26 --> 00:37:25,88
+And it takes the set of stocks
+to simulate, a fig, figure
+
+545
+00:37:25,88 --> 00:37:29,29
+number, this is going to print
+a bunch of graphs, and I want
+
+546
+00:37:29,29 --> 00:37:32,32
+to say what graph it is,
+and whether or not I
+
+547
+00:37:32,32 --> 00:37:35,94
+believe in big mo.
+
+
+548
+00:37:35,94 --> 00:37:41,87
+It sets the mean to 0, and then
+for s in the stocks, it moves
+
+549
+00:37:41,87 --> 00:37:46,34
+it, giving it the bias and
+the momentum, then it
+
+550
+00:37:46,34 --> 00:37:49,19
+shows the history.
+
+
+551
+00:37:49,19 --> 00:37:53,05
+And then computes the mean
+of, getting me the mean
+
+552
+00:37:53,05 --> 00:37:54,16
+of all the stocks in it.
+
+
+553
+00:37:54,16 --> 00:37:57,57
+We've seen this sort of
+thing many times before.
+
+554
+00:37:57,57 --> 00:37:59,81
+I've then got some constants.
+
+
+555
+00:37:59,81 --> 00:38:02,93
+By the way, I want to emphasize
+that I've named these constants
+
+556
+00:38:02,93 --> 00:38:04,86
+to make it easier to change.
+
+
+557
+00:38:04,86 --> 00:38:10,71
+Starting with 20
+stocks, 100 days.
+
+558
+00:38:10,71 --> 00:38:15,94
+And then what I do is, I stock
+sub 1, stocks 1 will be the
+
+559
+00:38:15,94 --> 00:38:18,78
+empty list, stocks 2
+is the empty list.
+
+560
+00:38:18,78 --> 00:38:27,01
+Why do you think I'm
+starting with bias of 0?
+
+561
+00:38:27,01 --> 00:38:32,49
+Because, what do you think the
+mean should be, if I simulate
+
+562
+00:38:32,49 --> 00:38:35,99
+various things that
+the bias of 0?
+
+563
+00:38:35,99 --> 00:38:39,39
+I start $100 as the average
+price of the stock,
+
+564
+00:38:39,39 --> 00:38:42,24
+what should the average
+price of the stock be?
+
+565
+00:38:42,24 --> 00:38:45,35
+If my code is correct, what
+should the average price be,
+
+566
+00:38:45,35 --> 00:38:50,27
+after say, 100 days,
+if there's no bias.
+
+567
+00:38:50,27 --> 00:38:51,48
+Pardon?
+
+
+568
+00:38:51,48 --> 00:38:53,81
+100, exactly.
+
+
+569
+00:38:53,81 --> 00:38:56,58
+Since there's no upward
+or downward bias.
+
+570
+00:38:56,58 --> 00:39:00,26
+They may fluctuate wildly, but
+if I look at enough stocks, the
+
+571
+00:39:00,26 --> 00:39:03,6
+average should be
+right around 100.
+
+572
+00:39:03,6 --> 00:39:05,25
+I don't know what the
+average would be if I
+
+573
+00:39:05,25 --> 00:39:07,08
+chose a different bias.
+
+
+574
+00:39:07,08 --> 00:39:11,94
+It's a little bit complicated,
+so I chose the simplest bias.
+
+575
+00:39:11,94 --> 00:39:15,34
+Important lesson, so that there
+would be some predictability in
+
+576
+00:39:15,34 --> 00:39:19,42
+the results, and I would have
+some, if you will, smoke test
+
+577
+00:39:19,42 --> 00:39:22,85
+for knowing whether or not
+I was getting, my code
+
+578
+00:39:22,85 --> 00:39:27,53
+seemed to be working.
+
+
+579
+00:39:27,53 --> 00:39:31,91
+All right, and initially, well,
+maybe initially, just to be
+
+580
+00:39:31,91 --> 00:39:39,36
+simple I'm going to start
+momentum equal to false.
+
+581
+00:39:39,36 --> 00:39:41,99
+Because, again, it seems
+simpler have a model where
+
+582
+00:39:41,99 --> 00:39:43,79
+there's no momentum.
+
+
+583
+00:39:43,79 --> 00:39:46,34
+I'm looking for the simplest
+model possible for the
+
+584
+00:39:46,34 --> 00:39:49,23
+first time I run it.
+
+
+585
+00:39:49,23 --> 00:39:51,78
+And then we looked at this
+little loop before, for i in
+
+586
+00:39:51,78 --> 00:39:55,47
+range number of stocks, I'm
+going to create two different
+
+587
+00:39:55,47 --> 00:40:00,33
+lists of stocks, one where the
+moves, or distributions, are
+
+588
+00:40:00,33 --> 00:40:04,53
+chosen from a uniform, and the
+other where they're Gaussian.
+
+589
+00:40:04,53 --> 00:40:07,78
+Because I'm sort of curious as
+to, again, which is the right
+
+590
+00:40:07,78 --> 00:40:14,09
+way to think about
+this, all right?
+
+591
+00:40:14,09 --> 00:40:18,94
+And then, I'm going
+to just call it.
+
+592
+00:40:18,94 --> 00:40:22,03
+We'll see what we get.
+
+
+593
+00:40:22,03 --> 00:40:22,78
+So let's do it.
+
+
+594
+00:40:22,78 --> 00:40:25,32
+Let's hope that all the changes
+I mad have not introduced
+
+595
+00:40:25,32 --> 00:40:29,92
+a syntax error.
+
+
+596
+00:40:29,92 --> 00:40:31,67
+All right, well at least
+it did something.
+
+597
+00:40:31,67 --> 00:40:39,75
+Let's see what it did.
+
+
+598
+00:40:39,75 --> 00:40:44,97
+So the test on the left, you'll
+remember, was the one with test
+
+599
+00:40:44,97 --> 00:40:48,13
+one, I believe, was the uniform
+distribution, and test
+
+600
+00:40:48,13 --> 00:40:51,18
+two is the Gaussian.
+
+
+601
+00:40:51,18 --> 00:40:55,29
+So, but let's, what
+should we do first?
+
+602
+00:40:55,29 --> 00:41:00,24
+Well, let's do the smoke test
+number one: is the mean more
+
+603
+00:41:00,24 --> 00:41:02,79
+or less what we expected?
+
+
+604
+00:41:02,79 --> 00:41:05,37
+Well, it looks like it's
+dead on 100, which was our
+
+605
+00:41:05,37 --> 00:41:09,12
+initial price in test two.
+
+
+606
+00:41:09,12 --> 00:41:12,44
+And in test one it's a
+little bit above 100.
+
+607
+00:41:12,44 --> 00:41:16,62
+But, we didn't do that many
+stocks, or that many days,
+
+608
+00:41:16,62 --> 00:41:24,23
+so it's quite plausible
+that it's correct.
+
+609
+00:41:24,23 --> 00:41:28,13
+But, just to be sure, not to be
+sure, but just to increase my
+
+610
+00:41:28,13 --> 00:41:46,74
+confidence, I'm going
+to just run it again.
+
+611
+00:41:46,74 --> 00:41:50,79
+Well, here I'm a little bit
+below 100 and in two, and
+
+612
+00:41:50,79 --> 00:41:53,51
+test one a little bit
+below 100 as well.
+
+613
+00:41:53,51 --> 00:41:56,82
+You remember last time was
+a little bit above 100.
+
+614
+00:41:56,82 --> 00:41:59,8
+I feel pretty good about this,
+and in fact I ran it a lot
+
+615
+00:41:59,8 --> 00:42:01,54
+of times in my office.
+
+
+616
+00:42:01,54 --> 00:42:05,1
+And it just bounces around,
+hovering around 100.
+
+617
+00:42:05,1 --> 00:42:06,76
+Course, this is the
+wrong way to do it.
+
+618
+00:42:06,76 --> 00:42:09,69
+I should really just put it in
+a nice test harness, where I
+
+619
+00:42:09,69 --> 00:42:14,22
+run 100, 200, 1,000 trials, but
+I didn't want to bore
+
+620
+00:42:14,22 --> 00:42:15,93
+you with that here.
+
+
+621
+00:42:15,93 --> 00:42:20,95
+So we'll see that, OK, we
+passed the first smoke test.
+
+622
+00:42:20,95 --> 00:42:25,13
+We seem to be where
+we expect to be.
+
+623
+00:42:25,13 --> 00:42:30,08
+Well, let's try smoke test two.
+
+
+624
+00:42:30,08 --> 00:42:32,19
+What else might we want
+to see, to see if we got
+
+625
+00:42:32,19 --> 00:42:34,58
+things working properly?
+
+
+626
+00:42:34,58 --> 00:42:38,95
+Well, I kind of ignored the
+notion of bias by making it
+
+627
+00:42:38,95 --> 00:42:49,73
+0, so let's give it
+a big bias here.
+
+628
+00:42:49,73 --> 00:43:09,83
+Assuming it will
+let me edit it.
+
+629
+00:43:09,83 --> 00:43:11,55
+We just gotta start it
+up again, it's the
+
+630
+00:43:11,55 --> 00:43:34,89
+safest thing to do.
+
+
+631
+00:43:34,89 --> 00:43:38,12
+You wouldn't think I would
+have, I don't have -- all
+
+632
+00:43:38,12 --> 00:43:42,8
+right, be that way about it.
+
+
+633
+00:43:42,8 --> 00:43:46,44
+Fortunately, we've been
+through this before.
+
+634
+00:43:46,44 --> 00:43:49,75
+We know if we
+relaunch the Finder.
+
+635
+00:43:49,75 --> 00:43:58,3
+Who says Mac OS is flawless?
+
+
+636
+00:43:58,3 --> 00:44:07,18
+All right, we were down here,
+and I was saying, let's try
+
+637
+00:44:07,18 --> 00:44:10,49
+a larger, introduce a bias.
+
+
+638
+00:44:10,49 --> 00:44:12,43
+Again, we're trying to
+see if it does what
+
+639
+00:44:12,43 --> 00:44:13,97
+we think it might do.
+
+
+640
+00:44:13,97 --> 00:44:17,02
+So what do you think it
+should do with a bias?
+
+641
+00:44:17,02 --> 00:44:21,71
+Where should the mean be now?
+
+
+642
+00:44:21,71 --> 00:44:24,73
+Still around 100?
+
+
+643
+00:44:24,73 --> 00:44:26,3
+Or higher, right?
+
+
+644
+00:44:26,3 --> 00:44:29,55
+Because we've now put
+in a bias suggesting
+
+645
+00:44:29,55 --> 00:44:31,46
+that it should go up.
+
+
+646
+00:44:31,46 --> 00:44:33,09
+Oops.
+
+
+647
+00:44:33,09 --> 00:44:37,72
+It wouldn't have hurt it.
+
+
+648
+00:44:37,72 --> 00:44:39,55
+All right.
+
+
+649
+00:44:39,55 --> 00:44:49,73
+So let's run it.
+
+
+650
+00:44:49,73 --> 00:44:54,22
+Sure enough, for one, we see,
+test two, it's a little bit
+
+651
+00:44:54,22 --> 00:45:02,76
+over 100, and for test
+one it's way over 100.
+
+652
+00:45:02,76 --> 00:45:11,13
+Well, let's make sure
+it's not a fluke.
+
+653
+00:45:11,13 --> 00:45:21,73
+Try it again.
+
+
+654
+00:45:21,73 --> 00:45:26,65
+So, sure enough, changing
+the bias changed the price,
+
+655
+00:45:26,65 --> 00:45:31,17
+and even changed it in
+the right direction.
+
+656
+00:45:31,17 --> 00:45:33,99
+So we can feel pretty
+comfortable that it's doing
+
+657
+00:45:33,99 --> 00:45:35,38
+something good with that.
+
+
+658
+00:45:35,38 --> 00:45:37,35
+We could also feel pretty
+comfortable that that's
+
+659
+00:45:37,35 --> 00:45:40,14
+probably way too
+high a bias, right?
+
+660
+00:45:40,14 --> 00:45:45,3
+We would not expect that the
+mean should be over 160, or
+
+661
+00:45:45,3 --> 00:45:49,85
+in one case, 150, after only
+100 days trading, right?
+
+662
+00:45:49,85 --> 00:45:53,58
+Things don't typically
+go up 50% in 100 days.
+
+663
+00:45:53,58 --> 00:46:03,59
+They go down 50%, but --
+All right, so that's good.
+
+664
+00:46:03,59 --> 00:46:06,96
+Oh, let's look at
+something else now.
+
+665
+00:46:06,96 --> 00:46:10,36
+Let's go back to where,
+a simpler bias here.
+
+666
+00:46:10,36 --> 00:46:13,44
+We'll run it again.
+
+
+667
+00:46:13,44 --> 00:46:16,91
+And think about, what's the
+difference between the
+
+668
+00:46:16,91 --> 00:46:26,11
+Gaussian and the normal?
+
+
+669
+00:46:26,11 --> 00:46:35,49
+Can we deduce anything
+about those?
+
+670
+00:46:35,49 --> 00:46:37,87
+Not, well, let me ask you.
+
+
+671
+00:46:37,87 --> 00:46:45,26
+What do you think, yes or no?
+
+
+672
+00:46:45,26 --> 00:46:47,45
+Anybody see anything
+interesting here?
+
+673
+00:46:47,45 --> 00:46:47,73
+Yeah?
+
+
+674
+00:46:47,73 --> 00:46:52,625
+STUDENT: The variance of the
+Gaussian seems to be less than
+
+675
+00:46:52,625 --> 00:46:54,86
+the variance of the uniform.
+
+
+676
+00:46:54,86 --> 00:46:55,96
+PROFESSOR: The variance
+of the Gaussian --
+
+677
+00:46:55,96 --> 00:46:59,62
+STUDENT: -- is less.
+
+
+678
+00:46:59,62 --> 00:47:02,81
+PROFESSOR: So all right, that
+appears to be the case here.
+
+679
+00:47:02,81 --> 00:47:04,86
+But let's run it again,
+as we've done with
+
+680
+00:47:04,86 --> 00:47:06,49
+all the other tests.
+
+
+681
+00:47:06,49 --> 00:47:09,68
+So we have a hypothesis.
+
+
+682
+00:47:09,68 --> 00:47:13,44
+Let's not fall victim to
+the Oklahoma sharpshooter.
+
+683
+00:47:13,44 --> 00:47:19,54
+We'll test our hypothesis, or
+at least examine it again,
+
+684
+00:47:19,54 --> 00:47:27,23
+see if it's, in some
+sense, repeatable.
+
+685
+00:47:27,23 --> 00:47:32,86
+Well, now what do we see?
+
+
+686
+00:47:32,86 --> 00:47:35,88
+Doesn't seem to be true
+this time, right?
+
+687
+00:47:35,88 --> 00:47:37,96
+Not obviously.
+
+
+688
+00:47:37,96 --> 00:47:42,24
+So, we're not sure about this.
+
+
+689
+00:47:42,24 --> 00:47:45,45
+So this is something
+that we would need to
+
+690
+00:47:45,45 --> 00:47:49,42
+investigate further.
+
+
+691
+00:47:49,42 --> 00:47:52,32
+And we would need, to have to
+look at it, and it's going to
+
+692
+00:47:52,32 --> 00:47:57,47
+be very tricky, by the way, as
+to what the right answer is.
+
+693
+00:47:57,47 --> 00:48:04,2
+But if you think about it, it
+would not be surprising if the
+
+694
+00:48:04,2 --> 00:48:09,35
+Gaussians, at least, gave us
+some surprising, more extreme,
+
+695
+00:48:09,35 --> 00:48:12,03
+results, than the uniform.
+
+
+696
+00:48:12,03 --> 00:48:16,95
+Because the uniform, as we've
+set it up here, is bounded.
+
+697
+00:48:16,95 --> 00:48:22,28
+The minimum and the
+maximum is bounded.
+
+698
+00:48:22,28 --> 00:48:26,95
+With the Gaussian,
+there's a tail.
+
+699
+00:48:26,95 --> 00:48:29,83
+And you might every once in a
+while get this, at least as
+
+700
+00:48:29,83 --> 00:48:34,57
+we've done it in this case,
+this large move out at the end.
+
+701
+00:48:34,57 --> 00:48:36,79
+You might not.
+
+
+702
+00:48:36,79 --> 00:48:40,46
+There's nothing profound about
+this, other than the
+
+703
+00:48:40,46 --> 00:48:43,44
+understanding that the details
+of how you set these things
+
+704
+00:48:43,44 --> 00:48:47,21
+up can matter a lot.
+
+
+705
+00:48:47,21 --> 00:48:54,77
+Well, the final thing I want
+to look at is momentum.
+
+706
+00:48:54,77 --> 00:49:07,04
+So let's go back, and let's
+set mo to true here.
+
+707
+00:49:07,04 --> 00:49:10,93
+Well, doesn't want us to
+set mo to true here.
+
+708
+00:49:10,93 --> 00:49:16,72
+Ah, there it does.
+
+
+709
+00:49:16,72 --> 00:49:19,46
+So, and now let's run it
+and see what happens.
+
+710
+00:49:19,46 --> 00:49:25,85
+What do you think
+should happen?
+
+711
+00:49:25,85 --> 00:49:26,41
+Anybody?
+
+
+712
+00:49:26,41 --> 00:49:31,726
+STUDENT: [INAUDIBLE]
+
+
+713
+00:49:31,726 --> 00:49:36,62
+PROFESSOR: I think
+you're right.
+
+714
+00:49:36,62 --> 00:49:41,42
+These ones should curl, see
+if I can -- oh, not bad.
+
+715
+00:49:41,42 --> 00:49:48,61
+Let's run it.
+
+
+716
+00:49:48,61 --> 00:49:53,46
+Well, it's a little hard
+to see, but things
+
+717
+00:49:53,46 --> 00:49:56,5
+tend to take off.
+
+
+718
+00:49:56,5 --> 00:49:59,4
+Because once things started
+moving, it tends to
+
+719
+00:49:59,4 --> 00:50:05,64
+move in that direction.
+
+
+720
+00:50:05,64 --> 00:50:10,71
+All right.
+
+
+721
+00:50:10,71 --> 00:50:12,75
+How do we go about choosing
+these parameters?
+
+722
+00:50:12,75 --> 00:50:14,88
+How do we go about
+deciding what to do?
+
+723
+00:50:14,88 --> 00:50:18,51
+Well, we play with it, the way
+I've been playing with it, and
+
+724
+00:50:18,51 --> 00:50:22,49
+compare the results to
+some set of real data.
+
+725
+00:50:22,49 --> 00:50:26,82
+And then we try and get our
+simulation to match the past,
+
+726
+00:50:26,82 --> 00:50:31,6
+and hope that that will
+help it predict the future.
+
+727
+00:50:31,6 --> 00:50:33,48
+We're not enough time
+to go through all the,
+
+728
+00:50:33,48 --> 00:50:35,46
+to do that a lot.
+
+
+729
+00:50:35,46 --> 00:50:39,42
+I will be posting code that you
+can play with, and I suggest
+
+730
+00:50:39,42 --> 00:50:42,85
+you go through exactly
+this kind of exercise.
+
+731
+00:50:42,85 --> 00:50:45,12
+Because this is really
+the way that people do
+
+732
+00:50:45,12 --> 00:50:46,93
+develop simulations.
+
+
+733
+00:50:46,93 --> 00:50:50,7
+They don't, out of whole cloth,
+get it right the first time.
+
+734
+00:50:50,7 --> 00:50:54,58
+They build them, they do what
+if games, they play with them,
+
+735
+00:50:54,58 --> 00:50:57,87
+and then they try and adjust
+them to get them right.
+
+736
+00:50:57,87 --> 00:51:00,98
+The nice thing here is, you can
+decide whether you believe
+
+737
+00:51:00,98 --> 00:51:04,37
+momentum and see what it would
+mean, or not mean, etc.
+
+738
+00:51:04,37 --> 00:51:06,94
+All right, one more lecture.
+
+
+739
+00:51:06,94 --> 00:51:09,19
+See you guys next week.
+
+
+740
+00:51:09,19 --> 00:51:09,537
+
+
+

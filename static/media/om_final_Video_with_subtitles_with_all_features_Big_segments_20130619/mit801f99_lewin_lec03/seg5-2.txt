@@ -1,0 +1,254 @@
+
+
+so the vector a im going to write 
+
+as a of x times x roof plus a of y times y roof 
+
+plus a of z times z roof 
+
+and this a of x times x is really a vector 
+
+that runs from the origin to this point 
+
+so we could put in that as a vector if you want to 
+
+this makes it a vector 
+
+this is that vector 
+
+a of y times oh sorry it is a of x this one 
+
+a of y times y roof is this one 
+
+and a of z times z roof is this one 
+
+and so these three green vectors added together 
+
+
+are exactly identical to the vector op 
+
+so we have decomposed one vector into three directions 
+
+and we will see that very often this is of great use in  
+
+the magnitude of the vector is 
+
+the square root of ax squared plus ay squared plus az squared 
+
+and so we can take a simple example 
+
+for instance i take a vector a 
+
+this is just an example to see this in action 
+
+and we call a three x roof 
+
+
+so a of axis is three minus five y roof plus  z roof 
+
+so that means that its three units in this direction 
+
+it is five units in this direction 
+
+in the minus y direction 
+
+and six in the plus z direction 
+
+that makes up a vector and i call that vector a 
+
+what is the magnitude of that vector 
+
+which i always write down with vertical bars 
+
+if i put two bars on one side thats always the magnitude 
+
+or sometimes i simply leave the arrow off 
+
+
+but to be always on the safe side i like this idea 
+
+that you know its really the magnitude 
+
+becomes the scalar when you do that 
+
+so that would be the square root of three squared is nine 
+
+five squared is  six squared is  
+
+so thats the square root of  
+
+and suppose i asked you what is theta 
+
+its uniquely determined of course 
+
+this vector is uniquely determined 
+
+in threedimensional space 
+
+
+so you should be able to find phi and theta 
+
+well the cosine of theta 
+
+see this angle here  degrees projection 
+
+so the cosine of theta is a of z divided by a itself 
+
+so the cosine of theta equals a of z divided by a itself 
+
+which in our case 
+
+would be six divided by the square root of  
+
+and you can do fine 
+
+its just simply a matter of manipulating some numbers 
+
+
+we now come to a much more difficult part of vectors 
+
+and that is multiplication of vectors 
+
+
+
+were not going to need this until october but i decided 
+
+we might as well get it over with now 
+
+now that we introduced vectors you can add and subtract 
+
+you might as well learn about multiplication 
+
+its sort of the job is done its like going to the dentist 
+
+its a little painful but its good for you 
+
+and when its behind you the pain disappears 
+
+so were going to talk about multiplication of vectors 
+
+
+something that will not come back until october 
+
+and later in the course 
+
+there are two ways that we multiply vectors 
+
+and one is called the dot product 
+
+often also called the scalar product 
+
+a dot b a fat dot and that is defined as it is a scalar 
+
+a of x times b of x just a number 
+
+plus a of y times b of y thats another number 
+
+plus a of z times b of z thats another number 
+
+it is a scalar 
+
+it has no longer a direction 
+
+that is the dot product 
+
+so thats method number one 
+
+thats completely legitimate and you can always use that 
+
+there is another way to find the dot product 
+
+
+depending upon what youre being given 
+
+how the problem is presented to you 
+
+if someone gives you the vector a and you have the vector b 
+
+and you happen to know this angle between them 
+
+this angle theta 
+
+which has nothing to do with that angle theta 
+
+its the angle between the two 
+
+then the dot product is also the following 
+
+and you may make an attempt to prove that 
+
+you project the vector b on a 
+
+this is that projection 
+
+the length of this vector is b cosine theta 
+
+and then the dot product 
+
+is the magnitude of a times the magnitude of b 
+
+times the cosine of the angle theta 
+
+
+the two are completely identical 
+
+now you may ask me you may say 
+
+gee how do i know what theta is 
+
+how do i know i should take theta this angle 
+
+or maybe i should take theta this angle 
+
+i mean what angle is a making with b 
+
+it makes no difference 
+
+because the cosine of this angle here 
+
+is the same as the cosine of  degrees minus theta 
+
+so that makes no difference 
+
+sometimes this is faster 
+
+depending upon how the problem is presented to you 
+
+sometimes the other is faster 
+
+you can immediately see by looking at this 
+
+its easier to see than looking here 
+
+
+that the dot product can be larger than zero 
+
+it can be equal to zero and it can be smaller than zero 
+
+a and b are by definition always positive 
+
+they are a magnitude 
+
+thats always determined by the cosine of theta 
+
+if the cosine of theta is larger than zero 
+
+well then its larger than zero 
+
+the cosine of theta can be zero 
+
+if the angle for theta is pi over two 
+
+in other words if the two vectors 
+
+are perpendicular to each other 
+
+then the dot product is zero and if this angle theta 
+
+is between  degrees and  degrees 
+
+then the cosine is negative 
+
+we will see that at work no pun implied 
+
+when were going to deal with work in physics 

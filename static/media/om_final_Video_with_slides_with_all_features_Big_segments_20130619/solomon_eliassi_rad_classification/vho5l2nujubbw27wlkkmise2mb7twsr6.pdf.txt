@@ -1,0 +1,177 @@
+Slide 0
+Classification and Clustering in Large Complex NetworksTina Eliassi-Radtina@eliassi.orgSpring 2011
+---------
+Slide 1
+Wordle2
+---------
+Slide 2
+Complex Networks are Ubiquitous Technological NetworksInformation NetworksSocial NetworksBiological networksInternetNY State Power GridMap of ScienceFriendshipHP EmailsContagion of TBFood Web
+---------
+Slide 3
+ProblemsApplications
+---------
+Slide 4
+OutlineProblem #1: Network (a.k.a. relational) classifiersProblem #2: Clustering on networks (a.k.a. community discovery) Conclusions 
+---------
+Slide 5
+Relational Classifiers6Single domainMultiple domainsAnalyze classifiersAnalyze algorithmsPredict algorithm accuracyChoose between algorithmsWithin-network learningAcross-network learningSparse labelingDense labelingNo labeling in test networkSome labeling in test network............
+---------
+Slide 6
+Within-Network ClassificationGiven: single network withlabeled and unlabeled nodesGoal: assign labels tounlabeled nodes Applications: identify suspicious blog postings, fraudulent web pages, roles within an organization, research paper topics, etc.
+---------
+Slide 7
+Background: Previous Work on Within-Network ClassificationUse dependencies between neighborsAssume homophilyLearn dependencies+?+-++
+---------
+Slide 8
+Our Work Addresses Two Challenges for Within-Network ClassificationC1: Sparse labelingC2: Non-homophily+---++---
+---------
+Slide 9
+Limitations of Existing Approaches forWithin-Network ClassificationGaussian Random Fields(Zhu et al., ICML 2003)Link-based Classifier(Lu & Getoor, ICML 2003)Relational NeighborClassifier(Macskassy& Provost,KDD-MRDM 2003)Semi-supervised LearningCollective ClassificationNon-HomophilySparse LabelsClassification Performance
+---------
+Slide 10
+Our Solution: Ghost Edge Classifiers Have Consistently High PerformanceHandle C1: Sparse labelingClassification PerformanceHandle C2: Non-homophily
+---------
+Slide 11
+Challenge 1: Label SparsityThe Standard ApproachLabel Sparsity View: We have plenty of neighbors, but too few of them are labeled.?+++-++++++++--+
+---------
+Slide 12
+Challenge 1: Label SparsityThe Ghost EdgeApproach?+++-Link Sparsity View: There are plenty of labeled nodes in the network, but we don't link to enough of them.
+---------
+Slide 13
+Challenge 1: Label SparsityWeighting Ghost EdgesGhost edges increase the number of labeled neighbors per node.Key: Ghost edge weights should correspond with correlation between node labels.Conjecture: Correlation is higher between labels of nodes that are "closer" to one another.
+---------
+Slide 14
+Challenge 1: Label SparsityWeighting Ghost EdgesWe measure node proximity using random walk with restart(RWR)1?32567910811120.130.100.130.130.050.050.080.040.020.040.03[Tong, Faloutsos, & Pan, ICDM 2006]
+---------
+Slide 15
+Challenge 2: Non-homphilyHow to handle degrees of homophily?The standard approach: use labeled data to learn dependenciesSparse labels make learning difficultGhost edges increase the number of labeled neighbors per nodeWhat if labels are extremely sparse?
+---------
+Slide 16
+Challenge 2: Non-homphilyHow to handle degrees of homophily?HomophilyNon-homophilyAA2BB2Even-step RWR
+---------
+Slide 17
+The GhostEdgeClassifiersGhostEdgeNL: non-learning methodIgnore observed edges.Create ghost edges from unlabeled nodes to labeled nodes.Take weighted vote of ghost edge neighbors.GhostEdgeL: learning methodUses labeled nodes to learn label-dependencies separately across for observed edge and ghost edgesBins ghost edges by proximity scores and learn dependencies separately for each binEnsemble logForestclassifier: Bag of logistic regression classifiers, each given a subset of features18
+---------
+Slide 18
+Summary of Data Sets & Prediction TasksEnronTask: Executives?|V| = 3081|L| = 1055|E| = 34,902P(+) = 0.02HEP-THTask: Diff. Geometry?|V| = 2999|L| = 342|E| = 36,014P(+) = 0.06Political BooksTask: Neutral?|V| = 105|L| = 105|E| = 441P(+) = 0.12Reality MiningTask: In-Study?|V| = 1000|L| = 1000|E| = 31,509P(+) = 0.08""
+---------
+Slide 19
+Various Ways of Measuring Homophilyon a NetworkLabel  (orLocal)ConsistencyRatio of links connecting nodes with the same class-labelRelational AutocorrelationCorrelation measure on links connecting labeled nodesAssortativeMixingBias in favor of connections between nodes with similar class-labelPark & DyadicityandHeterophilicityDyadicity: connectedness between nodes with the same class-label compared to what is expected for a random configurationHeterophilicity: connectedness between nodes with different class-labels compared to what is expected for a random configuration
+---------
+Slide 20
+Dyadicityand Heterophilicity[Park & BarabasiconnectanceN = 25M= 32n1=10p= 0.11
+---------
+Slide 21
+Log Odds of Dyadicity& HeterophilicityEnronTask: Executives?P(+) = 0.02HEP-THTask: Diff. Geometry?P(+) = 0.06Political BooksTask: Neutral?P(+) = 0.12MIT Reality MiningTask: In-Study?P(+) = 0.08
+---------
+Slide 22
+Experimental Methodology for Evaluating Within-Network ClassifiersWe vary the proportion of core nodes labeledfrom 10% to 90%Remove labels from a class-stratified random sample of nodesLabeled nodes are training instancesUnlabeled nodes are test instancesWe use identical train/test splits for each classifierWe ensure that each node iVoccurs in the same number of test setsFor each proportion labeled, we run 20 trialsWe use Area Under the ROC curve(AUC)to measure classification performancerandom guessFPR (1-Specificity)TPR (Sensitivity)011ROC curve
+---------
+Slide 23
+We Ran Seven Individual ClassifiersRelational Neighbor (Non-learning)1.wvRN: A relational neighbor model without collective classification2.wvRN+RL: A relational neighbor model, which uses relaxation labeling for collective classification3.GRF: Semi-supervised Gaussian random field model4.ghostEdgeNL: Our ghostEdge-based classifier without learningLink-Based (Learning)5.logForest: An ensemble logistic link-based model without collective classification6.logForest+ICA: An ensemble logistic link-based model, which uses the iterative classification algorithm to perform collective classification7.ghostEdgeL: Our ghostEdge-based classifier with learning
+---------
+Slide 24
+GhostEdgeNLis Top Performer Among Relational Neighbor ClassifiersClassification PerformanceLabel Sparsity
+---------
+Slide 25
+GhostEdgeLis Top Performer Among Link-Based ClassifiersClassification PerformanceLabel Sparsity
+---------
+Slide 26
+Summary: Ghost EdgesC1: Label sparsityA1: Ghost Edges increase the number of labeled neighbors per node.C2: Non-homophilyA2a: GEs improve learning.A2b: Even-step RWRmaintains or increasesrelational autocorrelation.Practitioner's guideUse GhostEdgeNLin extreme sparsity, high homophilyUse GhostEdgeLin moderate sparsity, non-homophilyalso related AI Magazine 
+---------
+Slide 27
+OutlineProblem #1: Network (a.k.a. relational) classifiersProblem #2: Clustering on networks (a.k.a. community discovery) Conclusions 
+---------
+Slide 28
+Community DiscoveryGiven a graphG=(V, E)Want a community discovery procedure with the following properties1.Scalable, where time and space complexity are strictly sub-quadratic w.r.t. the number of nodes2.Nonparametric, where number of communities need not be specified  a priori3.Consistent, where effectiveness is consistently high across a wide range of domains4.Effective, where global connectivity patterns are successfully factored into communities that are highly predictive of individual links androbust to small perturbations in network structure
+---------
+Slide 29
+Measures of EffectivenessLink predictionA good factorization of a graph's connectivity structure should communities: P(st| zs, zt)Measured by Area Under the ROC (AUC) on predictions of randomly held-out linksRobustnessable to withstand small perturbations in the network structure[Karrer, Levina, and Newman, Phys. Rev. E. 2008] Measured by Variation of Information: an entropy-based distance metric
+---------
+Slide 30
+BackgroundFast modularity (FM)Maximizes modularityA good clustering is one that maximizes intra-group links and minimizes inter-group linksCross Associations (XA)Based on compressionMinimizes total encoding costA good clustering is one that -Looks for same patterns of connectivity between nodesLatent DirichletAllocation for Graphs (LDA-G)Nonparametric Bayesian modelP(Z| R) P(R| Z) P(Z)Finds soft groups with mixed-membershipsMaximizes likelihoodA good clustering is one that finds multinomial distributions over all nodes that accurately describe which nodes are most associated with which communities and which ones are notHard ClusteringSoft Clustering
+---------
+Slide 31
+m= number of edges in the graphAvw= 1 if ; 0 otherwisekv= degree of vertex v(i, j) = 1 if i== j; 0 otherwiseMaximizes modularity, Q: measures the fraction of all edges within groups minus the expected number in a random graph with the same degreesProduces Ahard groups,Awhere each vertex has a single group assignmentRuntime complexity for G=(V, E) is O( |V| log2(|V|) )Modularity (FM) [Clauset+, Phys. Rev. E. 2004] 
+---------
+Slide 32
+Cross-Associations (XA) [Chakrabarti+, KDD 2004]Minimizes total encoding cost of the adjacency matrix = code cost + description cost=Produces row-groups and column-groupsRuntime complexity for G=(V, E) is O(|E|)Binary MatrixColumn groupsRow groupspi1= ni1/ (ni1 + ni0)
+---------
+Slide 33
+Latent DirichletAllocation for Graphs (LDA-G) [Henderson & Eliassi-Rad, ACM SAC 2009]Based on LDA [D. Blei+, JMLR 2003]Nonparametric generative model for topic discovery in text documentsNumber of topics is learned, not fixed LDA takes a set of documents (represented as a bag of words)Each document is a mixture of topics from a multinomial distributionEach word is drawn from one of the topicsUses infinite (Dirichlet) priors on documents and topics
+---------
+Slide 34
+LDA-G, FM, and XA are notConsistent w.r.t. Link PredictionWhy are they not consistent?Can we fix it?
+---------
+Slide 35
+Hybrid Community Detection Framework (HCDF)HCDF is a Bayesian frameworkIncorporates communities discovered via other, non-Bayesian approaches, as hintsConsists of two parts: (1) hint-giver and (2) hint-takerLeads to improved effectiveness* of results compared to its constituents and consistency across various domainsSoft clustering with mixed membership may get confused by communities* W.r.t. link prediction and robustness to small network perturbations
+---------
+Slide 36
+More Whitespace, Higher Average AUC on Link Prediction
+---------
+Slide 37
+Hybrid Community Detection Framework (HCDF)Hint-givers:  Non-Bayesian algorithms used in HCDFCross-Associations (XA) [ChakrabartiRuntime: O(|E|)Fast Modularity (FM) [Clauset+, PhyRuntime: O(|V|2(|V|))Hint-taker:  Bayesian algorithm used in HCDFLDA-G [Henderson & Eliassi-Uses Gibbs sampling to infer posterior estimates, Runtime: O(|E|)Three different strategies for incorporating hints1.Seed, which used hints only as an initial configuration for LDA-2.Prior, which propagates hints from one configuration to the next3.Attribute, which incorporates hints as additional link-attributes
+---------
+Slide 38
+HCDF with Attribute Coalescing StrategyRun XA (or FM) on input G=(V, E) Produces groups, A, over nodesRun LDA-G on graph = (V, E, A)Prior on groups (latent variable)Prior on link-attributes (observables)Prior on target-nodes (observables)Multinomial from groups to target-nodesMultinomial from source-nodes to groupsMultinomial from groups to link-attributesLDA-G Model
+---------
+Slide 39
+Plate Model for HCDF with Attribute Coalescing Strategy
+---------
+Slide 40
+HCD Algorithm
+---------
+Slide 41
+Summary of Real-World Graphs Used in Experiments
+---------
+Slide 42
+Summary of Real-World Graphs Used in Experiments (cont.)
+---------
+Slide 43
+Summary of Real-World Graphs Used in Experiments (cont.)
+---------
+Slide 44
+Measuring Effectiveness Quantitatively: Link PredictionIf you are building groups from the graph structure only, then those groups should be able to predict the structure backLink prediction in LDA-G: uvLink prediction in FM and XA is based on density: uv
+---------
+Slide 45
+Measuring Effectiveness Quantitatively: Link PredictionA good factorization of a graph's connectivity structure can accurately predict links between nodes based on their respective communitiesP(st| s, t, zs, zt)Evaluate effectiveness by 1.randomly holding out a number of links2.building a model3.using learnt model to predict held-out links4.measuring performance with area under ROC curve (AUC)010111010101000100011101001110010010001110
+---------
+Slide 46
+Experimental MethodologyRandomly select 500 present-and 500 absent-linksThis is the held-out test Give the remaining links to each algorithm to find groupsEach algorithm uses its discovered groups to estimate the probability that links in the held-out test set were presentUse estimates to calculate the area under the ROC curve (AUC)Repeat the above process 5 times and report the average AUCrandom guessFPR (1-Specificity)TPR (Sensitivity)011ROC curve
+---------
+Slide 47
+Link Prediction Performance Across Various Graphsw.r.t. link prediction is consistently Higher is better
+---------
+Slide 48
+Worst-Case Link Prediction Performance Across All Graphs0,50,550,60,650,70,750,80,850,90,951FMLDA-GXAHCD-MHCDWorst Case Average AUCVarious Community Detection Algorithms
+---------
+Slide 49
+Measuring Effectiveness Quantitatively: Value of InformationPerturb graph by randomly reassigning a number of its linksRewiring parameter c[0,1] determines fraction of links rewiredLinks are rewired in a way that preserves the expected degree of each node in graphC= communities discovered on original graph, where c= 0C= communities discovered on perturbed graphs, where c0Variation of Information, () = H(C|) + H(|C)H(C()[0, log(N)] treats each assignment as a messageIs a symmetric entropy-based measure of the distance between these messages[Karrer, Levina, and Newman, Phys. Rev. E. 2008] 
+---------
+Slide 50
+Robustness Measured across Various Real-World Graphsw.r.t. robustness is always better than or comparable to their constituentsRecall: FM shows poor link prediction performance on IP graphsLower is better
+---------
+Slide 51
+Good link prediction can be thought of as a tradeoff betweenLow entropy: If the adjacency matrix can be compressed nicely or mixed-membership distributions are far from uniform, we can better predict behavior of nodesFlexibility: If a node exhibits multiple types of behavior, hard clustering may only model a plurality LDA-G can generate high-entropy distributionsHCD-X and HCD-M use low-entropy hints when LDA-G is ambivalentXA and FM cannot model mixed behaviorHCD-X and HCD-M relax the hard clusters into soft clusters which can explain all links
+---------
+Slide 52
+What About a Super-Hybrid?Since HCD and HCD-M perform well, why not use hints from both XA and FM algorithms?-When they agree, the super-hybrid performs no better than HCD and HCD-M 
+---------
+Slide 53
+Summary: Community Discovery Use a hybrid approach to community discovery on graphs for consistently effective community factorization across graphs from various domainsIncorporate hints as attributes for coalescing strategyUse link prediction and variation of information as a quantitative measure on the communities discoveredalso related NIPS WkshpAAAI-, DMKD08
+---------
+Slide 54
+OutlineProblem #1: Network (a.k.a. relational) classifiersProblem #2: Clustering on networks (a.k.a. community discovery) Conclusions 
+---------
+Slide 55
+ProblemsApplications
+---------
+Slide 56
+ConclusionsComplex networks are ubiquitousLots of cool problems w.r.t. classification, clustering, and anomaly detection with real-world applicationsSome solutions: Ghost Edges, HCDFCurrent & future workA framework for capturing behavior in networks 
+---------
+Slide 57
+Thank YouPapers available at http://eliassi.org/pubs.htmlThanks to my collaborators on these worksLLNL: Brian Gallagher, Keith HendersonCMU: Christos Faloutos+ Maryland: LiseGetoor+Purdue: Jen Neville, Tao WangUC Berkeley: Kurt MillerGoogle Labs: SpirosPapadimitriouIBM Watson: HanghangTongSupported by AFRL, DTRA, LLNL, NSF
+---------
+Slide 58
+
+---------

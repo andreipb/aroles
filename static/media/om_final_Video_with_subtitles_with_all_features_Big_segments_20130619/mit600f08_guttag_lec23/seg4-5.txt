@@ -1,0 +1,211 @@
+
+
+we know if we relaunch the finder 
+
+who says mac os is flawless 
+
+all right we were down here and i was saying lets try 
+
+a larger introduce a bias 
+
+again were trying to see if it does what 
+
+we think it might do 
+
+so what do you think it should do with a bias 
+
+where should the mean be now 
+
+still around  
+
+or higher right 
+
+because weve now put in a bias suggesting 
+
+that it should go up 
+
+oops 
+
+it wouldnt have hurt it 
+
+all right 
+
+so lets run it 
+
+sure enough for one we see test two its a little bit 
+
+over  and for test one its way over  
+
+well lets make sure its not a fluke 
+
+try it again 
+
+so sure enough changing the bias changed the price 
+
+and even changed it in the right direction 
+
+so we can feel pretty comfortable that its doing 
+
+something good with that 
+
+we could also feel pretty comfortable that thats 
+
+probably way too high a bias right 
+
+we would not expect that the mean should be over  or 
+
+in one case  after only  days trading right 
+
+things dont typically go up  in  days 
+
+they go down  but  all right so thats good 
+
+oh lets look at something else now 
+
+lets go back to where a simpler bias here 
+
+well run it again 
+
+and think about whats the difference between the 
+
+gaussian and the normal 
+
+can we deduce anything about those 
+
+not well let me ask you 
+
+what do you think yes or no 
+
+anybody see anything interesting here 
+
+yeah 
+
+the variance of the gaussian seems to be less than 
+
+the variance of the uniform 
+
+the variance of the gaussian  
+
+ is less 
+
+
+so all right that appears to be the case here 
+
+but lets run it again as weve done with 
+
+all the other tests 
+
+so we have a hypothesis 
+
+lets not fall victim to the oklahoma sharpshooter 
+
+well test our hypothesis or at least examine it again 
+
+see if its in some sense repeatable 
+
+well now what do we see 
+
+doesnt seem to be true this time right 
+
+not obviously 
+
+so were not sure about this 
+
+
+so this is something that we would need to 
+
+investigate further 
+
+and we would need to have to look at it and its going to 
+
+be very tricky by the way as to what the right answer is 
+
+but if you think about it it would not be surprising if the 
+
+gaussians at least gave us some surprising more extreme 
+
+results than the uniform 
+
+because the uniform as weve set it up here is bounded 
+
+
+the minimum and the maximum is bounded 
+
+with the gaussian theres a tail 
+
+and you might every once in a while get this at least as 
+
+weve done it in this case this large move out at the end 
+
+you might not 
+
+theres nothing profound about this other than the 
+
+understanding that the details of how you set these things 
+
+up can matter a lot 
+
+well the final thing i want to look at is momentum 
+
+so lets go back and lets set mo to true here 
+
+well doesnt want us to set mo to true here 
+
+ah there it does 
+
+so and now lets run it and see what happens 
+
+what do you think should happen 
+
+anybody 
+
+inaudible 
+
+i think youre right 
+
+these ones should curl see if i can  oh not bad 
+
+lets run it 
+
+well its a little hard to see but things 
+
+tend to take off 
+
+because once things started moving it tends to 
+
+move in that direction 
+
+all right 
+
+how do we go about choosing these parameters 
+
+how do we go about deciding what to do 
+
+
+well we play with it the way ive been playing with it and 
+
+compare the results to some set of real data 
+
+and then we try and get our simulation to match the past 
+
+and hope that that will help it predict the future 
+
+were not enough time to go through all the 
+
+to do that a lot 
+
+i will be posting code that you can play with and i suggest 
+
+you go through exactly this kind of exercise 
+
+because this is really the way that people do 
+
+develop simulations 
+
+they dont out of whole cloth get it right the first time 
+
+they build them they do what if games they play with them 
+
+and then they try and adjust them to get them right 
+
+the nice thing here is you can decide whether you believe 

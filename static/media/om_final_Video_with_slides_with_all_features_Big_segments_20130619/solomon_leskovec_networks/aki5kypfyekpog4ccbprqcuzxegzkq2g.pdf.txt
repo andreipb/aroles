@@ -1,0 +1,165 @@
+Slide 0
+Jure Leskovec Stanford University & Intitut Joef Stefan 
+---------
+Slide 1
+2 Collaboration networks Online social networks Communication networks Web graphs & citation networks Systems biology networks Computer & Internet networks 
+---------
+Slide 2
+How are networks organized?  3 Collaborations in Network Science Tiny part of a large social network What is the structure of the network?  How should we think about it? 
+---------
+Slide 3
+Communities are of  World Wide Web Citation networks Social networks Metabolic networks 4 SFI collaboration network Blogosphere 
+---------
+Slide 4
+Communities as Micro-markets in  -  5 advertiser query 
+---------
+Slide 5
+6 Network Communities 
+---------
+Slide 6
+7 Network Communities Nested Core-Periphery  (Leskovec et al., Internet Mathematics, 2009) 
+---------
+Slide 7
+8 vs. How do we reconcile these two views? 
+---------
+Slide 8
+How network organize into clusters? What computational experiment should we  design reveal network organization?      Idea: Use approximation algorithms for the  NP-hard graph partitioning problems as experimental probes of the network structure 9 
+---------
+Slide 9
+Communities: Working definition: Sets  of nodes with lots of links inside the set and  few to the outside  (the rest of the network) Industry: Develop methods that extract such  - sets of nodes 10 Communities, clusters, groups, modules 
+---------
+Slide 10
+Communities: Working definition: Sets  of nodes with lots of links inside the set and  few to the outside  (the rest of the network) Industry: Develop methods that extract such  - sets of nodes 11 Communities, clusters, groups, modules Question: Are large networks really like this? 
+---------
+Slide 11
+How to identify communities?         Ties in a karate club, conflicts led the group to split Split could be explained by a minimum cut 12 
+---------
+Slide 12
+How -is a set of nodes? A good cluster S has Many edges internally Few edges pointing outside Simplest objective function:  Conductance    Small conductance corresponds to good clusters   13 S  
+---------
+Slide 13
+Define:  Network Community Profile (NCP) plot  Plot the score of best community of size k  14 Community size, log k log (k) k=5 k=7 k=10 
+---------
+Slide 14
+Computing                                  is intractable! Use approx. algorithms to graph partitioning Spectral (quadratic approx.):  confuses  Multi-commodity flow (log(n) approx.):  difficulty with expanders  SDP log(n)):  best in theory Metis (heuristic): common in practice  Bottom line: they all reveal similar NCP 15 
+---------
+Slide 15
+Computing                                  is intractable! Use approx. algorithms to graph partitioning Spectral (quadratic approx.):  confuses  Multi-commodity flow (log(n) approx.):  difficulty with expanders  SDP log(n)):  best in theory Metis (heuristic): common in practice  Bottom line: they all reveal similar NCP 16 What does NCP tell us about the organization of networks? 
+---------
+Slide 16
+Lattices and Dense Random Graphs: 17 d-dimensional lattices California road network 
+---------
+Slide 17
+Collaborations between scientists in networks [Newman, 2005] 18 Community size, log k Conductance, log (k) [Leskovec  
+---------
+Slide 18
+Natural hypothesis about NCP: NCP of real networks slopes downward Slope of the NCP corresponds to the dimensionality of the network  19 
+---------
+Slide 19
+Natural hypothesis about NCP: NCP of real networks slopes downward Slope of the NCP corresponds to the dimensionality of the network  20 What about large real networks? We examined more than 200 large networks 
+---------
+Slide 20
+Typical example: General-Relativity Collaborations (n=4,158, m=13,422) 21 [Leskovec  
+---------
+Slide 21
+22 [Leskovec  
+---------
+Slide 22
+ (k), (score) k, (cluster size) 23 
+---------
+Slide 23
+ (k), (score) k, (cluster size) 24 Better and better clusters Clusters get worse and worse  Best cluster has ~100 nodes 
+---------
+Slide 24
+As clusters grow the number of edges inside grows slower that the number crossing 25 =2/10 = 0.2 Each node has twice as many children =1/7=0.14 =8/20 = 0.4 =64/92 = 0.69 
+---------
+Slide 25
+Empirically we note that best clusters are barely connected to the network 26 NCP plot  Core-periphery structure Whisker 
+---------
+Slide 26
+27 Nothing happens!  Nestedness of the core-periphery structure Vs. 
+---------
+Slide 27
+28 
+---------
+Slide 28
+29 Whiskers are responsible for good communities 
+---------
+Slide 29
+Whiskers are responsible for good communities 30 Denser and denser core of the network 
+---------
+Slide 30
+Whiskers are responsible for good communities Denser and denser core of the network Core contains 60% node and 80% edges 31 
+---------
+Slide 31
+Nested Core-Periphery (jellyfish, octopus) Whiskers are responsible for good communities Denser and denser core of the network Core contains 60% node and 80% edges 32 
+---------
+Slide 32
+33 vs. How do we reconcile these two views? 
+---------
+Slide 33
+34 (1) Take a dataset  (2) Represent it as a graph  (3) Identify communities                        (really, clusters)  (4) Interpret clusters as  communities C A B D E H F G C A B D E H F G work in the same area publish in same journals 
+---------
+Slide 34
+Networks with a an explicit notion of Ground-Truth: Collaborations: Conferences & Journals as proxies for areas  Social Networks: People join to groups, create lists  Information Networks: Users create topic based groups 35 C A B D E H F G C A B D E H F G work in the same area publish in same journals 
+---------
+Slide 35
+36  # of nodes  # of edges  # of ground-truth communities  average community size  memberships per node       Youtube social network For example:  ... subscribe to Lady Gaga videos  
+---------
+Slide 36
+How groups map on the network?     Insights for Better Algorithms How to evaluate and interpret?      37       Ground-truth groups Inferred communities       
+---------
+Slide 37
+Nodes u and v share k groups What is edge prob. P(edge | k) as a func. of k?  38 P(edge | k) = N/A P(edge | k) = decreasing 
+---------
+Slide 38
+Nodes u and v share k groups What is edge prob. P(edge | k) as a func. of k?  39 k P(edge | k) Overlaps are DENSER! 
+---------
+Slide 39
+40 Overlaps are DENSER! 
+---------
+Slide 40
+41 Overlaps are DENSER! 
+---------
+Slide 41
+42 Overlaps are DENSER! 
+---------
+Slide 42
+43 Community-Affiliation Graph Model B(V,C,M,{pc}) Communities, C Nodes , V Memberships, M Provably generates power-law degree distributions and other patterns real-world networks exhibit [Lattanzi, Sivakumar 
+---------
+Slide 43
+44 C A B D E H F G 
+---------
+Slide 44
+45 C A B D E H F G Given a Graph, find the Model 1)Affiliation graph B 2)Number of communities 3)Parameter pi Yes, we can! 
+---------
+Slide 45
+Task:  Given network G(V,E).  Fit B(V, C, M, {pc}) Optimization problem (MLE):  How to solve? Approach: Coordinate ascent (1) Stochastic search over B, while keeping {pc} fixed (2) Optimize {pc}, while keeping B fixed Works well in practice! 46 C A B D E H F G 
+---------
+Slide 46
+Evaluation: How well do inferred group memberships correspond to the ground-truth? F-score: Precision, Recall Mutual Information  - index Algorithms for comparison: Clique Percolation [Palla  Link Clustering  [Ahn  47 C A B D E H F G Fit Communities! Evaluate       
+---------
+Slide 47
+48 Score LiveJ Frster Orkut DBLP Amzn YouTube Flickr Improvement F 0.75 0.78 0.84 0.36 0.54 0.63 0.91 0.69  0.24 0.11 0.20 0.28 1.48 0.02 0.19 0.36 MI 0.01 0.22 0.21 -0.42 -0.23 -0.39 -0.11 -0.10 |C*-C|/C 80.96 107.27 95.00 40.04 6.32 54.13 129.3 73.30 AGM vs. Link Clustering Relative improvement of our method over Link Clustering 
+---------
+Slide 48
+49 1/24/2012 49 Score LiveJ Frster Orkut DBLP Amzn YouTube Flickr Improvement F 0.44 0.44 0.44 0.42 1.76 1.28 0.32 0.73  0.21 0.08 0.1 0.46 6.7 0.17 0.16 1.12 MI 0.07 0.11 0.05 -0.4 0.78 0.29 -0.1 0.12 |C*-C|/C 0.73 0.71 1.1 3.03 0.76 0.63 0.64 1.09 AGM vs. Clique Percolation Relative improvement of our method over Clique Percolation 
+---------
+Slide 49
+50 
+---------
+Slide 50
+51 High-school Workpace Stanford, Basketball Stanford, Squash 
+---------
+Slide 51
+NCP plot is a way to analyze network community structure Our results agree with previous work  on small networks  But we need to examine massive networks to observe the nested core-periphery 52 
+---------
+Slide 52
+Ground-Truth Communities        Empirical insight --- Overlaps are denser  Community-Affiliation Graph Model        Model-based Community Detection Outperforms state-of-the-art: 30% over Link-Clustering 60% over Clique Percolation 2 to 70x better estimation of the number of communities  53 
+---------
+Slide 53
+54 
+---------
+Slide 54
+ 55 
+---------

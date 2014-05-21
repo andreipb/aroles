@@ -1,0 +1,414 @@
+
+
+all right 
+
+because what am i going to do 
+
+im going to come down and say is ans squared less 
+
+than or equal to x 
+
+if it is im going to go around and execute that 
+
+statement check it again and go around and execute that 
+
+so im going to cycle around that loop there enough times to 
+
+get to the answer and that number of times is going to 
+
+
+depend on the input so as i change the input im going to 
+
+change the complexity of the code 
+
+now this happens to be what we would call a linear process 
+
+because the number of times i go around the loop is directly 
+
+related to the size of the argument 
+
+if i double the argument im going to double the number of 
+
+times i go around the loop 
+
+if i increase it by five im going to increase by five the 
+
+number of times i go around the loop 
+
+well see later on there are classes of computation that are 
+
+inherently much more complex 
+
+we hate them because theyre costly but theyre sometimes 
+
+inherently that way 
+
+but you can see the comparison between these two 
+
+ok 
+
+now having done that lets build this code 
+
+yeah if my machine will come back up there we go 
+
+so im going to now go ahead and write a little piece of 
+
+code and i put it here and i hope you can actually see these 
+
+better this time let me uncomment that region 
+
+all right 
+
+so theres basically an encapsulation of 
+
+that code right 
+
+it says what look at this where am i right here ive 
+
+got some value for x initially im going to set ans to  just 
+
+like there and theres my loop theres the test which 
+
+
+is right like that is ans squared less than or equal to 
+
+x if it is theres the block corresponding to the loop 
+
+change ans and eventually when im done with all this thing 
+
+im just going to print ans out 
+
+ok 
+
+all right let me show you one other tool that i want to use 
+
+which is ive written that piece of code 
+
+i ought to check it 
+
+well i could just run it but another useful thing to do is 
+
+im especially as i want to debug these things is 
+
+
+to simulate that code 
+
+and im going to do this because as professor guttag 
+
+noticed to me students seem reluctant to do this 
+
+i guess its not macho enough john to just you know you 
+
+know go off and do things by hand you ought to just run 
+
+them but its a valuable tool to get into so let 
+
+me do that here 
+
+unintelligible 
+
+professor eric im doing such a great job 
+
+ive got to say when my ive got two sons now aged eighteen 
+
+
+and twenty they used to think i had the coolest job in 
+
+the world because i came home covered in chalk 
+
+now they have a different opinion that you can 
+
+probably figure out 
+
+all right 
+
+simulate the code 
+
+what i mean by that is pick a simple set of values and lets 
+
+walk through it to see what happens 
+
+and this is useful because its going to allow me to a make 
+
+sure that ive got something thats going to terminate its 
+
+going to let me make sure that in fact im doing the 
+
+right kinds of updates 
+
+i could do this by the way by running the code and putting 
+
+print statements in various places as well but the hand 
+
+simulation is valuable so let me just start it 
+
+what do i have here 
+
+i need the variable ans i need x and i need ans 
+
+times ans ans times ans 
+
+right 
+
+those are the three things that are involved in this 
+
+computation and i pick something reasonably simple 
+
+
+the ans starts at  
+
+i set up x i think to be  there 
+
+so what does the loop say 
+
+i can either look at my flow chart or i can 
+
+look at the code 
+
+if i look at the flow chart it says im at this point 
+
+look at ans squared 
+
+is it less than or equal to sorry first of all ans 
+
+squared is  is it less than or equal to x yes 
+
+so what do i do 
+
+change ans 
+
+x doesnt change 
+
+back around to the test 
+
+whats ans squared 
+
+
+its  
+
+is it less than or equal to  
+
+sure 
+
+run the loop again 
+
+ans becomes  
+
+x stays  
+
+ans squared is  
+
+is that less than or equal to  
+
+yes 
+
+arent you glad i didnt pick x equals  
+
+all right 
+
+ans goes up by  
+
+ans squared is nine 
+
+still less than or equal to  
+
+ans goes to  
+
+x stays the same 
+
+ squared is  
+
+is  less than or equal to  
+
+yes 
+
+so ans goes to five 
+
+ans squared becomes  
+
+ah 
+
+that is now no longer true here so i print out  
+
+right 
+
+sure 
+
+square root of  is  
+
+its bush economics 
+
+ok 
+
+i know 
+
+im not supposed to make bad jokes like that 
+
+what happened 
+
+yeah 
+
+it doesnt stop at the right place 
+
+professor eric it doesnt stop at 
+
+the right place 
+
+thank you 
+
+exactly 
+
+right 
+
+my bug here is right there 
+
+ah let me find my cursor 
+
+i probably want that 
+
+right 
+
+i want less than rather than less than or equal to 
+
+this is an easy bug to come up with 
+
+
+but imagine if you dont do the test youre going to get 
+
+answers that dont make any sense 
+
+and in fact if we just go ahead and run this now 
+
+hopefully we get out oops sorry im going to have to 
+
+change this quickly i still have some things uncommented at 
+
+the bottom yeah there they are i dont think we need that 
+
+
+yet all right we will comment those out 
+
+ok 
+
+so 
+
+why did i do it 
+
+its a simple example i agree but notice what i just did 
+
+it allowed me to highlight is the code doing the right thing 
+
+i spotted an error here i could have spotted it by 
+
+running it on different test sets and using prints things 
+
+another way of doing it but this idea of at least 
+
+simulating it on simple examples lets you check a 
+
+couple of important questions 
+
+and in fact now let me ask those two questions about 
+
+this piece of code 
+
+first question is for what values of integers were 
+
+going to assume integers but for what values of x does 
+
+this code terminate 
+
+and the second question is for what values of x does it give 
+
+me back the right answer 
+
+all right first question 
+
+what values of x does it terminate 
+
+again assume x is an integer 
+
+well break it down into pieces 
+
+suppose x is positive 
+
+does it terminate 
+
+sure 
+
+all right 
+
+because ans starts out as  so ans squared is  and 
+
+each time through the loop ans is increasing 
+
+
+that means at some point in some finite number of steps 
+
+ans squared has got to get bigger than x if x is positive 
+
+so for positive integers it terminates 
+
+and it probably i think we can deduce returns 
+
+the right answer here 
+
+right 
+
+x is negative 
+
+x is  
+
+does this code terminate 
+
+boy i feel like arnold schwarzenegger 
+
+does this terminate 
+
+somebody 
+
+unintelligible 
+
+professor eric ah thank you so it 
+
+does terminate right 
+
+youre sitting too far back let me try 
+
+oh too far sorry 
+
+come get me one later if you cant find it 
+
+yes it stops at the first step right 
+
+lets look at it 
+
+it says if answer sorry imagine x is  ans is  
+
+is  less than  no 
+
+so what does it do 
+
+it prints out  
+
+ah 
+
+so that now answers my second question it does terminate 
+
+but does it give me the right answer 
+
+no 
+
+right 
+
+it gives me an answer and imagine im using this 
+
+somewhere else you know its going to go off and say gee 
+
+the square root of  is  
+
+well it really should be a you know an imaginary number 
+
+but this is not a valuable thing to have come back 
+
+so thats the second thing ive just highlighted here is that 

@@ -1,0 +1,2935 @@
+thank you very much for coming to listen to me talk i hope 
+
+i'll move 
+
+provide you with a little bit of 
+
+thoughts and food for thought 
+
+thank you for the opportunity to come here and explain to you 
+
+things that i've been working on for the past few years 
+
+this joint work 
+
+is 
+
+technically the basis that 
+
+of my p. h. d. thesis 
+
+this is just a 
+
+leave the foundation of it there's more in the thesis from arizona talk 
+
+but one thing i noticed of this work is that it actually 
+
+provided more questions than answers 
+
+so there's plenty of applications plenty of problems to deal with and i'm hoping that 
+
+and we can 
+
+we can now during this week of my visit here 
+
+we can explore a little bit of 
+
+these applications
+
+ 
+
+so this work was done 
+
+air in conjunction with peter flack natalie operations them at when 
+
+over the past three years and we have a few publications stemming prominent and depending on the stage of research this is the most recent 
+
+so the idea here is that 
+
+fundamentally my research works 
+
+premise that 
+
+when we build a machine learning system 
+
+it's always difficult to try to assess its quality in terms of either performance 
+
+and how we define performance 
+
+and most 
+
+of coming to visit the approach to evaluation altogether that's been followed in machine learning 
+
+and i'm going to point out certain 
+
+missing bits that this research basically 
+
+fills in 
+
+so 
+
+just to give you an overall idea the idea is to bring 
+
+classification scores if you will 
+
+into the r. o. c. space so to wait they are oh see space based on these class membership scores 
+
+and this would allow 
+
+us to extend the r. o. c. to cover problems that are beyond ranking 
+
+and i'll explain what that means 
+
+well will also you also allow us to 
+
+visualize individual scores in a two dimensional plot 
+
+and 
+
+the premise of this with visualization is a combination between the performance of ranking classification and scoring 
+
+and i'll tell you more 
+
+details about what scoring means 
+
+so to begin with that 
+
+i'll actually examine the information available 
+
+from the learning task 
+
+to the 
+
+performance assessment 
+
+process so 
+
+what i want to do first is that um a defiant axis of 
+
+information content so this is information that 
+
+you you basically build 
+
+machine learning 
+
+model 
+
+and you tested 
+
+you train it then you tested are validated or do whatever you want with it 
+
+but the 
+
+performance assessment is always limited by what 
+
+the model tells you 
+
+so in the case of 
+
+classification
+
+ 
+
+the model only provide you with decisions 
+
+usually they're binary decisions in binary classification problems 
+
+it's true or false positive or negative 
+
+you also have a more 
+
+convoluted notion of classification aboard no classification where you have 
+
+classes that subsume each other 
+
+something like 
+
+high risk medium risk 
+
+moderate or moderate risk 
+
+and then low risk 
+
+which means that if you get 
+
+of some sort of a decision in the high risk and then you already know it's greater than the other two classes and that's what i mean by ordinary classes 
+
+but nonetheless 
+
+the decision outcome of this model is a classification 
+
+it's basically 
+
+yes or no to membership in a particular class
+
+ 
+
+and you can add more complexity to it and ask for ranking ranking is basically determining in order on instances 
+
+somewhere between lies the boundary between 
+
+the class the positive class that you're interested in and 
+
+the negative class and the negative class can be collection of classes 
+
+so 
+
+these are the traditional 
+
+classifiers that we've been working on 
+
+there is one 
+
+and complex very complex it's um 
+
+totally on the other end 
+
+um type of learning where 
+
+you no longer get a decision 
+
+you only get up 
+
+probability estimation of class membership so for each data point you get some sort of a probability 
+
+of of belonging to particular class 
+
+and on that end of the spectrum 
+
+there's plenty of statistical methods that actually 
+
+can assess the quality of these probabilities and how well they map 
+
+into the domain 
+
+classes 
+
+the problem over there is that most of the methods that 
+
+apply statistical analysis to it 
+
+they either make assumptions 
+
+or they're very restrictive in terms of what it is you 
+
+you can or cannot 
+
+do in terms of prefer 
+
+performance assessment 
+
+and when i'm actually trying to do is that 
+
+i'm trying 
+
+to take concepts that are used 
+
+in the context of probability estimation 
+
+and watered and down a little bit to see what i can do with 
+
+scores in general 
+
+scores that i'm looking at 
+
+our scores that for some reason 
+
+they did not make it into probability
+
+ 
+
+and it's very well known that sometimes you have a probabilistic 
+
+model that produces probabilities 
+
+but they're not really a good estimate of 
+
+probabilities they're very poor in the perfect example would be naive base class fired a base class fire is a very good class 
+
+class fire 
+
+on the classification and of things right 
+
+but discord that it 
+
+produces 
+
+are very poorly estimated 
+
+and the easiest way to check these things it's a check the calibration of these course it's always poor
+
+ 
+
+or as the year 
+
+nine based estimates them but 
+
+if you take something like a probability estimating trees 
+
+probability estimating trees are decision trees that are unproven and schools 
+
+those produce very good 
+
+probability scores because what they actually do 
+
+is in this mood discord 
+
+it's across the distribution 
+
+and therefore 
+
+they match what's called the convex hull of d. r. o. c. and they give you 
+
+calibrate its course 
+
+and their view to be well behave 
+
+probabilities 
+
+but unfortunately they're not good for classification
+
+ 
+
+there's plenty research there and i'm actually 
+
+exploiting that fact in my experiments 
+
+to show that i can actually do something interesting in the middle 
+
+in the middle what do we do 
+
+the problem the current state of affairs in terms of supervised learning is that when you have a scoring crossfire whether be probabilities are not really doesn't matter you have scores and based on those course you need to 
+
+make a decision whether a given data point belongs to a given class or not 
+
+and what traditionally happens is that 
+
+most people impose a classification threshold 
+
+to determine what the decision is 
+
+now that problem 
+
+that approach 
+
+reduces the problem 
+
+two ranking 
+
+and what happens is that 
+
+i claim that you're actually missing some information
+
+ 
+
+and the perfect example to illustrate that would be 
+
+consider a threshold value of zero point five 
+
+and then you have to positive examples 
+
+one makes it at fifty two 
+
+the other one makes it at ninety nine 
+
+interviewer banking our class pick eight in the view of classification you cannot possibly tell the difference between these two points 
+
+they're equally positive they're both above the threshold and you know no further information 
+
+so when you go to the 
+
+for miz assessment 
+
+tables look the same 
+
+you cannot distinguish between them 
+
+whereas 
+
+if you look at the ranking
+
+ 
+
+all you know is that one comes before the other 
+
+but how far above and how 
+
+how close to with you really don't know because you don't have the marginal 
+
+distance between these two ranks 
+
+yes 
+
+oh really 
+
+the ones they swoop you are right 
+
+the 
+
+scoring is a big 
+
+more than ranking 
+
+he sees ranking is just an order 
+
+oh yeah right 
+
+would exactly so 
+
+once yes once you have 
+
+once you have a score 
+
+you can easily determine a rank 
+
+you just sort them 
+
+and go from there 
+
+but this course tell you slightly more than just a rank 
+
+they may tell you about gaps in between 
+
+so the perfect example would be search engines 
+
+when you're looking for relevant documents right 
+
+you may be interested in the fact that 
+
+maybe the top ten are separated by maybe 
+
+one percent but then there's a gap of ten percent of the next guy 
+
+it would be natural to make that cut off there 
+
+so that you can distinguish between 
+
+clusters of relevant documents things that are more relevant than the others 
+
+was ranking you don't know that all you know is the order from the top 
+
+and that's why some people would
+
+ 
+
+impose 
+
+the top end 
+
+options right 
+
+scoring actually tells you that much more information at a higher resolution 
+
+and that's why i'm trying to exploit that in the 
+
+performance assessment 
+
+so what are the motivation 
+
+the idea here is that 
+
+i will now so 
+
+one way of viewing be scores is that 
+
+big be classify or provide escort to tell you how confident it is in its prediction for a given
+-----
+ 
+
+data point 
+
+so the b. point that was classified as as positive at ninety nine percent 
+
+is far more confident there's more confidence in it 
+
+then the one at fifty two percent 
+
+although both of them made above this threshold 
+
+and i am using zero point five as an example here 
+
+which is the natural cutoff for calibrated scores right 
+
+if they're not calibrated it's totally different story 
+
+but the idea here is that 
+
+the class fire is telling me two things it's telling me what the decision is and it's given me some sort of a
+
+ 
+
+value of confidence right 
+
+in the traditional r. o. c. curve 
+
+this confidence is thrown away 
+
+it's only used to determine a ranking 
+
+and then it's ignored completely 
+
+so my aim here is to take that magnitude and bring it back 
+
+into the r. o. c. 
+
+now you could easily argue 
+
+at p. r. o. c. curves were developed 
+
+ignored this particular aspect of scoring 
+
+because they were designed to 
+
+convey the performance of ranking 
+
+that is very true 
+
+but it's also plus for me if you look at it the other way i'm interested in this course 
+
+while preserving 
+
+the performance of ranking 
+
+so i can combine them together 
+
+what does that allow me to do well it now allows me
+
+ 
+
+to visualize the margins of these course i can now compare visually 
+
+the differences of discourse 
+
+i could look for gaps 
+
+i look i could look for a change in behavior somewhere in the data points 
+
+and now if i may 
+
+approach the same problem but from the other end 
+
+i'm no longer maybe 
+
+i'm not interested in the model itself 
+
+you see traditionally performance assessment 
+
+is used to answer one common question is that 
+
+which of the models is the best performing models so it's a model selection problem right 
+
+imagine you have a good model that say we're not criticising the model here but what we're trying to ask is 
+
+how good are the data points 
+
+if i have data points that rank 
+
+close to each other 
+
+how do i know that they're close to each other 
+
+because they are indeed close to each other or because i have been observed anything between them 
+
+and that relates to the method of sampling the data how do you collect your samples do you really have 
+
+is your data 
+
+representative 
+
+of the space between these two points right 
+
+so in a sense that i'm now comparing the data points not the models themselves or maybe as well as the models and 
+
+so 
+
+what i'm trying to say here is that i'm dealing with scores there are 
+
+loosely defined 
+
+they're not as stringent and restrictive as probabilities because i'm trying to loosen up some assumptions here right
+
+ 
+
+the models produce course 
+
+in fact if you take quicker 
+
+and you run it 
+
+it's by default 
+
+the score is called 
+
+class a class membership probabilities 
+
+although i can it 
+
+point out to how 
+
+dozen models that are 
+
+member were never designed 
+
+to produce probabilities 
+
+but they call them probabilities anyways there pork roast 
+
+probabilities 
+
+so now i'm trying to address the poor probability estimation by using these scores 
+
+application to this 
+
+the first one that he that is very intuitive is user preferences especially when it involves two types 
+
+i would come when you have a binary decision 
+
+and a score that goes along with it 
+
+or maybe assessing the redlands a beer 
+
+relevance 
+
+of retrieved documents or 
+
+retrieve results of a query in a search engine 
+
+and also cory cortes at i. c. m. l.
+
+ 
+
+ah oh seven 
+
+i met up with her 
+
+and she had an interesting learning problem 
+
+she had a learning problem where 
+
+the outcome of the learning was no longer the decision but the order 
+
+she wanted to learn 
+
+the distance between points in a given data 
+
+not particularly the decision so she wanted 
+
+that you give this bottle a particular data said 
+
+and he would produce exactly 
+
+similar ordering 
+
+to the training set 
+
+and in this case she had trouble 
+
+evaluating it because we didn't have anything that is sensitive to the gaps or distances between points 
+
+and this was actually the perfect application port 
+
+um another saying also i'd like to 
+
+somehow look backwards and the research we've been doing in machine learning 
+
+it's been very well documented that probability estimating trees are be 
+
+be the best 
+
+probability estimating models that we have because they produce calibrated probabilities 
+
+decision trees on the other 
+
+and are very poor at estimating probabilities because they're pruned inmate 
+
+and they give you the very 
+
+what's called the refined 
+
+they give you close to zero close to one and nothing in between 
+
+nine a base is very well known to be ineffective class fire but a very poor probability estimate or
+
+ 
+
+this work has been done over the past ten years 
+
+by hand labour 
+
+everybody had to 
+
+they noticed this problem with these three models and they experimented with each one of them and there's happen doesn't documents 
+
+the papers 
+
+illustrating this problem 
+
+funny thing is that if this too was available all you have to do is one one experiment on the three of them
+
+ 
+
+he would have been able to visually see it right there and we'll see that in my a 
+
+results 
+
+the other thing also i i could apply this too is gene expression levels where given 
+
+and gene could be 
+
+could be up regulated or down regulated at a particular intensity of expression 
+
+basically this method requires that you have a binary decision 
+
+and you have the continuous 
+
+value score along with it and the question is 
+
+do these to agree 
+
+or not 
+
+and that's what i try to convey 
+
+so here's a 
+
+simple example 
+
+right so my niece and nephew 
+
+decided to play with me 
+
+right they got bored of me working all the time so i decided to give them something interesting to play with 
+
+i gave him a collection of movies 
+
+movies they like 
+
+and i asked them 
+
+two questions number one do you recommend that i watched this movie 
+
+yes or no 
+
+and it's so tell me 
+
+how well on it so but 
+
+tell me how much you like it on a scale 
+
+from zero to ten 
+
+ten being 
+
+i like it very much zero i dislike 
+
+and the funny thing with this problem is that 
+
+she might 
+
+just as an example she might give me 
+
+a particular movie and says 
+
+don't watch it 
+
+but i'll give it a sixty percent score i like it 
+
+right so the fact that she 
+
+she made a negative recommendation 
+
+may not necessarily correspond to the fact that she liked it or not you may have a reason right
+
+ 
+
+on the other hand 
+
+he comes in and he says watch this movie but i really don't like it 
+
+now my question is that do they agree or disagree 
+
+if we take their decisions alone 
+
+forget about the scores 
+
+we see that 
+
+they disagree 
+
+and the same thing but in an opposite direction 
+
+will say that she gave 
+
+the same movie ah ha 
+
+higher scored than he did 
+
+he gave it maybe a fifty two instead of sixty 
+
+and 
+
+the question here 
+
+is that do they really disagree 
+
+my claim is that no they don't disagree 
+
+they in fact they do agree 
+
+in the fact that they say 
+
+the movie is not really the greatest movie 
+
+but maybe you should watch it 
+
+or maybe shouldn't watch 
+
+so there is some sort of hesitation 
+
+that may be captured in the combination of 
+
+the score and the decision 
+
+but not necessarily would 
+
+each of them individually 
+
+so in this case 
+
+i go to analyse get her decision 
+
+recommend which is a positive or negative recommendation 
+
+and the particular score of how well she likes particular movie and the situation i was describing is instance three in four
+
+ 
+
+and then i thought 
+
+a curve 
+
+for what she says and then i thought occur for what he says and then i compared the two curves to see 
+
+whether they're close to each other or not 
+
+in the r. o. c. space 
+
+that picture does not arrive here at all 
+
+in fact that picture would look almost identical for both of them if they were someone 
+
+in agreement right will say that they are
+
+ 
+
+you will tell gaps in between 
+
+so let's take 
+
+one 
+
+preference person 
+
+we have two positives followed by and negative 
+
+then a positive m. and 
+
+with two negatives 
+
+and the r. o. c. space a positive is always indicated by a vertical line segment quite so 
+
+you can look at it from the top rank 
+
+to the bottom rank 
+
+a sequence of instances a long they are a seeker 
+
+the first two are positive so they're very vertical 
+
+then followed by a negative 
+
+and then a positive and then two negatives 
+
+that's the way how you plot a narrow seeker 
+
+the funny thing in the r. o. c.s that 
+
+because you have this negative 
+
+and this positive 
+
+you really don't know much so you can add 
+
+the diagonal line 
+
+at the zero point five 
+
+boundary because 
+
+they're equal there's one negative 
+
+followed by one positive 
+
+so this shows you just the brakes right 
+
+funny thing is that 
+
+i can no longer tell the difference between one and two 
+
+as far as they are oh see curve is concerned
+-----
+ 
+
+if i were to swap 
+
+these two instances in in different rank 
+
+they would still look the same 
+
+because i don't have the score 
+
+i don't know what that score looks like 
+
+even worse 
+
+somewhere here where i conclude is zero point five slope of i don't know all 
+
+assumes that this is zero point five senses their point five 
+
+they're of equal weight 
+
+but if we look at them 
+
+they actually have different scores 
+
+the scores are telling you something different about these two instances are these two instances 
+
+then the r. o. c. does 
+
+so this is what i call missing information from the ranking problem 
+
+the ranking problem only tells you the order of how they come 
+
+but that doesn't tell you but distances in between right 
+
+and it turns out that apparently and i was more
+
+ 
+
+confident 
+
+in that negative been a positive 
+
+then the following positive 
+
+she gave it a sixty percent 
+
+score 
+
+now we come to this mode r. o. c. 
+
+you'll notice that this 
+
+first positive is not ready at one so it's actually tilted little bit of the graph is not really that sensitive 
+
+but the following one at seventy percent 
+
+now it's tilted low more 
+
+and the idea here is that i actually take the score
+
+ 
+
+and i wait 
+
+the slope 
+
+of be associated 
+
+line segment 
+
+to the value of the score 
+
+that way you can step back and look at the curb and all of a sudden you realise ah ha 
+
+i can distinguish between different points 
+
+and the dataset and where they sit 
+
+so this turns out to be 
+
+nowhere nearly as positive as the score actually tells you so 
+
+in the east good r. o. c. space 
+
+vertical is very positive 
+
+hers onto is very negative 
+
+and anywhere in between is the value of 
+
+this core however 
+
+there's a particular problem with when you have 
+
+miss ranks 
+
+miss ranks need to be corrected because 
+
+the whole idea of performance assessment is that you have a ground truth in the form of the label 
+
+and then you have the scored that comes along with it 
+
+and negative example like instance number three 
+
+we know it's a negative example 
+
+because the label is a ground truth 
+
+now i'm going back into be supervised learning notion where you have a label anyone 
+
+you wanna believe it 
+
+and you're trying to measure how good that score against it 
+
+we realise that 
+
+at sixty percent 
+
+positive class membership 
+
+does not correspond to a negative label 
+
+that's actually an air right 
+
+but where is the air of it 
+
+is it 
+
+complete bad decisions because that's what happens here 
+
+this scored as a false positive
+
+ 
+
+it said that the model gave you a false positive on this particular instance 
+
+it's not necessarily true because there's forty percent of that score 
+
+that is also negative 
+
+so the error happened on sixty percent of the full one 
+
+of the score 
+
+not 
+
+as bad as the r. o. c. would actually say 
+
+and this is what happens here 
+
+is that 
+
+the tilt 
+
+of the 
+
+of the line segment 
+
+is the inverse of that score which is one minus to sixty percent 
+
+by forty percent
+
+ 
+
+so it's forty percent up and sixty percent down that's why it appears to be 
+
+more horizontal than is vertical 
+
+right so you have to swap the two because you comparing to the ground truth 
+
+now the beauty of of this method here 
+
+now i can compare the two of them together 
+
+and it becomes totally subjective since um looking at things from 
+
+and evaluation perspective now from a model selection or 
+
+model development 
+
+a perspective 
+
+i can take any binary decision
+
+ 
+
+and any score 
+
+and boom 
+
+i have a curve for right 
+
+now if i have multiple users 
+
+so let's say 
+
+i have more people that are recommending these movies all i have to do 
+
+is throw up on the graph a whole bunch of curves right 
+
+and then 
+
+determine the set of instances the set of movies that they all agree on 
+
+based on that 
+
+plot and come back and say i have a clean set where they in great 
+
+or maybe i will allow ten percent tolerance differences between
+
+ 
+
+or whatever i i want to do i can now select 
+
+different subsets of instances 
+
+a given models agree 
+
+so 
+
+now that the under the hood the actual muttered itself 
+
+to simplify things let's let's go back to be 
+
+problem of overlapping normal distribution 
+
+now the first thing i need to 
+
+emphasize here is that i have a set up 
+
+positives and negatives that overlap 
+
+if they do not overlap in their separate bowl 
+
+and then i can go home there's no need to do anything here 
+
+the question is what 
+
+happens when you have 
+
+errors when you have issues in between 
+
+so what i'm trying to define here 
+
+the letters l. n. 
+
+h. refer to particular score 
+
+whether with the score is high 
+
+or low how do we decide high and low is by that green line in the middle somewhere
+
+ 
+
+right and i say somewhere just because in the picture everything is balanced license 
+
+and they intersect at a given point let's assume we can find that boundary 
+
+based on that boundary 
+
+everything to that 
+
+to your right about boundary 
+
+will be high score 
+
+everything to the left about boundary is a low score right 
+
+however 
+
+because the two distributions overlap 
+
+we have a subset of the positives there are 
+
+sitting on this side of the boundary 
+
+and we have a subset of the negatives that said 
+
+on that side of the boundary 
+
+and those in a sense are false positives 
+
+and those are false negatives 
+
+the question here is that 
+
+we want to reason 
+
+within 
+
+these scores 
+
+and these decisions 
+
+the label is the ground truth but it doesn't necessarily have to be as i learned 
+
+last couple of days 
+
+so i will define the set of high scores 
+
+assigned to positive labels and the set of low scores assigned to negative 
+
+um instances 
+
+to be what's called appropriate scores 
+
+there's a good scores 
+
+because apparently the score 
+
+and the label agree 
+
+because that's what we want we want 
+
+positives to have higher scores the negatives right 
+
+and that's the magnitude that i'll use as the score assigned to these 
+
+another said 
+
+which is the complementary said the an appropriate score
+
+ 
+
+is when you have 
+
+and negative example 
+
+it has a high score or positive example that has a low score 
+
+and these i will consider as inappropriate score 
+
+and when i go to actually deal with them 
+
+i will take the inverse of 
+
+their value and this is the scoring value that i'll use 
+
+to plot 
+
+so this is the weighing racial now
+
+ 
+
+in the context of 
+
+of some of your work here 
+
+i 
+
+i came up with this interesting now 
+
+classifiers that would detect outliers 
+
+and it turns out 
+
+if you have an outlier 
+
+in the red or blue zones 
+
+right that's what's called a 
+
+a trivial outlier 
+
+i would considered as an air 
+
+for example 
+
+but if you have something in the middle 
+
+that's a more difficult point 
+
+so 
+
+take this graph and traverse it 
+
+cars amply 
+
+and i think 
+
+of the top two sets as the set of trivial example
+-----
+ 
+
+those are the easy positives in the easy negatives 
+
+because they have high scores and low scores 
+
+if the model 
+
+makes any miss classifications there 
+
+i think it should be penalised very heavily 
+
+because those are obvious point that should be 
+
+it's it's no brainer 
+
+you should be able to get them 
+
+but somewhere in the middle lies the complexity of this 
+
+problem in this domain when you have the overlap those are the points they're interesting right 
+
+now what happens if the model actually cause 
+
+classifies correctly in the middle 
+
+it should be given 
+
+bonus points 
+
+because it's actually doing well it's fixing some of the problems in the domain 
+
+because those are difficult points to deal with right 
+
+so what i actually would propose in the context of beer 
+
+a of detecting outliers 
+
+is that outliers lie in the middle 
+
+that's where the problems will happen you either have a wrong label or wrong score 
+
+somewhere between right
+
+ 
+
+the fact that so 
+
+errors in in doing when you apply a particular 
+
+algorithm to it 
+
+will stem from two problems 
+
+either you have the right score but you somehow 
+
+had a threshold value that somehow caused a miss classification 
+
+or you have a good classifications a threshold 
+
+but you have a wrong score 
+
+assigned above or below on the opposite side of the label 
+
+and that's where most of the air sly in there 
+
+so 
+
+mechanics of it 
+
+i start with one continue stable based on this mean
+
+ 
+
+point so i do write that midpoint the vertical law 
+
+and i look at the scores only first 
+
+and these scores 
+
+will divide into pretty much 
+
+four sets 
+
+high scores that are assigned 
+
+a positive 
+
+positive labels or the other way around 
+
+positive instances that are assigned high scores 
+
+and negative instances that are assigned 
+
+low scores 
+
+those are good scores those are 
+
+appropriate scores 
+
+whereas positive sir assigned 
+
+low scores 
+
+or negatives that are assigned high scores those are 
+
+inappropriate 
+
+and for each of the two d. yes or no no 
+
+i will build a contingency table separately 
+
+i will deal would be too 
+
+sets differently 
+
+and it's just the inverse of the other right
+
+ 
+
+i look in the correctness of them when you have 
+
+hi positive 
+
+low negative 
+
+they're correct when you have yes or no predicted yes or no 
+
+and the very end of course 
+
+a of the testing cycle 
+
+or if it's out 
+
+hi positive and predicted as a no 
+
+low positive and negative 
+
+and predicted as a yes 
+
+i get this right 
+
+and of course you do the inverse of that 
+
+so looking come that accuracy can actually visualize right 
+
+so 
+
+let's forget about the normalization right in the r. o. c. space you normalise by the number positives on the vertical axes and the number negatives on me
+
+ 
+
+horizontal axes 
+
+um let's ignore d. 
+
+normalization because it's a bit 
+
+convoluted here but i'll come back to it 
+
+let's look at the score itself 
+
+so if i have a positive instance and it has an appropriate score 
+
+that means s. i. is bigger than 
+
+one minus s. i. 
+
+that's why the vertical rise is bigger 
+
+then it is 
+
+running on the horizontal axis right 
+
+the same thing happens with the negative instance 
+
+that has an appropriate score
+
+ 
+
+it has a smaller score 
+
+then one minus that score 
+
+right so visually 
+
+i can no 
+
+plot these two 
+
+the inverse of that 
+
+happens to the inappropriate score 
+
+i have a positive instance that i know has an a 
+
+inappropriate score 
+
+so i use the one minus 
+
+s. i. 
+
+as a vertical climb 
+
+and run by s. i. m. f. and the inverse of that further negative instance 
+
+is this clear this is basically be the hardest bit of it 
+
+up until you see the equation that 
+
+right so the reason i have all of this not in there is just a two 
+
+summarise everything in terms of a formula 
+
+these 
+
+building a system like this takes no more than ten minutes 
+
+i just read it yesterday because i have platform issues i'd 
+
+rewrote it completely it's basically these 
+
+four or five formulas any 
+
+determining the mid 
+
+point that's the vertical line i'll come back to this little later because that's that's actually a big issue 
+
+be vertical climb which is the true positive rate or dismiss true positive rate 
+
+basically you take the appropriate score assignment
+
+ 
+
+divided by some sort of a normalizing factor 
+
+and the same thing for the false positive rate 
+
+it's the inverse of that which is 
+
+coated in the function itself 
+
+by a horizontal normalization 
+
+now the normalization factor i know it looks big and ugly year 
+
+but think about it 
+
+for appropriate scores 
+
+going up 
+
+the contribution happens from 
+
+p. s. i. 
+
+for positives 
+
+and the one minus s. i. 
+
+for the negatives 
+
+right back in the previous life 
+
+so
+
+ 
+
+for the appropriate ones 
+
+this is the vertical cut contribution 
+
+the horizontal contribution is this right 
+
+so now you see 
+
+regardless whether it's positive or negative 
+
+they all made 
+
+vertical contribution 
+
+some bigger than others 
+
+and they all make cars on told is a contribution 
+
+so the curve always goes up 
+
+and goes over 
+
+and this what allows me to determine that slope 
+
+based on how positive it is 
+
+right this is a major distinction between the smooth r. o. c.
+
+ 
+
+and the regular r. o. c. because food regular r. o. c. 
+
+only positives go up 
+
+and only negatives from down 
+
+so if you look at it 
+
+there's the set of a 
+
+positives that have high scores the set of negatives that have those course the set of 
+
+positive that have low scores the set of negatives that have high scores right 
+
+and basically it's as high for these one minus s. i. for those 
+
+big immersive that happens on the horizontal 
+
+so you just tally those 
+
+and that will give you 
+
+be normalization factor required
+
+ 
+
+why is it required is to keep 
+
+the two dimensional picture 
+
+any unit square 
+
+right because you wanted from zero to one zero to one 
+
+you could get rid of that and i do believe 
+
+the reason equivalent graph for it done by peter flock an eight 
+
+called it's called the n. p. 
+
+instead of normalizing between zero and one 
+
+you simply visualize 
+
+be true positive rate and the false positive rate over the number of positives and the negatives three just for each one you go one step up and you don't normalise right 
+
+but then it becomes a rectangle not 
+
+a square it's only square if and only if you have the same number of positives and negatives you can do the same thing here and simplify all of this and get rid of it if you want right
+-----
+ 
+
+now we come to the area under the 
+
+smooth a row seeker 
+
+if i 
+
+just quickly 
+
+restate 
+
+the definition of the e. u. c. 
+
+the area under the standard r. o. c. curve 
+
+shows you the separation between the two classes and it's defined as the probability of 
+
+a brand them 
+
+positive point 
+
+and see how many mentors 
+
+are below it 
+
+so it shows you the probability
+
+ 
+
+of randomly 
+
+selected 
+
+positive example 
+
+been ranked higher 
+
+then a randomly selected negatives 
+
+so what does that mean 
+
+in english and natural language what does it mean when you have twenty calculate the area under the r. o. seeker 
+
+basically shows you 
+
+how the positives are separated from the negatives 
+
+right it gives you a probability of this particular model in the along this curve 
+
+to separate 
+
+positives from the negatives 
+
+why because a long be 
+
+y. axes 
+
+you have contributions from only the positives
+
+ 
+
+along the b. 
+
+x. axes you have contributions only from the negatives 
+
+so the area in between is the separation between the two 
+
+here we have a different problem 
+
+we actually have contribution from positives and negatives here 
+
+and positives and negatives here 
+
+so then you ask wait a minute 
+
+then how do you interpret 
+
+this area under the curve 
+
+well if you remember 
+
+the vertical rise of every instance was how positive that particular instance was according to its label 
+
+this was an appropriate score 
+
+whereas this was inappropriate score 
+
+so basically the separation between the two 
+
+shows you how well the model separates 
+
+good good scores 
+
+from the bat scores 
+
+whether be positive or negative cares 
+
+in essence 
+
+i actually can compare now 
+
+any point to any point in the dataset 
+
+based on its core 
+
+and that is a major distinction between the two which leads me to 
+
+interpret this naturally in and 
+
+reverse order 
+
+is that imagine you have a model 
+
+and you build this curve 
+
+and you get the area under distant under the smooth are a seeker
+
+ 
+
+and you go back 
+
+and he say what does it mean 
+
+actually means 
+
+how you take a model 
+
+and you hope you assume that the model is okay 
+
+and you go back and sample your data 
+
+according to the model 
+
+you're biasing the model because you're taking this course and you're saying 
+
+i'll fix east course 
+
+i'll take these labels 
+
+and see how well they agreed 
+
+so you're sampling the data
+
+ 
+
+based on how good the model is 
+
+which also 
+
+brings an interesting 
+
+weakness of this 
+
+a approach 
+
+you could call it the weakness i don't think it's a weakness i think it's just irrelevant 
+
+is the fact that if you have a perfect 
+
+class a fire 
+
+this model will collapse 
+
+because i will have no 
+
+intersection in between 
+
+if i have a perfect 
+
+clean division between the two 
+
+i have nothing to separate 
+
+the whole visuals graph that i'm actually plotting is the separation between 
+
+the appropriate ones the ones on the top 
+
+and this overlap in the middle 
+
+and that's why 
+
+imagine if you're trying to do um outlier detection 
+
+in a domain where there are no outliers 
+
+you basically get results 
+
+on the other hand you could also inverse the same situation by having 
+
+a system that only gives you outliers 
+
+absolutely no 
+
+good points 
+
+and the same thing that if i have something that is totally random 
+
+that is no good 
+
+then this will collapse again 
+
+so either boundary is a problem i need something good
+
+ 
+
+to to work with and something bad to assess 
+
+so the experiment 
+
+for the experiments 
+
+i wanted to show 
+
+that 
+
+this method will detect 
+
+similarities when similarities are present 
+
+and will also measured differences 
+
+when differences are present 
+
+and i wanted to compare it to the standard r. o. c. to show that i actually have again 
+
+over the r. o. c. there is that 
+
+extra information that i capture from this course 
+
+so the first task was how do i
+
+ 
+
+produced similarities 
+
+and how do i make 
+
+cup these differences 
+
+so one approach would be to use synthetic data generators right 
+
+this experiment i didn't 
+
+i don't have it here but it's a little pieces i did that 
+
+for something else 
+
+i wanted to keep this natural so i went and i got a whole bunch dataset 
+
+and then i came back and i thought wait a minute 
+
+similarities 
+
+you can actually produce similarities 
+
+if you apply this same model 
+
+and different subsets 
+
+of the domain 
+
+assuming that the data comes from the same domain 
+
+you get some samples 
+
+of it apply the same model to it 
+
+in some random variations you should get the same answer 
+
+it should be similar so if i build a decision tree on a model 
+
+on a on a data set a subset from a given domain 
+
+i build a decision tree and then i build a second one 
+
+from a different subset from the same domain 
+
+given that the domain hasn't changed 
+
+these two should keep me pretty much the same performance 
+
+right and that's what similarity is 
+
+so if i take a really huge dataset 
+
+stop sample forty percent of it
+
+ 
+
+train and test 
+
+and do it again and do it again and do it again and do it again 
+
+the assumption here is that these models 
+
+eventually will look similar 
+
+right they have to look similar 
+
+otherwise nothing will will be good 
+
+the same thing if i took 
+
+fundamentally two different algorithms that are known to be different 
+
+apply them to the same dataset 
+
+i should see these differences 
+
+now given that i have these differences all see how they pan out 
+
+performance assessment 
+
+so i took twenty dated twenty six you see i dataset 
+
+from the machine learning repository 
+
+and i used to models 
+
+i used a probability estimate increase and i use nine base the reason i use these two is that 
+
+they're so different from each other 
+
+they're both class fires 
+
+they both produce what so called probabilities one 
+
+is known to produce poor probabilities that are not calibrated 
+
+the other one is known to produce very calibrated probabilities right 
+
+and i use them to determine similarities and differences now when it comes to similarities i'm not using both of them together 
+
+i leave one aside 
+
+i use the same model 
+
+or a whole bunch of runs on each of the data sets 
+
+and then i see how close
+
+ 
+
+curves are if 
+
+when i compare the two to each other 
+
+exactly the same run but it 
+
+they're two different models and i should have differences 
+
+i did this in using ten fold cross validation repeated ten times just 
+
+to make sure i get all of the averages 
+
+and then i yeah 
+
+i basically took the approach is that the same learning 
+
+model applied to the same 
+
+data drawn from the domain 
+
+should produce similarities whereas different models applied to the same dataset 
+
+should produce 
+
+differences right 
+
+and i recorded 
+
+the area under 
+
+both of the curves 
+
+the problem is that here you can imagine repeated experiments each of them is a curve into two dimensional space it's very difficult to sit down and try to 
+
+compare each one of them that would have made the thesis the space 
+
+i would say 
+
+so one way summarizing the whole curve is to take the area under it 
+
+so i took the area under the r. o. c. curve and i took the area under 
+
+the smooth r. o. c. curve and i compared them
+
+ 
+
+and the thesis i had actually have examples where the curves are available 
+
+so here's what i have 
+
+similarities 
+
+so taking 
+
+probability estimating treat 
+
+and i apply it to all of these data sets 
+
+and i record 
+
+the standard deviations of the area under the curve 
+
+and the standard deviation and the average of that area under the curve 
+
+the blue collar is the standard r. o. c. 
+
+and the red colour is 
+
+this move r. o. c. 
+
+the one that we came up with
+-----
+ 
+
+the first observation i have is that 
+
+as the standard deviation increases across the dataset for one given model 
+
+be smooth our o. c. gives 
+
+less deviation than the standard 
+
+this does make sense if you think about it because 
+
+a given point 
+
+is determined to be above or below this 
+
+threshold in the standard r. o. c. 
+
+irrelevant of its distance 
+
+so if you repeat the experiment and this point shows up sometimes here sometimes there sometimes here 
+
+the r. o. c. 
+
+is crude is too rigid 
+
+so in generates higher standard deviation 
+
+in the area 
+
+then this move because the schools is more close to each other chances are 
+
+that line associated with a given point did not really move too much 
+
+it's close each other and we see that 
+
+even the area under the curve itself 
+
+is also less 
+
+then that is 
+
+in the standard r. o. c. 
+
+and you ask why 
+
+i would bring you back to very interesting notion here 
+
+just visually speaking look at the blue curve and look at the red one 
+
+wouldn't you say that the red one is some sort of smoothing 
+
+of the blue one 
+
+i think it's no there because it's taking all of those hard turns 
+
+out of a and making them into some sort of slope 
+
+so 
+
+that is an expected piece a result and in fact eight 
+
+it shows that our assumption of similarity 
+
+actually is captured much better in this mood 
+
+r. o. c. curve
+
+ 
+
+then a dozen the standard our seeker 
+
+basically the standard are we see curve would give you 
+
+differences between models 
+
+that are not necessarily in the model themselves is just due to plotting 
+
+problems and this again 
+
+if you want to interpret it 
+
+it's the problem with ranking 
+
+if you're using ranking you have no distances between points 
+
+but if you scoring 
+
+you consider this course you have distanced 
+
+so i have another experiment with ninety base alone but i didn't have it here because i had less time to talk
+
+ 
+
+but if i have exactly the same results from nine face alone so i 
+
+did them separately 
+
+but when i put them together 
+
+oh i have it here 
+
+other go to price price 
+
+um again exactly the same thing the standard deviation in this mood r. o. c. space is a lot less 
+
+with two exceptions here that the area under the curve 
+
+in this mode r. o. c. 
+
+is actually higher for 
+
+two data sets you see where the curve the red curve goes above 
+
+the blue curve in the bottom graph
+
+ 
+
+now you step back and you ask the question why 
+
+can you guess 
+
+smoothing the other way but is that really smoothing 
+
+so in statistics that actually mean something 
+
+it's the concept of having a calibrated system been refined 
+
+and what does that mean 
+
+in statistics they assumed calibration 
+
+examine refinement 
+
+the idea of refinement is that when you estimate probabilities to 
+
+data points 
+
+positives and negatives you want them to be 
+
+the positives clustered higher towards someone
+
+ 
+
+and the negatives towards zero 
+
+so if you have that kind of separation 
+
+that's called a refined system 
+
+and in these two dataset if you look at the curves i don't have them here but i can show them to you if you want 
+
+this system is actually very refined 
+
+so it turns out that it has a vertical rise followed by and hires until run 
+
+with which is this moving the other way 
+
+and that's nineteen based nineteen based does that very frequently because in kids
+
+ 
+
+higher 
+
+scores 
+
+to the positive stand in does to the negatives that's why it's an effective class of fire 
+
+you drive zero point five and guess what you'll have very nice classification results 
+
+however 
+
+these scores are not necessarily as good they're actually smoother the r. o. c. cannot tell you that 
+
+the r. o. c. will show you in general estimated view of smooth nets 
+
+but it won't give you sensitivity to scores 
+
+and that's where 
+
+it was very obvious 
+
+if you consider the two together 
+
+you will see 
+
+their differences with 
+
+i really interesting piece of results and the ant 
+
+so in the bottom graph 
+
+i had the zero difference between i. a. base
+
+ 
+
+and probability estimating tree 
+
+and the idea here is that 
+
+i'm trying to determine 
+
+whether 
+
+the difference in the a. u. c. between the two models is in favour of ninety base above 
+
+or 
+
+probability estimating tree below 
+
+so above that zero line 
+
+tiny base 
+
+model has a higher 
+
+a u. c. 
+
+and probability estimating tree 
+
+below it it's the other way round 
+
+now the interesting thing is 
+
+when nineteen base wins the game 
+
+apparently the r. o. c. cannot detect it 
+
+because it keeps going up and down around the zero
+
+ 
+
+the smooth our as he sees it very well because it's sensitive to this refinement notion 
+
+up the scores 
+
+whereas the interesting but a result of that when probability estimating tree actually comes close to the same classification as nineteen pace 
+
+the two of them said hand in hand 
+
+what does that tell you 
+
+it tells you that when 
+
+probability estimating trees 
+
+produce good classification 
+
+you also have very good scores 
+
+but when you have 
+
+good classification from ninety base alone 
+
+these scores are not good or poor 
+
+and that basically is the story that 
+
+people been trying to tell in the past ten years one they examine the two 
+
+you can see it all in one pot here 
+
+in one experiment 
+
+and again 
+
+the standard deviation of course we already explained up 
+
+so basically 
+
+we can conclude 
+
+with this is that 
+
+this truth our o. c. curve 
+
+is more sensitive to this course assigned to the 
+
+to be data point 
+
+then the r. o. c. which is by now 
+
+obvious 
+
+it's more sensitive to 
+
+performance similarities and differences because 
+
+we basically increased the resolution 
+
+of performance assessment we now can actually 
+
+look inside the squared anti r. o. c. cannot look inside
+
+ 
+
+the r. o. c. has a point on one end of the square and the other end of the square 
+
+and somehow 
+
+in guesses the connection between them 
+
+we don't we actually have a slope 
+
+in between and that's added knowledge which extends the whole matter 
+
+for similarities 
+
+these smooth r. o. c. 
+
+this move a you see actually produces lower standard deviation and 
+
+better area under the curve 
+
+the question that i am it it so far 
+
+is the main point 
+
+what happens with this point
+
+ 
+
+how do i get the midpoint well it turns out that if you really think about it 
+
+when you have labels 
+
+the boundary between positives and negatives is very clear 
+
+you have a plus and minus right 
+
+line is right there 
+
+but when you have scores on lunch aren't that so obvious 
+
+right there is a special case of scores when you have calibrated scores it's natural to take zero point five 
+
+so if you have the distribution between them 
+
+calibrated to the data points then you look for the zero point five 
+
+and the peaks of the two distributions will actually match 
+
+you get it there 
+
+and everything's fine
+-----
+ 
+
+but we all know in reality nothing is calibrated 
+
+you always work with the sub sample of the population that you're not even sure if it's truly representative or not of what happens in there 
+
+so how do we calculate that 
+
+and now i'm gonna go back to this issue which 
+
+i am open to suggestions 
+
+as to how i find it so far i'll tell you what i'm doing 
+
+what i'm doing is actually very simple 
+
+is the average score
+
+ 
+
+and plus is the average score on the positive 
+
+instances and and linus is the average score on 
+
+and i waited my c. c. is the class distribution 
+
+so when i have a balanced a descent 
+
+that see is one 
+
+and i basically take the average the average find the midpoint and boom 
+
+there is right 
+
+if it's imbalance i just shifted over to the side based on the imbalance of the dataset 
+
+this seems to be intuitive 
+
+it works most of the time 
+
+but 
+
+what i didn't show you in the in the picture here is that 
+
+i actually do 
+
+perfectly nice equals 
+
+symmetric type and distribution 
+
+what if i had this 
+
+what if i had this one wider than the other 
+
+well the class distribution will actually account for this 
+
+but this is the headache 
+
+so imagine
+
+ 
+
+all of the negative scores 
+
+be in 
+
+clustered over 
+
+close values 
+
+with a subset of those that are very sparse away from it 
+
+what do you do at that point 
+
+well i can tell you that i've tried that 
+
+and in some cases that midpoint collapses because mathematically can produce a set of scores for which that green line is actually over on the side 
+
+it has to sit somewhere in between them if it doesn't sit in between 
+
+i have a serious problem 
+
+both a section 
+
+this to us 
+
+here 
+
+but 
+
+oh 
+
+a if i didn't have intersection then i have nothing to analyse 
+
+right so i just go home 
+
+i don't play with it all 
+
+right 
+
+i mean that could be the midpoint the midpoint could be outside the intersection and nasa whole problem it's even worse it can be outside both distributions
+
+ 
+
+right because i'm taking the average 
+
+now the suggestion i have so far in which i would like to try is taking the medium instead of the average 
+
+the median might give me 
+
+a good 
+
+position for the midpoint 
+
+however 
+
+i am actually exploring other ways of 
+
+calculating this midpoint because as you can imagine that 
+
+this assignment of 
+
+appropriate versus inappropriate score 
+
+is very sensitive to where you put this point right 
+
+so you want this point to be as good as possible 
+
+so the next approach i would like to try 
+
+is to learn 
+
+this meant point 
+
+so imagine i had a high quality data set 
+
+from and distribution 
+
+right that has scores and it 
+
+and from there i can estimate the midpoint 
+
+once i do this front 
+
+i get my midpoint and i toss away everything i learned 
+
+i just keep the midpoint
+
+ 
+
+and then i build a model that i want to apply the midpoint so the ideas that can i learned this mean point somewhere between which could be doable 
+
+for appropriate type of domains um 
+
+other than that 
+
+i could run a validation face 
+
+where i do training 
+
+and i have another 
+
+holdout set from the training over which i actually determine the midpoint take the midpoint and apply it into testing 
+
+so that's another approach 
+
+and of course they're all 
+
+and this point here 
+
+um open ended 
+
+we can do whatever we want with it 
+
+another thing which i don't have an this 
+
+presentation here 
+
+the reason is because i want to write another paper about it is that 
+
+if you step back a little bit i think 
+
+paul bennett wrote a technical report 
+
+talking about the call them the problem he was dealing with miss classification cost 
+
+right and one of the things that they came across is that the probability estimation for a given domain is usually sensitive by this midpoint
+
+ 
+
+where the overlap 
+
+it's right 
+
+and the funny part is that 
+
+if you build a model on this distribution 
+
+you sample data from d. stew with this given midpoint 
+
+and then somehow sometime later you good tested and east to shift 
+
+things change they go apart 
+
+if they go partner states 
+
+because the midpoint still sits in between 
+
+but this may point is sensitive to changes in this domain 
+
+which actually tells you that my entire approach
+
+ 
+
+could be very sensitive to changes in underlying do me 
+
+right 
+
+and this turns out to be very beneficial in detecting changes in data distributions so now we're not evaluating the model we take a snapshot of the problem we're trying to solve now 
+
+and take another such a snapshot twenty years later see things changed 
+
+right when things change in the domain presumably the model that you trained about point is no longer good
+
+ 
+
+right so it turns out that we have an extra advantage in this mood r. o. c. 
+
+curve is that it's sensitive to changes in the underlying domain which means 
+
+that curve will change 
+
+based on differences between training and testing 
+
+so now i step aside and i tell you those who are interested in assessing the quality of data 
+
+imagine you have multiple samples from the domain 
+
+and you want to verify that indeed 
+
+you have the same same 
+
+right you can build curves for it and see if they match if they don't match 
+
+it could be likely that 
+
+samples convey different views of the domain 
+
+and maybe a mixture of those would be 
+
+i deal for training 
+
+so can you identify a sub sample of a domain 
+
+appropriate for training a model 
+
+at this point and this is work that hasn't been done 
+
+yeah 
+
+so i get 
+
+the future is busy let's put it this way and thank you very much for putting up with me i think um finished 
+
+oh 
+
+i 
+
+or so 
+
+hmmm 
+
+you know these are 
+
+you probably know a 
+
+oh yeah 
+
+how they how 
+
+but all your 
+
+you will be all schools 
+
+so you're a but it uses 
+
+so somehow 
+
+how they do 
+
+next 
+
+components reach
+
+ 
+
+once you want to be 
+
+a few people who eat 
+
+their spores 
+
+so that 
+
+so the expense 
+
+use 
+
+also we won't 
+
+i 
+
+oh 
+
+that's actually very easy 
+
+surprisingly easy 
+
+pathetically easy i would say 
+
+see there is an interesting thing if you were if you go back to the r. c. space 
+
+they are a species a. r. c. space has this concept of the r. o. c. convex hall 
+
+and peter plucked did a lot of work on repairing what's called king cavities this is a can cavity into the r. o. c.
+
+ 
+
+and you repair it in his case he's what that is 
+
+right and you effectively fix the ranking 
+
+swap the two who cares about the scores were not using them anyways and you get an nicely convex 
+
+curve 
+
+and theoretically speaking 
+
+if you take the convex hull 
+
+it turns out that the slope of the line segment is actually been likelihood
+-----
+ 
+
+of that particular instance 
+
+being a member in that class 
+
+so all you have to do is repair can cavities along the r. o. c. 
+
+read off the value of those scores and you gotta setup calibrated probabilities as well in fact 
+
+in in a row see space if you want to tell 
+
+how far off 
+
+and given model 
+
+is from calibration 
+
+you'd rather complex hall and you see the gap between them 
+
+right 
+
+so getting 
+
+those likelihood is no problem 
+
+however 
+
+there's a problem 
+
+imagine 
+
+you did have a convex curve
+
+ 
+
+you you're not guaranteed that this particular 
+
+complexity 
+
+is actually related to the score 
+
+in maybe an overestimate or underestimate in e. r. o. c. space 
+
+you have your say nah how 
+
+who ah yes 
+
+how do you need 
+
+i mean uh 
+
+these are the best 
+
+oh 
+
+oh you you learned on the training set 
+
+and you apply it on the test 
+
+that's the trick 
+
+and you applied and that's where the over underestimation well actually happened is because the r. o. c. over there 
+
+gives you way too much leeway 
+
+the slope is freedom goal 
+
+based on equal weights or 
+
+whatever the number of observations you have yes i'm talking about the usual r. c. 
+
+as soon as i go into mine 
+
+the the magnitude of the problem is significantly reduced because of the resolution of the score 
+
+all i would have to do to get you see the complex whole to this curve would be here 
+
+barely off calibration 
+
+i'm not too far off calibration 
+
+whereas this one 
+
+it's off here 
+
+it's a fair and it's off there 
+
+right so this if you were to calibrated 
+
+would actually give you perfect 
+
+so the scores he would read likelihood scores he would read out of this complex hall would be one one zero point five zero zero
+
+ 
+
+right whereas here 
+
+the values he would read actually closer to 
+
+what you get 
+
+in the scoring so this is more sensitive to the model itself 
+
+then this one 
+
+now most give you calibrate its course however 
+
+having said that 
+
+there is a very interesting observation i made there and i have no idea what it means 
+
+yet 
+
+i know why 
+
+i know it's effect 
+
+i can reproduce it 
+
+and it makes sense 
+
+but what it means i still don't know
+
+ 
+
+see 
+
+look at the decision i have three positives three negatives 
+
+right 
+
+and unfortunately oh no this is a beautiful example actually 
+
+if you were to calibrate these scores 
+
+it's natural to take zero point five as a cutoff point between negatives and positives right that's what calibration gives you 
+
+it fixes the midpoint and distributes the data points around 
+
+if i were to take zero point five over there
+
+ 
+
+i actually end up with four positives and tuning its 
+
+because that zero point five one is above is just above 
+
+and what happens here i have a discrepancy in the class distribution between the two 
+
+criteria if you will 
+
+label says three in three 
+
+score says for into 
+
+visually this produces a slight rotation 
+
+when you go to calibrate 
+
+i don't know what it means and i just confessed it 
+
+it makes sense because the distribution of scores is totally different than the distribution of labels right 
+
+but by the time you calibrate them be be effective 
+
+calibration on my curve 
+
+is actually a very significant piece of work because 
+
+once i figure out why this rotation is there 
+
+in be very interesting 
+
+to solve and i can tell you that when you're dealing with 
+
+changes in the underlying domain you get a lot of rotations 
+
+because the balance changes that's how the r. o. c. detects changes in 
+
+in data distributions 
+
+is that you sampled it at 
+
+ten out of a hundred many sample it again at thirty out of a hundred all there is 
+
+class imbalance but the r. o. c. is actually 
+
+very practical and ignoring these things 
+
+because the the decreasing diagonal 
+
+is the balance dataset anything below it you have more negatives than positives 
+
+anything above it 
+
+you have more positives than negatives right 
+
+so the idea is that you draw this and you just figure out for mine given balance which point on the r. o. c. should i use and those are called the operating points on the r. o. c. kerr right
+
+ 
+
+over here it's not so obvious 
+
+because this 
+
+decrease in diagonal is now the balance between appropriate and inappropriate 
+
+because remember the separation is appropriate scores purses inappropriate scores and appropriate scores 
+
+go across both sets the positives and the negatives 
+
+and same thing happens on the on the x. axes 
+
+so the balance between them 
+
+is what causes that broke rotation 
+
+it makes perfect sense 
+
+mathematically theoretically and visually

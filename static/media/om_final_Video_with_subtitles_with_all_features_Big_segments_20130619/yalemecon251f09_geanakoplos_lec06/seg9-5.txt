@@ -1,0 +1,330 @@
+
+
+and thank god for that because it couldnt have helped 
+
+everybody if they did use it 
+
+so thats the main lesson of laissezfaire 
+
+so let me just put this in perspective a little bit 
+
+in the old russian economy of the s and s there was no 
+
+profit system so the central planner had to 
+
+figure out should a new invention be used 
+
+or not 
+
+so every time theres a new invention a committee had to get 
+
+together of central planners and decide whether to use it or 
+
+
+not 
+
+and theres a famous guy named kantorovich who was in charge of 
+
+a lot of that 
+
+he won the nobel prize in economics 
+
+he shared it with a yale economist named koopmans and so 
+
+kantorovich told this very amusing story 
+
+he said that there were two central planning bureaus 
+
+one was in charge of allocations and one was in 
+
+charge of prices 
+
+one had to set the prices 
+
+the other had to set the allocations 
+
+and of course the whole message here is that you have to combine 
+
+
+these 
+
+you dont know whether its worthwhile to change the 
+
+allocation until you know whether the new technologys 
+
+going to make a profit or not and here they had the two 
+
+things separated 
+
+they were telling people what to do before knowing whether 
+
+they made a profit or not because they didnt have prices 
+
+because there werent free markets 
+
+so the bottom line of the fisher story is that you take 
+
+this complicated financial economy 
+
+you reduce it to something very simple that you learned how to 
+
+
+do in your freshman year or your sophomore year 
+
+solve that and you go back to this and you can understand a 
+
+lot about this economy 
+
+thats something that most people didnt realize at the 
+
+time and still dont realize now 
+
+so you ask a typical person if theres inflation 
+
+that means the dividends next year is going to be higher 
+
+is that going to raise the value of the stock today 
+
+just like he said yes of course because it 
+
+
+makes the price of the dividends higher tomorrow 
+
+fisher would say no it doesnt change anything real 
+
+in the economy 
+
+if theres more inflation there will be a higher nominal 
+
+interest rate so discounted by the higher 
+
+interest rate payoffs of the stock will give you the same 
+
+stock price as before 
+
+so were going to do a thousand examples of this 
+
+but are there any questions about this 
+
+yes 
+
+can you just review your arguments at  
+
+
+end 
+
+im just having a very hard time reading 
+
+yeah sorry  
+
+i dont know if this is in the way by the way 
+
+so this is the argument we gave a few classes ago 
+
+i forgot when 
+
+we said how do you know that a final allocation that emerges as 
+
+a competitive equilibrium is pareto efficient 
+
+and the argument was if you can do better 
+
+that means make everybody better off 
+
+
+then each person if you look at the value of 
+
+what theyre getting under the new regime it must be more than 
+
+the value of their endowments otherwise they would have chosen 
+
+the new regime and nobody chose it 
+
+that means everybody would have had to pay more for this new 
+
+regime allocation than the value of their endowments 
+
+so this is more than that for person a 
+
+and person bs consumption is more than the value of this 
+
+endowments his extended endowments in the 
+
+fisher thing under this new regime 
+
+than the value of his endowments 
+
+youre following that 
+
+yeah  
+
+then the next step was to add all this  
+
+now notice however the new technology affects the world 
+
+obviously people can only eat whats being produced 
+
+everything thats being produced is part of somebodys 
+
+endowment 
+
+so if the new technology if mr a invents the new 
+
+technology he gives up some of his good at 
+
+time  to get more of the good at time  
+
+so his endowment has changedbut hes got a new 
+
+endowment but its still his endowment 
+
+so whatever the new allocation is it has to add up to the new 
+
+endowment 
+
+now i havent even bothered to write down the new endowment 
+
+but i know the value of that new endowment 
+
+whatever it is its going to be less than the 
+
+value of the old endowment because the new technology 
+
+loses money 
+
+so the contradiction is the value of the new endowment after 
+
+the technology is used at the old equilibrium prices 
+
+
+is lower than the value of the old endowment at the old 
+
+equilibrium prices 
+
+but that since its true for every person in the aggregate 
+
+thats less than the value of this new regime consumption 
+
+and thats a contradiction because the new regime 
+
+consumption thats all this stuff 
+
+has to equal exactly the total endowments in the economy to 
+
+begin with and thats the contradiction 
+
+so you cant make everybody better off 
+
+that simple argument which as i said 
+
+
+my advisor ken arrow another guy at yale named 
+
+gerard debreu both of them were working at 
+
+the cowles foundation which is part of yale 
+
+that proof that they gave is the simplest and most important 
+
+argument in all of economics 
+
+so we get as a conclusion that putting it another way 
+
+that owners of firms should maximize the value of their 
+
+firms the stock market value of their 
+
+firms and thank god they do because 
+
+if they find some new way of producing thats going to lose 
+
+money its going to make the stock market value go down 
+
+remember the stock market value is just the same calculation 
+
+the value of all the output theyre producing 
+
+if they find some way of losing money and they try to use it 
+
+itll make their stock market value go down 
+
+thats why theyre not going to do it and thank god for that 
+
+because itd be a bad thing for society if they did do it 
+
+yes 
+
+well it seems to me this proof  
+
+logically flawed because youre assuming that after the 
+
+inception of a technology the prices are left unchanged 
+
+but that might not be true 
+
+shouldnt you have some argument for the prices not 
+
+changing after the inception of the technology 
+
+
+this is a very bold  
+
+telling me that its a flawed proof 
+
+i want to commend you for your courage 
+
+as it happens however youve asked the same 
+
+question that somebody asked a class or twowhich is a very 
+
+good question 
+
+so the answer is no i shouldnt have changed the 
+
+prices and thats exactly the point of the proof 
+
+so yes its true that after the new technology is introduced 
+
+the prices changes everything changes 
+
+but we dont have to worry about all that complication 
+
+after all the changes theres going to be some final 
+
+allocation of goods that supposedly makes everybody 
+
+better off 
+
+so i can ask the hypothetical question 
+
+would this new allocation to a at the old prices be something 
+
+he could have afforded and the answer must be no 
+
+all right ive got  
+
+well let me just  
+
+you see the answer to your question but im going to say 
+
+it out because its a very important question 
+
+the proof is clever precisely because of what youre asking 
+
+you have to do something that you wouldnt have thought of 
+
+you have this new economy and new allocation 
+
+and new prices but the proof says lets do the 
+
+hypothetical thing of looking at the new allocation at the old 
+
+prices 
+
+at the old prices a couldnt have afforded this new 
+
+allocation because if he could have he would have bought it 
+
+because it makes him better off 
+
+so at the old prices a couldnt have afforded this new regime 

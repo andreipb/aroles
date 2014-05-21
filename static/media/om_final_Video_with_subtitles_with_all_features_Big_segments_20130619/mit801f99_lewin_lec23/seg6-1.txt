@@ -1,0 +1,330 @@
+
+
+
+
+
+
+  it depends a little bit on the temperature 
+
+about  miles per hour 
+
+when i speak to you my sound reaches you with that speed 
+
+i produce a certain frequency here 
+
+a certain number of oscillations per second 
+
+they reach you 
+
+your eardrum starts to oscillate with the same frequency 
+
+and you hear that tone 
+
+i have here a tuning fork 
+
+which oscillates  times per second 
+
+ tuning fork  mediumpitched   
+
+your eardrum oscillates  times per second 
+
+you hear this tone 
+
+here i have  oscillations per second 
+
+ metal rod emits lower   
+
+
+your eardrum is now shaking 
+
+going back and forth  times per second 
+
+if you stay where you are and you dont move 
+
+and i move these tuning forks 
+
+you will hear a different frequency 
+
+and thats what we call doppler effect 
+
+if my sound source approaches you 
+
+you will hear a frequency f prime which is larger 
+
+than the frequency of the tuning fork 
+
+if it moves away from you which i will call receding 
+
+then f prime equals lower lower frequency 
+
+for instance i move to you a sound source 
+
+i call that a transmitter 
+
+with a speed of about one meters per second 
+
+transmitter is the sound transmitter 
+
+then if it approaches you here you will hear f prime 
+
+which is  times f 
+
+this three here is the one part out of  
+
+that you get an increase in frequency 
+
+if i move it away from you then f prime would be 
+
+ times the frequency of the source itself 
+
+
+you stay where you are 
+
+i have here a tuning fork which generates  hertz 
+
+a very high frequency 
+
+if i move it to you with the speed of one meter per second 
+
+which i can do then you get an increase in pitch of  
+
+that makes it  hertz 
+
+and when i move it away from you there is a decrease of  
+
+and you can clearly hear that difference 
+
+i will first make you listen to the  hertz 
+
+without my moving 
+
+ tuning fork  very high pitched   
+
+can you hear it very high frequency 
+
+is it painful really 
+
+high frequency 
+
+most of you are young enough 
+
+
+you should be able to hear  hertz 
+
+okay now i am going to move it to you one meter per second 
+
+and away from you 
+
+ high tone goes up and  slightly in   
+
+did you hear it once more 
+
+ tone goes up and  quickly   
+
+ class   
+
+when it comes to you its clear that the frequency goes up 
+
+and when it moves away from you the frequency is down 
+
+now imagine that im going to rotate the sound source 
+
+
+around in a circle 
+
+now the sound that you receive the frequency that you receive 
+
+will change in a sinusoidal fashion 
+
+if this is that circle and this is the radius of that circle 
+
+and if you are here in the plane of the circle 
+
+then when the source comes straight to you 
+
+with the velocity v lets say its a uniform circular motion 
+
+f prime will be larger than f 
+
+and it will in this case reach a maximum 
+
+when it is at  degrees relative to you 
+
+i dont have to give it a vector notation 
+
+f prime equals f 
+
+when it moves away from you f prime is smaller than f 
+
+you hear a minimum 
+
+and when it is here again 
+
+when the angle between the velocity and your direction 
+
+is again  degrees then f prime equals f again 
+
+and so this phenomenon is called the doppler effect 
+
+so if i twirl it around 
+
+you will hear a sinusoidal fluctuation in f prime 
+
+suppose i plot as a function of time f prime 
+
+the way you will receive it you sit still 
+
+but im going to move the sound source around like this 
+
+
+then you will have a curve that looks something like 
+
+some sinusoidalcosinusoidal fluctuation of f prime 
+
+this will be the value f 
+
+produced by the sound source itself 
+
+this will be f prime maximum and this will be f prime minimum 
+
+if you could record this there is an amazing number of things 
+
+that you can deduce from this curve 
+
+first of all you can take 
+
+you can measure f prime max divided by f 
+
+because you see this curve so you know what f is here 
+
+
+you see what f prime max is 
+
+and that should allow you to retrieve immediately 
+
+v velocity of the transmitter 
+
+if that number were  then you know 
+
+that the speed in the orbit was one meter per second 
+
+so this ratio immediately gives you the transmitter velocity 
+
+this time separation gives you immediately 
+
+the period of rotation 
+
+but since two pi r if r is the radius 
+
+divided by the velocity of the transmitter 
+
+
+since that is the oh i can reverse it it doesnt matter 
+
+two pi r divided by the time to go around 
+
+is the velocity of the transmitter 
+
+since you know the velocity of the transmitter from this ratio 
+
+since you know the period which is this 
+
+you now also find the radius r 
+
+so from that curve and keep that with you 
+
+
+because its going to be important in what follows 
+
+we can derive three 
+
+the radius the period of rotation 
+
+and the speed of the object as i twirl it around 
+
+i have here what we call a wind organ 
+
+when i twirl this around it produces a particular tone 
+
+we will talk later about  
+
+why it produces a particular tone 
+
+sometimes you hear two tones 
+
+ill try to make you hear only one 
+
+and as i swirl it around the sound is coming 
+
+the sound source the transmitter is coming to you 
+
+this when it goes like this its degree angle 
+
+so you should not hear any doppler shift 
+
+when it is here its moved away from you 
+
+and so you hear a sinusoidal change in f prime 
+
+try to hear that 
+
+ wind organ producing  that changes   
+
+can you hear when its coming to you that its higherpitched 
+
+
+than when its going away from you 
+
+can you hear that 
+
+just say no if you dont hear it 
+
+not very clear 
+
+ wind organ again  varying   
+
+for me its impossible to hear 
+
+because im standing right under it of course 
+
+well i tried 
+
+
+
+i now want to change to electromagnetic waves 
+
+electromagnetic waves travel with the speed of light 
+
+which is  kilometers per second 
+
+and if you want to treat that correctly 
+
+you would have to use special relativity 
+
+in the case of sound i stressed repeatedly 
+
+that you in the audience should not move 
+
+but that the sound source is moving 
+
+in the case of electromagnetic radiation 
+
+when you deal with the speed of light 
+
+you dont have to ask that question 
+
+it is a meaningless question in special relativity 
+
+to ask whether you are moving relative to me 
+
+or whether i am moving relative to you it doesnt matter 
+
+all that matters in special relativity 
+
+is the relative motion 
+
+so you can always think of yourself as standing still 
+
+and make the source of electromagnetic radiation 
+
+move to you or away from you relative to you 

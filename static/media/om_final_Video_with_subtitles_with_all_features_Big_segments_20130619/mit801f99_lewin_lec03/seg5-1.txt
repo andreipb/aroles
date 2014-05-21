@@ -1,0 +1,338 @@
+
+
+the bad news today is that there will be quite a bit of math 
+
+but the good news is that we will only do it once 
+
+and it will only take something like halfhour 
+
+there are quantities in physics 
+
+which are determined uniquely by one number 
+
+mass is one of them 
+
+temperature is one of them 
+
+speed is one of them 
+
+we call those scalars 
+
+there are others where you need more than one number 
+
+for instance on a one dimensional motion velocity 
+
+it has a certain magnitude thats the speed 
+
+but you also have to know 
+
+whether it goes this way or that way 
+
+so there has to be a direction 
+
+velocity is a vector and acceleration is a vector 
+
+and today were going to learn how to work with these vectors 
+
+a vector has a length and a vector has a direction 
+
+and thats why we actually represent it by an arrow 
+
+
+we all have seen this is a vector 
+
+remember this this is a vector 
+
+if you look at the vector headon you see a dot 
+
+if you look at the vector from behind you see a cross 
+
+this is a vector 
+
+and that will be our representation of vectors 
+
+imagine that i am standing on the table in  
+
+this is the table and i am standing say at point o 
+
+and i move along a straight line from o to point p 
+
+so i move like so 
+
+thats why i am on the table 
+
+and thats where you will see me when you look from  
+
+it just so happens 
+
+that someone is also going to move the table 
+
+in that same amount of time from here to there 
+
+so that means that the table will have moved down 
+
+and so my point p will have moved down exactly the same way 
+
+and so you will see me now at point s 
+
+
+you will see me at point s in  
+
+although i am still standing 
+
+at the same location on the table 
+
+the table has moved 
+
+this is now the position of the table 
+
+see the whole table has shifted 
+
+now if these two motions take place simultaneously 
+
+then what you will see from where you are sitting 
+
+you will see me move in  from o straight line to s 
+
+and this holds the secret behind the adding of vectors 
+
+
+we say here that the vector os well put an arrow over it 
+
+is the vector op with an arrow over it plus ps 
+
+this defines how we add vectors 
+
+there are various ways that you can add vectors 
+
+suppose i have here vector a and i have here vector b 
+
+then you can do it this way 
+
+which i call the headtail technique 
+
+i take b and i bring it to the head of a 
+
+so this is b this is a vector 
+
+and then the net result is a plus b 
+
+this vector c equals a plus b 
+
+thats one way of doing it 
+
+it doesnt matter whether you take b 
+
+the tail of b to the head of a 
+
+or whether you take the tail of a and bring it to the head of b 
+
+you will get the same result 
+
+theres another way you can do it 
+
+and i call that the parallelogram method 
+
+here you have a 
+
+you bring the two tails together so here is b now 
+
+so the tails are touching 
+
+and now you complete this parallelogram 
+
+
+and now this vector c is the same sum vector 
+
+that you have here whichever way you prefer 
+
+you see immediately 
+
+that a plus b is the same as b plus a 
+
+there is no difference 
+
+what is the meaning of a negative vector 
+
+well a minus a equals zero 
+
+vector a subtract from vector a equals zero 
+
+so here is vector a 
+
+so which vector do i have to add to get zero 
+
+i have to add minus a 
+
+well if you use the headtail technique 
+
+this is a 
+
+you have to add this vector to have zero 
+
+so this is minus a 
+
+and so minus a is nothing but the same as a 
+
+but flipped over  degrees 
+
+well use that very often 
+
+and that brings us to the point of subtraction of vectors 
+
+
+how do we subtract vectors 
+
+so a minus b equals c 
+
+here we have vector a and here we have 
+
+let me write this down here and here we have vector b 
+
+one way to look at this is the following 
+
+you can say a minus b is a plus minus b 
+
+and we know how to add vectors and we know what minus b is 
+
+minus b is the same vector but flipped over 
+
+so we put here minus b 
+
+and so this vector now here equals a minus b 
+
+
+heres vector c heres a minus b 
+
+and of course you can do it in different ways 
+
+you can also think of it as a plus as c plus b is a 
+
+right you can say you can bring this to the other side 
+
+you can say c plus b is a c plus b is a 
+
+in other words which vector do i have to add to b to get a 
+
+and then you have the parallelogram technique again 
+
+
+there are many ways you can do it 
+
+the headtail technique 
+
+is perhaps the easiest and the safest 
+
+so you can add a countless number of vectors 
+
+one plus the other and the next one 
+
+and you finally have the sum of five or six or seven vectors 
+
+which then can be represented by only one 
+
+when you add scalars for instance five and four 
+
+then there is only one answer that is nine 
+
+five plus four is nine 
+
+suppose you have two vectors 
+
+you have no information on their direction 
+
+but you do know that the magnitude of one is four 
+
+and the magnitude of the other is five 
+
+thats all you know 
+
+then the magnitude of the sum vector could be nine 
+
+
+if they are both in the same direction thats the maximum 
+
+or it could be one if they are in opposite directions 
+
+so then you have a whole range of possibilities 
+
+because you do not know the direction 
+
+so the adding and the subtraction of vectors 
+
+is way more complicated than just scalars 
+
+as we have seen that the sum of vectors 
+
+can be represented by one vector 
+
+equally can we take one vector 
+
+and we can replace it by the sum of others 
+
+and we call that decomposition of a vector 
+
+and thats going to be very important in  
+
+and i want you to follow this therefore quite closely 
+
+i have a vector which is in threedimensional space 
+
+this is my z axis 
+
+this is my x axis y axis and z axis 
+
+this is the origin o and here is a point p 
+
+and i have a vector op thats the vector 
+
+and what i do now i project this vector 
+
+onto the three axes x y and z 
+
+so there we go 
+
+
+
+each one has her or his own method of doing this 
+
+
+
+there we are 
+
+i call this vector vector a 
+
+
+
+now this angle will be theta and this angle will be phi 
+
+
+
+notice that the projection of a on the y axis has here 
+
+a number which i call a of y 
+
+this number is a of x and this number here is a of z 
+
+
+simply a projection of that vector onto the three axes 
+
+we now introduce what we call unit vectors 
+
+unit vectors are always pointing in the direction 
+
+of the positive axis 
+
+and the unit vector in the x direction is this one 
+
+it has a length one and we write for it x roof 
+
+roof always means unit vector 
+
+and this is the unit vector in the y direction 
+
+and this is the unit vector in the z direction 
+
+and now im going to rewrite vector a 
+
+in terms of the three components that we have here 

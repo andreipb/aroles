@@ -1,0 +1,380 @@
+
+
+so the weight on this thing is  over  delta times this 
+
+divided by p 
+
+so if p is  then this is just equal to  over  
+
+delta times ea  over p times 
+
+ea 
+
+so clearly the demand goes down as p goes 
+
+as pthis is p 
+
+so p   so if i divide by 
+
+p p over 
+
+p goes away 
+
+then i have p over p 
+
+and if p is  thats just  over 
+
+p 
+
+so obviously as p goes up your demand goes down 
+
+thats just what youd expect 
+
+so p goes down the demand goes up 
+
+or p goes up the demand goes down 
+
+so anyway if you add up cobbdouglas people it always is 
+
+like that 
+
+the demand for any good goes up as the price goes down 
+
+if its own price goes down 
+
+so if you change delta if you make delta smaller 
+
+thats going to raise demand for a at the old 
+
+prices 
+
+why 
+
+at old equilibrium prices the same trick as before 
+
+at old equilibrium prices whats going to happen 
+
+delta goes down like we just said implies xa 
+
+goes up 
+
+so the guys demanding more now but if hes demanding more 
+
+at the old equilibrium prices so at the old equilibrium 
+
+prices hes demanding more so the only way to clear the market 
+
+
+is to raise p 
+
+implies p must go up to clear the market 
+
+so this is a formal proof of what he just said 
+
+so the common sense maybe is enough for you 
+
+if you care less about the future to get anybody to save 
+
+youre going to have to raise the interest rate 
+
+to say it formally if we solve for equilibrium with a lower 
+
+delta at the old equilibrium prices 
+
+this guy at the old prices a would now shift and try to 
+
+demand more of good  
+
+but if he demanded more of good  that would mean too much 
+
+demand for good  and the only way to clear the 
+
+
+price of good  is to raise the price p 
+
+but if you raise p holding p fixed 
+
+thats just p over p 
+
+so the interest rate so the interest rate has to go 
+
+up 
+
+so thats your argument made formal 
+
+so thats his impatience theory 
+
+thats the main determinant of interest according to fisher 
+
+
+whats the second one 
+
+he says suppose people are more optimistic about 
+
+ei 
+
+everybody thinks the worlds going to be much better next 
+
+year 
+
+were going to have more endowments 
+
+what do you think is going to happen to the interest rate 
+
+the real interest rate somebody else 
+
+itll decrease  
+
+itll what  
+
+decrease  
+
+decrease why  
+
+because youre expecting things to be  
+
+ 
+
+signifies people will save less 
+
+to save less or to save  
+
+
+so lets think of good x 
+
+if people thought they were going to be richer at the old 
+
+prices what would they do today for x demand more or 
+
+less today 
+
+the rate would go up  
+
+yeah the right answer is  
+
+he said down but lets just figure out why 
+
+they demand more b 
+
+so the reason i gave the formal argument  
+
+because you can get confused here 
+
+so lets just do the intuitive one 
+
+so you had the idea back there of the intuitive one 
+
+you just got it backward but you were on the right 
+
+track 
+
+the point is theres going to be so much stuff around for 
+
+people to eat tomorrow youve got to get them to want 
+
+to eat all that extra stuff tomorrow 
+
+so you have to give them an incentive to want to eat all 
+
+that extra stuff tomorrow so you have to raise the 
+
+interest rate not lower it 
+
+so you had the right idea the wrong conclusion 
+
+now how can you actually give a formal proof of that so you 
+
+know youre not confused 
+
+again like his question at the old prices whats going 
+
+to happen to the demand for x 
+
+at the old prices since youre going to be so 
+
+rich in the future you think youre just 
+
+incredibly rich now so of course youre going to 
+
+consume more today 
+
+so theres going to be more demand today and the endowment 
+
+today hasnt changed 
+
+so theres going to be more demand today with the same 
+
+endowment today so therefore in order to clear 
+
+the market today youre going to have to raise p 
+
+relative to p so the interest rates got to go up 
+
+
+so is that clear 
+
+its a little surprising so let me say that again 
+
+if you increase the endowments tomorrow the supply today of 
+
+goods hasnt changed but people are richer tomorrow 
+
+so clearly theyre going to consume this fraction of their 
+
+wealth 
+
+their wealth is up 
+
+you tell anybody youre going to be rich 
+
+next year 
+
+youre going to be worth a fortune 
+
+the normal person cobbdouglas person 
+
+is going to consume more stuff today anticipating that hes 
+
+going to be so rich tomorrow 
+
+hes going to borrow against tomorrows wealth 
+
+and so therefore in order to clear todays 
+
+market where the supply hasnt changed 
+
+with all these people trying eat more today you have to raise 
+
+todays price relative to tomorrow 
+
+thats raise the real interest rate 
+
+so whats a third example 
+
+this is fishers most famous one 
+
+suppose you transfer money transfer wealth 
+
+from poor to rich 
+
+what would happen 
+
+we have to make an extra assumption here 
+
+fisher felt that the people who were rich were rich because they 
+
+were patient 
+
+they could charge interest and get lots of money 
+
+so if you change wealth you take away some money from the 
+
+
+poor 
+
+thats whats happened in the american economy over the last 
+
+ or  years 
+
+the rich have gotten richer and the poor are pretty much back 
+
+where they were before 
+
+so suppose the rich get rich at the expense of the poor 
+
+whats that going to do to the real rate of interest 
+
+illhang on a second 
+
+yep 
+
+that would make it  
+
+thats going to lower  
+
+why is that 
+
+b 
+
+so theres an intuitive way of saying it  
+
+
+is his which is that the rich because theyre patient 
+
+are probably the lenders 
+
+now theyre even more willing to lend and so the interest rate 
+
+has to go down to get these other people to borrow 
+
+a formal way of saying it is that if you transfer money from 
+
+the rich poor 
+
+to the poor rich 
+
+that means the poor guys the rich guys always consume a 
+
+higher proportion in the future because theyre more patient 
+
+so a more patient guy will consume more in the future 
+
+so if you take away wealth from an impatient guy and give it to 
+
+a patient guy youre going to increase the 
+
+the economys going to be more in the hands of the patient 
+
+people and so the patient peoplethe 
+
+
+mix is going to change 
+
+people on average are more patient than they were before so 
+
+on average in the economy theyre going to consume less 
+
+than they were of todays good and so the shift is going to be 
+
+in this direction right 
+
+because youve made people a lot of them impatient 
+
+a lot of patient youve increased the patient 
+
+ones and decreased the impatient ones 
+
+so in balance youre going to decrease demand today because it 
+
+
+was the impatient ones who wanted to eat today and the 
+
+other guys were willing to wait 
+
+now the guys who arent willing to wait these guys dont have 
+
+any money 
+
+theyre the ones doing all the consuming today and now they 
+
+cant afford to do much consuming so youre going to 
+
+reduce consumption today 
+
+so to get the market to clear again you have to lower the 
+
+interest rate this time 
+
+so those are three famous conclusions of fisher 
+
+more impatient people higher interest rate 
+
+more optimistic about the future higher interest rate 
+
+transfers from the poor to the rich lower interest rate 
+
+so what happens to the stock market in this case 
+
+suppose people are more impatient 
+
+does the stock market go up or down 

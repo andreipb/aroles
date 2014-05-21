@@ -1,0 +1,404 @@
+
+
+ days later no xrays at all 
+
+and so what youre looking at here 
+
+are what we call xray eclipses 
+
+when the neutron star moves behind the donor star 
+
+all the xrays are absorbed by the donor star 
+
+and you get xray eclipses 
+
+in other words you get 
+
+independently from the doppler shift 
+
+you also get the period of the orbit by the xray eclipses 
+
+and this really changed our whole concept of astronomy 
+
+the existence of these neutron star binaries 
+
+and now comes a part what are the masses of these objects 
+
+
+i already alluded you to the idea 
+
+of the possibility that there may be black holes 
+
+all the mass measurements that have been done to date 
+
+of these neutron stars where you see the pulsations 
+
+all of them are very close to  solar mass 
+
+and theres a good reason for that thats not an accident 
+
+in  the physicist chandrasekhar predicted 
+
+that white dwarfs could not exist 
+
+if their mass is larger than  solar mass 
+
+it was a quantum mechanical calculation 
+
+for which he received in  the nobel prize 
+
+remember we discussed white dwarfs earlier 
+
+a white dwarf has about a radius of  kilometers 
+
+about the same as the earth 
+
+and imagine that you have a white dwarf 
+
+and you add matter to the white dwarf 
+
+and you pass the solarmass mark 
+
+then the white dwarf will collapse 
+
+and becomes a neutron star 
+
+and so when we measure the masses of neutron stars 
+
+it turns out maybe somewhat by surprise 
+
+
+that theyre all very close to  
+
+if you could add more matter to the neutron star 
+
+by accreting more and more matter 
+
+and you reach the point that the neutron star becomes 
+
+as massive as three times the mass of the sun 
+
+we believe that the neutron star can no longer support itself 
+
+and becomes a black hole 
+
+and so now comes the question what is a black hole 
+
+a black hole is the most bizarre object that you can imagine 
+
+and it is something 
+
+that you want to stay away from too 
+
+
+a black hole has no size unlike a neutron star 
+
+it has no size but it does have mass and it has a lot of mass 
+
+three times the mass of the sun ten times the mass of the sun 
+
+a hundred times the mass of the sun 
+
+so it has mass but it has no size 
+
+we identify around the black hole a sphere with radius r 
+
+
+which we call the event horizon 
+
+
+
+imagine you are at the event horizon 
+
+and you want to get away from the black hole 
+
+what kind of speed do you need 
+
+you should be able to give me that answer immediately 
+
+the escape velocity must be 
+
+ mg divided by the radius of that event horizon 
+
+in other words the radius of the event horizon itself 
+
+equals  mg divided by c squared 
+
+if you tell me what m is 
+
+i will tell you what the radius of the event horizon is 
+
+
+
+i went a little fast here 
+
+i skipped an important step 
+
+v is the escape velocity from the event horizon 
+
+which is at a distance capital r from the mass m 
+
+so we see that here 
+
+now this escape velocity can never be larger 
+
+than the speed of light so the maximum value possible is c 
+
+and if now you look at this part of this equation 
+
+and you take the radius on one side 
+
+youll get that the radius of the event horizon 
+
+equals  mg divided by c squared 
+
+and thats how i found that equation 
+
+sorry that i went a little too fast 
+
+
+
+if m is the mass of the earth 
+
+the radius of the event horizon is one centimeter 
+
+if m is the mass of the sun 
+
+the radius of the event horizon is three kilometers 
+
+if m is three times the mass of the sun 
+
+the radius of the event horizon would become ten kilometers 
+
+
+it scales linearly with the mass 
+
+if you were inside the event horizon 
+
+you could never escape the black hole 
+
+because you would need 
+
+a speed which is larger than the speed of light 
+
+therefore you can never escape from inside the event horizon 
+
+nothing can get out of it 
+
+not xrays no radio emission no light nothing 
+
+once youre inside the event horizon youve had it 
+
+you cannot escape it 
+
+and so the question now that comes 
+
+can we see xrays from a black hole 
+
+
+because if nothing can come out of a black hole 
+
+how can we see xrays 
+
+and the answer is yes we can 
+
+because as long as the matter that swirls in 
+
+is outside the event horizon it would still be very hot 
+
+because gravitational potential energy 
+
+would already have been released it would be very hot 
+
+and it would emit xrays 
+
+so we can see xrays outside a black hole 
+
+however you will never see pulsations 
+
+because a black hole has no surface like a neutron star 
+
+so theres no such thing 
+
+as two hot spots which rotate around 
+
+and so now comes the problem for 
+
+how can you determine the mass of the accretor 
+
+
+if the accretor is not a pulsating neutron star 
+
+but if the accretor is a black hole 
+
+well you can only now measure the doppler shift of the donor 
+
+because the donor in general is quite well visible 
+
+its an optical star 
+
+but you will not be able to measure 
+
+the doppler shift of the black hole no pulsations 
+
+if however an astronomer can make an estimate 
+
+of the mass of that donor 
+
+then you will find the mass of the accretor 
+
+in other words instead of having 
+
+the doppler shift measurements of both stars 
+
+the neutron star and the donor star 
+
+which gives you the mass of two stars 
+
+now you have to settle for the doppler shift of only the donor 
+
+and the mass of the donor itself 
+
+and if you have a reasonable idea of what that mass will be 
+
+then you can find the mass of the accretor 
+
+and there is a very famous case 
+
+that was the first one discovered in the early s 
+
+which is called cygnus x 
+
+cygnus x is an xray binary 
+
+which has an orbital period of  days 
+
+the doppler shift measurements of the donor were made 
+
+and astronomers simply looking at the spectrum 
+
+at the absorption lines 
+
+and the structure of the absorption lines 
+
+and the kind of absorption lines 
+
+were able to say yeah the mass of the donor 
+
+is probably approximately  solar masses 
+
+and with that information and with the doppler shift 
+
+you can now arrive at the mass of the accretor 
+
+and that is in this case 
+
+oh by the way 
+
+there is an r missing in the word accretion there 
+
+that mass turns out to be about  solar masses 
+
+
+
+now when this was found in the early s 
+
+most people concluded this has to be a black hole 
+
+it is a very compact object 
+
+otherwise it wouldnt emit xrays in the first place 
+
+and clearly if the mass of that compact object 
+
+is way larger than three solar masses 
+
+then there is no doubt in our minds that this is a black hole 
+
+since that time 
+
+many black hole xray binaries have been discovered 
+
+so if i summarize the amazing thing is 
+
+from studying the doppler shift 
+
+of binary systems like xray binaries 
+
+you can derive the orbital parameters orbital radius 
+
+
+orbital periods the speed of the stars in orbit 
+
+but you can also find the masses 
+
+and whenever you make a measurement of the mass 
+
+when it is a neutron star 
+
+when you see the xray pulsations 
+
+you almost always find 
+
+that it is very close to  times the mass of the sun 
+
+but in a few cases you will find 
+
+that the mass is substantially larger 
+
+admittedly you have to do without the doppler shift then 
+
+of the accretor but you have to use some other information 
+
+and then you can conclude in most cases 
+
+with pretty good confidence 
+
+that youre dealing with something like 
+
+bizarre as a black hole 
+
+
+which you can only define the event horizon 
+
+and you can never escape a black hole 
+
+when youre inside the event horizon 
+
+because that is when the escape velocity 
+
+would be larger than the speed of light 
+
+so this is the escape velocity 
+
+if you set that equal to c 
+
+then you can solve for the radius of the event horizon 
+
+and out of it pops this equation 
+
+i would like to show you now a slide of cygnus x 
+
+which is the oldest known black hole xray binary 
+
+
+
+i have to lower the screen 
+
+
+
+and there it comes 
+
+
+
+this was really a bombshell when this was discovered 
+
+i still remember reading that first publication 
+
+two people discovered this independently by the way 
+
+they came independently to the same conclusion 
+
+tom bolton and it was paul merlin 
+
+two independent groups 

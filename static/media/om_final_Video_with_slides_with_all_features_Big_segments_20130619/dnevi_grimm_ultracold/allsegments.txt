@@ -1,0 +1,2517 @@
+now welcome everybody it's a great great 
+
+pleasure and honour for me to be here 
+
+and review the first scientific presentation i think this year and the user stefan days 
+
+and on the thinky organisers for inviting media 
+
+most were giving me the opportunity to learn more about the institute and its research 
+
+an entire u. c. v. 
+
+introductory slight 
+
+a where i put 
+
+the title of my talk politics slovenian huh 
+
+in the program 
+
+um spiritual tied in english is given here 
+
+so um i want to talk about 
+
+what you can do with other called atoms 
+
+it's a very broad field now there are many many groups worldwide working with is called atoms hundreds of groups
+
+ 
+
+and um so 
+
+and i want to use um 
+
+very basic ideas 
+
+why this is interesting and the main interest to step you can drift wonderful model kits at hand 
+
+to build 
+
+condensed matter system so many body systems 
+
+and i will present a few examples 
+
+on this 
+
+okay in the background you see in spoke 
+
+but now i'm in the snow is almost gone 
+
+um but in spoke is a 
+
+about effective tool smaller 
+
+and we are not yeah 
+
+in terms of you have intense also in terms of students it's almost exactly a factor of two 
+
+and tom our kind of research 
+
+there is quantum physics in a general sense 
+
+it's kind of a focus area of them 
+
+and we have strong activities pose a university his you see the universe to global 
+
+and 
+
+at an additional research institute which is the institute of austin academy of sciences 
+
+the institute for quantum optics of quantum information 
+
+so i call it 
+
+the centre for quantum physics in in spoken we have about 
+
+hundred eighty persons 
+
+working in the fields in unions book oh three a huge 
+
+a activity 
+
+so what what 
+
+a way that tell you and how's my talk or organised 
+
+the overview is this 
+
+article quantum grass us
+
+ 
+
+i really want to give you a very basic 
+
+introduction 
+
+into the general ideas of to field 
+
+and knowing that there are not many experts young 
+
+and then 
+
+i just selected 
+
+two recent examples 
+
+um which 
+
+yeah illustrate this i think nicely 
+
+and um so these are two examples 
+
+and one is 
+
+so one example one is on the bows aside 
+
+the side of pole zones is on the side of from humans 
+
+and this more connects to some old ideas from nuclear physics 
+
+and disconnect small to the condensed matter physics
+
+ 
+
+so the first one is about fifteen months quantum states 
+
+i'm not sure whether it be body has heard about these yippee more states 
+
+on and on the other one is songs on for me gases was very strong interactions 
+
+so let me start out with a general 
+
+the very very general ideas 
+
+on the other called quantum grasses 
+
+um so this is some 
+
+technique how most of the experiments and all that stuff
+
+ 
+
+but there's an organ filled with some materials so you will be your own 
+
+sometimes strong see on a deal 
+
+and to heat at a different temperatures 
+
+and then we start out with an atomic been 
+
+which has is so 
+
+yeah distribution of law cities 
+
+and down usually they're very fast ever few hundred meters per second and so on 
+
+the first step 
+
+and is something that was developed in the eighties already 
+
+is to slow it only been down 
+
+by using the resonance radiation pressure 
+
+multiple hold on scattering and momentum transfer from laser light 
+
+and if you scatter 
+
+let's say a few ten thousand photons 
+
+and tom 
+
+then you can slow down to being one to distance off let's say me tell half a meter 
+
+and the other the atoms which uh slowed down to 
+
+just a few meters per second atomic been 
+
+slovenia nurse at develop intimate
+
+ 
+
+a piece already 
+
+then we have slow at times 
+
+next step 
+
+we 
+
+capture them here 
+
+in that trap 
+
+now imagine you have laser beams from all sides him of acting chairman laser beams coming from all sides 
+
+and if you choose the right 
+
+polarisation to choose right magnetic field 
+
+and you play some tricks to write frequency 
+
+i don't want to go to all these details here 
+
+but then you can 
+
+capture the atoms 
+
+and you accumulate them 
+
+and within a few seconds you can accumulate let's a billion of atoms there 
+
+and these atoms then have typically amelie kelvin sometimes a little bit less 
+
+um of temperature here 
+
+but that's what we call them that many do optical 
+
+a trap 
+
+and tom 
+
+then next 
+
+you take these atoms prepared here 
+
+and you transfer them into another type of trap 
+
+traps mate with our made out of electromagnetic fields 
+
+and of two types 
+
+one type which is very common 
+
+is a magnetic trap 
+
+when you build the right set coils 
+
+and you create a local meaning the of to mean eddie field and then you can trap 
+
+sudden atoms which underwrite spin state 
+
+okay and this potential listen a conservative potentially don't know long run 
+
+and get a light 
+
+and um in in this way 
+
+you can do for the experiments i'm going to talk about and 
+
+interesting trend in the field 
+
+and s. in particular in austria and then a very strong group which pioneering 
+
+works meet my school 
+
+they can integrate these things and build on chip 
+
+little a magnetic traps and is a very flexible tool 
+
+too many parade them 
+
+and also many ideas to use t. strap that them stand 
+
+and with local potential well center cool them to the ground state use this 
+
+for quantum computation schemes 
+
+we are interested mainly in another type of trap 
+
+so called optical bible traps 
+
+the basic idea is very simple 
+
+the most simple trap 
+
+just taken 
+
+infrared laser beam now you can buy
+
+ 
+
+hundred watt five l. a. is a 
+
+um had 
+
+yeah way things total one thousand sixty nine readers uh so you focus them 
+
+if you turn michael meter 
+
+then you can use to light 
+
+to cut steel plates 
+
+i six grams 
+
+but you can also use the same light 
+
+to trap atoms of non locality temperatures 
+
+so the atoms don't have any resonance lying down so there's no 
+
+bresnan interactions 
+
+and so a peak 
+
+a nice laser light 
+
+ah will simply create a 
+
+potential well
+
+ 
+
+and the main mechanism is stated that it would you be off resin and lie polarizers the atoms and any other type of false attracting them 
+
+too many mark 
+
+after like that so it's a very simple tool and we use it very often 
+
+in the labor it or 
+
+you can modify this a little bit you can make it a bit 
+
+a guy more 
+
+elaborate you can cross to beans and then you have an nearly
+
+ 
+
+isa tropic trapping volume here 
+
+and you can create standing waist 
+
+here's one illustration 
+
+is a standing wave pattern 
+
+where you can confine 
+
+adams and use pancake tightly us 
+
+understanding in this anyway 
+
+but is a way for example to create 
+
+a two dimensional 
+
+the system 
+
+i hear these pancake type traps 
+
+because i'm a particular emphasis i will talk a little bit 
+
+about this 
+
+okay but 
+
+i've talked a little bit of a laser cooling just for 
+
+used to the very basic ideas 
+
+but laser cooling does not get cold enough you don't reach quantum generously 
+
+um and i'm told out few orders of magnitude interface based density
+
+ 
+
+i'm missing 
+
+you have to do another thing is a cooling is limited by your effects item one talk about this 
+
+but what you then do 
+
+something 
+
+but you conceptually all know 
+
+and in the morning you're the hot coffee cup 
+
+and how you call it 
+
+you blow away be 
+
+um vapor steam on loan so chris and d. holding cools 
+
+is about schooling
+
+ 
+
+and we have to adam strapped now in a trap 
+
+this is just a 
+
+and park summation harmonic potential we have the atoms with 
+
+the optimal energies 
+
+and now you start to selectively remove 
+
+adams added 
+
+above a certain entity shredder old 
+
+there are certain tricks to do it the most simple ways just your afternoon laser beam 
+
+rant on the power of your laser beam 
+
+and these atoms escape 
+
+now it's important 
+
+the rest here 
+
+so analyses 
+
+keeps on formalise in always produces some atoms 
+
+which have more 
+
+energy than the other ones and then be much more energy 
+
+and the other ones have an average so you're of atoms 
+
+but here we have much more energy 
+
+okay and you you can keep the peace process is ongoing 
+
+actually although wide ranging in some experiments we even reduce the whole potential effect of one thousand 
+
+and then you get really cold 
+
+at the end you lewis maybe ninety nine percent of the atoms sometimes ninety nine point nine 
+
+but the rest that you have is extremely cold none of kelvin 
+
+and it reaches stand 
+
+quantum degenerate see
+
+ 
+
+okay that means 
+
+if i do this with 
+
+warzones 
+
+what happens is suppose einstein compensate is formed 
+
+and yeah 
+
+some early citing suppose einstein condensation in nineteen ninety five 
+
+the group of a condo wyman in boulder candle a group at m. i. t. v. 
+
+and you see the onset of a bowes einstein condensation 
+
+so what are these images 
+
+first of all how we detect this 
+
+what we do is to read in most of the experiments we released the atoms from the trap 
+
+the trap was turned off 
+
+and then the cloud expands 
+
+and then we take a snapshot of a cloud 
+
+even a analysing the fluorescence all their absorption 
+
+and from these images of density profile 
+
+we can extract the temperature 
+
+and if it is a solo gas
+
+ 
+
+that's a song logos 
+
+then it's simply a gaussian shaped cloud 
+
+and you can expect the temperature 
+
+then if you reach pose einstein condensation 
+
+you have these 
+
+background which is still has a form of ago also but there's a peak on top of that 
+
+and they speak on top of that 
+
+that's the 
+
+population and oppose einstein common said 
+
+it's much more narrow when you keep on calling then you can reach 
+
+states where you have 
+
+more than ninety or ninety five percent 
+
+in divorce einstein conversation
+
+ 
+
+pew of was einstein compensated 
+
+which you see here quite nicely 
+
+similar behaviour is also shown 
+
+here this is to be human 
+
+and this is was sold you 
+
+these was ninety five great breakthroughs 
+
+but in in the field and a 
+
+and cornell wyman kepler received two thousand one nobel prize for this achievement 
+
+last year early experiments on was einstein condensation 
+
+okay and now let me look into 
+
+the year two thousand 
+
+here's a periodic table 
+
+on this side of marked the elements that have been pose a condensed at this time
+
+ 
+
+rubio 
+
+a review media so you're is here 
+
+then there was an experiment at rice nearest only steal and hydrogen and kept us group 
+
+all done in the united states 
+
+if you look at the state owes 
+
+now or or early this month 
+
+then it looks 
+
+much more diverse 
+
+that looks like this 
+
+yeah you see it's much more colourful 
+
+and many more 
+
+different countries mostly european achievements them 
+
+many things have happened since then 
+
+and now it's a 
+
+senile twelfth 
+
+species a market here 
+
+then you can ask why do i need different species 
+
+no one's ever compensate akin to experiment with this 
+
+but they all different 
+
+in terms of to interaction properties 
+
+now they have interaction properties also optical transition schemes 
+
+so it's really worse to have new species in the game when every new species 
+
+a brought into conversation 
+
+until now all 
+
+has brought in some interesting new aspects of the field 
+
+and um 
+
+i will show some examples sees you sees you we were the first to condemn sees your beer 
+
+and and 
+
+that's a situation 
+
+i said earlier this of months and we were very happy to just 
+
+few weeks ago
+
+ 
+
+we could also achieved to post condensation of human 
+
+ah ah so we're very proud as a small country that we have three first condensation centre 
+
+only u. s. is doing better at five first conversations 
+
+it's a little bit like a they're climbing mountains have opposed to read the first one down 
+
+and the neural interesting thing is that this is a very strongly magnetic species 
+
+and you have very strong magnetic interactions between the atoms 
+
+and as a topic and actions 
+
+which is now a very interesting trend in the field to work with 
+
+adams with his strong 
+
+bipolar interactions 
+
+okay it 
+
+but ah this gives to the overview why all these ones empty their entry because
+
+ 
+
+laser cooling doesn't work 
+
+the laser cooling the bottleneck 
+
+and you have to do you need close topical 
+
+transition schemes where can scatter many many 
+
+ten thousands of photons to make laser cooling work 
+
+and these what you find with the of cali atoms of a cut in some other once maybe a few more candidates here 
+
+ah but in general it's it's difficult so this is to bottleneck 
+
+not about cool about going woodwork principle with any adam 
+
+okay so now that we look into the from the gases from the gases 
+
+now a few from the gas situation see on
+
+ 
+
+brought into um 
+
+he generously meaning 
+
+have a nice from the scene 
+
+and those two once a particular importantly human potassium most schools work with them 
+
+and these have to um 
+
+led to the achievement of molecular balls einstein condensation 
+
+i'm a talk about this later when you pay other forms and bring them into condensation 
+
+and to create from unix super foods 
+
+i hope at the end of my talk i will have some time 
+
+to speak about this
+
+ 
+
+just to give you 
+
+the overview here 
+
+ah so this is something which is very important in the field of connects to 
+
+a condensed matter physics 
+
+you can create so called optical lattices simply by 
+
+using laser beams 
+
+creating standing waves interfering 
+
+and then you can create for example in the treaty configuration 
+
+the regular 
+
+optical crystal 
+
+new arrangement retrieving traps the atoms at 
+
+sites 
+
+which have we are and a half apart 
+
+but these are so called optical lattices and many of the experiments um now done with optical lattices 
+
+if you use one pale themes less 
+
+then you can create 
+
+nice one dimensional to stoops 
+
+and there's not a lot of interesting experiments on the physics of one dimensional systems where can
+
+ 
+
+realising very keen ways some 
+
+and it only runs in 
+
+in one d. and check what is going on 
+
+and tom he has also something very important 
+
+ah and is this a so called mott insulator phase transition 
+
+normally once you load your balls einstein compensate into such a lattice without losing entropy if you do it right
+
+ 
+
+then you find 
+
+that you have a certain distribution some sites you find 
+
+one atom somewhere to somewhere between somewhere zero 
+
+and so as a certain statistic to distribution 
+
+but once you ramp up your leftist gaps 
+
+okay no before i explain this 
+
+and then you release your atoms can be spat on 
+
+and then you see an interference pattern is also done in time or flight 
+
+then to do distribution 
+
+the news really see that friction peaks 
+
+madam waved a fraction peaks 
+
+from that you learned it's in this simple fluid stately have long range coherence 
+
+over many left sites 
+
+but once you drive your letter strongly i mean you crank it up to power of the lettuce 
+
+then you will see suddenly this 
+
+then you get a well defined mumbai it's one poolside 
+
+in the lattice 
+
+and then the clearance disappears 
+
+and the defection happens gone 
+
+and you say okay now 
+
+maybe i just have heated up a system now 
+
+and um i've destroyed interference but then you do it this way and is an example means pork 
+
+um this to work was done recently were strong so maybe four 
+
+this is the balls of condoms eight 
+
+you put it into a lattice 
+
+then it becomes a solo fluid in the left isn't shows that fraction peaks 
+
+now you crank up the lattice power 
+
+you and then you see a death action pending disappears 
+
+okay to question is reversible 
+
+and here you see yes 
+
+if you could have a number of the lettuce down 
+
+then you get again 
+
+um you reverse your quantum phase transition 
+
+and then you get your 
+
+interference pattern back 
+
+and so this transition to as to what insulated amok in so it has a very interesting starting point
+
+ 
+
+for many 
+
+experiments 
+
+okay so this is another thing which is a new development 
+
+i told you already that all images we show a density distributions where's implicate 
+
+the laser pulse into the operators and then 
+
+monroe image the absorption profile up to cloud 
+
+and but now 
+
+it's that has 
+
+been developed such a sophisticated leather 
+
+the money's even 
+
+capable of detecting single atoms and addressing those sites
+
+ 
+
+really see this is a picture formed 
+
+marcus kind of open how about 
+
+and a view taken really see 
+
+the distribution in such a lattice 
+
+and they can only talk 
+
+i mean yes um empty sites that you see 
+
+and these is to reconstruct a pet on 
+
+and you can also many plates and you can light so compact comes 
+
+it's very sophisticated here 
+
+you for example you see a shell in the mott insulator 
+
+they have won adam
+
+ 
+
+the two atoms are gone you can remove him by certain tricks so it's 
+
+really the level now the feud has sent as approach 
+
+okay what next 
+
+that is very important 
+
+a interaction between the atoms without interactions it's quite boring 
+
+but we have interactions 
+
+and the interaction that 
+
+such low temperature 
+
+a completely dominated by s. with behaviour 
+
+so there are no higher partial waves really both the scattering 
+
+and turned 
+
+so we can 
+
+as you know textbook that
+
+ 
+
+yes where scattering is characterised but yes we're scattering and 
+
+so actually we need to know one parameter 
+
+and we know 
+
+almost everything about interaction 
+
+yes where scattering length 
+
+okay question is can we control it do we haven't handled all mop and experiment can say now i want to have very small scattering lines and the change it now a big scattering lens 
+
+now i want to carry a tune from negative to positive does this exist 
+
+and and this is something that came into the field 
+
+about twelve years ago 
+
+before i mean we just have to use what nature gives to our star 
+
+yeah but then we learned about so called fish for resonances 
+
+i don't want to go to the details of these resonance but the refresh resonant depends on the magnetic field 
+
+something that he feels access 
+
+and it's a magnetic field values you will find 
+
+resonances 
+
+and if you plot the s. where scattering ninety eight has a background behaviour 
+
+and some certain field range it can go 
+
+shows such at this person shaped resonance behaviour 
+
+described by such an expression 
+
+and what you have to learn about your certain species that you use 
+
+where to find peace resonances 
+
+and this is complicated because these okay these line is a molecular state what happens here is to the molecular state in a close channel 
+
+a approaches the threshold couples and his mahdi feisty whole scattering problem 
+
+you have to learn a lot about molecular physics 
+
+to understand these special resonance structure 
+
+um so fortunate to re a very good collaborations people understanding this 
+
+and they can really if we could give them 
+
+experimental observations on certain resonance spectrum they can understand it model it and
+
+ 
+
+predict and scattering length 
+
+versus magnetic field 
+
+is well advanced and now we have for many of these species combinations 
+
+a nice fresh resonances and is extremely important 
+
+for all of our experiments 
+
+okay 
+
+now this is a typical situation in the lab 
+
+so you see it's tabletop experiments here's a laser table 
+
+a graduate student working on setting up amaze us
+
+ 
+
+and then we put optical fibers to the neighbouring table and a you find equipment 
+
+and the vacuum operator so everything has to be done in a dry vacuum 
+
+and once you get it running 
+
+the first stage you get a nice so these who spot here 
+
+is am i need to optical trap optically terps to consume 
+
+fluorescent looks very nicely 
+
+and these are the magnetic field coils 
+
+and all the rest this lot of optics and to control electronics and so on 
+
+okay you can also trapped in the same volume two speeches 
+
+but there's a strong soon 
+
+and the other one is the human 
+
+and then it's getting very interesting because you you mix to specious here we have 
+
+artificially separated them to show this 
+
+but you can combine them and then you can do many interesting things based on the interspecies interactions 
+
+for example you can form 
+
+into a nuclear molecules from them 
+
+and to work with these molecules is also very important 
+
+trend now 
+
+here is our newest 
+
+child i would say the of your money to optical trap you see 
+
+he a nice car lights between yellow and green 
+
+it's a european fluorescent in these experiments 
+
+we had to choose to pose einstein compensate 
+
+last 
+
+early this did this month 
+
+and and 
+
+it's the team that's not how it's almost a year old but to give you an impression we are both turkey person to the group 
+
+um and behold rule working on seven different 
+
+a machines 
+
+and he uh the principal investigators in the group
+
+ 
+
+ah that's a units from cesc are following along 
+
+with few of them experiments 
+
+and uh floor amtrak strong soon 
+
+and christoph mango was yeah 
+
+molecules aussies you men so on 
+
+and then my activity so we organised in such a way 
+
+but we have a 
+
+for p. i. isn't it 
+
+in the other called group 
+
+and now i want to okay tell you 
+
+little bit more multi my first example 
+
+what are these yippee more quantum states 
+
+mysterious you've team of quantum states actually 
+
+for this paper appeared
+
+ 
+
+by nineteen seventy enough a teacher forty 
+
+creed forty two years ago 
+
+a forty two years ago 
+
+on on 
+
+on 
+
+on live t. english translation young weekly bone states of three resonant interacting particles 
+
+and these wasn't idea driven by he was working at a nuclear physics institute in thinking about 
+
+what i'm what happens if i have some 
+
+nuclear on sunday interact 
+
+a pairwise but the scattering length is extremely large 
+
+and uh so you found something 
+
+which is drawn here 
+
+i mean explain it in more detail 
+
+and you see knowledge is just a collection of some recent papers
+
+ 
+
+now it's an extremely active research field of many groups are now studying 
+
+if you will states and these things 
+
+so what happened 
+
+i actually yeah it's a bit early few more few visited in spoke 
+
+in two thousand nine 
+
+and time 
+
+here's the operators actually where the first time ever traces of his 
+
+a quantum states have been seen 
+
+i was very interesting moment for us to have been visiting 
+
+ah okay but now what is a story 
+
+stories the following what is plotted here's the energy 
+
+and this is the inverse scattering lengths so here the scattering things divergence here's a resonance 
+
+or can if you start with the two body picture 
+
+and what you get on the positive 
+
+scattering side 
+
+is a rebound i'm a state 
+
+now have a very shallow diner was extremely weak binding energy and this is a dime or state
+
+ 
+
+is well known 
+
+but now to this situation 
+
+let's add a third part of particle 
+
+okay then business 
+
+these so called adam diamond threshold 
+
+you can have a dime or free adam 
+
+but what now happens below threshold 
+
+this is the interesting thing 
+
+and is pretty would predict that lady theme off you get a wiki pound try messed eight 
+
+which follows about 
+
+the photos this red line is the energy that we keep on trying man 
+
+and it surprising thing is once you get such a week debunked right now 
+
+and you change your length scale by a factor of twenty two point seven 
+
+then you get another try 
+
+okay in my drawing it's a fact that we have produced to to affect of to its effect of twenty two point seven
+
+ 
+
+it's an even more we could bomb it has the same 
+
+kind of geometry in behavior 
+
+only delaying scaleless different perfect of twenty two point seven 
+
+yeah but that's not all actually another factor twenty two point seven you get another one 
+
+and and so the prediction wasn't in finite serious of these states 
+
+and witty scaling factor twenty two point seven is a v. fuming states and they have several 
+
+very 
+
+counterintuitive and puzzling properties and there was a reason why 
+
+when you first years he works if you was kind of protected it's wrong was he predicting you couldn't be and so on 
+
+but it turned out to be right 
+
+all those two theoreticians wanted to pull from 
+
+wrong actually confirm his theories 
+
+and uh so one region interesting region is this one 
+
+this is a region where you don't have the two body problem state at least not a shallow one
+
+ 
+
+but you can have as we body bounced it 
+
+it's a so can borrow only in reaching 
+
+and they are 
+
+examples a nuclear physics like only human eleven 
+
+a nucleus where you have a vision nine core enter throughout the neutrons 
+
+whenever you remove one of the new tunes the other one 
+
+it's also in stable and goes away and it's a brawl mewn state 
+
+this is no nuclear physicist is not a new remote state doesn't qualify 
+
+and you feel more state but just want to show that their concepts 
+
+nuclear physics 
+
+and turn 
+
+this is another thing i want to mention briefly 
+
+there was a long series of experiments looking for this yippee more states in helium 
+
+in his urine 
+
+i'm in your molecules 
+
+on his was done by men by tenuous encoding and 
+
+over d. k. torso and they try to find easy theme or states
+
+ 
+
+by looking at their fraction pattern repeated abuse 
+
+but finally unfortunately standard for the last paper and two thousand five you can cruise italy 
+
+we have to begin landed 
+
+we have to begin run tuition called atoms 
+
+we can change the scattering and 
+
+they have to live with the scattering langford the system has and they're lucky to find some state 
+
+but we can control it 
+
+that's the main point 
+
+okay so coming back to the call adam experiments 
+
+a what is a look so how do we see peace if you most states 
+
+and there's an elementary process called tree body recommendations 
+
+three atoms come together 
+
+and then tool for paul mode i'm error 
+
+and the other one this remains of three adam 
+
+and the binding energy is just taking away with the kinetic energy here 
+
+and these tree body recombination 
+
+and actually industry body recrimination this is also the and experiment
+
+ 
+
+so if this happens 
+
+these particles are lost from a trap 
+
+okay so what we measure this loss 
+
+versus magnetic field meaning of loss versus 
+
+scattering length 
+
+and okay i don't want to go deep into sear we just want to say there's a loss was proportional to the 
+
+density cute 
+
+because a tree body were combination 
+
+and you can express it in this way 
+
+there is a 
+
+background behaviour it strongly depends on the scattering lengths of the force power 
+
+so you have if you have systems was large scattering names 
+
+you run into problems with his we body decayed 
+
+ah that's true football zones 
+
+but as a prefect on the prefect on 
+
+it is interesting broker because a prefect on is also function of a 
+
+and you find something like this 
+
+he'll find these precepts taught 
+
+well these function c. o. a. 
+
+this is a 
+
+is and number was making periodic function you find
+
+ 
+
+is factor of twenty two point seven a 
+
+here you see really cheesy theme of type physics 
+
+when you measure these c. averse verses a 
+
+you can see 
+
+if you know physics 
+
+and to um okay 
+
+okay john 
+
+with this but what is now wrong 
+
+observable in this scenario 
+
+here are the stadium people state comes to the threshold 
+
+this causes 
+
+pronounced resonance 
+
+that means it's very very low energy use non though
+
+ 
+
+kelvin business 
+
+picchu a little wallet energies 
+
+i mean be atoms approach each other 
+
+and then they formed a chief he will stay 
+
+this opens up a channel 
+
+to foster body decay 
+
+okay these calls a resonance 
+
+actually 
+
+couple of years ago in two thousand six 
+
+we could observe such a resonance 
+
+and what you see here is a 
+
+a somehow the loss 
+
+versus the scattering length of time on the negative side 
+
+you really see there's a pronounced resonance here 
+
+which fits nicely 
+
+is the resonance of the available theory 
+
+just two primary to fit 
+
+and this was a first very clear indication 
+
+of existence of such a you fuel state
+
+ 
+
+meanwhile we have 
+
+measured many more quantities related to be a few more physics other groups 
+
+i worked on this and this is now 
+
+the whole scenario 
+
+i would say 
+
+the smallest confirmed s. um quantitative questions regarding correction and so on 
+
+but this is confirmed now 
+
+okay and i just want to give you some idea of some recent experiments we did 
+
+in scenes human 
+
+are we 
+
+but if you plot p. 
+
+scattering lang's versus magnetic field it looks like this 
+
+um roughly 
+
+and previously worked in this middle region yeah 
+
+now we are 
+
+have the capability to apply much higher magnetic fields 
+
+and the other resonances here 
+
+and we can check 
+
+whether the same type of behaviour 
+
+that we observed here shows up here or there
+
+ 
+
+and to um 
+
+these are some recent observations and actually be find in different magnetic field regions we find p. c. c. morph resonances 
+
+and ah there's one 
+
+a very interesting question 
+
+i mean there was a long debate in the field about a so called tree body parameter 
+
+which is in charge 
+
+indeed if you move prediction tells you that piece infinite serious assayed should exist
+
+ 
+
+but it doesn't tell you where it stops 
+
+and where it has a starting point that it's a so called tree body primary tenant 
+
+and some theorist 
+
+tell you 
+
+this is a priori unknown you cannot predicted it comes from short range physics and so on 
+
+and um 
+
+and it will be different 
+
+for any to body resonance you find a different we body parameter 
+
+and and 
+
+so but the other arguments wire on maybe it should be in the 
+
+the other way and 
+
+so we we looked i mean not not in any biased way we just observe our 
+
+if you morph resonances for different body resonances 
+
+and then we found if you compare our old observation that low field 
+
+was a scattering lines 
+
+with the 
+
+new observation that i feel that 
+
+is he the behavior looks to saint 
+
+and you find a resonance at 
+
+the value of the scattering lengths 
+
+minus nine hundred boring here 
+
+which is essentially the same with india of us 
+
+and we did this on call different resonance us 
+
+and we find that 
+
+is only one tense of the fifteen period so these almost the same 
+
+a small variations and was in the air of us 
+
+it has the same tree body parameter 
+
+and this really positive some serious and they had to rethink what is going on 
+
+and i think it's now 
+
+it's on that it's at least also picasso systems is understood what is going on as a new type of universality
+
+ 
+
+for the atomic systems 
+
+and the three body parameters determined by it 
+
+one of us interaction actually 
+
+very long range interactions are to the minus six one of ours 
+
+and these coefficient then determines 
+
+these three body primary 
+
+this was a surprising 
+
+development 
+
+in the field and we could contribute to this 
+
+okay i'm sure in the team 
+
+into the lab oratory 
+
+again with no honorary member 
+
+and and then just a last
+
+ 
+
+thing so what is going on now all 
+
+now we 
+
+look into a more generalised situations 
+
+uh there are predictions on more general few body states 
+
+for body five bodies six body cluster states 
+
+and we observed very kissing inches of four body states and now we can even detect 
+
+five body states 
+
+causing resonances 
+
+and do the positions where they occur in terms of midi field and scattering is 
+
+very nicely fit to universal theory 
+
+and so this this um 
+
+some recent development and then in general i want to make the point
+
+ 
+
+that um 
+
+a few bodies physics is one example from lettuce on experiments 
+
+that that understanding cream body interactions 
+
+it's very very important and interesting also to understand and am anybody problem 
+
+approach to many pro pro form 
+
+unless it into what is rewarded for the interaction 
+
+and i must have been too many body problem and you can use it you can exploit it also to create 
+
+new quantum phases 
+
+an optical at this and is a nice 
+
+example 
+
+so few what interaction inserts conclusion of to spot a very important to understand and controlled
+
+ 
+
+anybody physics 
+
+so that was my 
+
+first example 
+
+on what we can do with a cold atoms 
+
+the second one is on strongly interacting for me gas us which is close i would say to them 
+
+condensed matter side 
+
+and in some very simple illustration of a two component 
+
+for me gas 
+
+you see you have some 
+
+read guys here and here little guy so these are 
+
+adams 
+
+and in 
+
+most of the experiments 
+
+a dead distinguishable
+
+ 
+
+i mean all the same with the same color i indistinguishable identical performance 
+
+and what makes ten distinguish rule is 
+
+a different internal spin state 
+
+we can prepare some book 
+
+in different incomes spin states 
+
+and so it's a two component mixture why are we doing that because we want to use 
+
+s. with interaction 
+
+at very low temperatures on p. wave is completely neglect negligible 
+
+we want to have s. way from direction devil we need 
+
+one identical particles interacting 
+
+okay and so this one interesting and as an interesting regime 
+
+what happens if you have an s. way scattering lengths between these particles 
+
+and you increase it 
+
+use of cash for residents 
+
+and you turn it to let's say infinity 
+
+so the t. s. were scattering becomes much larger as compared to the inter particle distance 
+
+then you create a firm tonic 
+
+many body system 
+
+in contrast to bowls of gases and that's an interesting point
+
+ 
+
+and these systems very stable 
+
+the bulls of galveston you get enormous problems which we body became a case like crazy when you tune up scattering and 
+
+in the front of gaza's it's different 
+
+the system becomes 
+
+come even very stable 
+
+and the reason is that they are 
+
+from rooms 
+
+and for three body vendor newt re particles and with you in your free particles two of them are identical 
+
+and best polly blocking suppressing the decay 
+
+so this is a stable situation 
+
+in the from a gas 
+
+okay so actually there are some similarities and the regime that we can realise and love oratory 
+
+this very closely related to a neutron star to the crust of a neutron star 
+
+but you have to situation spin up and spin down neutrons 
+
+with a very large scattering lenders 
+
+large competitive and uh particle spacing 
+
+this cross can be super fluid new principal fluidity and so on 
+
+and this is some regime we can realise into that
+
+ 
+
+and so sometimes when we have general public is ignorant social them a new topic of trapped of 
+
+small that 
+
+ball in the and tell you don't look as a model for the neutron star in a vacuum operators 
+
+and we can now 
+
+investigate this in different ways we can squeeze is that it also late and so on investigator properties 
+
+but you can never do wouldn't and stuff 
+
+that's nice can controllability of the system 
+
+okay it coming back to this picture unity interest in question is one use this to question what happens now 
+
+if lay 
+
+increased a scattering lens if the tuna to infinity 
+
+by bridging scattering 
+
+what happens 
+
+it's not known in the field is broached problem 
+
+actually what happens this relatively simple 
+
+and these scattering lengths blocks a dazzling scale 
+
+and you can describe the system in terms of a re normalise chemical potential 
+
+where you have a primary down
+
+ 
+
+see tell you 
+
+no question is what is the value of two seater 
+
+and now it's kind of can working towards o. point three seven thirteen attractive situation 
+
+the gas gets more dense 
+
+um but in many different respects behaves as if the war said monday informing us 
+
+and so the properties of such a firmly gus 
+
+ah 
+
+i have been investigated in many many experiments in the last few years 
+
+and this is quite well understood situation 
+
+ah now 
+
+ah and the experiments have really pushed a lot 
+
+a series 
+
+mainly 
+
+dark wonder wonder carlo series tie dramatic of coaches and conan really giving
+
+ 
+
+precise benchmarks to further develop series 
+
+in this field so nice example about the interplay of experiment 
+
+interior 
+
+on the complicated than anybody problem 
+
+okay coming to the experiments we know these things with me from six atoms 
+
+we use a low as dizzy one diagram willows use a combination of telos to space states 
+
+it's a classical combination that many groups are now using it 
+
+in the world 
+
+and what you find various natures very kind to you 
+
+because there's a broad an extremely broad fresh resonance 
+
+which is 
+
+hundreds of gauze wind and snow extremely well characterised 
+
+so we now wield the position of the poll does it is within 
+
+less than adults 
+
+and so we can extremely precisely 
+
+but you know scattering lens using these resins 
+
+okay 
+
+so we have a fantastic injection control not 
+
+and let's say we go to his regime look very large positive scattering things and we can form 
+
+these ricky bond diamonds 
+
+onto body objects molecules 
+
+strange kind of molecules 
+
+okay business operators we have again attracting sham of vacuum here
+
+ 
+
+and here 
+
+there's a simplified scheme what happens 
+
+at the end it's just a pair of coils 
+
+and it's a laser beam 
+
+and his laser beams ramp down 
+
+and these samples of africa to cool 
+
+and then when you tune to the right wing any feel what you see is this and is the onset of molecular was einstein condensation 
+
+some apart 
+
+was einstein condensation of these payout from young's 
+
+and then these forms and monica doubles einstein compensate 
+
+this was achieved for the first time in two thousand three 
+
+in spoke at m. i. t. and you'd boulder 
+
+a boulder was protesting forty atoms 
+
+and to us so this molecular be 
+
+excellent starting point for 
+
+through the things 
+
+ah so this brings me to the so called b. c. b. c. s. cross a physics 
+
+ah so we have here the bows aside
+
+ 
+
+we have a trap was bowl zones we have here trap was strongly owns 
+
+and he had forms keep was zero balls are compensated 
+
+all in the wrong state 
+
+here just homes astronomy see 
+
+filled up to the tommy energy level 
+
+okay 
+
+looks like a completely different physics 
+
+but actually 
+
+it is 
+
+these two different worlds you seemingly different worlds 
+
+are connected 
+
+by interaction 
+
+and there's this moves crossover between these situations 
+
+and town so the key to understand is is pairing 
+
+the regime was when you have two of these guys and they compare up informal composite bows on which we call a molecule 
+
+but you can have molecular was einstein condensation 
+
+if the interaction is a different kind of um negative scattering length
+
+ 
+
+then prince where you can get codebook paris 
+
+and it becomes a 
+
+kind of the super fluid 
+
+similar to 
+
+now of normal super conductors with electrons 
+
+and turned away to control it is a scattering length 
+
+so we have these wonderful scattering length 
+
+we can tune on top of the residence where we get this universal from a gas 
+
+um which has been subject of many investigations for the can also explore different regimes 
+
+and it's a crossover gas and sometimes 
+
+we also call it a high p. c. super fluid 
+
+and you might you may find it funny a high p. c. system at the say
+
+ 
+
+a typical e. two hundred non okay lean condition temperature 
+
+so it's not heidi see in absolute terms of course 
+
+it's heidi see in terms of to for me temperature 
+
+and these systems become superfluid it 
+
+twenty percent of the from the temperature 
+
+in this respect it's it's heidi scene 
+
+and term many experiments have explored this a different groups 
+
+we also contribute it by looking at collective modes 
+
+shake the system would begin sauce to date and then you see 
+
+when you change index which then how the how the frequency changes 
+
+and here we see 
+
+it's a superfluid regime
+
+ 
+
+where it is hydrodynamics 
+
+and here it's just a collision this regime when sonoma from a gas 
+
+many experiments and then 
+
+superfluid he was finally firmly established 
+
+but a group of a catalan see a line at m. i. t. 
+
+sunday up so of what you see is really formed and informing us 
+
+and this fits very nicely to the old picture 
+
+and so this is now fairly well understood situation 
+
+i just want to make these common it's the b. c. b. a. b. c. s. crossovers now also honour 
+
+quantitative level 
+
+very well understood 
+
+forty quincy raw there are some remaining issues some finite temperature behaviour 
+
+there are many open issues regarding what i wear when you could do it now into bjorn one b. 
+
+and is now what some groups i very actively exploring 
+
+um 
+
+but let me come to 
+
+another 
+
+new crunchy and to feel that something we are investigating 
+
+he's a so called for me from a mixture strongly interacting systems made of 
+
+different species not different spin state but you read it a completely different species 
+
+and look at the interactions
+
+ 
+
+and a experiments who are going on in a pin in spoke 
+
+unix in singapore amsterdam 
+
+m. i. t. in s. paris 
+
+and perhaps another 
+
+oops i'm not aware of 
+
+and so this is something i've 
+
+sean already we have two different 
+
+spin states 
+
+now would change the situation now we have these big guys of the small guys 
+
+and these are different species
+
+ 
+
+and then you ask wise is interesting 
+
+lies is now interesting to just use another species like mused it can spin states 
+
+it's interesting because there's the mass in balance 
+
+once you have different masses in the system 
+
+then you can have a 
+
+asymmetric face diagrams new phrases occurring 
+
+so it opens really a way of new quantum phrases in in these systems 
+
+and you can ask additional few body states 
+
+a bit beyond a certain critical mass ratio 
+
+these conform boundary body objects 
+
+and it's not for equinox 
+
+so there's also you can with tight physics 
+
+in this system possible 
+
+and the other thing which i find also very exciting is 
+
+species selectivity 
+
+so what does it mean this means 
+
+i can now create 
+
+optical trapping potentials 
+
+which are only seen by one species and not by the other one 
+
+so i can do funny things i can have a
+
+ 
+
+one d. system 
+
+of one to munich species immersed in a 
+
+treaty ought to be system or the other one 
+
+so systems was mixed dimensionality 
+
+and as a strong trend now what's realising such 
+
+a mixed the systems 
+
+really the independent possibility to manipulate the speeches 
+
+okay now all cases put us in forty and issued six 
+
+um there's not much choice and a former world but we work with 
+
+these two ones 
+
+and you may ask is there again interaction control
+
+ 
+
+and this is something actually a question we asked ourselves for 
+
+maybe three years was very hard to figure this out 
+
+but finally we know it is 
+
+and as a relatively nice resonance love very broad 
+
+at me a hundred fifty five wrongs 
+
+and here you see how we changed elastic scattering cross section 
+
+using such a resin his his residence 
+
+here's the resonance poll 
+
+here's a zero crossing 
+
+and so we have these resins now very well 
+
+under control 
+
+but since the species was new nobody knew the scattering properties 
+
+and we had to start from scratch 
+
+exploring scattering properties 
+
+identifying resonances 
+
+having this here is helping us to understand all this and
+
+ 
+
+it was a process which took three years 
+
+but now it's understood 
+
+and 
+
+and there's a little secret you see it you know these red points 
+
+and how some blue points 
+
+the blue data points this no resonance 
+
+but what is the difference 
+
+differences of spin state combination 
+
+okay have to look into the semen diagram fully human sin potassium actually resonances when 
+
+this year isn't a lower state 
+
+and put testing within the serbs too low state 
+
+okay 
+
+and now comes the interesting point 
+
+we can very easily by using radio frequency methods 
+
+change the speed state 
+
+we can drive coherent oscillations robbie australasians 
+
+do not type things and so on it's a very rich
+
+ 
+
+a toolbox that we have using to review frequency methods 
+
+and the interesting thing is now we can easily switch on 
+
+non interacting too strongly interacting 
+
+that's very important simply by flipping the spin state 
+
+using radio frequency 
+
+okay that brings me to the 
+
+last humanist experiments that we did on polar arms 
+
+on this is not something that's colourful but it's maybe a little bit complicated the situation is that 
+
+just read because the optical polarize ability of the species 
+
+the trap for potassium was two times deeper than police you use the same laser 
+
+but the potential protesting seizes two point one times deeper 
+
+demolition sees 
+
+they we have many molly hume adams to from the energy is much higher 
+
+this brings us to the situation that we have a small cloud of potassium 
+
+sitting in a huge cloud of lithium six 
+
+so on 
+
+and so this is close to regime and we can optimise to probably doesn't this way 
+
+that we have the protesting for the atoms as impure eighties 
+
+sitting in the pharmacy of mayhew six 
+
+okay on this apollo on agree gene 
+
+but in purity stand can become polar owns 
+
+and it's a system of heavy in purity's 
+
+the pharmacy of light atoms 
+
+this was the wrong button okay
+
+ 
+
+and so now the question is a fuller you haven't in purity uniform you see 
+
+what happens 
+
+okay 
+
+if you are off resonance 
+
+you have some background interaction 
+
+and is this something you can understand in terms of 
+
+simple mean field approach 
+
+can be a little repulsive or attractive mean field 
+
+okay simple mean field description work score 
+
+if these primates are 
+
+for me ways 
+
+number time scattering men's dimensionless parameters smaller than one 
+
+if we approach know the resonance 
+
+then it's getting more complicated then you get strong expectations and for me see you create particle whole past nice things
+
+ 
+
+and then you can no longer described in terms of simple mean field 
+
+and apollo on a description works very well 
+
+so that you really have to consider that the particle now 
+
+distorts the foreman c. and creates expectations 
+
+you can describe it of the choir that particle 
+
+when you go very close to resonance does another question 
+
+then you're also 
+
+have a strong rate of formation of molecules of time spent you simply early hume adam 
+
+a protest in purity grab silly hume adam out of the pharmacy 
+
+they form and i'm now 
+
+and then you have kind of a molecule expectation 
+
+and the question is yeah 
+
+will appear 
+
+caller all molecule 
+
+weather conditions 
+
+okay and we explore this and we now to see a human potassium teen the experimentalists here 
+
+in in the lab 
+
+oh to make stone he recalled liberate us 
+
+and uh so actually this work 
+
+out very well with the polar on some on some interesting
+
+ 
+
+new states 
+
+and i'm very happy that we got our paper now last week except that 
+
+intonation onto 
+
+repulsive polaroids 
+
+um so what is the basic idea 
+
+now this is what the series tell you how it looks like 
+
+it is 
+
+negative scattering lengths here attractive situation but is a st. attractive polo on 
+
+on on the other side 
+
+it's repulsive interaction 
+
+and they receive 
+
+a increase of the energy when you approach the resonance
+
+ 
+
+ah 
+
+then here and this grey shaded area 
+
+this comes from the molecule formation 
+
+it's a continuum because that potassium adam can grab and 
+
+hume adam from the bottom up from the sea 
+
+all the primary energy level and therefore 
+
+it needs to continue move different states 
+
+and desist he's shaded area yeah 
+
+continuum some states 
+
+and then you see 
+
+that the apollo a mix tape here 
+
+then year crosses 
+
+the low energy threshold of the little a citation 
+
+and then you know in this case here 
+
+it can be k. apollo wrong can decay into monica wright cetaceans 
+
+yes some other cetaceans from e. c. 
+
+it's a so called paulo on molecule courtroom 
+
+are crossing and he is expected to 
+
+disappear 
+
+it's to repulsive one 
+
+and it's becoming the prediction increasingly unstable when you're forged a resonance because candy cane to molecular like citations 
+
+also 
+
+he checked of cologne 
+
+so i mentioned already okay this is what i explained already 
+
+how can we investigate this and we do it now by these radio frequency spectroscopy methods
+
+ 
+
+we prepare the situation 
+
+first of all the non interacting spin state 
+
+and then we apply a radio frequency policy 
+
+and we drive it into the store named acting state 
+
+then we take a spectrum 
+
+by varying the frequency and also the main field of the system 
+
+and we can then have access to the whole 
+
+except patient spectrum of the system 
+
+and then it looks like this
+
+ 
+
+yeah very v. scattering lens 
+
+here i see in a spectrum media 
+
+now was false color plot here 
+
+and we see that it goes up here 
+
+shifted up and use attractive site where they 
+
+said sue where there 
+
+situation disappears simon deposed apollo on it except patient disappears 
+
+and if we 
+
+compare this with scenery 
+
+it fits quite nicely into disappearances where the polar encore moniker crossing is 
+
+and here it's easy to be repulsive polar own 
+
+in particular the repulsive polo on this was a really in using attractive poland had been seen before 
+
+but to repulsive polo on that acquires i particle relying on 
+
+repulsive interactions 
+
+that had been seen for the first time yeah
+
+ 
+
+and that is the particular interest you after puzzles pull on 
+
+and just briefly when you crank up the power now we give the system hundred times more wider frequency power 
+
+and you see a very broad spectrum and what you see here 
+
+these all pay expectations 
+
+these are we own molecular expectation these are kind of many body pairs 
+
+and these spectrum also very nicely fits into what pete 
+
+expect here 
+
+another coming back to the repulsive paulo on 
+
+that's the main object of interest 
+
+and it was the predicted that it decays 
+
+and we record time in years of decay 
+
+and we could just by designing the right way you frequency pulse sequence little bit like 
+
+and in my experiments 
+
+we could measure its lifetime 
+
+watch it's t. k. 
+
+the driver pipe pause to create and then we wait 
+
+and if it still lives we can drive it back into a 
+
+into the other spin state 
+
+and so we can get my lifetime can can measure the lifetime
+
+ 
+
+here's some lifetime cross and years as versus interaction 
+
+all measured values 
+
+this is something close to resonance off 
+
+half a millisecond 
+
+which is in terms of to from the energy relatively long 
+
+and these are two different theoretical approaches and you see that's understood quite 
+
+well 
+
+and that pleasant surprise was 
+
+that these polar on a kick cetaceans 
+
+show quite a long lifetime 
+
+it was not expected 
+
+um and experiments on the mission six system and they show all of magnitude less lifetime
+
+ 
+
+and we found out that in these systems for reasons which a little bit complicated to explain one point is a mass different the other one is a special 
+
+character of the resonance 
+
+the system is much more long lived 
+
+and now 
+
+on the question it's nice that interesting 
+
+and i try to explain it in a very few words 
+
+there's a big question on the field 
+
+well when you have a two component from your system and ukraine cup 
+
+increased are positive direction 
+
+will you get stay separation 
+
+will it do to separate so there's a competition between d. 
+
+a repulsion 
+
+and also the from the energy 
+
+we as a separate all will instead 
+
+molecule formation win and the system will become work to do molecular system 
+
+they had been experiments at m. i. t. 
+
+showing that this one wins here 
+
+but now with a factor of ten different lifetime that we have in the system 
+
+actually it seems that 
+
+something like this we would 
+
+we have some preliminary results indicating 
+
+kind of a three phase mixture of 
+
+up to two different species class the layoff molecules in between them 
+
+but is very early on the moon to make too strong claims 
+
+but this factor of ten that we got in a lifetime 
+
+really helps us 
+
+a lot and is another 
+
+example where you 
+
+and now we're approaching with her daughter called atoms 
+
+questions which some are which made from condensed matter that skilled stone a problem yeah 
+
+other this is possible 
+
+okay i think i 
+
+finished up my time 
+
+just time for brief conclusion 
+
+the general conclusion is
+
+ 
+
+a hot or cold atoms off on 
+
+unique 
+
+when a controllable very clean modern systems 
+
+with which you can address many different questions one 
+
+condensed matter physics quantum anybody physics even nuclear physics 
+
+strong interacting quantum matter in general 
+
+and few body to problems 
+
+and ah then the experiments 
+
+they can give us exquisite benchmarks also to test series 
+
+and further developed 
+
+theoretical approaches 
+
+and this has a 
+
+so an already shown very great potential rundown many activities going on now

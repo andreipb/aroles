@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TIER columns="Segmentation">
+    <span start="0.0" end="1.66833">
+        <v>BOTH</v>
+    </span>
+    <span start="1.66833" end="88.4217">
+        <v>TALK</v>
+    </span>
+    <span start="88.4217" end="91.7583">
+        <v>BOTH</v>
+    </span>
+    <span start="91.7583" end="288.622">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="288.622" end="400.4">
+        <v>BOTH</v>
+    </span>
+    <span start="400.4" end="760.76">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="760.76" end="762.428">
+        <v>BOTH</v>
+    </span>
+    <span start="762.428" end="1182.85">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1182.85" end="1353.02">
+        <v>BOTH</v>
+    </span>
+    <span start="1353.02" end="1441.44">
+        <v>TALK</v>
+    </span>
+    <span start="1441.44" end="1473.14">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1473.14" end="1476.47">
+        <v>BOTH</v>
+    </span>
+    <span start="1476.47" end="1478.14">
+        <v>TALK</v>
+    </span>
+    <span start="1478.14" end="1501.5">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1501.5" end="1538.2">
+        <v>BOTH</v>
+    </span>
+    <span start="1538.2" end="1539.87">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1539.87" end="1543.21">
+        <v>BOTH</v>
+    </span>
+    <span start="1543.21" end="1548.21">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1548.21" end="1569.9">
+        <v>BOTH</v>
+    </span>
+    <span start="1569.9" end="1631.63">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1631.63" end="1634.97">
+        <v>BOTH</v>
+    </span>
+    <span start="1634.97" end="1638.3">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1638.3" end="1639.97">
+        <v>BOTH</v>
+    </span>
+    <span start="1639.97" end="1641.64">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1641.64" end="1644.98">
+        <v>BOTH</v>
+    </span>
+    <span start="1644.98" end="1646.64">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1646.64" end="1648.31">
+        <v>BOTH</v>
+    </span>
+    <span start="1648.31" end="1653.32">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1653.32" end="1663.33">
+        <v>BOTH</v>
+    </span>
+    <span start="1663.33" end="1681.68">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1681.68" end="1683.35">
+        <v>BOTH</v>
+    </span>
+    <span start="1683.35" end="1690.02">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1690.02" end="1691.69">
+        <v>BOTH</v>
+    </span>
+    <span start="1691.69" end="1693.36">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1693.36" end="1726.72">
+        <v>BOTH</v>
+    </span>
+    <span start="1726.72" end="1731.73">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1731.73" end="1733.4">
+        <v>BOTH</v>
+    </span>
+    <span start="1733.4" end="1766.76">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1766.76" end="1780.11">
+        <v>BOTH</v>
+    </span>
+    <span start="1780.11" end="1781.78">
+        <v>TALK</v>
+    </span>
+    <span start="1781.78" end="1805.14">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1805.14" end="1806.8">
+        <v>BOTH</v>
+    </span>
+    <span start="1806.8" end="1810.14">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1810.14" end="1815.15">
+        <v>BOTH</v>
+    </span>
+    <span start="1815.15" end="1823.49">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1823.49" end="1826.82">
+        <v>BOTH</v>
+    </span>
+    <span start="1826.82" end="1828.49">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1828.49" end="1850.18">
+        <v>BOTH</v>
+    </span>
+    <span start="1850.18" end="1866.86">
+        <v>TALK</v>
+    </span>
+    <span start="1866.86" end="1893.56">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1893.56" end="1896.89">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="1896.89" end="1945.28">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="1945.28" end="1950.28">
+        <v>BOTH</v>
+    </span>
+    <span start="1950.28" end="2005.34">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="2005.34" end="2068.73">
+        <v>BOTH</v>
+    </span>
+    <span start="2068.73" end="2072.07">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="2072.07" end="2193.86">
+        <v>BOTH</v>
+    </span>
+    <span start="2193.86" end="2197.19">
+        <v>TALK</v>
+    </span>
+    <span start="2197.19" end="2322.32">
+        <v>BOTH</v>
+    </span>
+    <span start="2322.32" end="2340.67">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="2340.67" end="2345.68">
+        <v>BOTH</v>
+    </span>
+    <span start="2345.68" end="2399.06">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2399.06" end="2402.4">
+        <v>BOTH</v>
+    </span>
+    <span start="2402.4" end="2415.75">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2415.75" end="2432.43">
+        <v>BOTH</v>
+    </span>
+    <span start="2432.43" end="2484.15">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="2484.15" end="2485.82">
+        <v>BOTH</v>
+    </span>
+    <span start="2485.82" end="2487.48">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2487.48" end="2502.5">
+        <v>BOTH</v>
+    </span>
+    <span start="2502.5" end="2529.19">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2529.19" end="2549.21">
+        <v>BOTH</v>
+    </span>
+    <span start="2549.21" end="2650.98">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="2650.98" end="2774.44">
+        <v>BOTH</v>
+    </span>
+    <span start="2774.44" end="2779.44">
+        <v>TALK</v>
+    </span>
+    <span start="2779.44" end="2816.15">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2816.15" end="2819.48">
+        <v>BOTH</v>
+    </span>
+    <span start="2819.48" end="2831.16">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2831.16" end="2851.18">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="2851.18" end="2866.2">
+        <v>BOTH</v>
+    </span>
+    <span start="2866.2" end="2976.31">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="2976.31" end="2979.64">
+        <v>BOTH</v>
+    </span>
+    <span start="2979.64" end="2981.31">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="2981.31" end="3054.72">
+        <v>BOTH</v>
+    </span>
+    <span start="3054.72" end="3058.05">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3058.05" end="3061.39">
+        <v>BOTH</v>
+    </span>
+    <span start="3061.39" end="3063.06">
+        <v>TALK</v>
+    </span>
+    <span start="3063.06" end="3066.4">
+        <v>BOTH</v>
+    </span>
+    <span start="3066.4" end="3071.4">
+        <v>TALK</v>
+    </span>
+    <span start="3071.4" end="3073.07">
+        <v>BOTH</v>
+    </span>
+    <span start="3073.07" end="3079.74">
+        <v>TALK</v>
+    </span>
+    <span start="3079.74" end="3101.43">
+        <v>BOTH</v>
+    </span>
+    <span start="3101.43" end="3104.77">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3104.77" end="3133.13">
+        <v>BOTH</v>
+    </span>
+    <span start="3133.13" end="3134.8">
+        <v>TALK</v>
+    </span>
+    <span start="3134.8" end="3148.14">
+        <v>BOTH</v>
+    </span>
+    <span start="3148.14" end="3158.15">
+        <v>TALK</v>
+    </span>
+    <span start="3158.15" end="3183.18">
+        <v>BOTH</v>
+    </span>
+    <span start="3183.18" end="3184.85">
+        <v>TALK</v>
+    </span>
+    <span start="3184.85" end="3193.19">
+        <v>BOTH</v>
+    </span>
+    <span start="3193.19" end="3198.2">
+        <v>TALK</v>
+    </span>
+    <span start="3198.2" end="3206.54">
+        <v>BOTH</v>
+    </span>
+    <span start="3206.54" end="3209.87">
+        <v>TALK</v>
+    </span>
+    <span start="3209.87" end="3216.55">
+        <v>BOTH</v>
+    </span>
+    <span start="3216.55" end="3219.88">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3219.88" end="3229.89">
+        <v>BOTH</v>
+    </span>
+    <span start="3229.89" end="3231.56">
+        <v>TALK</v>
+    </span>
+    <span start="3231.56" end="3236.57">
+        <v>BOTH</v>
+    </span>
+    <span start="3236.57" end="3238.24">
+        <v>TALK</v>
+    </span>
+    <span start="3238.24" end="3249.91">
+        <v>BOTH</v>
+    </span>
+    <span start="3249.91" end="3251.58">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3251.58" end="3254.92">
+        <v>BOTH</v>
+    </span>
+    <span start="3254.92" end="3259.92">
+        <v>TALK</v>
+    </span>
+    <span start="3259.92" end="3281.61">
+        <v>BOTH</v>
+    </span>
+    <span start="3281.61" end="3284.95">
+        <v>TALK</v>
+    </span>
+    <span start="3284.95" end="3294.96">
+        <v>BOTH</v>
+    </span>
+    <span start="3294.96" end="3298.3">
+        <v>TALK</v>
+    </span>
+    <span start="3298.3" end="3304.97">
+        <v>BOTH</v>
+    </span>
+    <span start="3304.97" end="3306.64">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3306.64" end="3308.31">
+        <v>BOTH</v>
+    </span>
+    <span start="3308.31" end="3309.97">
+        <v>TALK</v>
+    </span>
+    <span start="3309.97" end="3321.65">
+        <v>BOTH</v>
+    </span>
+    <span start="3321.65" end="3323.32">
+        <v>TALK</v>
+    </span>
+    <span start="3323.32" end="3324.99">
+        <v>BOTH</v>
+    </span>
+    <span start="3324.99" end="3328.33">
+        <v>TALK</v>
+    </span>
+    <span start="3328.33" end="3329.99">
+        <v>BOTH</v>
+    </span>
+    <span start="3329.99" end="3331.66">
+        <v>TALK</v>
+    </span>
+    <span start="3331.66" end="3333.33">
+        <v>BOTH</v>
+    </span>
+    <span start="3333.33" end="3338.34">
+        <v>TALK</v>
+    </span>
+    <span start="3338.34" end="3340.0">
+        <v>BOTH</v>
+    </span>
+    <span start="3340.0" end="3343.34">
+        <v>TALK</v>
+    </span>
+    <span start="3343.34" end="3345.01">
+        <v>BOTH</v>
+    </span>
+    <span start="3345.01" end="3346.68">
+        <v>TALK</v>
+    </span>
+    <span start="3346.68" end="3350.01">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3350.01" end="3353.35">
+        <v>TALK</v>
+    </span>
+    <span start="3353.35" end="3355.02">
+        <v>BOTH</v>
+    </span>
+    <span start="3355.02" end="3358.36">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3358.36" end="3360.02">
+        <v>TALK</v>
+    </span>
+    <span start="3360.02" end="3363.36">
+        <v>BOTH</v>
+    </span>
+    <span start="3363.36" end="3365.03">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3365.03" end="3388.39">
+        <v>BOTH</v>
+    </span>
+    <span start="3388.39" end="3390.05">
+        <v>TALK</v>
+    </span>
+    <span start="3390.05" end="3423.42">
+        <v>BOTH</v>
+    </span>
+    <span start="3423.42" end="3448.45">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3448.45" end="3450.11">
+        <v>BOTH</v>
+    </span>
+    <span start="3450.11" end="3455.12">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3455.12" end="3458.46">
+        <v>BOTH</v>
+    </span>
+    <span start="3458.46" end="3461.79">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3461.79" end="3463.46">
+        <v>BOTH</v>
+    </span>
+    <span start="3463.46" end="3465.13">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3465.13" end="3470.13">
+        <v>BOTH</v>
+    </span>
+    <span start="3470.13" end="3533.53">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3533.53" end="3535.2">
+        <v>BOTH</v>
+    </span>
+    <span start="3535.2" end="3702.03">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="3702.03" end="3742.07">
+        <v>BOTH</v>
+    </span>
+    <span start="3742.07" end="3865.53">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="3865.53" end="3867.2">
+        <v>BOTH</v>
+    </span>
+    <span start="3867.2" end="3935.6">
+        <v>TALK</v>
+    </span>
+    <span start="3935.6" end="4204.2">
+        <v>BOTH</v>
+    </span>
+    <span start="4204.2" end="4234.23">
+        <v>PRESENTATION</v>
+    </span>
+    <span start="4234.23" end="4239.24">
+        <v>BOTH</v>
+    </span>
+    <span start="4239.24" end="4257.59">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="4257.59" end="4260.92">
+        <v>BOTH</v>
+    </span>
+    <span start="4260.92" end="4322.65">
+        <v>BLACKBOARD</v>
+    </span>
+    <span start="4322.65" end="4324.32">
+        <v>TALK</v>
+    </span>
+    <span start="4324.32" end="4325.99">
+        <v>BOTH</v>
+    </span>
+</TIER>

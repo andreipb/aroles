@@ -1,0 +1,54 @@
+Smooth Receiver Operating Characteristics Curves (smROC)
+
+author: William Klement, University of Ottawa
+
+published: Oct. 10, 2011,   recorded: September 2011,   views: 117
+
+Categories
+Top » Computer Science » Data Mining
+Top » Computer Science » Machine Learning » Supervised Learning
+
+Description
+Supervised learning algorithms perform common tasks including classification, ranking, 
+scoring, and probability estimation. We investigate how scoring information, often 
+produced by these models, is utilized by an evaluation measure. The ROC curve 
+represents a visualization of the ranking performance of classifiers. However, they 
+ignore the scores which can be quite informative. While this ignored information is 
+less precise than that given by probabilities, it is much more detailed than that 
+conveyed by ranking. This paper presents a novel method to weight the ROC curve by 
+these scores. We call it the Smooth ROC (smROC) curve, and we demonstrate how it can 
+be used to visualize the performance of learning models. We report experimental results 
+to show that the smROC is appropriate for measuring performance similarities and differences 
+between learning models, and is more sensitive to performance characteristics than the standard ROC curve.
+
+Slides
+0:00 	Smooth Receiver Operating Characteristics Curves (smROC)
+1:34 	Contribution
+2:24 	Learning Tasks (1)
+2:49 	Learning Tasks (2)
+3:02 	Learning Tasks (3)
+3:35 	Learning Tasks (4)
+4:00 	Learning Tasks (5)
+4:58 	Learning Tasks (6)
+8:59 	Motivation
+12:24 	Applications
+14:53 	An Example: Movie Recommendation
+22:37 	Methodology
+27:08 	Methodology: Score Appropriateness
+29:34 	Constructing the smROC Curve
+30:44 	Methodology: Score Appropriateness
+31:26 	Constructing the smROC Curve
+32:32 	smAUC
+35:32 	Methodology
+36:12 	smAUC
+36:22 	Experiment
+40:27 	Similar PET Models
+41:57 	An Example: Movie Recommendation
+42:19 	Similar PET Models
+42:54 	Similar Naive Bayes Models
+45:07 	PET & Naive Bayes Differences
+46:50 	Conclusions & Future Plans
+48:35 	- Questions
+48:41 	- Questions
+49:20 	- Questions
+55:17 	- Questions

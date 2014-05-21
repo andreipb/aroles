@@ -1,0 +1,25 @@
+YALE - ECON 251 - Financial Theory 
+
+Lecture 21 - Dynamic Hedging and Average Life
+
+This lecture was recorded by Yale University
+
+author: John Geanakoplos, Yale University 
+
+published: March 17, 2012,   recorded: December 2009,   views: 22
+
+released under terms of: CC BY-NC-SA
+
+Categories
+Top » Business » Financial Theory
+
+
+Description
+This lecture reviews the intuition from the previous class, where the 
+idea of dynamic hedging was introduced. We learn why the crucial idea of 
+dynamic hedging is marking to market: even when there are millions of possible 
+scenarios that could come to pass over time, by hedging a little bit each step 
+of the way, the number of possibilities becomes much more manageable. We conclude 
+the discussion of hedging by introducing a measure for the average life of a bond, 
+and show how traders use this to figure out the appropriate hedge against 
+interest rate movements.

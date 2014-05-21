@@ -1,0 +1,326 @@
+
+
+about ten kilometers 
+
+you will find that that velocity becomes 
+
+about two times ten to the eighth meters per second 
+
+which is about  of the speed of light 
+
+and because of this enormousi speed 
+
+onehalf mv squared is horrendously high 
+
+it is a conversion 
+
+of gravitational potential energy to kinetic energy 
+
+and then ultimately to heat 
+
+now nature is transferring mass at an extraordinarily high rate 
+
+in many of these binary systems 
+
+there are at least some hundred or so that we know 
+
+in our own galaxy 
+
+the mass transfer rate which i call dmdt 
+
+so that is the transfer rate 
+
+from the donor onto the neutron star 
+
+that transfer rate 
+
+is roughly ten to the th kilograms per second 
+
+
+it is a horrendousi mass transfer rate 
+
+you can calculate 
+
+by multiplying it with onehalf v squared 
+
+how many joules per second are released 
+
+in the form of kinetic energy 
+
+that means in the form of heat 
+
+and i call that the power of that neutron star 
+
+and that then for this mass transfer rate 
+
+thats about two times ten to the th joules per second 
+
+which is watts 
+
+and that is about  times larger 
+
+
+than the power of our own sun 
+
+but the temperature of this neutron star 
+
+because of this enormous amount of energy released 
+
+the temperature would reach values 
+
+of about ten million degrees kelvin 
+
+and at that high temperature 
+
+the neutron star would emit almost exclusively xrays 
+
+you and i are very cold bodies only  degrees kelvin 
+
+we radiate electromagnetic radiation 
+
+in the infrared part of the spectrum 
+
+we have warm bodies 
+
+when you hold someone in your arms you can feel that 
+
+if i would heat you up to  degrees kelvin 
+
+you would become redhot 
+
+and you actually 
+
+we could turn the light off and i would see you 
+
+youre just emitting red light 
+
+if i would heat you up to three million degrees 
+
+you would start to begin to radiate in xrays 
+
+you may not like it but thats a detail of course 
+
+so i want you to appreciate the fact that the 
+
+the kind of radiation that you get depends strongly 
+
+on the temperature and at ten million degrees 
+
+
+youre dealing almost exclusively with xrays 
+
+
+
+so these binary systems are very potent sources of xrays 
+
+the neutron stars rotate around we discussed that earlier 
+
+conservation of angular momentum 
+
+and they have strong magnetic fields 
+
+the matter that falls onto the neutron star 
+
+already heats up during the infall 
+
+because there is gravitational potential energy released 
+
+and so the matter is so hot 
+
+that in general its highly ionized 
+
+and highly ionized material cannot reach 
+
+a magnetic neutron star 
+
+in all locations that it prefers to do so 
+
+in  you will learn why thats the case 
+
+however the matter can reach 
+
+the neutron star at the magnetic poles 
+
+and so what youre going to see now is 
+
+youre going to have a neutron star with magnetic poles 
+
+so the matter streams in onto the magnetic poles 
+
+which gives you two hot spots 
+
+and if the axis of rotation doesnt coincide 
+
+with the line through the two hot spots 
+
+if the neutron star rotates 
+
+youre going to see xray pulsations 
+
+when the hot spot is here you will see xrays 
+
+and when the hot spot is here you will not see xrays 
+
+
+and so we observe from these systems xray pulsations 
+
+now think of the following 
+
+the xray pulsations are a clock 
+
+it is the clock of the rotating neutron star 
+
+if the neutron star in a binary system 
+
+because all of these are in a binary system 
+
+these xray binaries 
+
+if its coming to you you see doppler shift 
+
+the ticks of the clock come a little closer together 
+
+
+if the neutron star moves away from you 
+
+the ticks of the clocks are a little bit further apart 
+
+that is exactly what doppler shift is all about 
+
+so by timing the pulses of the xrays 
+
+you can get a handle 
+
+on the doppler shift of the neutron star 
+
+that means you can get the speed of the neutron star 
+
+you can get the radius of the orbit 
+
+and you can get the period just like we discussed before 
+
+
+but now you take an optical 
+
+the xray observations by the way have to be made 
+
+from outside the earths atmosphere 
+
+because xrays are absorbed by the earths atmosphere 
+
+now you take an optical telescope 
+
+and you look from the ground 
+
+and now you see the optical spectrum of the donor 
+
+and what do you see in the donor 
+
+you see these absorption lines 
+
+and as the donor moves around the center of mass 
+
+these absorption lines move back and forth 
+
+the doppler shift of the donor 
+
+so you know the velocity of the donor 
+
+you know the radius of the donor 
+
+not the radius of the donor 
+
+you know the radius of the orbit and you know the period 
+
+so now we have a situation that i just described earlier 
+
+
+that you have the doppler shift of both objects 
+
+and remember i told you that you also get the masses 
+
+you get the mass of the donor and the mass of the accretor 
+
+
+
+before i go ahead let me show you some slides 
+
+so we have to lower this again if thats possible yep 
+
+
+
+i want to show you 
+
+an artists conception of such a binary system 
+
+
+
+
+so this is what it may look like 
+
+you see the donor there 
+
+and you see the neutron star right here 
+
+so small of course that its invisible 
+
+and this is the accretion disk 
+
+swirls in the matter ends up on the neutron star 
+
+and this is another view that gives you an idea of the donor 
+
+and then the swirl of matter 
+
+and then it swirls in and ends up here on the neutron star 
+
+
+and here you see data that were obtained in  
+
+its clear evidence for the existence 
+
+of these rotating neutron stars with these xray hot spots 
+
+you see here the observed xray intensity as a function of time 
+
+and the actual data are these very thin lines 
+
+and this bold line was drawn over by the authors 
+
+to convince you that you see a signal which is highly periodic 
+
+the time from here to here is  seconds 
+
+this object was called hercules x 
+
+so this is one of the magnetic poles 
+
+and this is the other magnetic pole 
+
+one magnetic pole and the other magnetic pole 
+
+so you see here unmistakably the rotation of the neutron star 
+
+and the xray pulsations 
+
+here you see data from the same object 
+
+but now the time scale is very different 
+
+from here to here is one day 
+
+this is two days 
+
+and when you look at this data alone forget this for now 
+
+notice that you see the source is active in xrays 
+
+the second oscillations 
+
+you cannot see of course anymore 
+
+because the time scale is different 
+
+but notice here there are no xrays at 
+
+ days later no xrays at all 

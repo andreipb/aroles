@@ -1,0 +1,368 @@
+
+
+electromagnetic radiation is optical light infrared 
+
+ultraviolet radio xrays gamma rays 
+
+all of that is electromagnetic radiation 
+
+if the velocity of the source of electromagnetic radiation 
+
+the transmitter 
+
+if that is way way smaller than the speed of light 
+
+then it is very easy to predict 
+
+the change in frequency due to doppler shift 
+
+let this be the transmitter which produces frequency f 
+
+and here is the receiver which receives the frequency f prime 
+
+and let the velocity 
+
+of the source of electromagnetic radiation be v 
+
+i could put transmitter here but we can drop that index 
+
+and let this angle be theta 
+
+then this is the component in your direction 
+
+we call that the radial component 
+
+which is v cosine theta 
+
+so i delete the tr 
+
+this is just the velocity of the source 
+
+relative to you at that angle 
+
+
+
+if now we want to know what f prime is 
+
+then f prime equals f times one plus v over c 
+
+times the cosine of theta 
+
+what matters is only the radial component of the velocity 
+
+this is the radial component 
+
+
+if theta is  degrees just like we had with sound 
+
+then f prime equals f 
+
+so  degrees the cosine of theta is zero 
+
+f prime equals f 
+
+if theta is smaller than  degrees 
+
+then its coming towards you 
+
+then f prime equals larger than f 
+
+if theta equals larger than  degrees 
+
+its going away from you 
+
+then f prime equals smaller than f 
+
+
+
+you would get a similar equation for sound 
+
+by replacing this c by the speed of sound 
+
+but i want to stress 
+
+
+that this only holds for electromagnetic radiation 
+
+if v over c is much much smaller than one 
+
+
+
+now when we deal with sound 
+
+there is something mechanically oscillating 
+
+something is vibrating 
+
+with electromagnetic radiation charges are vibrating 
+
+electrons are vibrating 
+
+and they are vibrating with a certain frequency 
+
+and that means 
+
+there is a certain period of one oscillation 
+
+and that period of one oscillation is of course 
+
+one over the frequency 
+
+i can ask myself now the question 
+
+how far does electromagnetic radiation 
+
+how far does light travel in the time of one period capital t 
+
+well it goes with the speed of light 
+
+so in t seconds it moves a distance ct 
+
+and that distance we call 
+
+the wavelength of electromagnetic radiation 
+
+
+lambda equals ct for which you can also write c divided by f 
+
+so this is the wavelength of the electromagnetic radiation 
+
+the speed of light  kilometers per second 
+
+the period of one oscillation say of the electrons 
+
+and this is the frequency which you can give in hertz 
+
+i could give you a specific example 
+
+i for instance can take a period t 
+
+of two times ten to the minus  seconds 
+
+that would give me a wavelength 
+
+of about six times ten to the minus seven meters 
+
+six times ten to the minus seven meters 
+
+and that you would experience as red light 
+
+if i make the period shorter 
+
+say  times ten to the minus  seconds 
+
+
+i get a shorter wavelength 
+
+i get four times ten to the minus seven meters 
+
+and you would experience that as blue light 
+
+
+
+in astronomy in optical astronomy 
+
+we cannot measure the period or the frequency of optical light 
+
+all we can measure is the wavelength 
+
+and so if i want to use this equation 
+
+then i have to replace f prime by c divided by lambda prime 
+
+and f i have to replace by c divided by lambda 
+
+and when i do that i get the following result 
+
+i get lambda prime equals lambda 
+
+times one minus v over c cosine theta 
+
+if this is a plus this is a minus 
+
+check that for yourself 
+
+you have to use the small number approximation 
+
+the taylor expansion 
+
+namely that v over c is much much smaller than one 
+
+so you can see now if the object comes to you 
+
+in other words if f prime is larger than f 
+
+if the frequency is higher then the wavelength will be smaller 
+
+and so let me write that down 
+
+when the cosine of theta so the object is coming to you 
+
+
+when the cosine of theta is larger than zero 
+
+the object is approaching you 
+
+then the wavelength lambda prime will be less than lambda 
+
+and that has a name we call that blue shift 
+
+and the reason why we call that blue shift is 
+
+that if the wavelengths become shorter 
+
+it moves towards the blue end of the spectrum 
+
+because blue has a lower wavelength than red 
+
+if cosine theta is negative 
+
+then the object is receding from you 
+
+then lambda prime is larger than lambda 
+
+
+and we call that red shift 
+
+these are the terms that astronomers use all the time 
+
+when you make a spectrum of a star 
+
+you can do that using prisms or by other means 
+
+and you look at the light intensity 
+
+as a function of wavelength 
+
+so here is the light intensity as a function of wavelength 
+
+then you may expect to see some kind of a continuum 
+
+but in fact what you do see is 
+
+superimposed on a continuum 
+
+you see sometimes very sharp absorption lines 
+
+black missing light called absorption lines 
+
+and these absorption lines correspond 
+
+to elements in the atmosphere of the star 
+
+in fact if you see the absorption lines you can tell 
+
+what kind of elements are present in the star 
+
+some are very characteristic absorption 
+
+some for hydrogen some for calcium some for silicon 
+
+some for magnesium and so on 
+
+its actually interesting 
+
+that when you look at the spectrum of the sun 
+
+when people did that first 
+
+when they had the means of doing that 
+
+they found absorption lines in the spectrum of the sun 
+
+which could not be identified 
+
+they had never been seen here on earth these lines 
+
+and so they called these lines after the sun 
+
+
+the sun is helios and so they called it helium 
+
+so helium was first discovered on the sun 
+
+before it was later discovered on earth 
+
+by looking at the absorption lines of the solar spectrum 
+
+if a star moves to you then all the lines 
+
+every single line will be blueshifted 
+
+and if the star moves away from you 
+
+all the lines will be redshifted 
+
+if you take an 
+
+with lambda prime divided by lambda 
+
+and you pick any one of those lines 
+
+
+it doesnt matter which you pick 
+
+because they will all do exactly the same 
+
+if this were for instance  
+
+i just pick a very nice number 
+
+that means lambda prime as you see is larger than lambda 
+
+the wavelengths get longer so we have a red shift 
+
+and you substitute that in that equation 
+
+then youll find that the velocity 
+
+at which that star is moving relative to you 
+
+that gives you immediately the answer there 
+
+equals minus  times the speed of light c 
+
+and that is minus  kilometers per second 
+
+and the minus then reminds you 
+
+that the object is receding from you 
+
+so that gives you a red shift 
+
+
+
+i just wrote down 
+
+that the velocity v is minus  kilometers per second 
+
+its of course v cosine theta 
+
+that is minus  kilometers per second 
+
+its the radiali velocity thats all you can measure 
+
+
+you have no information on theta 
+
+so it is this component v cosine theta 
+
+which we call the radial velocity 
+
+that is minus  kilometers per second 
+
+
+
+half of all the stars in the sky are binaries 
+
+and so when you look at the spectra 
+
+you will see them go around each other 
+
+and so you in principle can measure the red shifts 
+
+and the blue shifts as they go around each other 
+
+you see doppler effect 
+
+if they come to you you see blue shift 

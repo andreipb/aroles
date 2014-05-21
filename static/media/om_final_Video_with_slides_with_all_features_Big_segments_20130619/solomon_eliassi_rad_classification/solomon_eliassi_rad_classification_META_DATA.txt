@@ -1,0 +1,75 @@
+Classification and Clustering in Large Complex Networks
+
+author: Tina Eliasi-Rad, Department of Computer Science, Rutgers, The State University of New Jersey
+
+published: June 14, 2011,   recorded: June 2011,   views: 879
+
+Categories
+Top » Computer Science » Network Analysis
+Top » Computer Science » Machine Learning » Clustering
+
+Description
+Data represented as graphs with complex structures are ubiquitous nowadays. Examples include technological 
+networks (e.g., the Internet), informational networks (e.g., the World-Wide Web), social networks 
+(e.g., Facebook's friendship graph), and biological networks (e.g., protein interactions). In this talk, 
+I will present algorithms for both relational classification and clustering in such networked data. I will 
+pay special attention to issues surrounding scalability, sparsity of labels, various levels of relational 
+dependency, and performance consistency across assorted domains.
+
+Slides
+0:00 	Classification and Clustering in Large Complex Networks
+0:07 	Wordle TM says ...
+0:59 	Complex Networks are Ubiquitous
+2:11 	Problems / Applications (1)
+4:26 	Outline (1)
+4:39 	Relational Classifiers
+5:44 	Within-Network Classification
+6:45 	Background: Previous Work on Within-Network Classification
+7:43 	Our Work Addresses Two Challenges for Within-Network Classification
+8:12 	- Questions
+10:46 	- Questions
+11:26 	Challenge 1: Label Sparsity - The Standard Approach
+12:12 	Challenge 1: Label Sparsity - The Ghost Edge Approach
+13:26 	Challenge 1: Label Sparsity - Weighting Ghost Edges (1)
+13:50 	Challenge 1: Label Sparsity - Weighting Ghost Edges (2)
+14:32 	Challenge 2: Non-homphily - How to handle degrees of homophily? (1)
+14:39 	Challenge 2: Non-homphily - How to handle degrees of homophily? (2)
+16:54 	The GhostEdge Classifiers
+19:50 	Summary of Data Sets & Prediction Tasks
+21:20 	Various Ways of Measuring Homophily on a Network
+22:34 	Dyadicity and Heterophilicity
+24:18 	Log Odds of Dyadicity & Heterophilicity
+25:39 	Experimental Methodology for Evaluating Within-Network Classifiers
+26:33 	We Ran Seven Individual Classifiers
+27:59 	GhostEdgeNL is Top Performer Among Relational Neighbor Classifiers
+28:49 	GhostEdgeL is Top Performer Among Link-Based Classifiers
+29:22 	Summary: Ghost Edges
+31:18 	Outline (2)
+31:47 	Community Discovery
+33:39 	- Questions
+35:19 	Background
+38:22 	Modularity (FM)
+38:42 	Cross-Associations (XA)
+39:00 	Latent Dirichlet Allocation for Graphs (LDA-G)
+40:15 	LDA-G, FM, and XA are not Consistent w.r.t. Link Prediction
+41:02 	Hybrid Community Detection Framework (HCDF)
+42:16 	More Whitespace, Higher Average AUC on Link Prediction
+43:24 	Hybrid Community Detection Framework (HCDF)
+44:32 	HCDF with Attribute Coalescing Strategy
+45:18 	Plate Model for HCDF with Attribute Coalescing Strategy
+45:35 	HCD Algorithm
+45:50 	Summary of Real-World Graphs Used in Experiments (1)
+46:15 	Summary of Real-World Graphs Used in Experiments (2)
+46:35 	Summary of Real-World Graphs Used in Experiments (3)
+47:25 	Measuring Effectiveness Quantitatively: Link Prediction (1)
+48:28 	Measuring Effectiveness Quantitatively: Link Prediction (2)
+48:53 	Experimental Methodology
+48:59 	Link Prediction Performance Across Various Graphs
+50:32 	Worst-Case Link Prediction Performance Across All Graphs
+51:17 	Measuring Effectiveness Quantitatively: Value of Information
+52:11 	Robustness Measured across Various Real-World Graphs
+53:13 	What’s Going on Here?
+54:06 	What About a Super-Hybrid?
+55:07 	Summary: Community Discovery
+56:02 	Conclusions
+56:45 	- Questions
