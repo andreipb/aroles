@@ -29,17 +29,16 @@ Run pip to resolve dependencies with command
 sudo pip install -r requirements.txt
 ```
 
-Other optional or to be removed dependencies
-
-```
-django-debug-toolbar==0.9.4
-```
 
 Setup
 -------------
 
 In your local repository create a settings_local.py file which overwrites DEBUG to True (in development mode). 
 
+```sh
+touch settings_local.py
+gedit settings_local.py
+```
 ```python
 DEBUG = True
 ```

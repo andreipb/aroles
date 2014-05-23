@@ -1,0 +1,5 @@
+led / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+/aroles/settings_local.py
