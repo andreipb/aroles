@@ -43,6 +43,8 @@ gedit settings_local.py
 DEBUG = True
 ```
 
+./manage.py collectstatic
+
 Run server with the following command
 
 ```sh
