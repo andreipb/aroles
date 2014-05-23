@@ -549,10 +549,10 @@
 		}
 		function setCenter(d) {
 		if (d.name.indexOf("video")!=-1)
-		document.location.href=document.location.href.split("graph")[0] + "graph/" + d.name.substring(5);
+		document.location.href=document.location.href.split("video")[0] + "video/" + d.name.substring(5);
 		else
 
-		document.location.href=document.location.href.split("graph")[0] + "graph/" + input_nodes[d.parent].name.substring(5) + "/seek/" + (d.id - d.parent);
+		document.location.href=document.location.href.split("video")[0] + "video/" + input_nodes[d.parent].name.substring(5) + "/seek/" + (d.id - d.parent);
 
 		}
 
