@@ -16,7 +16,6 @@ Prerequisite
 ----------------
 
 * python2.7
-* python-dev (required by numpy)
 * python-pip
 
 ```sh

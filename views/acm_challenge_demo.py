@@ -2,7 +2,6 @@ import json
 import os
 import sys
 from django.conf import settings 
-import numpy as np
 import pickle
 from collections import defaultdict
 from random import shuffle
